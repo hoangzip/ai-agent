@@ -128,9 +128,9 @@ export function getVocabularyImage(category, word, imageMappings = {}) {
     imgPath = imgPath.substring(6); // strip 'public'
   }
   
-  // Ensure it has a leading slash
-  if (!imgPath.startsWith('/')) {
-    imgPath = '/' + imgPath;
+  // Ensure it has NO leading slash (use relative paths for subdirectory deployment compatibility)
+  if (imgPath.startsWith('/')) {
+    imgPath = imgPath.substring(1);
   }
   
   return imgPath;
