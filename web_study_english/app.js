@@ -3,7 +3,7 @@ import { Hero } from './components/Hero.js';
 import { CategoryGrid } from './components/CategoryGrid.js';
 import { WordList } from './components/WordList.js';
 import { PlatformFeatures, HowItWorks, AboutSection, ContactSection } from './components/LandingSections.js';
-import { getVocabularyImage, CATEGORY_MAP, slugify } from './helpers.js';
+import { getVocabularyImage, CATEGORY_MAP, slugify } from './helpers.js?v=2';
 
 // Application State
 const state = {
