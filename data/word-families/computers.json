@@ -1,0 +1,679 @@
+[
+  {
+    "word": "Monitor",
+    "rootWord": "Monitor",
+    "members": [
+      {
+        "word": "monitor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/monitor/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mouse pad",
+    "rootWord": "Mouse pad",
+    "members": [
+      {
+        "word": "mouse pad",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mouse pad/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Printer",
+    "rootWord": "Printer",
+    "members": [
+      {
+        "word": "printer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/printer/",
+        "meaning": ""
+      },
+      {
+        "word": "print",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/prɪnt/",
+        "meaning": "In"
+      },
+      {
+        "word": "printable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/printable/",
+        "meaning": "printable"
+      }
+    ]
+  },
+  {
+    "word": "Scanner",
+    "rootWord": "Scanner",
+    "members": [
+      {
+        "word": "scanner",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scanner/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Open",
+    "rootWord": "Open",
+    "members": [
+      {
+        "word": "open",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/open/",
+        "meaning": ""
+      },
+      {
+        "word": "openly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈoʊpənli/",
+        "meaning": "openly"
+      },
+      {
+        "word": "opener",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈəʊpənə/",
+        "meaning": "opener"
+      },
+      {
+        "word": "openness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/openness/",
+        "meaning": "openness"
+      }
+    ]
+  },
+  {
+    "word": "Close",
+    "rootWord": "Close",
+    "members": [
+      {
+        "word": "close",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/close/",
+        "meaning": ""
+      },
+      {
+        "word": "closely",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈkləʊsliː/",
+        "meaning": "closely"
+      },
+      {
+        "word": "closeness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkləʊsnəs/",
+        "meaning": "closeness"
+      },
+      {
+        "word": "closer",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkloʊsɚ/",
+        "meaning": "closer"
+      }
+    ]
+  },
+  {
+    "word": "Delete",
+    "rootWord": "Delete",
+    "members": [
+      {
+        "word": "delete",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/delete/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Insert",
+    "rootWord": "Insert",
+    "members": [
+      {
+        "word": "insert",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insert/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Merge",
+    "rootWord": "Merge",
+    "members": [
+      {
+        "word": "merge",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/merge/",
+        "meaning": ""
+      },
+      {
+        "word": "merger",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmɜːdʒə/",
+        "meaning": "merger"
+      }
+    ]
+  },
+  {
+    "word": "Helpline",
+    "rootWord": "Helpline",
+    "members": [
+      {
+        "word": "helpline",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/helpline/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hard disk",
+    "rootWord": "Hard disk",
+    "members": [
+      {
+        "word": "hard disk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hard disk/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Software",
+    "rootWord": "Software",
+    "members": [
+      {
+        "word": "software",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/software/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "CD-ROM",
+    "rootWord": "CD-ROM",
+    "members": [
+      {
+        "word": "cd-rom",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cd-rom/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Toolbar",
+    "rootWord": "Toolbar",
+    "members": [
+      {
+        "word": "toolbar",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/toolbar/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Database",
+    "rootWord": "Database",
+    "members": [
+      {
+        "word": "database",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/database/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hacker",
+    "rootWord": "Hacker",
+    "members": [
+      {
+        "word": "hacker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hacker/",
+        "meaning": ""
+      },
+      {
+        "word": "hacky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/hacky/",
+        "meaning": "hacky"
+      },
+      {
+        "word": "hack",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hæk/",
+        "meaning": "hack"
+      }
+    ]
+  },
+  {
+    "word": "Save",
+    "rootWord": "Save",
+    "members": [
+      {
+        "word": "save",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/save/",
+        "meaning": ""
+      },
+      {
+        "word": "savor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/savor/",
+        "meaning": "savor"
+      },
+      {
+        "word": "saver",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/saver/",
+        "meaning": "saver"
+      }
+    ]
+  },
+  {
+    "word": "Select",
+    "rootWord": "Select",
+    "members": [
+      {
+        "word": "select",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/select/",
+        "meaning": ""
+      },
+      {
+        "word": "selective",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/səˈlɛktɪv/",
+        "meaning": "selective"
+      },
+      {
+        "word": "selector",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/selector/",
+        "meaning": "selector"
+      }
+    ]
+  },
+  {
+    "word": "Copy",
+    "rootWord": "Copy",
+    "members": [
+      {
+        "word": "copy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/copy/",
+        "meaning": ""
+      },
+      {
+        "word": "copyist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɒpiɪst/",
+        "meaning": "copyist"
+      }
+    ]
+  },
+  {
+    "word": "Computer",
+    "rootWord": "Computer",
+    "members": [
+      {
+        "word": "computer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/computer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Laptop",
+    "rootWord": "Laptop",
+    "members": [
+      {
+        "word": "laptop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/laptop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Speaker",
+    "rootWord": "Speaker",
+    "members": [
+      {
+        "word": "speaker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/speaker/",
+        "meaning": ""
+      },
+      {
+        "word": "speak",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spiːk/",
+        "meaning": "speak"
+      }
+    ]
+  },
+  {
+    "word": "File",
+    "rootWord": "File",
+    "members": [
+      {
+        "word": "file",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/file/",
+        "meaning": ""
+      },
+      {
+        "word": "filly",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɪli/",
+        "meaning": "filly"
+      }
+    ]
+  },
+  {
+    "word": "Disk drive",
+    "rootWord": "Disk drive",
+    "members": [
+      {
+        "word": "disk drive",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/disk drive/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Battery",
+    "rootWord": "Battery",
+    "members": [
+      {
+        "word": "battery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/battery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Click",
+    "rootWord": "Click",
+    "members": [
+      {
+        "word": "click",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/click/",
+        "meaning": ""
+      },
+      {
+        "word": "clicker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clicker/",
+        "meaning": "clicker"
+      }
+    ]
+  },
+  {
+    "word": "Type",
+    "rootWord": "Type",
+    "members": [
+      {
+        "word": "type",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/type/",
+        "meaning": ""
+      },
+      {
+        "word": "typist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtaɪpɪst/",
+        "meaning": "typist"
+      },
+      {
+        "word": "typify",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈtɪpɪfaɪ/",
+        "meaning": "typify"
+      }
+    ]
+  },
+  {
+    "word": "Mouse",
+    "rootWord": "Mouse",
+    "members": [
+      {
+        "word": "mouse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mouse/",
+        "meaning": ""
+      },
+      {
+        "word": "mouser",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mouser/",
+        "meaning": "mouser"
+      },
+      {
+        "word": "mousy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmaʊsi/",
+        "meaning": "mousy"
+      },
+      {
+        "word": "mousey",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/mousey/",
+        "meaning": "mousey"
+      }
+    ]
+  },
+  {
+    "word": "Keyboard",
+    "rootWord": "Keyboard",
+    "members": [
+      {
+        "word": "keyboard",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/keyboard/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mouse mat",
+    "rootWord": "Mouse mat",
+    "members": [
+      {
+        "word": "mouse mat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mouse mat/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Key",
+    "rootWord": "Key",
+    "members": [
+      {
+        "word": "key",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/key/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shut down",
+    "rootWord": "Shut down",
+    "members": [
+      {
+        "word": "shut down",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shut down/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Folder",
+    "rootWord": "Folder",
+    "members": [
+      {
+        "word": "folder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/folder/",
+        "meaning": ""
+      },
+      {
+        "word": "fold",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/fəʊld/",
+        "meaning": "Gấp gọn, gập lại"
+      }
+    ]
+  },
+  {
+    "word": "Print",
+    "rootWord": "Print",
+    "members": [
+      {
+        "word": "print",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/print/",
+        "meaning": ""
+      },
+      {
+        "word": "printable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/printable/",
+        "meaning": "printable"
+      },
+      {
+        "word": "printer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈprɪn.tər/",
+        "meaning": "Máy in"
+      }
+    ]
+  },
+  {
+    "word": "Program",
+    "rootWord": "Program",
+    "members": [
+      {
+        "word": "program",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/program/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Search",
+    "rootWord": "Search",
+    "members": [
+      {
+        "word": "search",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/search/",
+        "meaning": ""
+      },
+      {
+        "word": "searchable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/searchable/",
+        "meaning": "searchable"
+      }
+    ]
+  },
+  {
+    "word": "Screen",
+    "rootWord": "Screen",
+    "members": [
+      {
+        "word": "screen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/screen/",
+        "meaning": ""
+      }
+    ]
+  }
+]

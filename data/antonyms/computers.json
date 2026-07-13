@@ -1,0 +1,254 @@
+[
+  {
+    "word": "Monitor",
+    "antonyms": []
+  },
+  {
+    "word": "Mouse pad",
+    "antonyms": []
+  },
+  {
+    "word": "Printer",
+    "antonyms": []
+  },
+  {
+    "word": "Scanner",
+    "antonyms": []
+  },
+  {
+    "word": "Open",
+    "antonyms": [
+      {
+        "word": "closed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kləʊzd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shut",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʃʌt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "checked",
+        "partOfSpeech": "verb",
+        "pronunciation": "/tʃɛkt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "closed-source",
+        "partOfSpeech": "noun",
+        "pronunciation": "/closed-source/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Close",
+    "antonyms": [
+      {
+        "word": "beginning",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪˈɡɪn.ɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "start",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɑːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "extend",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɛkˈstɛnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "widen",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈwaɪdən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Delete",
+    "antonyms": [
+      {
+        "word": "insert",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪnˈsɜːt/",
+        "meaning": "Cho vào, chèn"
+      },
+      {
+        "word": "main",
+        "partOfSpeech": "verb",
+        "pronunciation": "/main/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Insert",
+    "antonyms": [
+      {
+        "word": "delete",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈliːt/",
+        "meaning": "Xóa, loại bỏ"
+      }
+    ]
+  },
+  {
+    "word": "Merge",
+    "antonyms": [
+      {
+        "word": "divide",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈvaɪd/",
+        "meaning": "Chia"
+      },
+      {
+        "word": "split",
+        "partOfSpeech": "noun",
+        "pronunciation": "/splɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Helpline",
+    "antonyms": []
+  },
+  {
+    "word": "Hard disk",
+    "antonyms": []
+  },
+  {
+    "word": "Software",
+    "antonyms": []
+  },
+  {
+    "word": "CD-ROM",
+    "antonyms": []
+  },
+  {
+    "word": "Toolbar",
+    "antonyms": []
+  },
+  {
+    "word": "Database",
+    "antonyms": []
+  },
+  {
+    "word": "Hacker",
+    "antonyms": []
+  },
+  {
+    "word": "Save",
+    "antonyms": []
+  },
+  {
+    "word": "Select",
+    "antonyms": [
+      {
+        "word": "deselect",
+        "partOfSpeech": "verb",
+        "pronunciation": "/diːsəˈlɛkt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Copy",
+    "antonyms": [
+      {
+        "word": "original",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈɹɪdʒnəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Computer",
+    "antonyms": []
+  },
+  {
+    "word": "Laptop",
+    "antonyms": []
+  },
+  {
+    "word": "Speaker",
+    "antonyms": []
+  },
+  {
+    "word": "File",
+    "antonyms": []
+  },
+  {
+    "word": "Disk drive",
+    "antonyms": []
+  },
+  {
+    "word": "Battery",
+    "antonyms": []
+  },
+  {
+    "word": "Click",
+    "antonyms": []
+  },
+  {
+    "word": "Type",
+    "antonyms": []
+  },
+  {
+    "word": "Mouse",
+    "antonyms": []
+  },
+  {
+    "word": "Keyboard",
+    "antonyms": []
+  },
+  {
+    "word": "Mouse mat",
+    "antonyms": []
+  },
+  {
+    "word": "Key",
+    "antonyms": []
+  },
+  {
+    "word": "Shut down",
+    "antonyms": []
+  },
+  {
+    "word": "Folder",
+    "antonyms": []
+  },
+  {
+    "word": "Print",
+    "antonyms": [
+      {
+        "word": "cursive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɜːsɪv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Program",
+    "antonyms": []
+  },
+  {
+    "word": "Search",
+    "antonyms": []
+  },
+  {
+    "word": "Screen",
+    "antonyms": []
+  }
+]

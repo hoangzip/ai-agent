@@ -1,0 +1,308 @@
+[
+  {
+    "word": "Second",
+    "rootWord": "Second",
+    "members": [
+      {
+        "word": "second",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/second/",
+        "meaning": ""
+      },
+      {
+        "word": "secondly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈsɛkəndli/",
+        "meaning": "secondly"
+      },
+      {
+        "word": "secondment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/secondment/",
+        "meaning": "secondment"
+      }
+    ]
+  },
+  {
+    "word": "Minute",
+    "rootWord": "Minute",
+    "members": [
+      {
+        "word": "minute",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/minute/",
+        "meaning": ""
+      },
+      {
+        "word": "minutely",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/minutely/",
+        "meaning": "minutely"
+      }
+    ]
+  },
+  {
+    "word": "Hour",
+    "rootWord": "Hour",
+    "members": [
+      {
+        "word": "hour",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hour/",
+        "meaning": ""
+      },
+      {
+        "word": "hourly",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈaʊ̯əli/",
+        "meaning": "hourly"
+      }
+    ]
+  },
+  {
+    "word": "Week",
+    "rootWord": "Week",
+    "members": [
+      {
+        "word": "week",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/week/",
+        "meaning": ""
+      },
+      {
+        "word": "weekly",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wiːk.li/",
+        "meaning": "weekly"
+      }
+    ]
+  },
+  {
+    "word": "Decade",
+    "rootWord": "Decade",
+    "members": [
+      {
+        "word": "decade",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/decade/",
+        "meaning": ""
+      },
+      {
+        "word": "decadence",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɛkədəns/",
+        "meaning": "decadence"
+      }
+    ]
+  },
+  {
+    "word": "Century",
+    "rootWord": "Century",
+    "members": [
+      {
+        "word": "century",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/century/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Weekend",
+    "rootWord": "Weekend",
+    "members": [
+      {
+        "word": "weekend",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weekend/",
+        "meaning": ""
+      },
+      {
+        "word": "weekender",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weekender/",
+        "meaning": "weekender"
+      }
+    ]
+  },
+  {
+    "word": "Month",
+    "rootWord": "Month",
+    "members": [
+      {
+        "word": "month",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/month/",
+        "meaning": ""
+      },
+      {
+        "word": "monthly",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmʌnθli/",
+        "meaning": "monthly"
+      }
+    ]
+  },
+  {
+    "word": "Year",
+    "rootWord": "Year",
+    "members": [
+      {
+        "word": "year",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/year/",
+        "meaning": ""
+      },
+      {
+        "word": "yearly",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈjɪəli/",
+        "meaning": "yearly"
+      }
+    ]
+  },
+  {
+    "word": "Millennium",
+    "rootWord": "Millennium",
+    "members": [
+      {
+        "word": "millennium",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/millennium/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Morning",
+    "rootWord": "Morning",
+    "members": [
+      {
+        "word": "morning",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/morning/",
+        "meaning": ""
+      },
+      {
+        "word": "morn",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɔːn/",
+        "meaning": "morn"
+      }
+    ]
+  },
+  {
+    "word": "Afternoon",
+    "rootWord": "Afternoon",
+    "members": [
+      {
+        "word": "afternoon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/afternoon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Evening",
+    "rootWord": "Evening",
+    "members": [
+      {
+        "word": "evening",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/evening/",
+        "meaning": ""
+      },
+      {
+        "word": "evenly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/evenly/",
+        "meaning": "evenly"
+      },
+      {
+        "word": "evener",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/evener/",
+        "meaning": "evener"
+      },
+      {
+        "word": "even",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈiːvən/",
+        "meaning": "even"
+      }
+    ]
+  },
+  {
+    "word": "Midnight",
+    "rootWord": "Midnight",
+    "members": [
+      {
+        "word": "midnight",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/midnight/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dusk",
+    "rootWord": "Dusk",
+    "members": [
+      {
+        "word": "dusk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dusk/",
+        "meaning": ""
+      },
+      {
+        "word": "dusky",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʌs.ki/",
+        "meaning": "dusky"
+      }
+    ]
+  },
+  {
+    "word": "Dawn",
+    "rootWord": "Dawn",
+    "members": [
+      {
+        "word": "dawn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dawn/",
+        "meaning": ""
+      }
+    ]
+  }
+]

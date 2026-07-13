@@ -1,0 +1,187 @@
+[
+  {
+    "word": "Earthquake",
+    "synonyms": [
+      {
+        "word": "earthdin",
+        "partOfSpeech": "noun",
+        "pronunciation": "/earthdin/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "quake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kweɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "seism",
+        "partOfSpeech": "noun",
+        "pronunciation": "/seism/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "temblor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɛmˈblɔː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Aftershock",
+    "synonyms": []
+  },
+  {
+    "word": "Flood",
+    "synonyms": [
+      {
+        "word": "inundate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/inundate/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "overfill",
+        "partOfSpeech": "noun",
+        "pronunciation": "/overfill/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "deluge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɛl.juːdʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "swamp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swɒmp/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Drought",
+    "synonyms": [
+      {
+        "word": "losing streak",
+        "partOfSpeech": "noun",
+        "pronunciation": "/losing streak/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Famine",
+    "synonyms": []
+  },
+  {
+    "word": "Avalanche",
+    "synonyms": [
+      {
+        "word": "barrage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbæɹɑːʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "blitz",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blɪts/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "snowslide",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snowslide/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "snowslip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snowslip/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Blizzard",
+    "synonyms": []
+  },
+  {
+    "word": "Tornado",
+    "synonyms": [
+      {
+        "word": "twister",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtwɪstə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "whirling void",
+        "partOfSpeech": "noun",
+        "pronunciation": "/whirling void/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Forest re",
+    "synonyms": []
+  },
+  {
+    "word": "Hurricane",
+    "synonyms": []
+  },
+  {
+    "word": "Storm",
+    "synonyms": []
+  },
+  {
+    "word": "Evacuation",
+    "synonyms": []
+  },
+  {
+    "word": "Evacuate",
+    "synonyms": []
+  },
+  {
+    "word": "Catastrophic",
+    "synonyms": [
+      {
+        "word": "catastrophal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/catastrophal/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Nationwide",
+    "synonyms": [
+      {
+        "word": "countrywide",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌkʌn.tɹiˈwaɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "national",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnæʃ(ə)nəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nationally",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/nationally/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Precaution",
+    "synonyms": []
+  }
+]

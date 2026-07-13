@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Juice",
+    "antonyms": []
+  },
+  {
+    "word": "Lemonade",
+    "antonyms": []
+  },
+  {
+    "word": "Beer",
+    "antonyms": []
+  },
+  {
+    "word": "Soda",
+    "antonyms": []
+  },
+  {
+    "word": "Cider",
+    "antonyms": []
+  },
+  {
+    "word": "Rum",
+    "antonyms": []
+  },
+  {
+    "word": "Ginger ale",
+    "antonyms": []
+  },
+  {
+    "word": "Champagne",
+    "antonyms": []
+  },
+  {
+    "word": "Bitter",
+    "antonyms": [
+      {
+        "word": "optimistic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌɒptɪˈmɪstɪk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Malt",
+    "antonyms": []
+  },
+  {
+    "word": "Barley",
+    "antonyms": []
+  },
+  {
+    "word": "Distillery",
+    "antonyms": []
+  },
+  {
+    "word": "Coee",
+    "antonyms": []
+  },
+  {
+    "word": "Milk",
+    "antonyms": []
+  },
+  {
+    "word": "Tea",
+    "antonyms": []
+  },
+  {
+    "word": "Red wine",
+    "antonyms": []
+  },
+  {
+    "word": "Non-alcoholic",
+    "antonyms": [
+      {
+        "word": "alcoholic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌælkəˈhɒlɪk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Full-cream",
+    "antonyms": []
+  },
+  {
+    "word": "Herbal",
+    "antonyms": []
+  },
+  {
+    "word": "Mineral water",
+    "antonyms": []
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "word": "Winter",
+    "synonyms": []
+  },
+  {
+    "word": "Candle",
+    "synonyms": []
+  },
+  {
+    "word": "Snow",
+    "synonyms": [
+      {
+        "word": "blow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bləʊ/",
+        "meaning": "cơn gió mạnh"
+      },
+      {
+        "word": "shash",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shash/",
+        "meaning": "Tashkent"
+      }
+    ]
+  },
+  {
+    "word": "Sack",
+    "synonyms": [
+      {
+        "word": "bag",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bæɡ/",
+        "meaning": "Cặp sách"
+      },
+      {
+        "word": "poke",
+        "partOfSpeech": "noun",
+        "pronunciation": "/poke/",
+        "meaning": "Một cú đâm, đâm hoặc đẩy."
+      },
+      {
+        "word": "tote",
+        "partOfSpeech": "noun",
+        "pronunciation": "/təʊt/",
+        "meaning": "Một túi tote."
+      },
+      {
+        "word": "hay",
+        "partOfSpeech": "noun",
+        "pronunciation": "/heɪ/",
+        "meaning": "Cắt cỏ và sấy khô để sử dụng làm thức ăn gia súc."
+      }
+    ]
+  },
+  {
+    "word": "Card",
+    "synonyms": []
+  },
+  {
+    "word": "Fireplace",
+    "synonyms": [
+      {
+        "word": "hearthstead",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hearthstead/",
+        "meaning": "đầu lò sưởi"
+      }
+    ]
+  },
+  {
+    "word": "Chimney",
+    "synonyms": []
+  },
+  {
+    "word": "Gift",
+    "synonyms": [
+      {
+        "word": "favor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfeɪvə/",
+        "meaning": "Một hành động tử tế hoặc hữu ích; một trường hợp tự nguyện giúp đỡ (ai đó)."
+      },
+      {
+        "word": "ability",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈ.bɪl.ɪ.ti/",
+        "meaning": "Tính phù hợp."
+      },
+      {
+        "word": "aptitude",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæptɪˌtjuːd/",
+        "meaning": "Khả năng tự nhiên để tiếp thu kiến thức hoặc kỹ năng."
+      },
+      {
+        "word": "knack",
+        "partOfSpeech": "noun",
+        "pronunciation": "/næk/",
+        "meaning": "Một sự sẵn sàng trong việc thực hiện; khả năng làm một cái gì đó."
+      }
+    ]
+  },
+  {
+    "word": "Christmas",
+    "synonyms": []
+  },
+  {
+    "word": "Ornament",
+    "synonyms": [
+      {
+        "word": "adorn",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈdɔː(ɹ)n/",
+        "meaning": "Đẹp"
+      },
+      {
+        "word": "bedeck",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bɪˈdɛk/",
+        "meaning": "Để trang trí, trang trí, hoặc tô điểm; để ân sủng."
+      },
+      {
+        "word": "decorate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈdɛkəɹeɪt/",
+        "meaning": "Để trang trí."
+      },
+      {
+        "word": "embellish",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɛm-/",
+        "meaning": "Để làm cho đẹp hơn và hấp dẫn hơn; để trang trí."
+      }
+    ]
+  },
+  {
+    "word": "Pine tree",
+    "synonyms": [
+      {
+        "word": "pine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paɪn/",
+        "meaning": "Cây thông"
+      }
+    ]
+  },
+  {
+    "word": "Sled",
+    "synonyms": []
+  },
+  {
+    "word": "Bell",
+    "synonyms": [
+      {
+        "word": "campane",
+        "partOfSpeech": "noun",
+        "pronunciation": "/campane/",
+        "meaning": "campan"
+      },
+      {
+        "word": "tintinnabule",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tintinnabule/",
+        "meaning": "tintinnabule"
+      }
+    ]
+  },
+  {
+    "word": "Snowflake",
+    "synonyms": []
+  },
+  {
+    "word": "Wreath",
+    "synonyms": [
+      {
+        "word": "orle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɔːl/",
+        "meaning": "Một tấm bordure chạy xung quanh đường viền của một tấm khiên mà không chạm vào mép"
+      },
+      {
+        "word": "torse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/torse/",
+        "meaning": "Một vòng xoắn bằng vải hoặc vòng hoa bên dưới và tạo thành một phần của mào; một quả orle, một vòng hoa. Nó thường được thể hiện với sáu vòng xoắn, cồn thứ nhất là cồn của trường, cồn thứ hai là cồn của kim loại, v.v."
+      }
+    ]
+  },
+  {
+    "word": "Scarf",
+    "synonyms": []
+  },
+  {
+    "word": "Christmas tree",
+    "synonyms": []
+  },
+  {
+    "word": "Christmas card",
+    "synonyms": []
+  }
+]

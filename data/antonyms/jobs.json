@@ -1,0 +1,195 @@
+[
+  {
+    "word": "Dancer",
+    "antonyms": []
+  },
+  {
+    "word": "Designer",
+    "antonyms": []
+  },
+  {
+    "word": "Magician",
+    "antonyms": []
+  },
+  {
+    "word": "Tour guide",
+    "antonyms": []
+  },
+  {
+    "word": "Sailor",
+    "antonyms": []
+  },
+  {
+    "word": "Commentator",
+    "antonyms": []
+  },
+  {
+    "word": "Dentist",
+    "antonyms": []
+  },
+  {
+    "word": "Postman",
+    "antonyms": [
+      {
+        "word": "mail lady",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mail lady/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mailwoman",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mailwoman/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "post lady",
+        "partOfSpeech": "noun",
+        "pronunciation": "/post lady/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "postwoman",
+        "partOfSpeech": "noun",
+        "pronunciation": "/postwoman/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Writer",
+    "antonyms": []
+  },
+  {
+    "word": "Pilot",
+    "antonyms": []
+  },
+  {
+    "word": "Plumber",
+    "antonyms": []
+  },
+  {
+    "word": "Tailor",
+    "antonyms": []
+  },
+  {
+    "word": "Copywriter",
+    "antonyms": []
+  },
+  {
+    "word": "Journalist",
+    "antonyms": []
+  },
+  {
+    "word": "Grocer",
+    "antonyms": []
+  },
+  {
+    "word": "Clerk",
+    "antonyms": []
+  },
+  {
+    "word": "Assistant",
+    "antonyms": []
+  },
+  {
+    "word": "Model",
+    "antonyms": []
+  },
+  {
+    "word": "Freelancer",
+    "antonyms": []
+  },
+  {
+    "word": "Consultant",
+    "antonyms": []
+  },
+  {
+    "word": "Self-employed",
+    "antonyms": []
+  },
+  {
+    "word": "Supervisor",
+    "antonyms": []
+  },
+  {
+    "word": "Sales manager",
+    "antonyms": []
+  },
+  {
+    "word": "Production manager",
+    "antonyms": []
+  },
+  {
+    "word": "Mechanic",
+    "antonyms": []
+  },
+  {
+    "word": "Managing director",
+    "antonyms": []
+  },
+  {
+    "word": "Personal assistant",
+    "antonyms": []
+  },
+  {
+    "word": "Hairdresser",
+    "antonyms": []
+  },
+  {
+    "word": "Architect",
+    "antonyms": []
+  },
+  {
+    "word": "Engineer",
+    "antonyms": []
+  },
+  {
+    "word": "Vet",
+    "antonyms": []
+  },
+  {
+    "word": "Shoemaker",
+    "antonyms": []
+  },
+  {
+    "word": "Translator",
+    "antonyms": []
+  },
+  {
+    "word": "Interpreter",
+    "antonyms": []
+  },
+  {
+    "word": "Sanitation worker",
+    "antonyms": []
+  },
+  {
+    "word": "Business manager",
+    "antonyms": []
+  },
+  {
+    "word": "Police ocer",
+    "antonyms": []
+  },
+  {
+    "word": "Personnel manager",
+    "antonyms": []
+  },
+  {
+    "word": "Teacher",
+    "antonyms": []
+  },
+  {
+    "word": "Doctor",
+    "antonyms": []
+  },
+  {
+    "word": "Nurse",
+    "antonyms": []
+  },
+  {
+    "word": "Farmer",
+    "antonyms": []
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "word": "Beef",
+    "antonyms": []
+  },
+  {
+    "word": "Pork",
+    "antonyms": []
+  },
+  {
+    "word": "Bacon",
+    "antonyms": []
+  },
+  {
+    "word": "Ham",
+    "antonyms": [
+      {
+        "word": "spam",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈspæm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Yoghurt",
+    "antonyms": []
+  },
+  {
+    "word": "Pie",
+    "antonyms": []
+  },
+  {
+    "word": "Bread",
+    "antonyms": []
+  },
+  {
+    "word": "Cake",
+    "antonyms": []
+  },
+  {
+    "word": "Chip",
+    "antonyms": []
+  },
+  {
+    "word": "Biscuit",
+    "antonyms": []
+  },
+  {
+    "word": "Noodle",
+    "antonyms": []
+  },
+  {
+    "word": "Butter",
+    "antonyms": []
+  },
+  {
+    "word": "Olive",
+    "antonyms": []
+  },
+  {
+    "word": "Soy",
+    "antonyms": []
+  },
+  {
+    "word": "Flour",
+    "antonyms": []
+  },
+  {
+    "word": "Lunch",
+    "antonyms": []
+  },
+  {
+    "word": "Mint",
+    "antonyms": []
+  },
+  {
+    "word": "Vanilla",
+    "antonyms": []
+  },
+  {
+    "word": "Candy",
+    "antonyms": []
+  },
+  {
+    "word": "Popcorn",
+    "antonyms": []
+  },
+  {
+    "word": "Snack",
+    "antonyms": []
+  },
+  {
+    "word": "Barbecue",
+    "antonyms": []
+  },
+  {
+    "word": "Fast food",
+    "antonyms": []
+  },
+  {
+    "word": "Junk food",
+    "antonyms": []
+  },
+  {
+    "word": "Frozen food",
+    "antonyms": []
+  },
+  {
+    "word": "Health food",
+    "antonyms": []
+  },
+  {
+    "word": "Distinctive",
+    "antonyms": []
+  },
+  {
+    "word": "Flavor",
+    "antonyms": []
+  },
+  {
+    "word": "Balanced diet",
+    "antonyms": []
+  },
+  {
+    "word": "Stale",
+    "antonyms": [
+      {
+        "word": "fresh",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɹɛʃ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sour",
+    "antonyms": [
+      {
+        "word": "sweet",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/swiːt/",
+        "meaning": "Ngọt ngào"
+      }
+    ]
+  },
+  {
+    "word": "Burnt",
+    "antonyms": []
+  },
+  {
+    "word": "Overdone",
+    "antonyms": [
+      {
+        "word": "undercook",
+        "partOfSpeech": "noun",
+        "pronunciation": "/undercook/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "underdo",
+        "partOfSpeech": "noun",
+        "pronunciation": "/underdo/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Underdone",
+    "antonyms": []
+  },
+  {
+    "word": "Full",
+    "antonyms": [
+      {
+        "word": "incomplete",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪn.kəm.ˈpliːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "empty",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɛmpti/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "close-fitting",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/close-fitting/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "small",
+        "partOfSpeech": "noun",
+        "pronunciation": "/smoːl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Veal",
+    "antonyms": []
+  },
+  {
+    "word": "Cereal",
+    "antonyms": []
+  },
+  {
+    "word": "Hot dog",
+    "antonyms": []
+  }
+]

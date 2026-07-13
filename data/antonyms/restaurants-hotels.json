@@ -1,0 +1,167 @@
+[
+  {
+    "word": "Restaurant",
+    "antonyms": []
+  },
+  {
+    "word": "Main course",
+    "antonyms": []
+  },
+  {
+    "word": "Napkin",
+    "antonyms": []
+  },
+  {
+    "word": "Wine",
+    "antonyms": []
+  },
+  {
+    "word": "Cutlery",
+    "antonyms": []
+  },
+  {
+    "word": "Drink",
+    "antonyms": []
+  },
+  {
+    "word": "Combo",
+    "antonyms": []
+  },
+  {
+    "word": "Side dish",
+    "antonyms": []
+  },
+  {
+    "word": "Meal",
+    "antonyms": []
+  },
+  {
+    "word": "Order",
+    "antonyms": [
+      {
+        "word": "chaos",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkeɪ.ɒs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Speciality",
+    "antonyms": []
+  },
+  {
+    "word": "Dessert",
+    "antonyms": []
+  },
+  {
+    "word": "Salad",
+    "antonyms": []
+  },
+  {
+    "word": "Menu",
+    "antonyms": []
+  },
+  {
+    "word": "Waiter",
+    "antonyms": []
+  },
+  {
+    "word": "Guest",
+    "antonyms": []
+  },
+  {
+    "word": "Coupon",
+    "antonyms": []
+  },
+  {
+    "word": "Neat",
+    "antonyms": [
+      {
+        "word": "on the rocks",
+        "partOfSpeech": "noun",
+        "pronunciation": "/on the rocks/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Animated",
+    "antonyms": []
+  },
+  {
+    "word": "Hotel",
+    "antonyms": []
+  },
+  {
+    "word": "Hotel receptionist",
+    "antonyms": []
+  },
+  {
+    "word": "Housekeeper",
+    "antonyms": []
+  },
+  {
+    "word": "Hall",
+    "antonyms": []
+  },
+  {
+    "word": "Vacancy",
+    "antonyms": []
+  },
+  {
+    "word": "Lobby",
+    "antonyms": []
+  },
+  {
+    "word": "Concierge",
+    "antonyms": []
+  },
+  {
+    "word": "Check-in",
+    "antonyms": []
+  },
+  {
+    "word": "Desk clerk",
+    "antonyms": []
+  },
+  {
+    "word": "Double bed",
+    "antonyms": []
+  },
+  {
+    "word": "Single bed",
+    "antonyms": []
+  },
+  {
+    "word": "Doorman",
+    "antonyms": []
+  },
+  {
+    "word": "Reception",
+    "antonyms": []
+  },
+  {
+    "word": "Elevator",
+    "antonyms": []
+  },
+  {
+    "word": "Reservation",
+    "antonyms": []
+  },
+  {
+    "word": "Bellboy",
+    "antonyms": []
+  },
+  {
+    "word": "Check out",
+    "antonyms": [
+      {
+        "word": "check in",
+        "partOfSpeech": "verb",
+        "pronunciation": "/check in/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

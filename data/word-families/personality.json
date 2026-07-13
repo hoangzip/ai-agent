@@ -1,0 +1,761 @@
+[
+  {
+    "word": "Reliable",
+    "rootWord": "Reliable",
+    "members": [
+      {
+        "word": "reliable",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reliable/",
+        "meaning": ""
+      },
+      {
+        "word": "reliably",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/reliably/",
+        "meaning": "reliably"
+      }
+    ]
+  },
+  {
+    "word": "Rude",
+    "rootWord": "Rude",
+    "members": [
+      {
+        "word": "rude",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rude/",
+        "meaning": ""
+      },
+      {
+        "word": "rudely",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈɹuːdli/",
+        "meaning": "rudely"
+      },
+      {
+        "word": "rudeness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rudeness/",
+        "meaning": "rudeness"
+      }
+    ]
+  },
+  {
+    "word": "Selsh",
+    "rootWord": "Selsh",
+    "members": [
+      {
+        "word": "selsh",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/selsh/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sensitive",
+    "rootWord": "Sensitive",
+    "members": [
+      {
+        "word": "sensitive",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sensitive/",
+        "meaning": ""
+      },
+      {
+        "word": "sensitivity",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌsɛnsɪˈtɪvɪti/",
+        "meaning": "sensitivity"
+      },
+      {
+        "word": "sensitively",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/sensitively/",
+        "meaning": "sensitively"
+      }
+    ]
+  },
+  {
+    "word": "Stubborn",
+    "rootWord": "Stubborn",
+    "members": [
+      {
+        "word": "stubborn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stubborn/",
+        "meaning": ""
+      },
+      {
+        "word": "stubbornly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/stubbornly/",
+        "meaning": "stubbornly"
+      },
+      {
+        "word": "stubbornness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈstʌbən(n)əs/",
+        "meaning": "stubbornness"
+      }
+    ]
+  },
+  {
+    "word": "Patient",
+    "rootWord": "Patient",
+    "members": [
+      {
+        "word": "patient",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/patient/",
+        "meaning": ""
+      },
+      {
+        "word": "patiently",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈpeɪʃəntli/",
+        "meaning": "patiently"
+      }
+    ]
+  },
+  {
+    "word": "Humorous",
+    "rootWord": "Humorous",
+    "members": [
+      {
+        "word": "humorous",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/humorous/",
+        "meaning": ""
+      },
+      {
+        "word": "humorously",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/humorously/",
+        "meaning": "humorously"
+      }
+    ]
+  },
+  {
+    "word": "Sincere",
+    "rootWord": "Sincere",
+    "members": [
+      {
+        "word": "sincere",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sincere/",
+        "meaning": ""
+      },
+      {
+        "word": "sincerity",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sɪnˈsɛɹəti/",
+        "meaning": "sincerity"
+      },
+      {
+        "word": "sincerely",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/sɪnˈsɪəli/",
+        "meaning": "sincerely"
+      }
+    ]
+  },
+  {
+    "word": "Generous",
+    "rootWord": "Generous",
+    "members": [
+      {
+        "word": "generous",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/generous/",
+        "meaning": ""
+      },
+      {
+        "word": "generously",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/generously/",
+        "meaning": "generously"
+      }
+    ]
+  },
+  {
+    "word": "Honest",
+    "rootWord": "Honest",
+    "members": [
+      {
+        "word": "honest",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/honest/",
+        "meaning": ""
+      },
+      {
+        "word": "honestly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈɒnɪstli/",
+        "meaning": "honestly"
+      },
+      {
+        "word": "honesty",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɒnəsti/",
+        "meaning": "honesty"
+      }
+    ]
+  },
+  {
+    "word": "Kind",
+    "rootWord": "Kind",
+    "members": [
+      {
+        "word": "kind",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kind/",
+        "meaning": ""
+      },
+      {
+        "word": "kindly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkaɪndli/",
+        "meaning": "kindly"
+      },
+      {
+        "word": "kindness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkaɪndnəs/",
+        "meaning": "kindness"
+      }
+    ]
+  },
+  {
+    "word": "Loyal",
+    "rootWord": "Loyal",
+    "members": [
+      {
+        "word": "loyal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/loyal/",
+        "meaning": ""
+      },
+      {
+        "word": "loyalist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɔɪəlɪst/",
+        "meaning": "loyalist"
+      },
+      {
+        "word": "loyally",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/loyally/",
+        "meaning": "loyally"
+      }
+    ]
+  },
+  {
+    "word": "Modest",
+    "rootWord": "Modest",
+    "members": [
+      {
+        "word": "modest",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/modest/",
+        "meaning": ""
+      },
+      {
+        "word": "modestly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/modestly/",
+        "meaning": "modestly"
+      },
+      {
+        "word": "modesty",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmɒd.ə.sti/",
+        "meaning": "modesty"
+      }
+    ]
+  },
+  {
+    "word": "Nasty",
+    "rootWord": "Nasty",
+    "members": [
+      {
+        "word": "nasty",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nasty/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shy",
+    "rootWord": "Shy",
+    "members": [
+      {
+        "word": "shy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shy/",
+        "meaning": ""
+      },
+      {
+        "word": "shyly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/shyly/",
+        "meaning": "shyly"
+      },
+      {
+        "word": "shyness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shyness/",
+        "meaning": "shyness"
+      },
+      {
+        "word": "shyer",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/shyer/",
+        "meaning": "shyer"
+      }
+    ]
+  },
+  {
+    "word": "Sociable",
+    "rootWord": "Sociable",
+    "members": [
+      {
+        "word": "sociable",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sociable/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Reserved",
+    "rootWord": "Reserved",
+    "members": [
+      {
+        "word": "reserved",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reserved/",
+        "meaning": ""
+      },
+      {
+        "word": "reservist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reservist/",
+        "meaning": "reservist"
+      }
+    ]
+  },
+  {
+    "word": "Condent",
+    "rootWord": "Condent",
+    "members": [
+      {
+        "word": "condent",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/condent/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pleasant",
+    "rootWord": "Pleasant",
+    "members": [
+      {
+        "word": "pleasant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pleasant/",
+        "meaning": ""
+      },
+      {
+        "word": "pleasantly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈplɛzəntli/",
+        "meaning": "pleasantly"
+      }
+    ]
+  },
+  {
+    "word": "Clever",
+    "rootWord": "Clever",
+    "members": [
+      {
+        "word": "clever",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clever/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Thoughtful",
+    "rootWord": "Thoughtful",
+    "members": [
+      {
+        "word": "thoughtful",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thoughtful/",
+        "meaning": ""
+      },
+      {
+        "word": "thoughtfully",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈθɔːtfli/",
+        "meaning": "thoughtfully"
+      },
+      {
+        "word": "thoughtfulness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/-fʊl-/",
+        "meaning": "thoughtfulness"
+      }
+    ]
+  },
+  {
+    "word": "Proud",
+    "rootWord": "Proud",
+    "members": [
+      {
+        "word": "proud",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/proud/",
+        "meaning": ""
+      },
+      {
+        "word": "proudly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈpɹaʊdli/",
+        "meaning": "proudly"
+      }
+    ]
+  },
+  {
+    "word": "Lazy",
+    "rootWord": "Lazy",
+    "members": [
+      {
+        "word": "lazy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lazy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Crazy",
+    "rootWord": "Crazy",
+    "members": [
+      {
+        "word": "crazy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crazy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Silly",
+    "rootWord": "Silly",
+    "members": [
+      {
+        "word": "silly",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/silly/",
+        "meaning": ""
+      },
+      {
+        "word": "sil",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sil/",
+        "meaning": "sil"
+      },
+      {
+        "word": "silence",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsaɪ.ləns/",
+        "meaning": "silence"
+      }
+    ]
+  },
+  {
+    "word": "Bossy",
+    "rootWord": "Bossy",
+    "members": [
+      {
+        "word": "bossy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bossy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Gossip",
+    "rootWord": "Gossip",
+    "members": [
+      {
+        "word": "gossip",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gossip/",
+        "meaning": ""
+      },
+      {
+        "word": "gossipy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/gossipy/",
+        "meaning": "gossipy"
+      }
+    ]
+  },
+  {
+    "word": "Extrovert",
+    "rootWord": "Extrovert",
+    "members": [
+      {
+        "word": "extrovert",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/extrovert/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coward",
+    "rootWord": "Coward",
+    "members": [
+      {
+        "word": "coward",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coward/",
+        "meaning": ""
+      },
+      {
+        "word": "cowardly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkaʊədli/",
+        "meaning": "cowardly"
+      }
+    ]
+  },
+  {
+    "word": "Big-head",
+    "rootWord": "Big-head",
+    "members": [
+      {
+        "word": "big-head",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/big-head/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Snob",
+    "rootWord": "Snob",
+    "members": [
+      {
+        "word": "snob",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snob/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Liar",
+    "rootWord": "Liar",
+    "members": [
+      {
+        "word": "liar",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/liar/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ambitious",
+    "rootWord": "Ambitious",
+    "members": [
+      {
+        "word": "ambitious",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ambitious/",
+        "meaning": ""
+      },
+      {
+        "word": "ambitiously",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ambitiously/",
+        "meaning": "ambitiously"
+      }
+    ]
+  },
+  {
+    "word": "Introvert",
+    "rootWord": "Introvert",
+    "members": [
+      {
+        "word": "introvert",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/introvert/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stingy",
+    "rootWord": "Stingy",
+    "members": [
+      {
+        "word": "stingy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stingy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Arrogant",
+    "rootWord": "Arrogant",
+    "members": [
+      {
+        "word": "arrogant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/arrogant/",
+        "meaning": ""
+      },
+      {
+        "word": "arrogantly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/arrogantly/",
+        "meaning": "arrogantly"
+      }
+    ]
+  },
+  {
+    "word": "Vain",
+    "rootWord": "Vain",
+    "members": [
+      {
+        "word": "vain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vain/",
+        "meaning": ""
+      },
+      {
+        "word": "vainly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈveɪnli/",
+        "meaning": "vainly"
+      }
+    ]
+  },
+  {
+    "word": "Absent-minded",
+    "rootWord": "Absent-minded",
+    "members": [
+      {
+        "word": "absent-minded",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/absent-minded/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hostile",
+    "rootWord": "Hostile",
+    "members": [
+      {
+        "word": "hostile",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hostile/",
+        "meaning": ""
+      },
+      {
+        "word": "hostility",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hɒˈstɪlɪti/",
+        "meaning": "hostility"
+      }
+    ]
+  }
+]

@@ -1,0 +1,468 @@
+[
+  {
+    "word": "Bride",
+    "rootWord": "Bride",
+    "members": [
+      {
+        "word": "bride",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bride/",
+        "meaning": ""
+      },
+      {
+        "word": "bridal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbraɪ.dl̩/",
+        "meaning": "bridal"
+      }
+    ]
+  },
+  {
+    "word": "Vow",
+    "rootWord": "Vow",
+    "members": [
+      {
+        "word": "vow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vow/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Groomsman",
+    "rootWord": "Groomsman",
+    "members": [
+      {
+        "word": "groomsman",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/groomsman/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Groom",
+    "rootWord": "Groom",
+    "members": [
+      {
+        "word": "groom",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/groom/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tuxedo",
+    "rootWord": "Tuxedo",
+    "members": [
+      {
+        "word": "tuxedo",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tuxedo/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Party",
+    "rootWord": "Party",
+    "members": [
+      {
+        "word": "party",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/party/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wedding",
+    "rootWord": "Wedding",
+    "members": [
+      {
+        "word": "wedding",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wedding/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wedding card",
+    "rootWord": "Wedding card",
+    "members": [
+      {
+        "word": "wedding card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wedding card/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Reception",
+    "rootWord": "Reception",
+    "members": [
+      {
+        "word": "reception",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reception/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Champagne",
+    "rootWord": "Champagne",
+    "members": [
+      {
+        "word": "champagne",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/champagne/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bouquet",
+    "rootWord": "Bouquet",
+    "members": [
+      {
+        "word": "bouquet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bouquet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Married",
+    "rootWord": "Married",
+    "members": [
+      {
+        "word": "married",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/married/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Newlywed",
+    "rootWord": "Newlywed",
+    "members": [
+      {
+        "word": "newlywed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/newlywed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cake",
+    "rootWord": "Cake",
+    "members": [
+      {
+        "word": "cake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cake/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ring",
+    "rootWord": "Ring",
+    "members": [
+      {
+        "word": "ring",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ring/",
+        "meaning": ""
+      },
+      {
+        "word": "ringer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹɪŋə(ɹ)/",
+        "meaning": "ringer"
+      }
+    ]
+  },
+  {
+    "word": "Emblem",
+    "rootWord": "Emblem",
+    "members": [
+      {
+        "word": "emblem",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/emblem/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Band",
+    "rootWord": "Band",
+    "members": [
+      {
+        "word": "band",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/band/",
+        "meaning": ""
+      },
+      {
+        "word": "bandy",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈbændi/",
+        "meaning": "bandy"
+      }
+    ]
+  },
+  {
+    "word": "Congratulation",
+    "rootWord": "Congratulation",
+    "members": [
+      {
+        "word": "congratulation",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/congratulation/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jewelry",
+    "rootWord": "Jewelry",
+    "members": [
+      {
+        "word": "jewelry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jewelry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wine",
+    "rootWord": "Wine",
+    "members": [
+      {
+        "word": "wine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dowry",
+    "rootWord": "Dowry",
+    "members": [
+      {
+        "word": "dowry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dowry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Honeymoon",
+    "rootWord": "Honeymoon",
+    "members": [
+      {
+        "word": "honeymoon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/honeymoon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Anniversary",
+    "rootWord": "Anniversary",
+    "members": [
+      {
+        "word": "anniversary",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/anniversary/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Brother-in-law",
+    "rootWord": "Brother-in-law",
+    "members": [
+      {
+        "word": "brother-in-law",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brother-in-law/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sister-in-law",
+    "rootWord": "Sister-in-law",
+    "members": [
+      {
+        "word": "sister-in-law",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sister-in-law/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Engaged",
+    "rootWord": "Engaged",
+    "members": [
+      {
+        "word": "engaged",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/engaged/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Couple",
+    "rootWord": "Couple",
+    "members": [
+      {
+        "word": "couple",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/couple/",
+        "meaning": ""
+      },
+      {
+        "word": "coupler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkʌplə/",
+        "meaning": "coupler"
+      }
+    ]
+  },
+  {
+    "word": "Husband",
+    "rootWord": "Husband",
+    "members": [
+      {
+        "word": "husband",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/husband/",
+        "meaning": ""
+      },
+      {
+        "word": "husbander",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/husbander/",
+        "meaning": "husbander"
+      },
+      {
+        "word": "husbandly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈhʌzbəndli/",
+        "meaning": "husbandly"
+      }
+    ]
+  },
+  {
+    "word": "Wife",
+    "rootWord": "Wife",
+    "members": [
+      {
+        "word": "wife",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wife/",
+        "meaning": ""
+      },
+      {
+        "word": "wifely",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈwaɪfli/",
+        "meaning": "wifely"
+      }
+    ]
+  },
+  {
+    "word": "Ceremony",
+    "rootWord": "Ceremony",
+    "members": [
+      {
+        "word": "ceremony",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ceremony/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Betroth",
+    "rootWord": "Betroth",
+    "members": [
+      {
+        "word": "betroth",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/betroth/",
+        "meaning": ""
+      },
+      {
+        "word": "betrothal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/betrothal/",
+        "meaning": "betrothal"
+      },
+      {
+        "word": "betrothment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/betrothment/",
+        "meaning": "betrothment"
+      }
+    ]
+  }
+]

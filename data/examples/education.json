@@ -1,0 +1,724 @@
+[
+  {
+    "word": "Boarding school",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Boarding school**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của một **trường nội trú**."
+      }
+    ]
+  },
+  {
+    "word": "Public school",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Public school**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của một **trường Công lập**."
+      }
+    ]
+  },
+  {
+    "word": "Private school",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Private school**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của một **trường tư thục**."
+      }
+    ]
+  },
+  {
+    "word": "Secondary school",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Secondary school**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của một **trường Trung học cơ sở**."
+      }
+    ]
+  },
+  {
+    "word": "High school",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **High school**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của một **trường** trung học."
+      }
+    ]
+  },
+  {
+    "word": "Primary school",
+    "examples": [
+      {
+        "en": "The child's mother was tearful as he boarded the bus for his first day of **primary school**.",
+        "vi": "**Mẹ của đứa trẻ đã khóc khi em lên xe buýt cho ngày đầu tiên đi học tiểu học.**"
+      }
+    ]
+  },
+  {
+    "word": "Nursery school",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Nursery school**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một **trường mẫu giáo**."
+      }
+    ]
+  },
+  {
+    "word": "School",
+    "examples": [
+      {
+        "en": "The divers encountered a huge **school** of mackerel.",
+        "vi": "**Các thợ lặn bắt gặp một đàn cá thu khổng lồ.**"
+      }
+    ]
+  },
+  {
+    "word": "College",
+    "examples": [
+      {
+        "en": "**College** of Cardinals, College of Surgeons",
+        "vi": "**Đại học Hồng y, Đại học Bác sĩ phẫu thuật**"
+      },
+      {
+        "en": "**College** of Engineering",
+        "vi": "**TRƯỜNG** CAO ĐẲNG KỸ THUẬT"
+      },
+      {
+        "en": "These should be his **college** years, but he joined the Army.",
+        "vi": "**Đây là những năm đại học của anh ấy, nhưng anh ấy đã gia nhập Quân đội.**"
+      }
+    ]
+  },
+  {
+    "word": "University",
+    "examples": [
+      {
+        "en": "The only reason why I haven't gone to **university** is because I can't afford it.",
+        "vi": "**Lý do duy nhất khiến tôi không đi học đại học là vì tôi không đủ khả năng chi trả.**"
+      }
+    ]
+  },
+  {
+    "word": "Professor",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Professor**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một **Giáo sư**."
+      }
+    ]
+  },
+  {
+    "word": "Lecturer",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Lecturer**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một **Giảng viên**."
+      }
+    ]
+  },
+  {
+    "word": "Researcher",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Researcher**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một Nhà **nghiên** cứu."
+      }
+    ]
+  },
+  {
+    "word": "Graduate",
+    "examples": [
+      {
+        "en": "If the government wants **graduate**s to stay in the country they should offer more incentives.",
+        "vi": "Nếu chính phủ muốn sinh viên **tốt nghiệp** ở lại trong nước, họ nên đưa ra nhiều ưu đãi hơn."
+      },
+      {
+        "en": "The man **graduate**d in 1967.",
+        "vi": "Người đàn ông **tốt nghiệp** năm 1967."
+      },
+      {
+        "en": "Trisha **graduate**d college.",
+        "vi": "Trisha **tốt nghiệp** đại học"
+      }
+    ]
+  },
+  {
+    "word": "Degree",
+    "examples": [
+      {
+        "en": "She has two bachelor's **degree**s and is studying towards a master's degree.",
+        "vi": "Cô có hai **bằng** cử nhân và đang học để lấy bằng thạc sĩ."
+      },
+      {
+        "en": "A right angle is a ninety-**degree** angle.",
+        "vi": "**Góc vuông là góc chín mươi độ.**"
+      },
+      {
+        "en": "180 **degree**s Fahrenheit is equivalent to 100 degrees Celsius.",
+        "vi": "**180 độ F tương đương với 100 độ C.**"
+      }
+    ]
+  },
+  {
+    "word": "Thesis",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Thesis**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của **Luận** án."
+      }
+    ]
+  },
+  {
+    "word": "Lecture",
+    "examples": [
+      {
+        "en": "During class today the professor delivered an interesting **lecture**.",
+        "vi": "Trong giờ học hôm nay, giáo sư đã có một **bài** giảng thú vị."
+      },
+      {
+        "en": "**Lecture** notes are online.",
+        "vi": "Ghi chú **bài** giảng trực tuyến."
+      },
+      {
+        "en": "I really don't want you to give me a **lecture** about my bad eating habits.",
+        "vi": "Tôi thực sự không muốn bạn cho tôi một **bài** giảng về thói quen ăn uống xấu của tôi."
+      }
+    ]
+  },
+  {
+    "word": "Debate",
+    "examples": [
+      {
+        "en": "After a four-hour **debate**, the committee voted to table the motion.",
+        "vi": "Sau **cuộc tranh luận** kéo dài bốn giờ, ủy ban đã bỏ phiếu để đưa ra bản kiến nghị."
+      },
+      {
+        "en": "The **debate** over the age of the universe is thousands of years old.",
+        "vi": "**Cuộc tranh luận** về tuổi của vũ trụ đã kéo dài hàng ngàn năm."
+      },
+      {
+        "en": "There has been considerable **debate** concerning exactly how to format these articles.",
+        "vi": "Đã có những **cuộc tranh luận** đáng kể liên quan đến chính xác cách định dạng các bài viết này."
+      }
+    ]
+  },
+  {
+    "word": "Higher education",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Higher education**.",
+        "vi": "Điều này thể hiện một bức ảnh rõ nét về một nền **giáo dục đại học**."
+      }
+    ]
+  },
+  {
+    "word": "Semester",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Semester**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một **Học kỳ**."
+      }
+    ]
+  },
+  {
+    "word": "Student",
+    "examples": [
+      {
+        "en": "He is a **student** of life.",
+        "vi": "Anh ấy là một **sinh** viên của cuộc sống."
+      }
+    ]
+  },
+  {
+    "word": "Student union",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Student union**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của một **hội sinh viên**."
+      }
+    ]
+  },
+  {
+    "word": "Tuition fee",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Tuition fee**.",
+        "vi": "Ảnh này thể hiện một bức ảnh chụp rõ ràng về **học phí**."
+      }
+    ]
+  },
+  {
+    "word": "Exam",
+    "examples": [
+      {
+        "en": "He **exam**ined the crime scene for clues.",
+        "vi": "**Anh ta kiểm tra hiện trường vụ án để tìm manh mối**"
+      },
+      {
+        "en": "The doctor **exam**ined the patient.",
+        "vi": "**Bác sĩ khám cho bệnh nhân.**"
+      },
+      {
+        "en": "The witness was **exam**ined under oath.",
+        "vi": "**Nhân chứng đã được kiểm tra theo lời tuyên thệ.**"
+      }
+    ]
+  },
+  {
+    "word": "Fail",
+    "examples": [
+      {
+        "en": "The project was full of **fail**.",
+        "vi": "**Dự án đầy thất bại.**"
+      },
+      {
+        "en": "Throughout my life, I have always **fail**ed.",
+        "vi": "**Trong suốt cuộc đời, tôi luôn thất bại.**"
+      },
+      {
+        "en": "The truck **fail**ed to start.",
+        "vi": "**Xe tải không khởi động được.**"
+      }
+    ]
+  },
+  {
+    "word": "Pass",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Pass**.",
+        "vi": "**Ảnh này thể hiện ảnh chụp sạch của thẻ.**"
+      }
+    ]
+  },
+  {
+    "word": "Study",
+    "examples": [
+      {
+        "en": "I need to **study** my biology notes.",
+        "vi": "Tôi cần nghiên cứu các ghi chú sinh **học** của mình."
+      },
+      {
+        "en": "I **study** medicine at the university.",
+        "vi": "Tôi **học** y khoa tại trường đại học."
+      },
+      {
+        "en": "Biologists **study** living things.",
+        "vi": "Các nhà sinh vật **học** nghiên cứu các sinh vật sống."
+      }
+    ]
+  },
+  {
+    "word": "Learn",
+    "examples": [
+      {
+        "en": "**learn** from one's mistakes",
+        "vi": "**rút kinh nghiệm từ những sai lầm của bản thân**"
+      },
+      {
+        "en": "I **learn** medicine.",
+        "vi": "Tôi **học** y khoa."
+      },
+      {
+        "en": "He just **learn**ed that he will be sacked.",
+        "vi": "**Anh ta chỉ biết rằng anh ta sẽ bị sa thải.**"
+      }
+    ]
+  },
+  {
+    "word": "Curriculum",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Curriculum**.",
+        "vi": "Điều này thể hiện một bức ảnh rõ nét về **Chương trình giảng dạy**."
+      }
+    ]
+  },
+  {
+    "word": "Course",
+    "examples": [
+      {
+        "en": "The normal **course** of events seems to be just one damned thing after another.",
+        "vi": "**Quá trình bình thường của các sự kiện dường như chỉ là thứ chết tiệt này đến thứ khác.**"
+      },
+      {
+        "en": "His illness ran its **course**.",
+        "vi": "**Căn bệnh của anh ấy đã qua đi.**"
+      },
+      {
+        "en": "Main **course** and mainsail are the same thing in a sailing ship.",
+        "vi": "**Khóa học** chính và buồm chính là điều tương tự trong một chiếc thuyền buồm."
+      }
+    ]
+  },
+  {
+    "word": "Subject",
+    "examples": [
+      {
+        "en": "He's **subject** to sneezing fits.",
+        "vi": "**Anh ta có thể bị hắt hơi.**"
+      },
+      {
+        "en": "The local board sets local policy, **subject** to approval from the State Board.",
+        "vi": "**Hội đồng quản trị địa phương thiết lập chính sách địa phương, tùy thuộc vào sự chấp thuận của Hội đồng Nhà nước.**"
+      }
+    ]
+  },
+  {
+    "word": "Grade",
+    "examples": [
+      {
+        "en": "I gave him a good **grade** for effort.",
+        "vi": "Tôi đã cho anh ấy **điểm** tốt về sự nỗ lực."
+      },
+      {
+        "en": "He got a good **grade** on the test.",
+        "vi": "Em đạt **điểm** cao trong bài kiểm tra."
+      },
+      {
+        "en": "The **grade** of this hill is more than 5 percent.",
+        "vi": "**Cấp của ngọn đồi này là hơn 5 phần trăm.**"
+      }
+    ]
+  },
+  {
+    "word": "Mark",
+    "examples": [
+      {
+        "en": "to **mark** a box or bale of merchandise",
+        "vi": "**để đánh dấu một hộp hoặc kiện hàng hóa**"
+      },
+      {
+        "en": "See where this pencil has **mark**ed the paper.",
+        "vi": "**Xem cây bút chì này đã đánh dấu ở đâu trên giấy.**"
+      },
+      {
+        "en": "She folded over the corner of the page to **mark** where she left off reading.",
+        "vi": "**Em gấp lại ở góc trang để đánh dấu nơi em không đọc nữa.**"
+      }
+    ]
+  },
+  {
+    "word": "Qualication",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Qualication**.",
+        "vi": "**Ảnh này thể hiện ảnh chụp rõ ràng về một Chứng chỉ.**"
+      }
+    ]
+  },
+  {
+    "word": "Attendance",
+    "examples": [
+      {
+        "en": "**Attendance** at the meeting is required.",
+        "vi": "**Yêu cầu tham dự cuộc họp.**"
+      },
+      {
+        "en": "The class sat down so that the teacher could take **attendance**.",
+        "vi": "**Cả lớp ngồi xuống để giáo viên có thể tham dự.**"
+      },
+      {
+        "en": "John's **attendance** for the conventions was not good.",
+        "vi": "**Việc John tham dự các hội nghị là không tốt.**"
+      }
+    ]
+  },
+  {
+    "word": "Absence",
+    "examples": [
+      {
+        "en": "**Absence** makes the heart grow fonder.",
+        "vi": "**Xa mặt nhưng không cách lòng.**"
+      },
+      {
+        "en": "He had an **absence** of enthusiasm.",
+        "vi": "**Anh ta không có sự nhiệt tình.**"
+      },
+      {
+        "en": "**absence** of mind",
+        "vi": "**sự vắng mặt** của tâm trí"
+      }
+    ]
+  },
+  {
+    "word": "Projector",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Projector**.",
+        "vi": "Ảnh này thể hiện ảnh chụp sạch của **Máy chiếu**."
+      }
+    ]
+  },
+  {
+    "word": "Textbook",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Textbook**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của **Sách giáo khoa**."
+      }
+    ]
+  },
+  {
+    "word": "Question",
+    "examples": [
+      {
+        "en": "What is your **question**?",
+        "vi": "**Câu hỏi** của bạn"
+      },
+      {
+        "en": "The **question** of seniority will be discussed at the meeting.",
+        "vi": "**Vấn đề thâm niên sẽ được thảo luận tại cuộc họp.**"
+      },
+      {
+        "en": "He obeyed without **question**.",
+        "vi": "**Anh ta vâng lời mà không hề thắc mắc.**"
+      }
+    ]
+  },
+  {
+    "word": "Answer",
+    "examples": [
+      {
+        "en": "Her **answer** to his proposal was a slap in the face.",
+        "vi": "Câu **trả lời** của cô cho lời đề nghị của anh ta là một cái tát vào mặt."
+      },
+      {
+        "en": "There is no simple **answer** to corruption.",
+        "vi": "Không có câu **trả lời** đơn giản cho tham nhũng."
+      }
+    ]
+  },
+  {
+    "word": "Mistake",
+    "examples": [
+      {
+        "en": "Don't **mistake** my kindness for weakness.",
+        "vi": "**Đừng nhầm lẫn lòng tốt của tôi với sự yếu đuối.**"
+      }
+    ]
+  },
+  {
+    "word": "Right",
+    "examples": [
+      {
+        "en": "a **right** line",
+        "vi": "**một đường thẳng**"
+      },
+      {
+        "en": "The kitchen counter formed a **right** angle with the back wall.",
+        "vi": "**Quầy bếp tạo thành một góc vuông với bức tường phía sau.**"
+      },
+      {
+        "en": "a **right** triangle, a right prism, a right cone",
+        "vi": "**một tam giác vuông, một lăng kính vuông, một hình nón vuông**"
+      }
+    ]
+  },
+  {
+    "word": "Wrong",
+    "examples": [
+      {
+        "en": "Injustice is a heinous **wrong**.",
+        "vi": "Bất công là một **sai** lầm ghê tởm."
+      },
+      {
+        "en": "Some of your answers were correct, and some were **wrong**.",
+        "vi": "Một số câu trả lời của bạn là đúng, và một số câu trả lời là **sai**."
+      },
+      {
+        "en": "You're **wrong**: he's not Superman at all.",
+        "vi": "Bạn **sai** rồi: anh ta hoàn toàn không phải là Siêu nhân."
+      }
+    ]
+  },
+  {
+    "word": "Register",
+    "examples": [
+      {
+        "en": "The teacher took the **register** by calling out each child's name.",
+        "vi": "**Giáo viên lấy sổ đăng ký bằng cách gọi tên từng đứa trẻ.**"
+      },
+      {
+        "en": "a **register** of deeds",
+        "vi": "**sổ đăng ký chứng thư**"
+      },
+      {
+        "en": "My ex-boss used \"let go\", in the euphemistic **register**, when he sacked me.",
+        "vi": "**Ông chủ cũ của tôi đã sử dụng \"buông tay\", trong sổ đăng ký uyển ngữ, khi ông ta sa thải tôi.**"
+      }
+    ]
+  },
+  {
+    "word": "Assembly",
+    "examples": [
+      {
+        "en": "In order to change the bearing, you must first remove the gearbox **assembly**.",
+        "vi": "**Để thay đổi ổ trục, trước tiên bạn phải tháo cụm hộp số.**"
+      },
+      {
+        "en": "**assembly** line",
+        "vi": "**quy trình lắp ráp**"
+      },
+      {
+        "en": "freedom of **assembly**",
+        "vi": "**tự do hội họp**"
+      }
+    ]
+  },
+  {
+    "word": "Holiday",
+    "examples": [
+      {
+        "en": "Today is a Wiccan **holiday**!",
+        "vi": "**Hôm nay là một ngày lễ Wiccan!**"
+      },
+      {
+        "en": "I want to take a French course this summer **holiday**.",
+        "vi": "Tôi muốn tham gia một khóa học tiếng Pháp vào **kỳ nghỉ** hè này."
+      },
+      {
+        "en": "a mortgage payment **holiday**",
+        "vi": "một **kỳ nghỉ** thanh toán thế chấp"
+      }
+    ]
+  },
+  {
+    "word": "Teacher",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Teacher**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một **Giáo viên**."
+      }
+    ]
+  },
+  {
+    "word": "Pupil",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Pupil**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của **Học sinh**."
+      }
+    ]
+  },
+  {
+    "word": "Playground",
+    "examples": [
+      {
+        "en": "The exclusive tropical island was a millionaire's **playground**.",
+        "vi": "Hòn đảo nhiệt đới độc quyền là **sân chơi** của một triệu phú."
+      }
+    ]
+  },
+  {
+    "word": "Library",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Library**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của một **Thư viện**."
+      }
+    ]
+  },
+  {
+    "word": "Hall",
+    "examples": [
+      {
+        "en": "The drinking fountain was out in the **hall**.",
+        "vi": "**Đài phun nước uống ở ngoài hành lang.**"
+      },
+      {
+        "en": "The hotel had three **hall**s for conferences, and two were in use by the convention.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "The duke lived in a great **hall** overlooking the sea.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Dormitory",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Dormitory**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Locker",
+    "examples": [
+      {
+        "en": "The student placed her books in her **locker** when she arrived at school.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "The **locker** of the trapped chest must be careful, so as not to spring the trap.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Classroom",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Classroom**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Chalk",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Chalk**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Lesson",
+    "examples": [
+      {
+        "en": "In our school a typical working week consists of around twenty **lesson**s and ten hours of related laboratory work.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "Nature has many **lesson**s to teach to us.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "I hope this accident taught you a **lesson**!",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Homework",
+    "examples": [
+      {
+        "en": "You must do your **homework** before you can watch television.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "The speaker had certainly done his **homework** before delivering the lecture.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Test",
+    "examples": [
+      {
+        "en": "Climbing the mountain **test**ed our stamina.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "to **test** the soundness of a principle; to test the validity of an argument",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "He **test**ed positive for cancer.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  }
+]

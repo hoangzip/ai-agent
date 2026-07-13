@@ -1,0 +1,385 @@
+[
+  {
+    "word": "Class",
+    "rootWord": "Class",
+    "members": [
+      {
+        "word": "class",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/class/",
+        "meaning": ""
+      },
+      {
+        "word": "classic",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈklæ.sɪk/",
+        "meaning": "classic"
+      },
+      {
+        "word": "classy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈklæs.i/",
+        "meaning": "classy"
+      }
+    ]
+  },
+  {
+    "word": "Classroom",
+    "rootWord": "Classroom",
+    "members": [
+      {
+        "word": "classroom",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/classroom/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Textbook",
+    "rootWord": "Textbook",
+    "members": [
+      {
+        "word": "textbook",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/textbook/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Workbook",
+    "rootWord": "Workbook",
+    "members": [
+      {
+        "word": "workbook",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/workbook/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Reference book",
+    "rootWord": "Reference book",
+    "members": [
+      {
+        "word": "reference book",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reference book/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Notebook",
+    "rootWord": "Notebook",
+    "members": [
+      {
+        "word": "notebook",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/notebook/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Notepad",
+    "rootWord": "Notepad",
+    "members": [
+      {
+        "word": "notepad",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/notepad/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pencil",
+    "rootWord": "Pencil",
+    "members": [
+      {
+        "word": "pencil",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Crayon",
+    "rootWord": "Crayon",
+    "members": [
+      {
+        "word": "crayon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crayon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pencil sharpener",
+    "rootWord": "Pencil sharpener",
+    "members": [
+      {
+        "word": "pencil sharpener",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil sharpener/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Eraser",
+    "rootWord": "Eraser",
+    "members": [
+      {
+        "word": "eraser",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eraser/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pen",
+    "rootWord": "Pen",
+    "members": [
+      {
+        "word": "pen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pen/",
+        "meaning": ""
+      },
+      {
+        "word": "penal",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpiːnəl/",
+        "meaning": "penal"
+      },
+      {
+        "word": "penance",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɛn.əns/",
+        "meaning": "penance"
+      }
+    ]
+  },
+  {
+    "word": "Ballpoint pen",
+    "rootWord": "Ballpoint pen",
+    "members": [
+      {
+        "word": "ballpoint pen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ballpoint pen/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Paper",
+    "rootWord": "Paper",
+    "members": [
+      {
+        "word": "paper",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paper/",
+        "meaning": ""
+      },
+      {
+        "word": "pap",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pæp/",
+        "meaning": "pap"
+      },
+      {
+        "word": "papist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪp.ɪst/",
+        "meaning": "papist"
+      },
+      {
+        "word": "papal",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpeɪpəl/",
+        "meaning": "papal"
+      }
+    ]
+  },
+  {
+    "word": "Desk",
+    "rootWord": "Desk",
+    "members": [
+      {
+        "word": "desk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/desk/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Map",
+    "rootWord": "Map",
+    "members": [
+      {
+        "word": "map",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/map/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Glue",
+    "rootWord": "Glue",
+    "members": [
+      {
+        "word": "glue",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/glue/",
+        "meaning": ""
+      },
+      {
+        "word": "gluey",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/gluey/",
+        "meaning": "gluey"
+      }
+    ]
+  },
+  {
+    "word": "Scissors",
+    "rootWord": "Scissors",
+    "members": [
+      {
+        "word": "scissors",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scissors/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ruler",
+    "rootWord": "Ruler",
+    "members": [
+      {
+        "word": "ruler",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ruler/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Protractor",
+    "rootWord": "Protractor",
+    "members": [
+      {
+        "word": "protractor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/protractor/",
+        "meaning": ""
+      },
+      {
+        "word": "protract",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pɹəˈtɹakt/",
+        "meaning": "protract"
+      }
+    ]
+  },
+  {
+    "word": "Ink",
+    "rootWord": "Ink",
+    "members": [
+      {
+        "word": "ink",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ink/",
+        "meaning": ""
+      },
+      {
+        "word": "inky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/inky/",
+        "meaning": "inky"
+      }
+    ]
+  },
+  {
+    "word": "Chalk",
+    "rootWord": "Chalk",
+    "members": [
+      {
+        "word": "chalk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chalk/",
+        "meaning": ""
+      },
+      {
+        "word": "chalky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/chalky/",
+        "meaning": "chalky"
+      }
+    ]
+  },
+  {
+    "word": "Folder",
+    "rootWord": "Folder",
+    "members": [
+      {
+        "word": "folder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/folder/",
+        "meaning": ""
+      },
+      {
+        "word": "fold",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/fəʊld/",
+        "meaning": "Gấp gọn, gập lại"
+      }
+    ]
+  }
+]

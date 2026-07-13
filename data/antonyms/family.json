@@ -1,0 +1,468 @@
+[
+  {
+    "word": "Husband",
+    "antonyms": [
+      {
+        "word": "wife",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waɪf/",
+        "meaning": "Vợ"
+      }
+    ]
+  },
+  {
+    "word": "Grandson",
+    "antonyms": [
+      {
+        "word": "grandfather",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrændˌfɑː.ðər/",
+        "meaning": "Ông nội, ông ngoại"
+      },
+      {
+        "word": "grandmother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrændˌmʌð.ər/",
+        "meaning": "Bà nội, bà ngoại"
+      }
+    ]
+  },
+  {
+    "word": "Uncle",
+    "antonyms": [
+      {
+        "word": "boy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɔːə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "aunty",
+        "partOfSpeech": "noun",
+        "pronunciation": "/aunty/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nephew",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnɛ.vjuː/",
+        "meaning": "Cháu trai (của cô, dì, chú)"
+      },
+      {
+        "word": "niece",
+        "partOfSpeech": "noun",
+        "pronunciation": "/niːs/",
+        "meaning": "Cháu gái (của cô, dì, chú)"
+      }
+    ]
+  },
+  {
+    "word": "Aunt",
+    "antonyms": [
+      {
+        "word": "nephew",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnɛ.vjuː/",
+        "meaning": "Cháu trai (của cô, dì, chú)"
+      },
+      {
+        "word": "niece",
+        "partOfSpeech": "noun",
+        "pronunciation": "/niːs/",
+        "meaning": "Cháu gái (của cô, dì, chú)"
+      },
+      {
+        "word": "uncle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʌŋ.kəl/",
+        "meaning": "Chú, cậu,…"
+      }
+    ]
+  },
+  {
+    "word": "Niece",
+    "antonyms": [
+      {
+        "word": "aunt",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ænt/",
+        "meaning": "Cô, dì,…"
+      },
+      {
+        "word": "uncle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʌŋ.kəl/",
+        "meaning": "Chú, cậu,…"
+      },
+      {
+        "word": "nephew",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnɛ.vjuː/",
+        "meaning": "Cháu trai (của cô, dì, chú)"
+      }
+    ]
+  },
+  {
+    "word": "Nephew",
+    "antonyms": []
+  },
+  {
+    "word": "Son-in-law",
+    "antonyms": []
+  },
+  {
+    "word": "Daughter-in-law",
+    "antonyms": []
+  },
+  {
+    "word": "Granddaughter",
+    "antonyms": [
+      {
+        "word": "grandfather",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrændˌfɑː.ðər/",
+        "meaning": "Ông nội, ông ngoại"
+      },
+      {
+        "word": "grandmother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrændˌmʌð.ər/",
+        "meaning": "Bà nội, bà ngoại"
+      }
+    ]
+  },
+  {
+    "word": "Grandfather",
+    "antonyms": [
+      {
+        "word": "grandchild",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grandchild/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "granddaughter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrændˌdɔː.tər/",
+        "meaning": "Cháu gái (của ông bà)"
+      },
+      {
+        "word": "grandmother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrændˌmʌð.ər/",
+        "meaning": "Bà nội, bà ngoại"
+      },
+      {
+        "word": "grandson",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrænd.sʌn/",
+        "meaning": "Cháu trai (của ông bà)"
+      }
+    ]
+  },
+  {
+    "word": "Wife",
+    "antonyms": [
+      {
+        "word": "husband",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhʌz.bənd/",
+        "meaning": "Chồng"
+      },
+      {
+        "word": "were",
+        "partOfSpeech": "noun",
+        "pronunciation": "/were/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Father",
+    "antonyms": [
+      {
+        "word": "child",
+        "partOfSpeech": "noun",
+        "pronunciation": "/t͡ʃaɪld/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "daughter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɔː.tər/",
+        "meaning": "Con gái"
+      },
+      {
+        "word": "son",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sʌn/",
+        "meaning": "Con trai"
+      },
+      {
+        "word": "mother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmʌð.ər/",
+        "meaning": "Mẹ"
+      }
+    ]
+  },
+  {
+    "word": "Mother",
+    "antonyms": [
+      {
+        "word": "child",
+        "partOfSpeech": "noun",
+        "pronunciation": "/t͡ʃaɪld/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "daughter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɔː.tər/",
+        "meaning": "Con gái"
+      },
+      {
+        "word": "offspring",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɒfspɹɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "son",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sʌn/",
+        "meaning": "Con trai"
+      }
+    ]
+  },
+  {
+    "word": "Daughter",
+    "antonyms": [
+      {
+        "word": "father",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɑː.ðər/",
+        "meaning": "Bố"
+      },
+      {
+        "word": "mother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmʌð.ər/",
+        "meaning": "Mẹ"
+      },
+      {
+        "word": "parent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɛr.ənt/",
+        "meaning": "Bố, mẹ"
+      },
+      {
+        "word": "son",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sʌn/",
+        "meaning": "Con trai"
+      }
+    ]
+  },
+  {
+    "word": "Son",
+    "antonyms": [
+      {
+        "word": "daughter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɔː.tər/",
+        "meaning": "Con gái"
+      },
+      {
+        "word": "father",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɑː.ðər/",
+        "meaning": "Bố"
+      },
+      {
+        "word": "mother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmʌð.ər/",
+        "meaning": "Mẹ"
+      },
+      {
+        "word": "parent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɛr.ənt/",
+        "meaning": "Bố, mẹ"
+      }
+    ]
+  },
+  {
+    "word": "Sister",
+    "antonyms": [
+      {
+        "word": "brother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbrʌð.ər/",
+        "meaning": "Anh trai, em trai"
+      }
+    ]
+  },
+  {
+    "word": "Brother",
+    "antonyms": []
+  },
+  {
+    "word": "Grandmother",
+    "antonyms": [
+      {
+        "word": "grandchild",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grandchild/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "granddaughter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrændˌdɔː.tər/",
+        "meaning": "Cháu gái (của ông bà)"
+      },
+      {
+        "word": "grandson",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrænd.sʌn/",
+        "meaning": "Cháu trai (của ông bà)"
+      },
+      {
+        "word": "grandfather",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrændˌfɑː.ðər/",
+        "meaning": "Ông nội, ông ngoại"
+      }
+    ]
+  },
+  {
+    "word": "Brother-in-law",
+    "antonyms": []
+  },
+  {
+    "word": "Cousin",
+    "antonyms": []
+  },
+  {
+    "word": "Parent",
+    "antonyms": [
+      {
+        "word": "child",
+        "partOfSpeech": "noun",
+        "pronunciation": "/t͡ʃaɪld/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "offspring",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɒfspɹɪŋ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Relative",
+    "antonyms": [
+      {
+        "word": "absolute",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæb.səˌljuːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unlimited",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʌnˈlɪmɪtɪd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mother-in-law",
+    "antonyms": []
+  },
+  {
+    "word": "Father-in-law",
+    "antonyms": []
+  },
+  {
+    "word": "Sister-in-law",
+    "antonyms": []
+  },
+  {
+    "word": "Adopt",
+    "antonyms": []
+  },
+  {
+    "word": "Children",
+    "antonyms": []
+  },
+  {
+    "word": "Take care of",
+    "antonyms": []
+  },
+  {
+    "word": "Family tree",
+    "antonyms": []
+  },
+  {
+    "word": "Anniversary",
+    "antonyms": []
+  },
+  {
+    "word": "Close-knit",
+    "antonyms": []
+  },
+  {
+    "word": "Stepchild",
+    "antonyms": [
+      {
+        "word": "stepparent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stepparent/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Half-brother",
+    "antonyms": []
+  },
+  {
+    "word": "Half-sister",
+    "antonyms": []
+  },
+  {
+    "word": "Godfather",
+    "antonyms": []
+  },
+  {
+    "word": "Hereditary",
+    "antonyms": [
+      {
+        "word": "nonhereditary",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonhereditary/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stepmother",
+    "antonyms": []
+  },
+  {
+    "word": "Stepfather",
+    "antonyms": []
+  },
+  {
+    "word": "Orphan",
+    "antonyms": []
+  },
+  {
+    "word": "Generation",
+    "antonyms": []
+  }
+]

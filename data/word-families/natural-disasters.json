@@ -1,0 +1,238 @@
+[
+  {
+    "word": "Earthquake",
+    "rootWord": "Earthquake",
+    "members": [
+      {
+        "word": "earthquake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/earthquake/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Aftershock",
+    "rootWord": "Aftershock",
+    "members": [
+      {
+        "word": "aftershock",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/aftershock/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Flood",
+    "rootWord": "Flood",
+    "members": [
+      {
+        "word": "flood",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flood/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Drought",
+    "rootWord": "Drought",
+    "members": [
+      {
+        "word": "drought",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drought/",
+        "meaning": ""
+      },
+      {
+        "word": "droughty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/droughty/",
+        "meaning": "droughty"
+      }
+    ]
+  },
+  {
+    "word": "Famine",
+    "rootWord": "Famine",
+    "members": [
+      {
+        "word": "famine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/famine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Avalanche",
+    "rootWord": "Avalanche",
+    "members": [
+      {
+        "word": "avalanche",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/avalanche/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Blizzard",
+    "rootWord": "Blizzard",
+    "members": [
+      {
+        "word": "blizzard",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blizzard/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tornado",
+    "rootWord": "Tornado",
+    "members": [
+      {
+        "word": "tornado",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tornado/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Forest re",
+    "rootWord": "Forest re",
+    "members": [
+      {
+        "word": "forest re",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/forest re/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hurricane",
+    "rootWord": "Hurricane",
+    "members": [
+      {
+        "word": "hurricane",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hurricane/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Storm",
+    "rootWord": "Storm",
+    "members": [
+      {
+        "word": "storm",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/storm/",
+        "meaning": ""
+      },
+      {
+        "word": "stormy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈstɔːr.mi/",
+        "meaning": "Có bão"
+      },
+      {
+        "word": "stormer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stormer/",
+        "meaning": "stormer"
+      }
+    ]
+  },
+  {
+    "word": "Evacuation",
+    "rootWord": "Evacuation",
+    "members": [
+      {
+        "word": "evacuation",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/evacuation/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Evacuate",
+    "rootWord": "Evacuate",
+    "members": [
+      {
+        "word": "evacuate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/evacuate/",
+        "meaning": ""
+      },
+      {
+        "word": "evacuative",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/evacuative/",
+        "meaning": "evacuative"
+      }
+    ]
+  },
+  {
+    "word": "Catastrophic",
+    "rootWord": "Catastrophic",
+    "members": [
+      {
+        "word": "catastrophic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/catastrophic/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nationwide",
+    "rootWord": "Nationwide",
+    "members": [
+      {
+        "word": "nationwide",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nationwide/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Precaution",
+    "rootWord": "Precaution",
+    "members": [
+      {
+        "word": "precaution",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/precaution/",
+        "meaning": ""
+      }
+    ]
+  }
+]

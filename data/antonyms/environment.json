@@ -1,0 +1,146 @@
+[
+  {
+    "word": "Land",
+    "antonyms": []
+  },
+  {
+    "word": "Pollute",
+    "antonyms": []
+  },
+  {
+    "word": "Decompose",
+    "antonyms": [
+      {
+        "word": "assemble",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈsɛmbl̩/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Balance",
+    "antonyms": [
+      {
+        "word": "imbalance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/imbalance/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nonequilibrium",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonequilibrium/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unbalance",
+        "partOfSpeech": "verb",
+        "pronunciation": "/unbalance/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bias",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbaɪəs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Climate change",
+    "antonyms": []
+  },
+  {
+    "word": "Global warming",
+    "antonyms": [
+      {
+        "word": "global cooling",
+        "partOfSpeech": "noun",
+        "pronunciation": "/global cooling/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Oil slick",
+    "antonyms": []
+  },
+  {
+    "word": "Ozone layer",
+    "antonyms": []
+  },
+  {
+    "word": "Biodiversity",
+    "antonyms": []
+  },
+  {
+    "word": "Ecology",
+    "antonyms": []
+  },
+  {
+    "word": "Water",
+    "antonyms": [
+      {
+        "word": "air",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eər/",
+        "meaning": "Không khí"
+      },
+      {
+        "word": "earth",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɜːθ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ether",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ether/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fire",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɑeə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Air",
+    "antonyms": []
+  },
+  {
+    "word": "Forest",
+    "antonyms": []
+  },
+  {
+    "word": "Flora",
+    "antonyms": []
+  },
+  {
+    "word": "Creature",
+    "antonyms": []
+  },
+  {
+    "word": "Insect",
+    "antonyms": []
+  },
+  {
+    "word": "Reproduction",
+    "antonyms": []
+  },
+  {
+    "word": "Wildlife",
+    "antonyms": []
+  },
+  {
+    "word": "Sewage",
+    "antonyms": []
+  },
+  {
+    "word": "Fauna",
+    "antonyms": []
+  }
+]

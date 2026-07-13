@@ -1,0 +1,451 @@
+[
+  {
+    "word": "Husband",
+    "synonyms": []
+  },
+  {
+    "word": "Grandson",
+    "synonyms": [
+      {
+        "word": "grandboy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grandboy/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Uncle",
+    "synonyms": [
+      {
+        "word": "eam",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eam/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "eme",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eme/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Aunt",
+    "synonyms": []
+  },
+  {
+    "word": "Niece",
+    "synonyms": []
+  },
+  {
+    "word": "Nephew",
+    "synonyms": [
+      {
+        "word": "grandson",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrænd.sʌn/",
+        "meaning": "Cháu trai (của ông bà)"
+      },
+      {
+        "word": "neve",
+        "partOfSpeech": "noun",
+        "pronunciation": "/niːv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Son-in-law",
+    "synonyms": []
+  },
+  {
+    "word": "Daughter-in-law",
+    "synonyms": []
+  },
+  {
+    "word": "Granddaughter",
+    "synonyms": [
+      {
+        "word": "grandgirl",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grandgirl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Grandfather",
+    "synonyms": [
+      {
+        "word": "grandsire",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grandsire/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "highfather",
+        "partOfSpeech": "noun",
+        "pronunciation": "/highfather/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wife",
+    "synonyms": [
+      {
+        "word": "little woman",
+        "partOfSpeech": "noun",
+        "pronunciation": "/little woman/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "female",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfiː.meɪl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lady",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈleɪdi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Father",
+    "synonyms": [
+      {
+        "word": "granddaddy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/granddaddy/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmʌð.ər/",
+        "meaning": "Mẹ"
+      }
+    ]
+  },
+  {
+    "word": "Mother",
+    "synonyms": [
+      {
+        "word": "father",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɑː.ðər/",
+        "meaning": "Bố"
+      },
+      {
+        "word": "granddaddy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/granddaddy/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "grandfather",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡrændˌfɑː.ðər/",
+        "meaning": "Ông nội, ông ngoại"
+      },
+      {
+        "word": "metro-",
+        "partOfSpeech": "noun",
+        "pronunciation": "/metro-/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Daughter",
+    "synonyms": []
+  },
+  {
+    "word": "Son",
+    "synonyms": []
+  },
+  {
+    "word": "Sister",
+    "synonyms": [
+      {
+        "word": "affiliate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈfɪl.i.et/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "affiliated",
+        "partOfSpeech": "verb",
+        "pronunciation": "/affiliated/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "charge nurse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/charge nurse/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "darling",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɑːr.lɪŋ/",
+        "meaning": "Em yêu, anh yêu"
+      }
+    ]
+  },
+  {
+    "word": "Brother",
+    "synonyms": []
+  },
+  {
+    "word": "Grandmother",
+    "synonyms": []
+  },
+  {
+    "word": "Brother-in-law",
+    "synonyms": []
+  },
+  {
+    "word": "Cousin",
+    "synonyms": [
+      {
+        "word": "first cousin",
+        "partOfSpeech": "noun",
+        "pronunciation": "/first cousin/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Parent",
+    "synonyms": [
+      {
+        "word": "mother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmʌð.ər/",
+        "meaning": "Mẹ"
+      },
+      {
+        "word": "progenitor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɹəʊˈdʒɛn.ɪ.tə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "raise",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹeɪz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "rear",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɹɪə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Relative",
+    "synonyms": [
+      {
+        "word": "comparative",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəmˈpæɹ.ə.tɪv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "conditional",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈdɪʃənəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "limited",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈlɪmɪtɪd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mother-in-law",
+    "synonyms": []
+  },
+  {
+    "word": "Father-in-law",
+    "synonyms": []
+  },
+  {
+    "word": "Sister-in-law",
+    "synonyms": []
+  },
+  {
+    "word": "Adopt",
+    "synonyms": []
+  },
+  {
+    "word": "Children",
+    "synonyms": []
+  },
+  {
+    "word": "Take care of",
+    "synonyms": [
+      {
+        "word": "attend to",
+        "partOfSpeech": "noun",
+        "pronunciation": "/attend to/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bump off",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bump off/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "knock off",
+        "partOfSpeech": "verb",
+        "pronunciation": "/knock off/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "wax",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wæks/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Family tree",
+    "synonyms": []
+  },
+  {
+    "word": "Anniversary",
+    "synonyms": [
+      {
+        "word": "yearday",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yearday/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "yeartide",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yeartide/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Close-knit",
+    "synonyms": [
+      {
+        "word": "tight-knit",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/tight-knit/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stepchild",
+    "synonyms": [
+      {
+        "word": "orphan",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɔːr.fən/",
+        "meaning": "Trẻ mồ côi"
+      }
+    ]
+  },
+  {
+    "word": "Half-brother",
+    "synonyms": []
+  },
+  {
+    "word": "Half-sister",
+    "synonyms": []
+  },
+  {
+    "word": "Godfather",
+    "synonyms": []
+  },
+  {
+    "word": "Hereditary",
+    "synonyms": [
+      {
+        "word": "inhereditary",
+        "partOfSpeech": "noun",
+        "pronunciation": "/inhereditary/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stepmother",
+    "synonyms": [
+      {
+        "word": "bonus mother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bonus mother/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "co-mother",
+        "partOfSpeech": "noun",
+        "pronunciation": "/co-mother/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mother-in-law",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmʌð.ər ɪn lɔː/",
+        "meaning": "Mẹ chồng, mẹ vợ"
+      },
+      {
+        "word": "stepma",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stepma/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stepfather",
+    "synonyms": [
+      {
+        "word": "co-father",
+        "partOfSpeech": "noun",
+        "pronunciation": "/co-father/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "father-in-law",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɑː.ðər ɪn lɔː/",
+        "meaning": "Bố chồng, bố vợ"
+      },
+      {
+        "word": "stepdad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stepdad/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Orphan",
+    "synonyms": []
+  },
+  {
+    "word": "Generation",
+    "synonyms": []
+  }
+]

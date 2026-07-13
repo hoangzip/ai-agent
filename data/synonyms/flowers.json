@@ -1,0 +1,104 @@
+[
+  {
+    "word": "Lotus",
+    "synonyms": []
+  },
+  {
+    "word": "Lily",
+    "synonyms": []
+  },
+  {
+    "word": "Poppy",
+    "synonyms": []
+  },
+  {
+    "word": "Bougainvillea",
+    "synonyms": []
+  },
+  {
+    "word": "Gerbera flower",
+    "synonyms": []
+  },
+  {
+    "word": "Tuberose",
+    "synonyms": []
+  },
+  {
+    "word": "Apricot blossom",
+    "synonyms": []
+  },
+  {
+    "word": "Dahlia",
+    "synonyms": []
+  },
+  {
+    "word": "Jasmine",
+    "synonyms": []
+  },
+  {
+    "word": "Sunflower",
+    "synonyms": []
+  },
+  {
+    "word": "Marigold",
+    "synonyms": []
+  },
+  {
+    "word": "Orchid",
+    "synonyms": []
+  },
+  {
+    "word": "Rose",
+    "synonyms": []
+  },
+  {
+    "word": "Carnation",
+    "synonyms": [
+      {
+        "word": "Dianthus caryophyllus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Dianthus caryophyllus/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "clove pink",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clove pink/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gillyflower",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒɪl.ɪˌflaʊə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cherry blossom",
+    "synonyms": []
+  },
+  {
+    "word": "Poinsettia",
+    "synonyms": [
+      {
+        "word": "Christmas star",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Christmas star/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Flamboyant",
+    "synonyms": []
+  },
+  {
+    "word": "Hibiscus",
+    "synonyms": []
+  },
+  {
+    "word": "Peach blossom",
+    "synonyms": []
+  }
+]

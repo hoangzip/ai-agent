@@ -1,0 +1,103 @@
+[
+  {
+    "word": "Denmark",
+    "antonyms": []
+  },
+  {
+    "word": "England",
+    "antonyms": []
+  },
+  {
+    "word": "Sweden",
+    "antonyms": []
+  },
+  {
+    "word": "Austria",
+    "antonyms": []
+  },
+  {
+    "word": "Australia",
+    "antonyms": []
+  },
+  {
+    "word": "France",
+    "antonyms": []
+  },
+  {
+    "word": "Germany",
+    "antonyms": []
+  },
+  {
+    "word": "Switzerland",
+    "antonyms": []
+  },
+  {
+    "word": "Greece",
+    "antonyms": []
+  },
+  {
+    "word": "Italy",
+    "antonyms": []
+  },
+  {
+    "word": "Spain",
+    "antonyms": []
+  },
+  {
+    "word": "Russia",
+    "antonyms": []
+  },
+  {
+    "word": "Canada",
+    "antonyms": []
+  },
+  {
+    "word": "Mexico",
+    "antonyms": []
+  },
+  {
+    "word": "America",
+    "antonyms": []
+  },
+  {
+    "word": "Brazil",
+    "antonyms": []
+  },
+  {
+    "word": "Japan",
+    "antonyms": []
+  },
+  {
+    "word": "Korea",
+    "antonyms": []
+  },
+  {
+    "word": "China",
+    "antonyms": [
+      {
+        "word": "enemy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɛnəmi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "foe",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fəʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stranger",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈstɹeɪndʒə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "suckanhock",
+        "partOfSpeech": "noun",
+        "pronunciation": "/suckanhock/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

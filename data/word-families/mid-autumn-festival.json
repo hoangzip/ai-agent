@@ -1,0 +1,186 @@
+[
+  {
+    "word": "Mid-Autumn Festival",
+    "rootWord": "Mid-Autumn Festival",
+    "members": [
+      {
+        "word": "mid-autumn festival",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mid-autumn festival/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Moon",
+    "rootWord": "Moon",
+    "members": [
+      {
+        "word": "moon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/moon/",
+        "meaning": ""
+      },
+      {
+        "word": "moony",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/moony/",
+        "meaning": "moony"
+      }
+    ]
+  },
+  {
+    "word": "Cake",
+    "rootWord": "Cake",
+    "members": [
+      {
+        "word": "cake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cake/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Toy",
+    "rootWord": "Toy",
+    "members": [
+      {
+        "word": "toy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/toy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mask",
+    "rootWord": "Mask",
+    "members": [
+      {
+        "word": "mask",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mask/",
+        "meaning": ""
+      },
+      {
+        "word": "masker",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/masker/",
+        "meaning": "masker"
+      }
+    ]
+  },
+  {
+    "word": "Banyan",
+    "rootWord": "Banyan",
+    "members": [
+      {
+        "word": "banyan",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/banyan/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lantern",
+    "rootWord": "Lantern",
+    "members": [
+      {
+        "word": "lantern",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lantern/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bamboo",
+    "rootWord": "Bamboo",
+    "members": [
+      {
+        "word": "bamboo",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bamboo/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Perform",
+    "rootWord": "Perform",
+    "members": [
+      {
+        "word": "perform",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/perform/",
+        "meaning": ""
+      },
+      {
+        "word": "performer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pəˈfɔːmə/",
+        "meaning": "performer"
+      },
+      {
+        "word": "performance",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "[pə.ˈfɔː.məns]",
+        "meaning": "performance"
+      }
+    ]
+  },
+  {
+    "word": "Celebrate",
+    "rootWord": "Celebrate",
+    "members": [
+      {
+        "word": "celebrate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/celebrate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Family reunion",
+    "rootWord": "Family reunion",
+    "members": [
+      {
+        "word": "family reunion",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/family reunion/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rabbit",
+    "rootWord": "Rabbit",
+    "members": [
+      {
+        "word": "rabbit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rabbit/",
+        "meaning": ""
+      }
+    ]
+  }
+]

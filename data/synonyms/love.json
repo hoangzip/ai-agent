@@ -1,0 +1,350 @@
+[
+  {
+    "word": "Date",
+    "synonyms": []
+  },
+  {
+    "word": "Engagement",
+    "synonyms": [
+      {
+        "word": "action",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæk.ʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "commitment",
+        "partOfSpeech": "noun",
+        "pronunciation": "/commitment/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Ring",
+    "synonyms": []
+  },
+  {
+    "word": "Romantic",
+    "synonyms": [
+      {
+        "word": "Romanic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Romanic/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lovesome",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/lovesome/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sweet",
+    "synonyms": [
+      {
+        "word": "dessert",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈzɜːrt/",
+        "meaning": "Món tráng miệng"
+      },
+      {
+        "word": "bonbon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bonbon/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "candy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkæn.di/",
+        "meaning": "Kẹo"
+      },
+      {
+        "word": "confection",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈfɛkʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Alone",
+    "synonyms": [
+      {
+        "word": "by one's lonesome",
+        "partOfSpeech": "noun",
+        "pronunciation": "/by one's lonesome/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "by oneself",
+        "partOfSpeech": "noun",
+        "pronunciation": "/by oneself/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "on one's lonesome",
+        "partOfSpeech": "noun",
+        "pronunciation": "/on one's lonesome/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "singlehanded",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/singlehanded/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Couple",
+    "synonyms": [
+      {
+        "word": "few",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fjuː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "handful",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhæn(d)fəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "brace",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹeɪs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pair",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pair/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Forever",
+    "synonyms": [
+      {
+        "word": "always",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈɔː(l).weɪz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "continually",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/kənˈtɪnjuəli/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "eternally",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/eternally/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "evermore",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˌɛvə(ɹ)ˈmɔː(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Boyfriend",
+    "synonyms": [
+      {
+        "word": "buddy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʌd.i/",
+        "meaning": "Bạn thân"
+      },
+      {
+        "word": "guyfriend",
+        "partOfSpeech": "noun",
+        "pronunciation": "/guyfriend/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/meɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pæl/",
+        "meaning": "Bạn (từ lóng)"
+      }
+    ]
+  },
+  {
+    "word": "Girlfriend",
+    "synonyms": [
+      {
+        "word": "chickfriend",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chickfriend/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Kiss",
+    "synonyms": []
+  },
+  {
+    "word": "Heart",
+    "synonyms": [
+      {
+        "word": "bravery",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɹeɪvəɹi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nerve",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nɛɾv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "crux",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crux/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dʒɪst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hug",
+    "synonyms": [
+      {
+        "word": "cleave",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cleave/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stick",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hunker",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈhʌŋkə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "squat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/squat/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Propose",
+    "synonyms": [
+      {
+        "word": "forthput",
+        "partOfSpeech": "noun",
+        "pronunciation": "/forthput/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "put forth",
+        "partOfSpeech": "noun",
+        "pronunciation": "/put forth/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "suggest",
+        "partOfSpeech": "verb",
+        "pronunciation": "/səˈdʒɛst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chocolate",
+    "synonyms": []
+  },
+  {
+    "word": "Wedding",
+    "synonyms": [
+      {
+        "word": "marry",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈmæɹɪ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Anniversary",
+    "synonyms": [
+      {
+        "word": "yearday",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yearday/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "yeartide",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yeartide/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Darling",
+    "synonyms": []
+  },
+  {
+    "word": "Single",
+    "synonyms": [
+      {
+        "word": "lone",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ləʊn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sole",
+        "partOfSpeech": "noun",
+        "pronunciation": "/səʊl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unbroken",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʌnˈbɹəʊkn̩/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "undivided",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌʌndɪˈvaɪdɪd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

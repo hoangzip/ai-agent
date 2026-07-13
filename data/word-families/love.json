@@ -1,0 +1,389 @@
+[
+  {
+    "word": "Date",
+    "rootWord": "Date",
+    "members": [
+      {
+        "word": "date",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/date/",
+        "meaning": ""
+      },
+      {
+        "word": "datable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/datable/",
+        "meaning": "datable"
+      },
+      {
+        "word": "dative",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdeɪtɪv/",
+        "meaning": "dative"
+      },
+      {
+        "word": "dater",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdeɪtə(ɹ)/",
+        "meaning": "dater"
+      },
+      {
+        "word": "dateless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdeɪtlɪs/",
+        "meaning": "dateless"
+      }
+    ]
+  },
+  {
+    "word": "Engagement",
+    "rootWord": "Engagement",
+    "members": [
+      {
+        "word": "engagement",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/engagement/",
+        "meaning": ""
+      },
+      {
+        "word": "engage",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɛnˈɡeɪdʒ/",
+        "meaning": "engage"
+      }
+    ]
+  },
+  {
+    "word": "Ring",
+    "rootWord": "Ring",
+    "members": [
+      {
+        "word": "ring",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ring/",
+        "meaning": ""
+      },
+      {
+        "word": "ringer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹɪŋə(ɹ)/",
+        "meaning": "ringer"
+      }
+    ]
+  },
+  {
+    "word": "Romantic",
+    "rootWord": "Romantic",
+    "members": [
+      {
+        "word": "romantic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/romantic/",
+        "meaning": ""
+      },
+      {
+        "word": "romanticist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/romanticist/",
+        "meaning": "romanticist"
+      },
+      {
+        "word": "romanticize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/romanticize/",
+        "meaning": "romanticize"
+      }
+    ]
+  },
+  {
+    "word": "Sweet",
+    "rootWord": "Sweet",
+    "members": [
+      {
+        "word": "sweet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweet/",
+        "meaning": ""
+      },
+      {
+        "word": "sweetness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈswiːtnəs/",
+        "meaning": "sweetness"
+      },
+      {
+        "word": "sweetly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈswiːtli/",
+        "meaning": "sweetly"
+      },
+      {
+        "word": "sweety",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweety/",
+        "meaning": "sweety"
+      },
+      {
+        "word": "sweeten",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈswiːtən/",
+        "meaning": "sweeten"
+      }
+    ]
+  },
+  {
+    "word": "Alone",
+    "rootWord": "Alone",
+    "members": [
+      {
+        "word": "alone",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/alone/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Couple",
+    "rootWord": "Couple",
+    "members": [
+      {
+        "word": "couple",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/couple/",
+        "meaning": ""
+      },
+      {
+        "word": "coupler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkʌplə/",
+        "meaning": "coupler"
+      }
+    ]
+  },
+  {
+    "word": "Forever",
+    "rootWord": "Forever",
+    "members": [
+      {
+        "word": "forever",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/forever/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Boyfriend",
+    "rootWord": "Boyfriend",
+    "members": [
+      {
+        "word": "boyfriend",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/boyfriend/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Girlfriend",
+    "rootWord": "Girlfriend",
+    "members": [
+      {
+        "word": "girlfriend",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/girlfriend/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Kiss",
+    "rootWord": "Kiss",
+    "members": [
+      {
+        "word": "kiss",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kiss/",
+        "meaning": ""
+      },
+      {
+        "word": "kissy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kissy/",
+        "meaning": "kissy"
+      },
+      {
+        "word": "kisser",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kisser/",
+        "meaning": "kisser"
+      }
+    ]
+  },
+  {
+    "word": "Heart",
+    "rootWord": "Heart",
+    "members": [
+      {
+        "word": "heart",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/heart/",
+        "meaning": ""
+      },
+      {
+        "word": "heartless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈhɑɹt.lɪs/",
+        "meaning": "heartless"
+      },
+      {
+        "word": "hearty",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɑːti/",
+        "meaning": "hearty"
+      },
+      {
+        "word": "hearten",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈhɑːtən/",
+        "meaning": "hearten"
+      }
+    ]
+  },
+  {
+    "word": "Hug",
+    "rootWord": "Hug",
+    "members": [
+      {
+        "word": "hug",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hug/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Propose",
+    "rootWord": "Propose",
+    "members": [
+      {
+        "word": "propose",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/propose/",
+        "meaning": ""
+      },
+      {
+        "word": "proposal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɹəˈpəʊzəl/",
+        "meaning": "proposal"
+      }
+    ]
+  },
+  {
+    "word": "Chocolate",
+    "rootWord": "Chocolate",
+    "members": [
+      {
+        "word": "chocolate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chocolate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wedding",
+    "rootWord": "Wedding",
+    "members": [
+      {
+        "word": "wedding",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wedding/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Anniversary",
+    "rootWord": "Anniversary",
+    "members": [
+      {
+        "word": "anniversary",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/anniversary/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Darling",
+    "rootWord": "Darling",
+    "members": [
+      {
+        "word": "darling",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/darling/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Single",
+    "rootWord": "Single",
+    "members": [
+      {
+        "word": "single",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/single/",
+        "meaning": ""
+      },
+      {
+        "word": "singly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/singly/",
+        "meaning": "singly"
+      }
+    ]
+  }
+]

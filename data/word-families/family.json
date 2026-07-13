@@ -1,0 +1,627 @@
+[
+  {
+    "word": "Husband",
+    "rootWord": "Husband",
+    "members": [
+      {
+        "word": "husband",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/husband/",
+        "meaning": ""
+      },
+      {
+        "word": "husbander",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/husbander/",
+        "meaning": "husbander"
+      },
+      {
+        "word": "husbandly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈhʌzbəndli/",
+        "meaning": "husbandly"
+      }
+    ]
+  },
+  {
+    "word": "Grandson",
+    "rootWord": "Grandson",
+    "members": [
+      {
+        "word": "grandson",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grandson/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Uncle",
+    "rootWord": "Uncle",
+    "members": [
+      {
+        "word": "uncle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/uncle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Aunt",
+    "rootWord": "Aunt",
+    "members": [
+      {
+        "word": "aunt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/aunt/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Niece",
+    "rootWord": "Niece",
+    "members": [
+      {
+        "word": "niece",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/niece/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nephew",
+    "rootWord": "Nephew",
+    "members": [
+      {
+        "word": "nephew",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nephew/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Son-in-law",
+    "rootWord": "Son-in-law",
+    "members": [
+      {
+        "word": "son-in-law",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/son-in-law/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Daughter-in-law",
+    "rootWord": "Daughter-in-law",
+    "members": [
+      {
+        "word": "daughter-in-law",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/daughter-in-law/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Granddaughter",
+    "rootWord": "Granddaughter",
+    "members": [
+      {
+        "word": "granddaughter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/granddaughter/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Grandfather",
+    "rootWord": "Grandfather",
+    "members": [
+      {
+        "word": "grandfather",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grandfather/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wife",
+    "rootWord": "Wife",
+    "members": [
+      {
+        "word": "wife",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wife/",
+        "meaning": ""
+      },
+      {
+        "word": "wifely",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈwaɪfli/",
+        "meaning": "wifely"
+      }
+    ]
+  },
+  {
+    "word": "Father",
+    "rootWord": "Father",
+    "members": [
+      {
+        "word": "father",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/father/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mother",
+    "rootWord": "Mother",
+    "members": [
+      {
+        "word": "mother",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mother/",
+        "meaning": ""
+      },
+      {
+        "word": "moth",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɑθ/",
+        "meaning": "moth"
+      },
+      {
+        "word": "mothy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/mothy/",
+        "meaning": "mothy"
+      }
+    ]
+  },
+  {
+    "word": "Daughter",
+    "rootWord": "Daughter",
+    "members": [
+      {
+        "word": "daughter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/daughter/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Son",
+    "rootWord": "Son",
+    "members": [
+      {
+        "word": "son",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/son/",
+        "meaning": ""
+      },
+      {
+        "word": "sonic",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsɒnɪk/",
+        "meaning": "sonic"
+      }
+    ]
+  },
+  {
+    "word": "Sister",
+    "rootWord": "Sister",
+    "members": [
+      {
+        "word": "sister",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sister/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Brother",
+    "rootWord": "Brother",
+    "members": [
+      {
+        "word": "brother",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brother/",
+        "meaning": ""
+      },
+      {
+        "word": "broth",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹɑθ/",
+        "meaning": "broth"
+      }
+    ]
+  },
+  {
+    "word": "Grandmother",
+    "rootWord": "Grandmother",
+    "members": [
+      {
+        "word": "grandmother",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grandmother/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Brother-in-law",
+    "rootWord": "Brother-in-law",
+    "members": [
+      {
+        "word": "brother-in-law",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brother-in-law/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cousin",
+    "rootWord": "Cousin",
+    "members": [
+      {
+        "word": "cousin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cousin/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Parent",
+    "rootWord": "Parent",
+    "members": [
+      {
+        "word": "parent",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parent/",
+        "meaning": ""
+      },
+      {
+        "word": "parental",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parental/",
+        "meaning": "parental"
+      }
+    ]
+  },
+  {
+    "word": "Relative",
+    "rootWord": "Relative",
+    "members": [
+      {
+        "word": "relative",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/relative/",
+        "meaning": ""
+      },
+      {
+        "word": "relatively",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "[ˈɹɛl.ə.tʰɪv.li]",
+        "meaning": "relatively"
+      },
+      {
+        "word": "relatival",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/relatival/",
+        "meaning": "relatival"
+      },
+      {
+        "word": "relativize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/relativize/",
+        "meaning": "relativize"
+      },
+      {
+        "word": "relativity",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɛləˈtɪvɨti/",
+        "meaning": "relativity"
+      }
+    ]
+  },
+  {
+    "word": "Mother-in-law",
+    "rootWord": "Mother-in-law",
+    "members": [
+      {
+        "word": "mother-in-law",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mother-in-law/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Father-in-law",
+    "rootWord": "Father-in-law",
+    "members": [
+      {
+        "word": "father-in-law",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/father-in-law/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sister-in-law",
+    "rootWord": "Sister-in-law",
+    "members": [
+      {
+        "word": "sister-in-law",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sister-in-law/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Adopt",
+    "rootWord": "Adopt",
+    "members": [
+      {
+        "word": "adopt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/adopt/",
+        "meaning": ""
+      },
+      {
+        "word": "adoptive",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/adoptive/",
+        "meaning": "adoptive"
+      },
+      {
+        "word": "adopter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/adopter/",
+        "meaning": "adopter"
+      }
+    ]
+  },
+  {
+    "word": "Children",
+    "rootWord": "Children",
+    "members": [
+      {
+        "word": "children",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/children/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Take care of",
+    "rootWord": "Take care of",
+    "members": [
+      {
+        "word": "take care of",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/take care of/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Family tree",
+    "rootWord": "Family tree",
+    "members": [
+      {
+        "word": "family tree",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/family tree/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Anniversary",
+    "rootWord": "Anniversary",
+    "members": [
+      {
+        "word": "anniversary",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/anniversary/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Close-knit",
+    "rootWord": "Close-knit",
+    "members": [
+      {
+        "word": "close-knit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/close-knit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stepchild",
+    "rootWord": "Stepchild",
+    "members": [
+      {
+        "word": "stepchild",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stepchild/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Half-brother",
+    "rootWord": "Half-brother",
+    "members": [
+      {
+        "word": "half-brother",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/half-brother/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Half-sister",
+    "rootWord": "Half-sister",
+    "members": [
+      {
+        "word": "half-sister",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/half-sister/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Godfather",
+    "rootWord": "Godfather",
+    "members": [
+      {
+        "word": "godfather",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/godfather/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hereditary",
+    "rootWord": "Hereditary",
+    "members": [
+      {
+        "word": "hereditary",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hereditary/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stepmother",
+    "rootWord": "Stepmother",
+    "members": [
+      {
+        "word": "stepmother",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stepmother/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stepfather",
+    "rootWord": "Stepfather",
+    "members": [
+      {
+        "word": "stepfather",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stepfather/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Orphan",
+    "rootWord": "Orphan",
+    "members": [
+      {
+        "word": "orphan",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/orphan/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Generation",
+    "rootWord": "Generation",
+    "members": [
+      {
+        "word": "generation",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/generation/",
+        "meaning": ""
+      },
+      {
+        "word": "genera",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒɛnəɹə/",
+        "meaning": "genera"
+      }
+    ]
+  }
+]

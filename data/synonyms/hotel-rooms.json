@@ -1,0 +1,313 @@
+[
+  {
+    "word": "Bar",
+    "synonyms": [
+      {
+        "word": "ban",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bæn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "prohibition",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌpɹəʊ(h)ɪˈbɪʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "barroom",
+        "partOfSpeech": "noun",
+        "pronunciation": "/barroom/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ginshop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ginshop/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chef",
+    "synonyms": [
+      {
+        "word": "magirist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/magirist/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "magirologist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/magirologist/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Waiter",
+    "synonyms": []
+  },
+  {
+    "word": "Waitress",
+    "synonyms": []
+  },
+  {
+    "word": "Bill",
+    "synonyms": [
+      {
+        "word": "billhook",
+        "partOfSpeech": "noun",
+        "pronunciation": "/billhook/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hand bill",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hand bill/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hedge bill",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hedge bill/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "billman",
+        "partOfSpeech": "noun",
+        "pronunciation": "/billman/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Service",
+    "synonyms": [
+      {
+        "word": "be with",
+        "partOfSpeech": "noun",
+        "pronunciation": "/be with/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "go to bed with",
+        "partOfSpeech": "noun",
+        "pronunciation": "/go to bed with/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sleep with",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sleep with/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "attend",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈtɛnd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tip",
+    "synonyms": [
+      {
+        "word": "eartipping",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eartipping/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɪp/",
+        "meaning": "Tiền boa"
+      },
+      {
+        "word": "extremity",
+        "partOfSpeech": "noun",
+        "pronunciation": "/extremity/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Knife",
+    "synonyms": []
+  },
+  {
+    "word": "Bowl",
+    "synonyms": [
+      {
+        "word": "bowlful",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowlful/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "crater",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɹeɪ.tə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hollow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɒl.əʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bowl cut",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowl cut/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Teapot",
+    "synonyms": []
+  },
+  {
+    "word": "Glass",
+    "synonyms": [
+      {
+        "word": "glass",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡlɑːs/",
+        "meaning": "Ly"
+      }
+    ]
+  },
+  {
+    "word": "Breakfast",
+    "synonyms": [
+      {
+        "word": "break one's fast",
+        "partOfSpeech": "noun",
+        "pronunciation": "/break one's fast/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dinner",
+    "synonyms": [
+      {
+        "word": "evening meal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/evening meal/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "supper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsʌpə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tea",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tiː/",
+        "meaning": "Trà"
+      },
+      {
+        "word": "banquet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbæŋkwɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Lunch",
+    "synonyms": [
+      {
+        "word": "luncheon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlʌntʃ.ən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nones",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nəʊnz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Booking oce",
+    "synonyms": []
+  },
+  {
+    "word": "Menu",
+    "synonyms": []
+  },
+  {
+    "word": "Starter",
+    "synonyms": [
+      {
+        "word": "appetizer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/appetizer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "entrée",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɑntɹeɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hors d'oeuvre",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɔəˈdɜːv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Main course",
+    "synonyms": [
+      {
+        "word": "main",
+        "partOfSpeech": "verb",
+        "pronunciation": "/main/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "main dish",
+        "partOfSpeech": "noun",
+        "pronunciation": "/main dish/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dessert",
+    "synonyms": [
+      {
+        "word": "afters",
+        "partOfSpeech": "noun",
+        "pronunciation": "/afters/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pudding",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpʊd.ɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sweet",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/swiːt/",
+        "meaning": "Ngọt ngào"
+      }
+    ]
+  }
+]

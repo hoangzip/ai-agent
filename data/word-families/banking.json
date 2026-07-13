@@ -1,0 +1,1213 @@
+[
+  {
+    "word": "Sta movements",
+    "rootWord": "Sta movements",
+    "members": [
+      {
+        "word": "sta movements",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sta movements/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Retire",
+    "rootWord": "Retire",
+    "members": [
+      {
+        "word": "retire",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/retire/",
+        "meaning": ""
+      },
+      {
+        "word": "retirement",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹəˈtaɪə(ɹ).mənt/",
+        "meaning": "retirement"
+      },
+      {
+        "word": "retiral",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈtʌɪəɹəl/",
+        "meaning": "retiral"
+      }
+    ]
+  },
+  {
+    "word": "Dismiss",
+    "rootWord": "Dismiss",
+    "members": [
+      {
+        "word": "dismiss",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dismiss/",
+        "meaning": ""
+      },
+      {
+        "word": "dismissal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dismissal/",
+        "meaning": "dismissal"
+      },
+      {
+        "word": "dismissive",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/dɪsˈmɪs.ɪv/",
+        "meaning": "dismissive"
+      }
+    ]
+  },
+  {
+    "word": "Finance",
+    "rootWord": "Finance",
+    "members": [
+      {
+        "word": "finance",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/finance/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Appointment",
+    "rootWord": "Appointment",
+    "members": [
+      {
+        "word": "appointment",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/appointment/",
+        "meaning": ""
+      },
+      {
+        "word": "appointive",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/appointive/",
+        "meaning": "appointive"
+      },
+      {
+        "word": "appoint",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈpɔɪnt/",
+        "meaning": "appoint"
+      }
+    ]
+  },
+  {
+    "word": "Multinational",
+    "rootWord": "Multinational",
+    "members": [
+      {
+        "word": "multinational",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/multinational/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Investor",
+    "rootWord": "Investor",
+    "members": [
+      {
+        "word": "investor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/investor/",
+        "meaning": ""
+      },
+      {
+        "word": "investment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪnˈvɛsmənt/",
+        "meaning": "investment"
+      },
+      {
+        "word": "invest",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪnˈvɛst/",
+        "meaning": "invest"
+      }
+    ]
+  },
+  {
+    "word": "Inherit",
+    "rootWord": "Inherit",
+    "members": [
+      {
+        "word": "inherit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/inherit/",
+        "meaning": ""
+      },
+      {
+        "word": "inheritor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/inheritor/",
+        "meaning": "inheritor"
+      },
+      {
+        "word": "inheritable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/inheritable/",
+        "meaning": "inheritable"
+      },
+      {
+        "word": "inheritance",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪnˈhɛrɪtəns/",
+        "meaning": "Sự thừa kế"
+      }
+    ]
+  },
+  {
+    "word": "Accountant",
+    "rootWord": "Accountant",
+    "members": [
+      {
+        "word": "accountant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/accountant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lend",
+    "rootWord": "Lend",
+    "members": [
+      {
+        "word": "lend",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lend/",
+        "meaning": ""
+      },
+      {
+        "word": "lender",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɛndɚ/",
+        "meaning": "lender"
+      }
+    ]
+  },
+  {
+    "word": "Borrow",
+    "rootWord": "Borrow",
+    "members": [
+      {
+        "word": "borrow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/borrow/",
+        "meaning": ""
+      },
+      {
+        "word": "borrower",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɔɹəuə/",
+        "meaning": "borrower"
+      }
+    ]
+  },
+  {
+    "word": "Rent",
+    "rootWord": "Rent",
+    "members": [
+      {
+        "word": "rent",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rent/",
+        "meaning": ""
+      },
+      {
+        "word": "renter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/renter/",
+        "meaning": "renter"
+      },
+      {
+        "word": "rental",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹɛntəl/",
+        "meaning": "rental"
+      },
+      {
+        "word": "rentable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/rentable/",
+        "meaning": "rentable"
+      }
+    ]
+  },
+  {
+    "word": "Distribution",
+    "rootWord": "Distribution",
+    "members": [
+      {
+        "word": "distribution",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/distribution/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Co-ordinate",
+    "rootWord": "Co-ordinate",
+    "members": [
+      {
+        "word": "co-ordinate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/co-ordinate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Purchase",
+    "rootWord": "Purchase",
+    "members": [
+      {
+        "word": "purchase",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/purchase/",
+        "meaning": ""
+      },
+      {
+        "word": "purchaser",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/purchaser/",
+        "meaning": "purchaser"
+      }
+    ]
+  },
+  {
+    "word": "Stock exchange",
+    "rootWord": "Stock exchange",
+    "members": [
+      {
+        "word": "stock exchange",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stock exchange/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stock market",
+    "rootWord": "Stock market",
+    "members": [
+      {
+        "word": "stock market",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stock market/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Opportunity",
+    "rootWord": "Opportunity",
+    "members": [
+      {
+        "word": "opportunity",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/opportunity/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Challenge",
+    "rootWord": "Challenge",
+    "members": [
+      {
+        "word": "challenge",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/challenge/",
+        "meaning": ""
+      },
+      {
+        "word": "challenger",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/challenger/",
+        "meaning": "challenger"
+      }
+    ]
+  },
+  {
+    "word": "Career",
+    "rootWord": "Career",
+    "members": [
+      {
+        "word": "career",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/career/",
+        "meaning": ""
+      },
+      {
+        "word": "care",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɛə/",
+        "meaning": "care"
+      },
+      {
+        "word": "careless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɛələs/",
+        "meaning": "careless"
+      },
+      {
+        "word": "careen",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəˈɹiːn/",
+        "meaning": "careen"
+      },
+      {
+        "word": "carer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/carer/",
+        "meaning": "carer"
+      },
+      {
+        "word": "careful",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɛːfəl/",
+        "meaning": "careful"
+      }
+    ]
+  },
+  {
+    "word": "Intensive course",
+    "rootWord": "Intensive course",
+    "members": [
+      {
+        "word": "intensive course",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/intensive course/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Commerce",
+    "rootWord": "Commerce",
+    "members": [
+      {
+        "word": "commerce",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/commerce/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Costly",
+    "rootWord": "Costly",
+    "members": [
+      {
+        "word": "costly",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/costly/",
+        "meaning": ""
+      },
+      {
+        "word": "costate",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/costate/",
+        "meaning": "costate"
+      },
+      {
+        "word": "cost",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɑst/",
+        "meaning": "cost"
+      },
+      {
+        "word": "costive",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɒstɪv/",
+        "meaning": "costive"
+      },
+      {
+        "word": "costal",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɒstl̩/",
+        "meaning": "costal"
+      },
+      {
+        "word": "coster",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coster/",
+        "meaning": "coster"
+      }
+    ]
+  },
+  {
+    "word": "Responsible",
+    "rootWord": "Responsible",
+    "members": [
+      {
+        "word": "responsible",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/responsible/",
+        "meaning": ""
+      },
+      {
+        "word": "responsibly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/responsibly/",
+        "meaning": "responsibly"
+      }
+    ]
+  },
+  {
+    "word": "Communicate",
+    "rootWord": "Communicate",
+    "members": [
+      {
+        "word": "communicate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/communicate/",
+        "meaning": ""
+      },
+      {
+        "word": "communicative",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/communicative/",
+        "meaning": "communicative"
+      },
+      {
+        "word": "communicator",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/communicator/",
+        "meaning": "communicator"
+      }
+    ]
+  },
+  {
+    "word": "Abroad",
+    "rootWord": "Abroad",
+    "members": [
+      {
+        "word": "abroad",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/abroad/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Inheritance",
+    "rootWord": "Inheritance",
+    "members": [
+      {
+        "word": "inheritance",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/inheritance/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fortune",
+    "rootWord": "Fortune",
+    "members": [
+      {
+        "word": "fortune",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fortune/",
+        "meaning": ""
+      },
+      {
+        "word": "fortunate",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfɔːt͡ʃənət/",
+        "meaning": "fortunate"
+      }
+    ]
+  },
+  {
+    "word": "Property",
+    "rootWord": "Property",
+    "members": [
+      {
+        "word": "property",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/property/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cash machine",
+    "rootWord": "Cash machine",
+    "members": [
+      {
+        "word": "cash machine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cash machine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Online account",
+    "rootWord": "Online account",
+    "members": [
+      {
+        "word": "online account",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/online account/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Insurance policy",
+    "rootWord": "Insurance policy",
+    "members": [
+      {
+        "word": "insurance policy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insurance policy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Credit card",
+    "rootWord": "Credit card",
+    "members": [
+      {
+        "word": "credit card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/credit card/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Debit card",
+    "rootWord": "Debit card",
+    "members": [
+      {
+        "word": "debit card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/debit card/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rental contract",
+    "rootWord": "Rental contract",
+    "members": [
+      {
+        "word": "rental contract",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rental contract/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Discount",
+    "rootWord": "Discount",
+    "members": [
+      {
+        "word": "discount",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/discount/",
+        "meaning": ""
+      },
+      {
+        "word": "discounter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/discounter/",
+        "meaning": "discounter"
+      }
+    ]
+  },
+  {
+    "word": "Credit limit",
+    "rootWord": "Credit limit",
+    "members": [
+      {
+        "word": "credit limit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/credit limit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Survey",
+    "rootWord": "Survey",
+    "members": [
+      {
+        "word": "survey",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/survey/",
+        "meaning": ""
+      },
+      {
+        "word": "surveyor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/surveyor/",
+        "meaning": "surveyor"
+      }
+    ]
+  },
+  {
+    "word": "Possession",
+    "rootWord": "Possession",
+    "members": [
+      {
+        "word": "possession",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/possession/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Equality",
+    "rootWord": "Equality",
+    "members": [
+      {
+        "word": "equality",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/equality/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Poverty",
+    "rootWord": "Poverty",
+    "members": [
+      {
+        "word": "poverty",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/poverty/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Charge",
+    "rootWord": "Charge",
+    "members": [
+      {
+        "word": "charge",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/charge/",
+        "meaning": ""
+      },
+      {
+        "word": "charger",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtʃɑːdʒə/",
+        "meaning": "charger"
+      },
+      {
+        "word": "chargeable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/chargeable/",
+        "meaning": "chargeable"
+      }
+    ]
+  },
+  {
+    "word": "Outsource",
+    "rootWord": "Outsource",
+    "members": [
+      {
+        "word": "outsource",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/outsource/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Grant",
+    "rootWord": "Grant",
+    "members": [
+      {
+        "word": "grant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grant/",
+        "meaning": ""
+      },
+      {
+        "word": "grantor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grantor/",
+        "meaning": "grantor"
+      }
+    ]
+  },
+  {
+    "word": "Warehouse",
+    "rootWord": "Warehouse",
+    "members": [
+      {
+        "word": "warehouse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/warehouse/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lease",
+    "rootWord": "Lease",
+    "members": [
+      {
+        "word": "lease",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lease/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "In-house",
+    "rootWord": "In-house",
+    "members": [
+      {
+        "word": "in-house",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/in-house/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Potential",
+    "rootWord": "Potential",
+    "members": [
+      {
+        "word": "potential",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/potential/",
+        "meaning": ""
+      },
+      {
+        "word": "potentialize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/potentialize/",
+        "meaning": "potentialize"
+      },
+      {
+        "word": "potentially",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/pəˈtɛnʃ(ə)li/",
+        "meaning": "potentially"
+      },
+      {
+        "word": "potentiality",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/potentiality/",
+        "meaning": "potentiality"
+      }
+    ]
+  },
+  {
+    "word": "Back-oce",
+    "rootWord": "Back-oce",
+    "members": [
+      {
+        "word": "back-oce",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/back-oce/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Campaign",
+    "rootWord": "Campaign",
+    "members": [
+      {
+        "word": "campaign",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/campaign/",
+        "meaning": ""
+      },
+      {
+        "word": "campaigner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/campaigner/",
+        "meaning": "campaigner"
+      }
+    ]
+  },
+  {
+    "word": "Insecurity",
+    "rootWord": "Insecurity",
+    "members": [
+      {
+        "word": "insecurity",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insecurity/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Insurance provider",
+    "rootWord": "Insurance provider",
+    "members": [
+      {
+        "word": "insurance provider",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insurance provider/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Compensation",
+    "rootWord": "Compensation",
+    "members": [
+      {
+        "word": "compensation",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/compensation/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Commit",
+    "rootWord": "Commit",
+    "members": [
+      {
+        "word": "commit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/commit/",
+        "meaning": ""
+      },
+      {
+        "word": "commitment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/commitment/",
+        "meaning": "commitment"
+      }
+    ]
+  },
+  {
+    "word": "Short-term cost",
+    "rootWord": "Short-term cost",
+    "members": [
+      {
+        "word": "short-term cost",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/short-term cost/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Long-term gain",
+    "rootWord": "Long-term gain",
+    "members": [
+      {
+        "word": "long-term gain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/long-term gain/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Expense",
+    "rootWord": "Expense",
+    "members": [
+      {
+        "word": "expense",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/expense/",
+        "meaning": ""
+      },
+      {
+        "word": "expensive",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪkˈspen.sɪv/",
+        "meaning": "Đắt"
+      }
+    ]
+  },
+  {
+    "word": "Invoice",
+    "rootWord": "Invoice",
+    "members": [
+      {
+        "word": "invoice",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/invoice/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bribery",
+    "rootWord": "Bribery",
+    "members": [
+      {
+        "word": "bribery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bribery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Corrupt",
+    "rootWord": "Corrupt",
+    "members": [
+      {
+        "word": "corrupt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/corrupt/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Balance of payment",
+    "rootWord": "Balance of payment",
+    "members": [
+      {
+        "word": "balance of payment",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/balance of payment/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Balance of trade",
+    "rootWord": "Balance of trade",
+    "members": [
+      {
+        "word": "balance of trade",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/balance of trade/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Budget",
+    "rootWord": "Budget",
+    "members": [
+      {
+        "word": "budget",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/budget/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cost of borrowing",
+    "rootWord": "Cost of borrowing",
+    "members": [
+      {
+        "word": "cost of borrowing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cost of borrowing/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Consumer price index",
+    "rootWord": "Consumer price index",
+    "members": [
+      {
+        "word": "consumer price index",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/consumer price index/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Retail banking",
+    "rootWord": "Retail banking",
+    "members": [
+      {
+        "word": "retail banking",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/retail banking/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Commercial bank",
+    "rootWord": "Commercial bank",
+    "members": [
+      {
+        "word": "commercial bank",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/commercial bank/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Central bank",
+    "rootWord": "Central bank",
+    "members": [
+      {
+        "word": "central bank",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/central bank/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Treasury",
+    "rootWord": "Treasury",
+    "members": [
+      {
+        "word": "treasury",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/treasury/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Investment bank",
+    "rootWord": "Investment bank",
+    "members": [
+      {
+        "word": "investment bank",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/investment bank/",
+        "meaning": ""
+      }
+    ]
+  }
+]

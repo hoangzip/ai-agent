@@ -1,0 +1,496 @@
+[
+  {
+    "word": "Music",
+    "examples": [
+      {
+        "en": "She listens to classical **music** to help her relax.",
+        "vi": "Cô ấy nghe nhạc cổ điển để giúp cô ấy thư giãn."
+      },
+      {
+        "en": "I love the **music** they played at the party last night.",
+        "vi": "Tôi yêu thích âm nhạc họ đã chơi ở bữa tiệc tối qua."
+      }
+    ]
+  },
+  {
+    "word": "Band",
+    "examples": [
+      {
+        "en": "The **band** is going on a world tour next month.",
+        "vi": "Ban nhạc sẽ đi lưu diễn thế giới vào tháng tới."
+      },
+      {
+        "en": "He plays drums in a local rock **band**.",
+        "vi": "Anh ấy chơi trống trong một ban nhạc rock ở địa phương."
+      }
+    ]
+  },
+  {
+    "word": "Play",
+    "examples": [
+      {
+        "en": "He loves to **play** the piano in his free time.",
+        "vi": "Anh ấy thích chơi đàn piano trong thời gian rảnh rỗi."
+      },
+      {
+        "en": "The radio station decided to **play** their new song.",
+        "vi": "Đài phát thanh đã quyết định phát bài hát mới của họ."
+      }
+    ]
+  },
+  {
+    "word": "Note",
+    "examples": [
+      {
+        "en": "She sang a high **note** perfectly at the end of the song.",
+        "vi": "Cô ấy đã hát một nốt nhạc cao một cách hoàn hảo ở cuối bài hát."
+      },
+      {
+        "en": "He sat at the piano and struck a single **note**.",
+        "vi": "Anh ấy ngồi ở cây đàn piano và gõ một nốt nhạc duy nhất."
+      }
+    ]
+  },
+  {
+    "word": "Drum",
+    "examples": [
+      {
+        "en": "He beat the **drum** loudly to start the ceremony.",
+        "vi": "Anh ấy gõ trống thật lớn để bắt đầu nghi lễ."
+      },
+      {
+        "en": "She was drumming her fingers on the **drum** kit.",
+        "vi": "Cô ấy đang gõ các ngón tay lên bộ trống."
+      }
+    ]
+  },
+  {
+    "word": "Playlist",
+    "examples": [
+      {
+        "en": "I created a special **playlist** of songs for the road trip.",
+        "vi": "Tôi đã tạo một danh sách phát nhạc đặc biệt cho chuyến đi đường dài."
+      },
+      {
+        "en": "This instrumental track is on my sleep **playlist**.",
+        "vi": "Bản nhạc không lời này nằm trong danh sách phát khi ngủ của tôi."
+      }
+    ]
+  },
+  {
+    "word": "Musician",
+    "examples": [
+      {
+        "en": "He is a talented **musician** who plays multiple instruments.",
+        "vi": "Anh ấy là một nhạc sĩ tài năng chơi được nhiều nhạc cụ."
+      },
+      {
+        "en": "The street **musician** gathered a large crowd of listeners.",
+        "vi": "Nhạc sĩ đường phố đã thu hút một đám đông người nghe lớn."
+      }
+    ]
+  },
+  {
+    "word": "Perform",
+    "examples": [
+      {
+        "en": "The artist is scheduled to **perform** live at the theater tonight.",
+        "vi": "Nghệ sĩ dự kiến sẽ biểu diễn trực tiếp tại nhà hát tối nay."
+      },
+      {
+        "en": "She was nervous before having to **perform** on stage.",
+        "vi": "Cô ấy đã lo lắng trước khi phải biểu diễn trên sân khấu."
+      }
+    ]
+  },
+  {
+    "word": "Rhythm",
+    "examples": [
+      {
+        "en": "The steady **rhythm** of the drums kept everyone dancing.",
+        "vi": "Nhịp điệu đều đặn của tiếng trống đã giữ cho mọi người tiếp tục nhảy múa."
+      },
+      {
+        "en": "This song has a fast, upbeat **rhythm**.",
+        "vi": "Bài hát này có một nhịp điệu nhanh và vui vẻ."
+      }
+    ]
+  },
+  {
+    "word": "Dance",
+    "examples": [
+      {
+        "en": "They learned a traditional **dance** for the wedding reception.",
+        "vi": "Họ đã học một điệu nhảy truyền thống cho tiệc chiêu đãi đám cưới."
+      },
+      {
+        "en": "We danced to the upbeat music all night **dance**.",
+        "vi": "Chúng tôi đã khiêu vũ theo điệu nhạc sôi động suốt đêm."
+      }
+    ]
+  },
+  {
+    "word": "Listen",
+    "examples": [
+      {
+        "en": "Please **listen** carefully to the instructions before starting.",
+        "vi": "Vui lòng lắng nghe cẩn thận các hướng dẫn trước khi bắt đầu."
+      },
+      {
+        "en": "I like to **listen** to podcasts while commuting.",
+        "vi": "Tôi thích nghe các chương trình phát thanh khi đi lại."
+      }
+    ]
+  },
+  {
+    "word": "Volume",
+    "examples": [
+      {
+        "en": "Could you turn down the **volume** of the television?",
+        "vi": "Bạn có thể vặn nhỏ âm lượng của ti vi xuống được không?"
+      },
+      {
+        "en": "The **volume** was turned up so high that the speakers shook.",
+        "vi": "Âm lượng được vặn lớn đến mức loa rung lên."
+      }
+    ]
+  },
+  {
+    "word": "Song",
+    "examples": [
+      {
+        "en": "She composed a beautiful **song** about her hometown.",
+        "vi": "Cô ấy đã sáng tác một bài hát tuyệt đẹp về quê hương của mình."
+      },
+      {
+        "en": "We all sang along to our favorite **song**.",
+        "vi": "Tất cả chúng tôi đều hát theo bài hát yêu thích của mình."
+      }
+    ]
+  },
+  {
+    "word": "Sing",
+    "examples": [
+      {
+        "en": "They gather around the campfire to **sing** folk songs.",
+        "vi": "Họ tụ tập quanh lửa trại để hát các bài hát dân ca."
+      },
+      {
+        "en": "She was asked to **sing** the national anthem at the stadium.",
+        "vi": "Cô ấy đã được yêu cầu hát quốc ca tại sân vận động."
+      }
+    ]
+  },
+  {
+    "word": "Piano",
+    "examples": [
+      {
+        "en": "She has been practicing the **piano** since she was five.",
+        "vi": "Cô ấy đã tập đàn piano từ khi lên năm tuổi."
+      },
+      {
+        "en": "The grand **piano** stood in the corner of the concert hall.",
+        "vi": "Cây đàn piano lớn đứng ở góc phòng hòa nhạc."
+      }
+    ]
+  },
+  {
+    "word": "Guitar",
+    "examples": [
+      {
+        "en": "He played a lovely melody on his acoustic **guitar**.",
+        "vi": "Anh ấy đã chơi một giai điệu dễ thương trên cây đàn ghi-ta acoustic của mình."
+      },
+      {
+        "en": "She bought an electric **guitar** and started taking lessons.",
+        "vi": "Cô ấy đã mua một cây đàn ghi-ta điện và bắt đầu học."
+      }
+    ]
+  },
+  {
+    "word": "Instrument",
+    "examples": [
+      {
+        "en": "The violin is a very expressive musical **instrument**.",
+        "vi": "Đàn vĩ cầm là một nhạc cụ âm nhạc rất giàu tính biểu cảm."
+      },
+      {
+        "en": "She plays three **instruments**: the flute, the piano, and the violin.",
+        "vi": "Cô ấy chơi ba nhạc cụ: sáo, piano và vĩ cầm."
+      }
+    ]
+  },
+  {
+    "word": "Harmony",
+    "examples": [
+      {
+        "en": "The two singers sang in perfect **harmony** during the chorus.",
+        "vi": "Hai ca sĩ đã hát hòa âm hoàn hảo trong suốt phần điệp khúc."
+      },
+      {
+        "en": "The colors in her painting are in perfect **harmony**.",
+        "vi": "Các màu sắc trong bức tranh của cô ấy hài hòa hoàn hảo với nhau."
+      }
+    ]
+  },
+  {
+    "word": "Melody",
+    "examples": [
+      {
+        "en": "The simple **melody** of the song stuck in my head all day.",
+        "vi": "Giai điệu đơn giản của bài hát cứ luẩn quẩn trong đầu tôi cả ngày."
+      },
+      {
+        "en": "He hummed a sweet **melody** as he walked down the street.",
+        "vi": "Anh ấy đã ngân nga một giai điệu ngọt ngào khi đi dạo trên phố."
+      }
+    ]
+  },
+  {
+    "word": "String",
+    "examples": [
+      {
+        "en": "The guitar has a broken **string** that needs to be replaced.",
+        "vi": "Cây đàn ghi-ta có một sợi dây bị đứt cần được thay thế."
+      },
+      {
+        "en": "Violins and cellos belong to the **string** family.",
+        "vi": "Đàn vĩ cầm và đàn trung vĩ cầm thuộc họ nhạc cụ dây."
+      }
+    ]
+  },
+  {
+    "word": "The brass",
+    "examples": [
+      {
+        "en": "**The brass** section of the orchestra sounded very powerful.",
+        "vi": "Bộ kèn đồng của dàn nhạc giao hưởng nghe rất mạnh mẽ."
+      },
+      {
+        "en": "Trombones and trumpets are part of **the brass** group.",
+        "vi": "Kèn trombone và kèn trumpet là một phần của nhóm kèn đồng."
+      }
+    ]
+  },
+  {
+    "word": "Symphony",
+    "examples": [
+      {
+        "en": "Beethoven's Ninth **Symphony** is one of his greatest masterpieces.",
+        "vi": "Bản giao hưởng số chín của Beethoven là một trong những kiệt tác vĩ đại nhất của ông."
+      },
+      {
+        "en": "The orchestra performed a major **symphony** by Mozart.",
+        "vi": "Dàn nhạc đã biểu diễn một bản giao hưởng lớn của Mozart."
+      }
+    ]
+  },
+  {
+    "word": "Overture",
+    "examples": [
+      {
+        "en": "The opera began with a dramatic and energetic **overture**.",
+        "vi": "Vở nhạc kịch bắt đầu bằng một khúc dạo đầu đầy kịch tính và tràn đầy năng lượng."
+      },
+      {
+        "en": "The concert opened with the **overture** to William Tell.",
+        "vi": "Buổi hòa nhạc đã mở màn bằng khúc dạo đầu vở William Tell."
+      }
+    ]
+  },
+  {
+    "word": "Conductor",
+    "examples": [
+      {
+        "en": "The **conductor** raised his baton and the orchestra began to play.",
+        "vi": "Nhạc trưởng giơ gậy chỉ huy lên và dàn nhạc bắt đầu chơi."
+      },
+      {
+        "en": "She is the first female chief **conductor** of the orchestra.",
+        "vi": "Cô ấy là nữ nhạc trưởng chính đầu tiên của dàn nhạc."
+      }
+    ]
+  },
+  {
+    "word": "Composer",
+    "examples": [
+      {
+        "en": "Mozart was a prolific **composer** of classical music.",
+        "vi": "Mozart là một nhà soạn nhạc xuất sắc của nền âm nhạc cổ điển."
+      },
+      {
+        "en": "She won an award as the best film score **composer**.",
+        "vi": "Cô ấy đã giành được giải thưởng dành cho nhà soạn nhạc nhạc phim xuất sắc nhất."
+      }
+    ]
+  },
+  {
+    "word": "Voice",
+    "examples": [
+      {
+        "en": "She has a sweet and powerful singing **voice**.",
+        "vi": "Cô ấy có một giọng hát ngọt ngào và đầy nội lực."
+      },
+      {
+        "en": "He lowered his **voice** to a whisper so no one could hear.",
+        "vi": "Anh ấy đã hạ giọng xuống mức thì thầm để không ai có thể nghe thấy."
+      }
+    ]
+  },
+  {
+    "word": "Solo",
+    "examples": [
+      {
+        "en": "He performed a brilliant violin **solo** during the concert.",
+        "vi": "Anh ấy đã trình diễn một màn độc tấu vĩ cầm xuất sắc trong suốt buổi hòa nhạc."
+      },
+      {
+        "en": "She sang a short **solo** before the chorus joined in.",
+        "vi": "Cô ấy đã hát một đoạn đơn ca ngắn trước khi dàn hợp xướng bắt đầu."
+      }
+    ]
+  },
+  {
+    "word": "Lead singer",
+    "examples": [
+      {
+        "en": "The **lead singer** interacted warmly with the audience.",
+        "vi": "Ca sĩ hát chính đã tương tác nồng nhiệt với khán giả."
+      },
+      {
+        "en": "He was the **lead singer** of the band for ten years.",
+        "vi": "Anh ấy đã là ca sĩ hát chính của ban nhạc trong mười năm."
+      }
+    ]
+  },
+  {
+    "word": "Guitarist",
+    "examples": [
+      {
+        "en": "She is the lead **guitarist** for a well-known rock band.",
+        "vi": "Cô ấy là nghệ sĩ chơi ghi-ta chính của một ban nhạc rock nổi tiếng."
+      },
+      {
+        "en": "The legendary **guitarist** played a complex solo.",
+        "vi": "Nghệ sĩ ghi-ta huyền thoại đã chơi một bản độc tấu phức tạp."
+      }
+    ]
+  },
+  {
+    "word": "Drummer",
+    "examples": [
+      {
+        "en": "The **drummer** set a fast tempo for the song.",
+        "vi": "Tay trống đã thiết lập một nhịp độ nhanh cho bài hát."
+      },
+      {
+        "en": "They are searching for a new **drummer** to join the tour.",
+        "vi": "Họ đang tìm kiếm một tay trống mới để tham gia chuyến lưu diễn."
+      }
+    ]
+  },
+  {
+    "word": "Lyrics",
+    "examples": [
+      {
+        "en": "I love this song, but I don't understand the **lyrics**.",
+        "vi": "Tôi yêu bài hát này, nhưng tôi không hiểu lời bài hát."
+      },
+      {
+        "en": "The songwriter wrote the **lyrics** on a napkin.",
+        "vi": "Người viết nhạc đã viết lời bài hát lên một chiếc khăn ăn."
+      }
+    ]
+  },
+  {
+    "word": "Chorus",
+    "examples": [
+      {
+        "en": "Everyone joined in to sing the catchy **chorus** of the song.",
+        "vi": "Mọi người cùng tham gia hát phần điệp khúc bắt tai của bài hát."
+      },
+      {
+        "en": "The **chorus** sang beautifully behind the lead vocalist.",
+        "vi": "Dàn hợp xướng đã hát rất hay ở phía sau ca sĩ chính."
+      }
+    ]
+  },
+  {
+    "word": "Opera",
+    "examples": [
+      {
+        "en": "We went to the theater to watch a famous Italian **opera**.",
+        "vi": "Chúng tôi đã đến nhà hát để xem một vở opera nổi tiếng của Ý."
+      },
+      {
+        "en": "She trained for years to become an **opera** singer.",
+        "vi": "Cô ấy đã tập luyện nhiều năm để trở thành một ca sĩ nhạc kịch opera."
+      }
+    ]
+  },
+  {
+    "word": "Folk music",
+    "examples": [
+      {
+        "en": "They enjoy listening to traditional Irish **folk music**.",
+        "vi": "Họ thích nghe nhạc dân gian truyền thống của Ireland."
+      },
+      {
+        "en": "The festival features acoustic sets of **folk music**.",
+        "vi": "Lễ hội có các buổi biểu diễn mộc mạc của nhạc dân gian."
+      }
+    ]
+  },
+  {
+    "word": "Album",
+    "examples": [
+      {
+        "en": "The band released their debut studio **album** last week.",
+        "vi": "Ban nhạc đã phát hành album phòng thu đầu tay của họ vào tuần trước."
+      },
+      {
+        "en": "His new **album** reached number one on the charts.",
+        "vi": "Album mới của anh ấy đã đạt vị trí số một trên bảng xếp hạng."
+      }
+    ]
+  },
+  {
+    "word": "Tune",
+    "examples": [
+      {
+        "en": "The band played a lively **tune** that made everyone want to dance.",
+        "vi": "Ban nhạc đã chơi một giai điệu sống động khiến mọi người đều muốn nhảy múa."
+      },
+      {
+        "en": "I can't get that catchy **tune** out of my head.",
+        "vi": "Tôi không thể xóa giai điệu bắt tai đó khỏi đầu mình."
+      }
+    ]
+  },
+  {
+    "word": "Violin",
+    "examples": [
+      {
+        "en": "He is learning to play the **violin** at the music academy.",
+        "vi": "Anh ấy đang học chơi đàn vĩ cầm tại học viện âm nhạc."
+      },
+      {
+        "en": "The sound of the acoustic **violin** was warm and clear.",
+        "vi": "Âm thanh của cây đàn vĩ cầm acoustic rất ấm và trong trẻo."
+      }
+    ]
+  },
+  {
+    "word": "Classical music",
+    "examples": [
+      {
+        "en": "My grandfather prefers **classical music** to modern pop songs.",
+        "vi": "Ông của tôi thích nhạc cổ điển hơn các bài hát nhạc pop hiện đại."
+      },
+      {
+        "en": "Learning **classical music** builds a strong musical foundation.",
+        "vi": "Học nhạc cổ điển xây dựng một nền tảng âm nhạc vững chắc."
+      }
+    ]
+  }
+]

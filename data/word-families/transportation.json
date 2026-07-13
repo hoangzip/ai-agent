@@ -1,0 +1,757 @@
+[
+  {
+    "word": "Road",
+    "rootWord": "Road",
+    "members": [
+      {
+        "word": "road",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/road/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Trac",
+    "rootWord": "Trac",
+    "members": [
+      {
+        "word": "trac",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trac/",
+        "meaning": ""
+      },
+      {
+        "word": "traction",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɹæk.ʃən/",
+        "meaning": "traction"
+      },
+      {
+        "word": "tracer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɹeɪsə(ɹ)/",
+        "meaning": "tracer"
+      }
+    ]
+  },
+  {
+    "word": "Vehicle",
+    "rootWord": "Vehicle",
+    "members": [
+      {
+        "word": "vehicle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vehicle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Roadside",
+    "rootWord": "Roadside",
+    "members": [
+      {
+        "word": "roadside",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/roadside/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Car hire",
+    "rootWord": "Car hire",
+    "members": [
+      {
+        "word": "car hire",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/car hire/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ring road",
+    "rootWord": "Ring road",
+    "members": [
+      {
+        "word": "ring road",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ring road/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Petrol station",
+    "rootWord": "Petrol station",
+    "members": [
+      {
+        "word": "petrol station",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/petrol station/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Kerb",
+    "rootWord": "Kerb",
+    "members": [
+      {
+        "word": "kerb",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kerb/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Road sign",
+    "rootWord": "Road sign",
+    "members": [
+      {
+        "word": "road sign",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/road sign/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pedestrian crossing",
+    "rootWord": "Pedestrian crossing",
+    "members": [
+      {
+        "word": "pedestrian crossing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pedestrian crossing/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Turning",
+    "rootWord": "Turning",
+    "members": [
+      {
+        "word": "turning",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turning/",
+        "meaning": ""
+      },
+      {
+        "word": "turn",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/turn/",
+        "meaning": "turn"
+      },
+      {
+        "word": "turner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turner/",
+        "meaning": "turner"
+      }
+    ]
+  },
+  {
+    "word": "Fork",
+    "rootWord": "Fork",
+    "members": [
+      {
+        "word": "fork",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fork/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Toll",
+    "rootWord": "Toll",
+    "members": [
+      {
+        "word": "toll",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/toll/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Toll road",
+    "rootWord": "Toll road",
+    "members": [
+      {
+        "word": "toll road",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/toll road/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Motorway",
+    "rootWord": "Motorway",
+    "members": [
+      {
+        "word": "motorway",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/motorway/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hard shoulder",
+    "rootWord": "Hard shoulder",
+    "members": [
+      {
+        "word": "hard shoulder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hard shoulder/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dual carriageway",
+    "rootWord": "Dual carriageway",
+    "members": [
+      {
+        "word": "dual carriageway",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dual carriageway/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "One-way street",
+    "rootWord": "One-way street",
+    "members": [
+      {
+        "word": "one-way street",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/one-way street/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "T-junction",
+    "rootWord": "T-junction",
+    "members": [
+      {
+        "word": "t-junction",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/t-junction/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Roundabout",
+    "rootWord": "Roundabout",
+    "members": [
+      {
+        "word": "roundabout",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/roundabout/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Accident",
+    "rootWord": "Accident",
+    "members": [
+      {
+        "word": "accident",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/accident/",
+        "meaning": ""
+      },
+      {
+        "word": "accidental",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌæk.sɪ.ˈdɛn.tl̩/",
+        "meaning": "accidental"
+      }
+    ]
+  },
+  {
+    "word": "Breathalyser",
+    "rootWord": "Breathalyser",
+    "members": [
+      {
+        "word": "breathalyser",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/breathalyser/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Trac warden",
+    "rootWord": "Trac warden",
+    "members": [
+      {
+        "word": "trac warden",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trac warden/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Parking-meter",
+    "rootWord": "Parking-meter",
+    "members": [
+      {
+        "word": "parking-meter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parking-meter/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Car park",
+    "rootWord": "Car park",
+    "members": [
+      {
+        "word": "car park",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/car park/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Parking space",
+    "rootWord": "Parking space",
+    "members": [
+      {
+        "word": "parking space",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parking space/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Multi-storey car park",
+    "rootWord": "Multi-storey car park",
+    "members": [
+      {
+        "word": "multi-storey car park",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/multi-storey car park/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Parking ticket",
+    "rootWord": "Parking ticket",
+    "members": [
+      {
+        "word": "parking ticket",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parking ticket/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Driving licence",
+    "rootWord": "Driving licence",
+    "members": [
+      {
+        "word": "driving licence",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/driving licence/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Reverse gear",
+    "rootWord": "Reverse gear",
+    "members": [
+      {
+        "word": "reverse gear",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reverse gear/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Learner driver",
+    "rootWord": "Learner driver",
+    "members": [
+      {
+        "word": "learner driver",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/learner driver/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Passenger",
+    "rootWord": "Passenger",
+    "members": [
+      {
+        "word": "passenger",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/passenger/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stall",
+    "rootWord": "Stall",
+    "members": [
+      {
+        "word": "stall",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stall/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tyre pressure",
+    "rootWord": "Tyre pressure",
+    "members": [
+      {
+        "word": "tyre pressure",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tyre pressure/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Trac light",
+    "rootWord": "Trac light",
+    "members": [
+      {
+        "word": "trac light",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trac light/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Speed limit",
+    "rootWord": "Speed limit",
+    "members": [
+      {
+        "word": "speed limit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/speed limit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Speeding ne",
+    "rootWord": "Speeding ne",
+    "members": [
+      {
+        "word": "speeding ne",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/speeding ne/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Level crossing",
+    "rootWord": "Level crossing",
+    "members": [
+      {
+        "word": "level crossing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/level crossing/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jump leads",
+    "rootWord": "Jump leads",
+    "members": [
+      {
+        "word": "jump leads",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jump leads/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Oil",
+    "rootWord": "Oil",
+    "members": [
+      {
+        "word": "oil",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oil/",
+        "meaning": ""
+      },
+      {
+        "word": "oiler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɔɪlə/",
+        "meaning": "oiler"
+      },
+      {
+        "word": "oily",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɔɪli/",
+        "meaning": "oily"
+      }
+    ]
+  },
+  {
+    "word": "Diesel",
+    "rootWord": "Diesel",
+    "members": [
+      {
+        "word": "diesel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diesel/",
+        "meaning": ""
+      },
+      {
+        "word": "dieselize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dieselize/",
+        "meaning": "dieselize"
+      }
+    ]
+  },
+  {
+    "word": "Petrol",
+    "rootWord": "Petrol",
+    "members": [
+      {
+        "word": "petrol",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/petrol/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Unleaded",
+    "rootWord": "Unleaded",
+    "members": [
+      {
+        "word": "unleaded",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unleaded/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Petrol pump",
+    "rootWord": "Petrol pump",
+    "members": [
+      {
+        "word": "petrol pump",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/petrol pump/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Driver",
+    "rootWord": "Driver",
+    "members": [
+      {
+        "word": "driver",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/driver/",
+        "meaning": ""
+      },
+      {
+        "word": "driven",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈdɹɪvən/",
+        "meaning": "driven"
+      },
+      {
+        "word": "drivable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdɹaɪvəbl̩/",
+        "meaning": "drivable"
+      }
+    ]
+  },
+  {
+    "word": "Drive",
+    "rootWord": "Drive",
+    "members": [
+      {
+        "word": "drive",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drive/",
+        "meaning": ""
+      },
+      {
+        "word": "driven",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈdɹɪvən/",
+        "meaning": "driven"
+      },
+      {
+        "word": "drivable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdɹaɪvəbl̩/",
+        "meaning": "drivable"
+      },
+      {
+        "word": "driver",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdraɪvər/",
+        "meaning": "Tài xế"
+      }
+    ]
+  },
+  {
+    "word": "Change gear",
+    "rootWord": "Change gear",
+    "members": [
+      {
+        "word": "change gear",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/change gear/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jack",
+    "rootWord": "Jack",
+    "members": [
+      {
+        "word": "jack",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jack/",
+        "meaning": ""
+      },
+      {
+        "word": "jacky",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jacky/",
+        "meaning": "jacky"
+      },
+      {
+        "word": "jackal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒækəl/",
+        "meaning": "jackal"
+      }
+    ]
+  },
+  {
+    "word": "Flat tyre",
+    "rootWord": "Flat tyre",
+    "members": [
+      {
+        "word": "flat tyre",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flat tyre/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Puncture",
+    "rootWord": "Puncture",
+    "members": [
+      {
+        "word": "puncture",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/puncture/",
+        "meaning": ""
+      }
+    ]
+  }
+]

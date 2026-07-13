@@ -1,0 +1,537 @@
+[
+  {
+    "word": "Orange",
+    "rootWord": "Orange",
+    "members": [
+      {
+        "word": "orange",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/orange/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lemon",
+    "rootWord": "Lemon",
+    "members": [
+      {
+        "word": "lemon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lemon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mango",
+    "rootWord": "Mango",
+    "members": [
+      {
+        "word": "mango",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mango/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Apple",
+    "rootWord": "Apple",
+    "members": [
+      {
+        "word": "apple",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/apple/",
+        "meaning": ""
+      },
+      {
+        "word": "apply",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈplaɪ/",
+        "meaning": "apply"
+      }
+    ]
+  },
+  {
+    "word": "Tangerine",
+    "rootWord": "Tangerine",
+    "members": [
+      {
+        "word": "tangerine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tangerine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Grape",
+    "rootWord": "Grape",
+    "members": [
+      {
+        "word": "grape",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grape/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Strawberry",
+    "rootWord": "Strawberry",
+    "members": [
+      {
+        "word": "strawberry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/strawberry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Melon",
+    "rootWord": "Melon",
+    "members": [
+      {
+        "word": "melon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/melon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Passion fruit",
+    "rootWord": "Passion fruit",
+    "members": [
+      {
+        "word": "passion fruit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/passion fruit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Grapefruit",
+    "rootWord": "Grapefruit",
+    "members": [
+      {
+        "word": "grapefruit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grapefruit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Watermelon",
+    "rootWord": "Watermelon",
+    "members": [
+      {
+        "word": "watermelon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/watermelon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Peach",
+    "rootWord": "Peach",
+    "members": [
+      {
+        "word": "peach",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/peach/",
+        "meaning": ""
+      },
+      {
+        "word": "peachy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpiːtʃi/",
+        "meaning": "peachy"
+      }
+    ]
+  },
+  {
+    "word": "Pear",
+    "rootWord": "Pear",
+    "members": [
+      {
+        "word": "pear",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pear/",
+        "meaning": ""
+      },
+      {
+        "word": "pearly",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pearly/",
+        "meaning": "pearly"
+      }
+    ]
+  },
+  {
+    "word": "Banana",
+    "rootWord": "Banana",
+    "members": [
+      {
+        "word": "banana",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/banana/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Plum",
+    "rootWord": "Plum",
+    "members": [
+      {
+        "word": "plum",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plum/",
+        "meaning": ""
+      },
+      {
+        "word": "plumy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/plumy/",
+        "meaning": "plumy"
+      }
+    ]
+  },
+  {
+    "word": "Papaya",
+    "rootWord": "Papaya",
+    "members": [
+      {
+        "word": "papaya",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/papaya/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Avocado",
+    "rootWord": "Avocado",
+    "members": [
+      {
+        "word": "avocado",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/avocado/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Starfruit",
+    "rootWord": "Starfruit",
+    "members": [
+      {
+        "word": "starfruit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/starfruit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pineapple",
+    "rootWord": "Pineapple",
+    "members": [
+      {
+        "word": "pineapple",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pineapple/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coconut",
+    "rootWord": "Coconut",
+    "members": [
+      {
+        "word": "coconut",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coconut/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Raspberry",
+    "rootWord": "Raspberry",
+    "members": [
+      {
+        "word": "raspberry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/raspberry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nectarine",
+    "rootWord": "Nectarine",
+    "members": [
+      {
+        "word": "nectarine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nectarine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mulberry",
+    "rootWord": "Mulberry",
+    "members": [
+      {
+        "word": "mulberry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mulberry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Raisin",
+    "rootWord": "Raisin",
+    "members": [
+      {
+        "word": "raisin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/raisin/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jackfruit",
+    "rootWord": "Jackfruit",
+    "members": [
+      {
+        "word": "jackfruit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jackfruit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Persimmon",
+    "rootWord": "Persimmon",
+    "members": [
+      {
+        "word": "persimmon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/persimmon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dragon fruit",
+    "rootWord": "Dragon fruit",
+    "members": [
+      {
+        "word": "dragon fruit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dragon fruit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Custard apple",
+    "rootWord": "Custard apple",
+    "members": [
+      {
+        "word": "custard apple",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/custard apple/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Quince",
+    "rootWord": "Quince",
+    "members": [
+      {
+        "word": "quince",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/quince/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cherry",
+    "rootWord": "Cherry",
+    "members": [
+      {
+        "word": "cherry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cherry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Kiwi",
+    "rootWord": "Kiwi",
+    "members": [
+      {
+        "word": "kiwi",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kiwi/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pomegranate",
+    "rootWord": "Pomegranate",
+    "members": [
+      {
+        "word": "pomegranate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pomegranate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Guava",
+    "rootWord": "Guava",
+    "members": [
+      {
+        "word": "guava",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/guava/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Apricot",
+    "rootWord": "Apricot",
+    "members": [
+      {
+        "word": "apricot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/apricot/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Blueberry",
+    "rootWord": "Blueberry",
+    "members": [
+      {
+        "word": "blueberry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blueberry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Durian",
+    "rootWord": "Durian",
+    "members": [
+      {
+        "word": "durian",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/durian/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lychee",
+    "rootWord": "Lychee",
+    "members": [
+      {
+        "word": "lychee",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lychee/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tamarind",
+    "rootWord": "Tamarind",
+    "members": [
+      {
+        "word": "tamarind",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tamarind/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Kumquat",
+    "rootWord": "Kumquat",
+    "members": [
+      {
+        "word": "kumquat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kumquat/",
+        "meaning": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "word": "Village",
+    "antonyms": []
+  },
+  {
+    "word": "Countryside",
+    "antonyms": []
+  },
+  {
+    "word": "Cottage",
+    "antonyms": []
+  },
+  {
+    "word": "Winding",
+    "antonyms": []
+  },
+  {
+    "word": "Well",
+    "antonyms": []
+  },
+  {
+    "word": "Bualo",
+    "antonyms": []
+  },
+  {
+    "word": "Field",
+    "antonyms": [
+      {
+        "word": "bat",
+        "partOfSpeech": "noun",
+        "pronunciation": "bæt/",
+        "meaning": "Dơi"
+      }
+    ]
+  },
+  {
+    "word": "Canal",
+    "antonyms": []
+  },
+  {
+    "word": "River",
+    "antonyms": []
+  },
+  {
+    "word": "Pond",
+    "antonyms": []
+  },
+  {
+    "word": "Folk music",
+    "antonyms": []
+  },
+  {
+    "word": "Farm",
+    "antonyms": []
+  },
+  {
+    "word": "Plow",
+    "antonyms": []
+  },
+  {
+    "word": "Agriculture",
+    "antonyms": []
+  },
+  {
+    "word": "Boat",
+    "antonyms": []
+  },
+  {
+    "word": "Peaceful",
+    "antonyms": [
+      {
+        "word": "at war",
+        "partOfSpeech": "noun",
+        "pronunciation": "/at war/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "warring",
+        "partOfSpeech": "verb",
+        "pronunciation": "/warring/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "belligerent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/belligerent/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "violent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈvaɪ(ə)lənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bay",
+    "antonyms": []
+  },
+  {
+    "word": "Hill",
+    "antonyms": []
+  },
+  {
+    "word": "Forest",
+    "antonyms": []
+  },
+  {
+    "word": "Mountain",
+    "antonyms": []
+  },
+  {
+    "word": "Port",
+    "antonyms": [
+      {
+        "word": "starboard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈstɑɹbɚd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Lake",
+    "antonyms": []
+  },
+  {
+    "word": "Sea",
+    "antonyms": []
+  },
+  {
+    "word": "Sand",
+    "antonyms": []
+  },
+  {
+    "word": "Valley",
+    "antonyms": []
+  },
+  {
+    "word": "Waterfall",
+    "antonyms": []
+  },
+  {
+    "word": "Barn",
+    "antonyms": []
+  },
+  {
+    "word": "Harvest",
+    "antonyms": []
+  },
+  {
+    "word": "Cattle",
+    "antonyms": []
+  },
+  {
+    "word": "Rural",
+    "antonyms": [
+      {
+        "word": "suburban",
+        "partOfSpeech": "noun",
+        "pronunciation": "/səˈbɜː(ɹ)bən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "urban",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɜːbən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cli",
+    "antonyms": []
+  },
+  {
+    "word": "Landscape",
+    "antonyms": [
+      {
+        "word": "portrait",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɔːtɹeɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Terraced house",
+    "antonyms": []
+  },
+  {
+    "word": "View",
+    "antonyms": [
+      {
+        "word": "controller",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈtɹəʊlə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "model",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmɒd.əl/",
+        "meaning": "Người mẫu"
+      }
+    ]
+  }
+]

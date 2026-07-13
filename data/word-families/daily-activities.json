@@ -1,0 +1,725 @@
+[
+  {
+    "word": "Brush your teeth",
+    "rootWord": "Brush your teeth",
+    "members": [
+      {
+        "word": "brush your teeth",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brush your teeth/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Buy",
+    "rootWord": "Buy",
+    "members": [
+      {
+        "word": "buy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/buy/",
+        "meaning": ""
+      },
+      {
+        "word": "buyer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbaɪ.ə(ɹ)/",
+        "meaning": "buyer"
+      },
+      {
+        "word": "buyable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbaɪəbəl/",
+        "meaning": "buyable"
+      }
+    ]
+  },
+  {
+    "word": "Comb the hair",
+    "rootWord": "Comb the hair",
+    "members": [
+      {
+        "word": "comb the hair",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/comb the hair/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cook",
+    "rootWord": "Cook",
+    "members": [
+      {
+        "word": "cook",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cook/",
+        "meaning": ""
+      },
+      {
+        "word": "cooker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkʊk.ər/",
+        "meaning": "Bếp, nồi nấu"
+      }
+    ]
+  },
+  {
+    "word": "Do exercise",
+    "rootWord": "Do exercise",
+    "members": [
+      {
+        "word": "do exercise",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/do exercise/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Do your homework",
+    "rootWord": "Do your homework",
+    "members": [
+      {
+        "word": "do your homework",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/do your homework/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Eat out",
+    "rootWord": "Eat out",
+    "members": [
+      {
+        "word": "eat out",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eat out/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Feed the dog",
+    "rootWord": "Feed the dog",
+    "members": [
+      {
+        "word": "feed the dog",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/feed the dog/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Finish working",
+    "rootWord": "Finish working",
+    "members": [
+      {
+        "word": "finish working",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/finish working/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Gardening",
+    "rootWord": "Gardening",
+    "members": [
+      {
+        "word": "gardening",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gardening/",
+        "meaning": ""
+      },
+      {
+        "word": "gardener",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡɑːdnə/",
+        "meaning": "gardener"
+      },
+      {
+        "word": "garden",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/garden/",
+        "meaning": "garden"
+      }
+    ]
+  },
+  {
+    "word": "Get dressed",
+    "rootWord": "Get dressed",
+    "members": [
+      {
+        "word": "get dressed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/get dressed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Get up",
+    "rootWord": "Get up",
+    "members": [
+      {
+        "word": "get up",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/get up/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Go home",
+    "rootWord": "Go home",
+    "members": [
+      {
+        "word": "go home",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/go home/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Go shopping",
+    "rootWord": "Go shopping",
+    "members": [
+      {
+        "word": "go shopping",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/go shopping/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Go to bed",
+    "rootWord": "Go to bed",
+    "members": [
+      {
+        "word": "go to bed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/go to bed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Go to the movies",
+    "rootWord": "Go to the movies",
+    "members": [
+      {
+        "word": "go to the movies",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/go to the movies/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Have a bath",
+    "rootWord": "Have a bath",
+    "members": [
+      {
+        "word": "have a bath",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/have a bath/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Have a nap",
+    "rootWord": "Have a nap",
+    "members": [
+      {
+        "word": "have a nap",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/have a nap/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Have breakfast",
+    "rootWord": "Have breakfast",
+    "members": [
+      {
+        "word": "have breakfast",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/have breakfast/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Have dinner",
+    "rootWord": "Have dinner",
+    "members": [
+      {
+        "word": "have dinner",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/have dinner/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Have lunch",
+    "rootWord": "Have lunch",
+    "members": [
+      {
+        "word": "have lunch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/have lunch/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Have a shower",
+    "rootWord": "Have a shower",
+    "members": [
+      {
+        "word": "have a shower",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/have a shower/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Listen to music",
+    "rootWord": "Listen to music",
+    "members": [
+      {
+        "word": "listen to music",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/listen to music/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Make breakfast",
+    "rootWord": "Make breakfast",
+    "members": [
+      {
+        "word": "make breakfast",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/make breakfast/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Make up",
+    "rootWord": "Make up",
+    "members": [
+      {
+        "word": "make up",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/make up/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Meditation",
+    "rootWord": "Meditation",
+    "members": [
+      {
+        "word": "meditation",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/meditation/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Play an instrument",
+    "rootWord": "Play an instrument",
+    "members": [
+      {
+        "word": "play an instrument",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/play an instrument/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Play outside",
+    "rootWord": "Play outside",
+    "members": [
+      {
+        "word": "play outside",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/play outside/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Play sports",
+    "rootWord": "Play sports",
+    "members": [
+      {
+        "word": "play sports",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/play sports/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Play video games",
+    "rootWord": "Play video games",
+    "members": [
+      {
+        "word": "play video games",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/play video games/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Read books",
+    "rootWord": "Read books",
+    "members": [
+      {
+        "word": "read books",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/read books/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Read newspapers",
+    "rootWord": "Read newspapers",
+    "members": [
+      {
+        "word": "read newspapers",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/read newspapers/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Relax",
+    "rootWord": "Relax",
+    "members": [
+      {
+        "word": "relax",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/relax/",
+        "meaning": ""
+      },
+      {
+        "word": "relaxer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/relaxer/",
+        "meaning": "relaxer"
+      }
+    ]
+  },
+  {
+    "word": "Set the alarm",
+    "rootWord": "Set the alarm",
+    "members": [
+      {
+        "word": "set the alarm",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/set the alarm/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shave",
+    "rootWord": "Shave",
+    "members": [
+      {
+        "word": "shave",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shave/",
+        "meaning": ""
+      },
+      {
+        "word": "shaver",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shaver/",
+        "meaning": "shaver"
+      },
+      {
+        "word": "shaven",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈʃeɪvən/",
+        "meaning": "shaven"
+      }
+    ]
+  },
+  {
+    "word": "Sleep",
+    "rootWord": "Sleep",
+    "members": [
+      {
+        "word": "sleep",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleep/",
+        "meaning": ""
+      },
+      {
+        "word": "sleeper",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleeper/",
+        "meaning": "sleeper"
+      },
+      {
+        "word": "sleepless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sleepless/",
+        "meaning": "sleepless"
+      },
+      {
+        "word": "sleepy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsliːpi/",
+        "meaning": "Buồn ngủ"
+      }
+    ]
+  },
+  {
+    "word": "Study",
+    "rootWord": "Study",
+    "members": [
+      {
+        "word": "study",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/study/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Surf the internet",
+    "rootWord": "Surf the internet",
+    "members": [
+      {
+        "word": "surf the internet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/surf the internet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Take the rubbish out",
+    "rootWord": "Take the rubbish out",
+    "members": [
+      {
+        "word": "take the rubbish out",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/take the rubbish out/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Drink",
+    "rootWord": "Drink",
+    "members": [
+      {
+        "word": "drink",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drink/",
+        "meaning": ""
+      },
+      {
+        "word": "drinker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drinker/",
+        "meaning": "drinker"
+      },
+      {
+        "word": "drinkable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drinkable/",
+        "meaning": "drinkable"
+      }
+    ]
+  },
+  {
+    "word": "Turn o",
+    "rootWord": "Turn o",
+    "members": [
+      {
+        "word": "turn o",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turn o/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Visit your friend",
+    "rootWord": "Visit your friend",
+    "members": [
+      {
+        "word": "visit your friend",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/visit your friend/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wake up",
+    "rootWord": "Wake up",
+    "members": [
+      {
+        "word": "wake up",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wake up/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wash your face",
+    "rootWord": "Wash your face",
+    "members": [
+      {
+        "word": "wash your face",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wash your face/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wash the dishes",
+    "rootWord": "Wash the dishes",
+    "members": [
+      {
+        "word": "wash the dishes",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wash the dishes/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Watch television",
+    "rootWord": "Watch television",
+    "members": [
+      {
+        "word": "watch television",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/watch television/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Work",
+    "rootWord": "Work",
+    "members": [
+      {
+        "word": "work",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/work/",
+        "meaning": ""
+      },
+      {
+        "word": "workable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/workable/",
+        "meaning": "workable"
+      },
+      {
+        "word": "worker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɜː.kə/",
+        "meaning": "worker"
+      },
+      {
+        "word": "workless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/workless/",
+        "meaning": "workless"
+      }
+    ]
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "word": "Caterpillar",
+    "rootWord": "Caterpillar",
+    "members": [
+      {
+        "word": "caterpillar",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/caterpillar/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cocoon",
+    "rootWord": "Cocoon",
+    "members": [
+      {
+        "word": "cocoon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cocoon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Butterfly",
+    "rootWord": "Butterfly",
+    "members": [
+      {
+        "word": "butterfly",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/butterfly/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dragonfly",
+    "rootWord": "Dragonfly",
+    "members": [
+      {
+        "word": "dragonfly",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dragonfly/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cricket",
+    "rootWord": "Cricket",
+    "members": [
+      {
+        "word": "cricket",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cricket/",
+        "meaning": ""
+      },
+      {
+        "word": "cricketer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cricketer/",
+        "meaning": "cricketer"
+      }
+    ]
+  },
+  {
+    "word": "Grasshopper",
+    "rootWord": "Grasshopper",
+    "members": [
+      {
+        "word": "grasshopper",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grasshopper/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cockroach",
+    "rootWord": "Cockroach",
+    "members": [
+      {
+        "word": "cockroach",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cockroach/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Beetle",
+    "rootWord": "Beetle",
+    "members": [
+      {
+        "word": "beetle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beetle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Termite",
+    "rootWord": "Termite",
+    "members": [
+      {
+        "word": "termite",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/termite/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ant",
+    "rootWord": "Ant",
+    "members": [
+      {
+        "word": "ant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ant/",
+        "meaning": ""
+      },
+      {
+        "word": "antic",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæn.tɪk/",
+        "meaning": "antic"
+      }
+    ]
+  },
+  {
+    "word": "Mosquito",
+    "rootWord": "Mosquito",
+    "members": [
+      {
+        "word": "mosquito",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mosquito/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ladybug",
+    "rootWord": "Ladybug",
+    "members": [
+      {
+        "word": "ladybug",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ladybug/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Spider",
+    "rootWord": "Spider",
+    "members": [
+      {
+        "word": "spider",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spider/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Firefly",
+    "rootWord": "Firefly",
+    "members": [
+      {
+        "word": "firefly",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/firefly/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fly",
+    "rootWord": "Fly",
+    "members": [
+      {
+        "word": "fly",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fly/",
+        "meaning": ""
+      },
+      {
+        "word": "flyer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flyer/",
+        "meaning": "flyer"
+      }
+    ]
+  },
+  {
+    "word": "Bee",
+    "rootWord": "Bee",
+    "members": [
+      {
+        "word": "bee",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bee/",
+        "meaning": ""
+      },
+      {
+        "word": "been",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/biːn/",
+        "meaning": "been"
+      },
+      {
+        "word": "bey",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bæɪ/",
+        "meaning": "bey"
+      },
+      {
+        "word": "beer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪr/",
+        "meaning": "Bia"
+      }
+    ]
+  },
+  {
+    "word": "Wasp",
+    "rootWord": "Wasp",
+    "members": [
+      {
+        "word": "wasp",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wasp/",
+        "meaning": ""
+      },
+      {
+        "word": "waspy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/waspy/",
+        "meaning": "waspy"
+      }
+    ]
+  },
+  {
+    "word": "Centipede",
+    "rootWord": "Centipede",
+    "members": [
+      {
+        "word": "centipede",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/centipede/",
+        "meaning": ""
+      }
+    ]
+  }
+]

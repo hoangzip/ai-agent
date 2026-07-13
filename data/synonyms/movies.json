@@ -1,0 +1,284 @@
+[
+  {
+    "word": "Movie",
+    "synonyms": [
+      {
+        "word": "film",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈfɪlm̩]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "flick",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "motion picture",
+        "partOfSpeech": "noun",
+        "pronunciation": "/motion picture/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "motion-picture show",
+        "partOfSpeech": "noun",
+        "pronunciation": "/motion-picture show/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Famous",
+    "synonyms": []
+  },
+  {
+    "word": "Comedy",
+    "synonyms": []
+  },
+  {
+    "word": "Audience",
+    "synonyms": [
+      {
+        "word": "crowd",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɹaʊd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "spectators",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spectators/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hearership",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hearership/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "listenership",
+        "partOfSpeech": "noun",
+        "pronunciation": "/listenership/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Film Festival",
+    "synonyms": []
+  },
+  {
+    "word": "Trailer",
+    "synonyms": [
+      {
+        "word": "appendage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/appendage/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "appendix",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈpɛn.dɪks/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "attachment",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈtætʃmənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "extension",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪkˈstɛnʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Movie star",
+    "synonyms": [
+      {
+        "word": "film star",
+        "partOfSpeech": "noun",
+        "pronunciation": "/film star/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Soundtrack",
+    "synonyms": []
+  },
+  {
+    "word": "Cartoon",
+    "synonyms": [
+      {
+        "word": "animated cartoon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/animated cartoon/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "animation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/æn.əˈmeɪ.ʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "comic strip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/comic strip/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "strip cartoon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/strip cartoon/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Drama",
+    "synonyms": []
+  },
+  {
+    "word": "Action lm",
+    "synonyms": []
+  },
+  {
+    "word": "Celebrity",
+    "synonyms": [
+      {
+        "word": "big name",
+        "partOfSpeech": "noun",
+        "pronunciation": "/big name/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "celeb",
+        "partOfSpeech": "noun",
+        "pronunciation": "/səˈlɛb/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "luminary",
+        "partOfSpeech": "noun",
+        "pronunciation": "/luminary/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "media darling",
+        "partOfSpeech": "noun",
+        "pronunciation": "/media darling/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Script",
+    "synonyms": [
+      {
+        "word": "batch file",
+        "partOfSpeech": "noun",
+        "pronunciation": "/batch file/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "macro",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈmæk.ɹəʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shell script",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shell script/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cursive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɜːsɪv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Theater",
+    "synonyms": []
+  },
+  {
+    "word": "Actor",
+    "synonyms": [
+      {
+        "word": "complainant",
+        "partOfSpeech": "noun",
+        "pronunciation": "/complainant/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "plaintiff",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpleɪntɪf/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "role",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹəʊl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "doer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈduː.ə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Actress",
+    "synonyms": [
+      {
+        "word": "actorine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/actorine/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Director",
+    "synonyms": []
+  },
+  {
+    "word": "Romantic",
+    "synonyms": [
+      {
+        "word": "Romanic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Romanic/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lovesome",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/lovesome/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Silent lm",
+    "synonyms": []
+  },
+  {
+    "word": "Movie ticket",
+    "synonyms": []
+  }
+]

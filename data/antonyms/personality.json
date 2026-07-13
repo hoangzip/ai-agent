@@ -1,0 +1,391 @@
+[
+  {
+    "word": "Reliable",
+    "antonyms": [
+      {
+        "word": "unreliable",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/unreliable/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rude",
+    "antonyms": []
+  },
+  {
+    "word": "Selsh",
+    "antonyms": []
+  },
+  {
+    "word": "Sensitive",
+    "antonyms": [
+      {
+        "word": "insensitive",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪnˈsɛnsɪtɪv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nonsensitive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonsensitive/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "resistant",
+        "partOfSpeech": "noun",
+        "pronunciation": "/resistant/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stoic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈstəʊɪk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stubborn",
+    "antonyms": []
+  },
+  {
+    "word": "Patient",
+    "antonyms": [
+      {
+        "word": "agent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈeɪ.dʒənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "antsy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈæn.tsi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "impatient",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪmˈpeɪʃənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "macrophobic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/macrophobic/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Humorous",
+    "antonyms": []
+  },
+  {
+    "word": "Sincere",
+    "antonyms": [
+      {
+        "word": "insincere",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/insincere/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Generous",
+    "antonyms": []
+  },
+  {
+    "word": "Honest",
+    "antonyms": [
+      {
+        "word": "dishonest",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/dɪˈsɒnɪst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Kind",
+    "antonyms": []
+  },
+  {
+    "word": "Loyal",
+    "antonyms": [
+      {
+        "word": "disloyal",
+        "partOfSpeech": "adjective",
+        "pronunciation": "[dɪsˈlɔɪ(j)əɫ]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fickle",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfɪk.əl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "treacherous",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈtɹɛtʃəɹəs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Modest",
+    "antonyms": [
+      {
+        "word": "immodest",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌɪmˈmɑdəst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Nasty",
+    "antonyms": []
+  },
+  {
+    "word": "Shy",
+    "antonyms": [
+      {
+        "word": "audacious",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɔːˈdeɪʃəs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bold",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bəʊld/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "brazen",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈbɹeɪzən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "extroverted",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɛkstɹəʊˈvəːtɪd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sociable",
+    "antonyms": [
+      {
+        "word": "unsociable",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unsociable/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Reserved",
+    "antonyms": []
+  },
+  {
+    "word": "Condent",
+    "antonyms": []
+  },
+  {
+    "word": "Pleasant",
+    "antonyms": [
+      {
+        "word": "disagreeable",
+        "partOfSpeech": "noun",
+        "pronunciation": "[dɪsəˈɡɹi.əbəɫ]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nasty",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈnæsti/",
+        "meaning": "Khó chịu"
+      },
+      {
+        "word": "unpleasant",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʌnˈplezənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Clever",
+    "antonyms": [
+      {
+        "word": "clumsy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈklʌmzi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "natural",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnætʃəɹəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ineffectual",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ineffectual/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "naive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/naɪˈiːv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Thoughtful",
+    "antonyms": [
+      {
+        "word": "thoughtless",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈθɔːtləs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Proud",
+    "antonyms": [
+      {
+        "word": "ashamed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈʃeɪmd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Lazy",
+    "antonyms": []
+  },
+  {
+    "word": "Crazy",
+    "antonyms": []
+  },
+  {
+    "word": "Silly",
+    "antonyms": [
+      {
+        "word": "pious",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpaɪəs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bossy",
+    "antonyms": []
+  },
+  {
+    "word": "Gossip",
+    "antonyms": []
+  },
+  {
+    "word": "Extrovert",
+    "antonyms": []
+  },
+  {
+    "word": "Coward",
+    "antonyms": []
+  },
+  {
+    "word": "Big-head",
+    "antonyms": []
+  },
+  {
+    "word": "Snob",
+    "antonyms": []
+  },
+  {
+    "word": "Liar",
+    "antonyms": []
+  },
+  {
+    "word": "Ambitious",
+    "antonyms": [
+      {
+        "word": "nonambitious",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonambitious/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unambitious",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/unambitious/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Introvert",
+    "antonyms": []
+  },
+  {
+    "word": "Stingy",
+    "antonyms": []
+  },
+  {
+    "word": "Arrogant",
+    "antonyms": [
+      {
+        "word": "humble",
+        "partOfSpeech": "noun",
+        "pronunciation": "/humble/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "modest",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈmɒd.ɪst/",
+        "meaning": "Khiêm tốn"
+      },
+      {
+        "word": "servile",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɜː(ɹ).ˌvaɪl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Vain",
+    "antonyms": []
+  },
+  {
+    "word": "Absent-minded",
+    "antonyms": []
+  },
+  {
+    "word": "Hostile",
+    "antonyms": [
+      {
+        "word": "friendly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɹɛndli/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

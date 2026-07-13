@@ -1,0 +1,197 @@
+[
+  {
+    "word": "Cardinal number",
+    "antonyms": []
+  },
+  {
+    "word": "Ordinal number",
+    "antonyms": [
+      {
+        "word": "cardinal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cardinal/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cardinal number",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɑr·dən·əl ˈnʌm·bər/",
+        "meaning": "Số đếm"
+      },
+      {
+        "word": "cardinal numeral",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cardinal numeral/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Decimal",
+    "antonyms": [
+      {
+        "word": "fraction",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfræk.ʃən/",
+        "meaning": "Phân số"
+      }
+    ]
+  },
+  {
+    "word": "Fraction",
+    "antonyms": []
+  },
+  {
+    "word": "Percentage",
+    "antonyms": []
+  },
+  {
+    "word": "Arithmetic",
+    "antonyms": []
+  },
+  {
+    "word": "Divide",
+    "antonyms": [
+      {
+        "word": "multiply",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈmʌl.tɪ.plaɪ/",
+        "meaning": "Nhân"
+      },
+      {
+        "word": "combine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəmˈbaɪn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "merge",
+        "partOfSpeech": "verb",
+        "pronunciation": "/mɜːdʒ/",
+        "meaning": "Sát nhập"
+      },
+      {
+        "word": "unify",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈjuːnɪfaɪ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Plus",
+    "antonyms": [
+      {
+        "word": "minus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmaɪ.nəs/",
+        "meaning": "Trừ"
+      },
+      {
+        "word": "minus sign",
+        "partOfSpeech": "noun",
+        "pronunciation": "/minus sign/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "liability",
+        "partOfSpeech": "noun",
+        "pronunciation": "/laɪəˈbɪlɪti/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "negative",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnɛ(e)ɡəˌɾɪv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Minus",
+    "antonyms": [
+      {
+        "word": "advantage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ədˈvɑːn.tɪdʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bonus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbəʊ.nəs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "boon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/buːn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gain",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡeɪn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Multiply",
+    "antonyms": []
+  },
+  {
+    "word": "Equal",
+    "antonyms": []
+  },
+  {
+    "word": "Total",
+    "antonyms": []
+  },
+  {
+    "word": "Dozen",
+    "antonyms": [
+      {
+        "word": "few",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fjuː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Around",
+    "antonyms": []
+  },
+  {
+    "word": "Zero",
+    "antonyms": [
+      {
+        "word": "pole",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɔːl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hundred",
+    "antonyms": []
+  },
+  {
+    "word": "Thousand",
+    "antonyms": []
+  },
+  {
+    "word": "Million",
+    "antonyms": []
+  },
+  {
+    "word": "Billion",
+    "antonyms": []
+  },
+  {
+    "word": "Half",
+    "antonyms": []
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "word": "Travel",
+    "rootWord": "Travel",
+    "members": [
+      {
+        "word": "travel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/travel/",
+        "meaning": ""
+      },
+      {
+        "word": "traveler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɹæv.l̩.ɚ/",
+        "meaning": "traveler"
+      }
+    ]
+  },
+  {
+    "word": "Travel agent",
+    "rootWord": "Travel agent",
+    "members": [
+      {
+        "word": "travel agent",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/travel agent/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Vacation",
+    "rootWord": "Vacation",
+    "members": [
+      {
+        "word": "vacation",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vacation/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Flight",
+    "rootWord": "Flight",
+    "members": [
+      {
+        "word": "flight",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flight/",
+        "meaning": ""
+      },
+      {
+        "word": "flightless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/flightless/",
+        "meaning": "flightless"
+      },
+      {
+        "word": "flighty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈflaɪti/",
+        "meaning": "flighty"
+      }
+    ]
+  },
+  {
+    "word": "Voyage",
+    "rootWord": "Voyage",
+    "members": [
+      {
+        "word": "voyage",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/voyage/",
+        "meaning": ""
+      },
+      {
+        "word": "voyageable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/voyageable/",
+        "meaning": "voyageable"
+      }
+    ]
+  },
+  {
+    "word": "Relax",
+    "rootWord": "Relax",
+    "members": [
+      {
+        "word": "relax",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/relax/",
+        "meaning": ""
+      },
+      {
+        "word": "relaxer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/relaxer/",
+        "meaning": "relaxer"
+      }
+    ]
+  },
+  {
+    "word": "Cancel",
+    "rootWord": "Cancel",
+    "members": [
+      {
+        "word": "cancel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cancel/",
+        "meaning": ""
+      },
+      {
+        "word": "canceler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/canceler/",
+        "meaning": "canceler"
+      }
+    ]
+  },
+  {
+    "word": "Homestay",
+    "rootWord": "Homestay",
+    "members": [
+      {
+        "word": "homestay",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/homestay/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Souvenir",
+    "rootWord": "Souvenir",
+    "members": [
+      {
+        "word": "souvenir",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/souvenir/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Travel sickness",
+    "rootWord": "Travel sickness",
+    "members": [
+      {
+        "word": "travel sickness",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/travel sickness/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Journey",
+    "rootWord": "Journey",
+    "members": [
+      {
+        "word": "journey",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/journey/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Peak season",
+    "rootWord": "Peak season",
+    "members": [
+      {
+        "word": "peak season",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/peak season/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Route",
+    "rootWord": "Route",
+    "members": [
+      {
+        "word": "route",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/route/",
+        "meaning": ""
+      },
+      {
+        "word": "router",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹuːtə(ɹ)/",
+        "meaning": "router"
+      }
+    ]
+  },
+  {
+    "word": "Trip",
+    "rootWord": "Trip",
+    "members": [
+      {
+        "word": "trip",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trip/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Excursion",
+    "rootWord": "Excursion",
+    "members": [
+      {
+        "word": "excursion",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/excursion/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Luggage",
+    "rootWord": "Luggage",
+    "members": [
+      {
+        "word": "luggage",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/luggage/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tourist",
+    "rootWord": "Tourist",
+    "members": [
+      {
+        "word": "tourist",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tourist/",
+        "meaning": ""
+      },
+      {
+        "word": "touristic",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/touristic/",
+        "meaning": "touristic"
+      },
+      {
+        "word": "touristy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/touristy/",
+        "meaning": "touristy"
+      }
+    ]
+  },
+  {
+    "word": "Ticket",
+    "rootWord": "Ticket",
+    "members": [
+      {
+        "word": "ticket",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ticket/",
+        "meaning": ""
+      },
+      {
+        "word": "ticketless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ticketless/",
+        "meaning": "ticketless"
+      }
+    ]
+  },
+  {
+    "word": "Eager",
+    "rootWord": "Eager",
+    "members": [
+      {
+        "word": "eager",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eager/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sunglasses",
+    "rootWord": "Sunglasses",
+    "members": [
+      {
+        "word": "sunglasses",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sunglasses/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Safari",
+    "rootWord": "Safari",
+    "members": [
+      {
+        "word": "safari",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/safari/",
+        "meaning": ""
+      }
+    ]
+  }
+]

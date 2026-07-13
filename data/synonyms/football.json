@@ -1,0 +1,361 @@
+[
+  {
+    "word": "Stadium",
+    "synonyms": [
+      {
+        "word": "Olympic stadium",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Olympic stadium/",
+        "meaning": "Sân vận động Olympic"
+      },
+      {
+        "word": "stadia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stadia/",
+        "meaning": "kính đo cự ly"
+      },
+      {
+        "word": "stadia rod",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stadia rod/",
+        "meaning": "sào đo khoảng cách"
+      },
+      {
+        "word": "arena",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈɹiːnə/",
+        "meaning": "Đấu trường"
+      }
+    ]
+  },
+  {
+    "word": "Stand",
+    "synonyms": []
+  },
+  {
+    "word": "Pitch",
+    "synonyms": []
+  },
+  {
+    "word": "Touchline",
+    "synonyms": []
+  },
+  {
+    "word": "Penalty area",
+    "synonyms": [
+      {
+        "word": "18-yard box",
+        "partOfSpeech": "noun",
+        "pronunciation": "/18-yard box/",
+        "meaning": "Thùng 18 yard"
+      },
+      {
+        "word": "box",
+        "partOfSpeech": "noun",
+        "pronunciation": "/box/",
+        "meaning": "hộp, thùng"
+      },
+      {
+        "word": "penalty box",
+        "partOfSpeech": "noun",
+        "pronunciation": "/penalty box/",
+        "meaning": "Hộp penalty"
+      }
+    ]
+  },
+  {
+    "word": "Goal",
+    "synonyms": [
+      {
+        "word": "ambition",
+        "partOfSpeech": "noun",
+        "pronunciation": "/æmˈbɪ.ʃən/",
+        "meaning": "hoài bão, khát vọng"
+      },
+      {
+        "word": "aspiration",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌæspəˈɹeɪʃən/",
+        "meaning": "sự thổi khí"
+      },
+      {
+        "word": "objective",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɒbˈd͡ʒɛk.tɪv/",
+        "meaning": "khách quan"
+      },
+      {
+        "word": "purpose",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɜːpəs/",
+        "meaning": "mục đích"
+      }
+    ]
+  },
+  {
+    "word": "Penalty",
+    "synonyms": [
+      {
+        "word": "punishment",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpʌnɪʃmənt/",
+        "meaning": "trừng phạt, sự trừng trị"
+      },
+      {
+        "word": "punition",
+        "partOfSpeech": "noun",
+        "pronunciation": "/punition/",
+        "meaning": "trừng phạt"
+      },
+      {
+        "word": "sentence",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈsɛntn̩t͡s]",
+        "meaning": "án"
+      }
+    ]
+  },
+  {
+    "word": "Corner kick",
+    "synonyms": [
+      {
+        "word": "corner",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɔːnə(ɹ)/",
+        "meaning": "góc (tường, nhà, phố...)"
+      }
+    ]
+  },
+  {
+    "word": "Free kick",
+    "synonyms": []
+  },
+  {
+    "word": "Indirect free kick",
+    "synonyms": []
+  },
+  {
+    "word": "Kick o",
+    "synonyms": []
+  },
+  {
+    "word": "Oside",
+    "synonyms": []
+  },
+  {
+    "word": "Corner flag",
+    "synonyms": []
+  },
+  {
+    "word": "Bet",
+    "synonyms": []
+  },
+  {
+    "word": "The bench",
+    "synonyms": []
+  },
+  {
+    "word": "Foul",
+    "synonyms": [
+      {
+        "word": "odious",
+        "partOfSpeech": "noun",
+        "pronunciation": "/odious/",
+        "meaning": "ghê tởm"
+      },
+      {
+        "word": "shameful",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʃeɪmfəl/",
+        "meaning": "Thật là xấu hổ."
+      },
+      {
+        "word": "wretched",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹɛtʃɪd/",
+        "meaning": "cùng khổ"
+      }
+    ]
+  },
+  {
+    "word": "Goal line",
+    "synonyms": []
+  },
+  {
+    "word": "Shoot",
+    "synonyms": []
+  },
+  {
+    "word": "Goalkeeper",
+    "synonyms": [
+      {
+        "word": "goalie",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goalie/",
+        "meaning": "thủ môn"
+      },
+      {
+        "word": "goalminder",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goalminder/",
+        "meaning": "thủ môn"
+      },
+      {
+        "word": "goaltender",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goaltender/",
+        "meaning": "thủ môn"
+      },
+      {
+        "word": "keeper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkiːpə/",
+        "meaning": "người quản lý"
+      }
+    ]
+  },
+  {
+    "word": "Defender",
+    "synonyms": []
+  },
+  {
+    "word": "Centre back",
+    "synonyms": []
+  },
+  {
+    "word": "Midelder",
+    "synonyms": []
+  },
+  {
+    "word": "Attacking midelder",
+    "synonyms": []
+  },
+  {
+    "word": "Winger",
+    "synonyms": []
+  },
+  {
+    "word": "Referee",
+    "synonyms": []
+  },
+  {
+    "word": "Commentator",
+    "synonyms": []
+  },
+  {
+    "word": "Supporter",
+    "synonyms": [
+      {
+        "word": "adherent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ædˈ(h)ɪəɹənt/",
+        "meaning": "nhớt"
+      },
+      {
+        "word": "proponent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɹəˈpəʊnənt/",
+        "meaning": "Bên đề xuất"
+      }
+    ]
+  },
+  {
+    "word": "Linesman",
+    "synonyms": []
+  },
+  {
+    "word": "Hooligan",
+    "synonyms": [
+      {
+        "word": "candlefish",
+        "partOfSpeech": "noun",
+        "pronunciation": "/candlefish/",
+        "meaning": "cá nến"
+      },
+      {
+        "word": "eulachon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈjuːləkɒn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Red card",
+    "synonyms": []
+  },
+  {
+    "word": "Yellow card",
+    "synonyms": []
+  },
+  {
+    "word": "Coach",
+    "synonyms": [
+      {
+        "word": "carriage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkæɹɪdʒ/",
+        "meaning": "xe (lửa) chở khách"
+      }
+    ]
+  },
+  {
+    "word": "Reserve team",
+    "synonyms": []
+  },
+  {
+    "word": "Caution",
+    "synonyms": []
+  },
+  {
+    "word": "Stimulant",
+    "synonyms": [
+      {
+        "word": "psychostimulant",
+        "partOfSpeech": "noun",
+        "pronunciation": "/psychostimulant/",
+        "meaning": "chất kích thích tâm thần"
+      }
+    ]
+  },
+  {
+    "word": "Strategy",
+    "synonyms": [
+      {
+        "word": "generalship",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒɛn(ə)ɹəlʃɪp/",
+        "meaning": "Hàng bách hoá."
+      }
+    ]
+  },
+  {
+    "word": "Striker",
+    "synonyms": [
+      {
+        "word": "attacker",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈtækɚ/",
+        "meaning": "kẻ tấn công"
+      },
+      {
+        "word": "centre forward",
+        "partOfSpeech": "noun",
+        "pronunciation": "/centre forward/",
+        "meaning": "trung tâm về phía trước"
+      },
+      {
+        "word": "forward",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfoːwəd/",
+        "meaning": "ở phía trước, tiến về phía trước"
+      },
+      {
+        "word": "green hand",
+        "partOfSpeech": "noun",
+        "pronunciation": "/green hand/",
+        "meaning": "thợ khoan còn non"
+      }
+    ]
+  }
+]

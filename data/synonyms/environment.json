@@ -1,0 +1,180 @@
+[
+  {
+    "word": "Land",
+    "synonyms": []
+  },
+  {
+    "word": "Pollute",
+    "synonyms": []
+  },
+  {
+    "word": "Decompose",
+    "synonyms": []
+  },
+  {
+    "word": "Balance",
+    "synonyms": [
+      {
+        "word": "equilibrium",
+        "partOfSpeech": "noun",
+        "pronunciation": "/iːkwɪˈlɪbɹɪəm/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "account",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ə.ˈkaʊnt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "scales",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skeɪlz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "weighbridge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈweɪbɹɪd͡ʒ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Climate change",
+    "synonyms": []
+  },
+  {
+    "word": "Global warming",
+    "synonyms": [
+      {
+        "word": "global heating",
+        "partOfSpeech": "noun",
+        "pronunciation": "/global heating/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Oil slick",
+    "synonyms": []
+  },
+  {
+    "word": "Ozone layer",
+    "synonyms": [
+      {
+        "word": "ozone shield",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ozone shield/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Biodiversity",
+    "synonyms": []
+  },
+  {
+    "word": "Ecology",
+    "synonyms": []
+  },
+  {
+    "word": "Water",
+    "synonyms": []
+  },
+  {
+    "word": "Air",
+    "synonyms": [
+      {
+        "word": "atmosphere",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæt.mə.sfɪər/",
+        "meaning": "Bầu khí quyển"
+      },
+      {
+        "word": "aura",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɔːɹə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gas",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡæs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lift",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lɪft/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Forest",
+    "synonyms": []
+  },
+  {
+    "word": "Flora",
+    "synonyms": [
+      {
+        "word": "microflora",
+        "partOfSpeech": "noun",
+        "pronunciation": "/microflora/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Creature",
+    "synonyms": []
+  },
+  {
+    "word": "Insect",
+    "synonyms": [
+      {
+        "word": "bug",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bʌɡ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Reproduction",
+    "synonyms": [
+      {
+        "word": "procreation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/procreation/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "repro",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹiːpɹəʊ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wildlife",
+    "synonyms": []
+  },
+  {
+    "word": "Sewage",
+    "synonyms": [
+      {
+        "word": "wastewater",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wastewater/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Fauna",
+    "synonyms": []
+  }
+]

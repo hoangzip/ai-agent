@@ -1,0 +1,192 @@
+[
+  {
+    "word": "Classmate",
+    "synonyms": []
+  },
+  {
+    "word": "Schoolmate",
+    "synonyms": [
+      {
+        "word": "fellow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɛləʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "schoolfellow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/schoolfellow/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Roommate",
+    "synonyms": [
+      {
+        "word": "flatmate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈflætmeɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "housemate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/housemate/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "roomie",
+        "partOfSpeech": "noun",
+        "pronunciation": "/roomie/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Soulmate",
+    "synonyms": []
+  },
+  {
+    "word": "Colleague",
+    "synonyms": [
+      {
+        "word": "coworker",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coworker/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "workmate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/workmate/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Comradeship",
+    "synonyms": []
+  },
+  {
+    "word": "Partner",
+    "synonyms": []
+  },
+  {
+    "word": "Associate",
+    "synonyms": [
+      {
+        "word": "attach",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈtætʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "join",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒɔɪn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "put together",
+        "partOfSpeech": "verb",
+        "pronunciation": "/put together/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unite",
+        "partOfSpeech": "noun",
+        "pronunciation": "/juˈnaɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Buddy",
+    "synonyms": [
+      {
+        "word": "bud",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bʌd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/meɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "companion",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəmˈpæn.jən/",
+        "meaning": "Bạn đồng hành"
+      },
+      {
+        "word": "partner",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɑːt.nər/",
+        "meaning": "Cộng sự"
+      }
+    ]
+  },
+  {
+    "word": "Ally",
+    "synonyms": [
+      {
+        "word": "make common cause",
+        "partOfSpeech": "verb",
+        "pronunciation": "/make common cause/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Companion",
+    "synonyms": []
+  },
+  {
+    "word": "Pal",
+    "synonyms": []
+  },
+  {
+    "word": "Friendship",
+    "synonyms": [
+      {
+        "word": "entente cordiale",
+        "partOfSpeech": "noun",
+        "pronunciation": "/entente cordiale/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Close",
+    "synonyms": [
+      {
+        "word": "end",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɛnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "finale",
+        "partOfSpeech": "noun",
+        "pronunciation": "/finale/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "narrow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnæɹəʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shut",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʃʌt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

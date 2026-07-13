@@ -1,0 +1,169 @@
+[
+  {
+    "word": "Earring",
+    "synonyms": []
+  },
+  {
+    "word": "Necklace",
+    "synonyms": []
+  },
+  {
+    "word": "Bracelet",
+    "synonyms": []
+  },
+  {
+    "word": "Brooch",
+    "synonyms": [
+      {
+        "word": "breastpin",
+        "partOfSpeech": "noun",
+        "pronunciation": "/breastpin/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hair clip",
+    "synonyms": []
+  },
+  {
+    "word": "Wedding ring",
+    "synonyms": [
+      {
+        "word": "wedding band",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wedding band/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Jeweler",
+    "synonyms": []
+  },
+  {
+    "word": "Jewelry store",
+    "synonyms": []
+  },
+  {
+    "word": "Anklet",
+    "synonyms": []
+  },
+  {
+    "word": "Noble",
+    "synonyms": [
+      {
+        "word": "great",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɹeɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "honorable",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɒnəɹəbl̩/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "superior",
+        "partOfSpeech": "noun",
+        "pronunciation": "/suːˈpɪəɹi.ə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Luxurious",
+    "synonyms": [
+      {
+        "word": "epicurean",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɛp.ɪ.kjʊəˈɹiː.n̩/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Modern",
+    "synonyms": [
+      {
+        "word": "contemporary",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈtɛm.p(ə).ɹi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "current",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkʌɹənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Suitable",
+    "synonyms": [
+      {
+        "word": "fit for purpose",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/fit for purpose/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "up to standard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/up to standard/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Twinkle",
+    "synonyms": [
+      {
+        "word": "glimmer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/glimmer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "scintillate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/scintillate/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sparkle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈspɑːkəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "wink",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɪŋk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bead",
+    "synonyms": []
+  },
+  {
+    "word": "Hair tie",
+    "synonyms": []
+  },
+  {
+    "word": "Pocket watch",
+    "synonyms": []
+  },
+  {
+    "word": "Tiepin",
+    "synonyms": []
+  },
+  {
+    "word": "Precious stone",
+    "synonyms": []
+  }
+]

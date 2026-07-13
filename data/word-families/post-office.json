@@ -1,0 +1,344 @@
+[
+  {
+    "word": "Advanced",
+    "rootWord": "Advanced",
+    "members": [
+      {
+        "word": "advanced",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/advanced/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Equip",
+    "rootWord": "Equip",
+    "members": [
+      {
+        "word": "equip",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/equip/",
+        "meaning": ""
+      },
+      {
+        "word": "equipment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈkwɪpmənt/",
+        "meaning": "Hành động trang bị, hoặc trạng thái được trang bị, như cho một chuyến đi hoặc chuyến thám hiểm."
+      }
+    ]
+  },
+  {
+    "word": "Express mail",
+    "rootWord": "Express mail",
+    "members": [
+      {
+        "word": "express mail",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/express mail/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Graphic",
+    "rootWord": "Graphic",
+    "members": [
+      {
+        "word": "graphic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/graphic/",
+        "meaning": ""
+      },
+      {
+        "word": "graphical",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɡɹæfɪkəl/",
+        "meaning": "Của, liên quan đến, hoặc được thể hiện trên biểu đồ."
+      }
+    ]
+  },
+  {
+    "word": "Messenger Call Service",
+    "rootWord": "Messenger Call Service",
+    "members": [
+      {
+        "word": "messenger call service",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/messenger call service/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Notify",
+    "rootWord": "Notify",
+    "members": [
+      {
+        "word": "notify",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/notify/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Parcel",
+    "rootWord": "Parcel",
+    "members": [
+      {
+        "word": "parcel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parcel/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Press",
+    "rootWord": "Press",
+    "members": [
+      {
+        "word": "press",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/press/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Receive",
+    "rootWord": "Receive",
+    "members": [
+      {
+        "word": "receive",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/receive/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Recipient",
+    "rootWord": "Recipient",
+    "members": [
+      {
+        "word": "recipient",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/recipient/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Secure",
+    "rootWord": "Secure",
+    "members": [
+      {
+        "word": "secure",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/secure/",
+        "meaning": ""
+      },
+      {
+        "word": "securely",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/səˈkjɔːli/",
+        "meaning": "(cách thức) một cách an toàn; không sợ hãi hay e ngại; không nguy hiểm"
+      }
+    ]
+  },
+  {
+    "word": "Service",
+    "rootWord": "Service",
+    "members": [
+      {
+        "word": "service",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/service/",
+        "meaning": ""
+      },
+      {
+        "word": "servicer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/servicer/",
+        "meaning": "Một người phục vụ khoản vay hoặc nghĩa vụ khác, bằng cách thu thập các khoản phải thu và thực hiện các hành động liên quan như thực thi"
+      }
+    ]
+  },
+  {
+    "word": "Spacious",
+    "rootWord": "Spacious",
+    "members": [
+      {
+        "word": "spacious",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spacious/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Speedy",
+    "rootWord": "Speedy",
+    "members": [
+      {
+        "word": "speedy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/speedy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sta",
+    "rootWord": "Sta",
+    "members": [
+      {
+        "word": "sta",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sta/",
+        "meaning": ""
+      },
+      {
+        "word": "station",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsteɪʃən/",
+        "meaning": "Một nơi dừng chân."
+      },
+      {
+        "word": "stay",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/steɪ/",
+        "meaning": "Tiếp tục hoặc một khoảng thời gian ở một nơi; ở lại trong một thời gian không xác định; tạm trú."
+      }
+    ]
+  },
+  {
+    "word": "Subscribe",
+    "rootWord": "Subscribe",
+    "members": [
+      {
+        "word": "subscribe",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/subscribe/",
+        "meaning": ""
+      },
+      {
+        "word": "subscriber",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/səbˈskɹaɪbəɹ/",
+        "meaning": "Một người đăng ký một ấn phẩm hoặc một dịch vụ"
+      }
+    ]
+  },
+  {
+    "word": "Surface mail",
+    "rootWord": "Surface mail",
+    "members": [
+      {
+        "word": "surface mail",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/surface mail/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Technology",
+    "rootWord": "Technology",
+    "members": [
+      {
+        "word": "technology",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/technology/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Thoughtful",
+    "rootWord": "Thoughtful",
+    "members": [
+      {
+        "word": "thoughtful",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thoughtful/",
+        "meaning": ""
+      },
+      {
+        "word": "thoughtfulness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/-fʊl-/",
+        "meaning": "Sự quan tâm chu đáo và chu đáo."
+      }
+    ]
+  },
+  {
+    "word": "Transfer",
+    "rootWord": "Transfer",
+    "members": [
+      {
+        "word": "transfer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/transfer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Transmit",
+    "rootWord": "Transmit",
+    "members": [
+      {
+        "word": "transmit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/transmit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Well-trained",
+    "rootWord": "Well-trained",
+    "members": [
+      {
+        "word": "well-trained",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/well-trained/",
+        "meaning": ""
+      }
+    ]
+  }
+]

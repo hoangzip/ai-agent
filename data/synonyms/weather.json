@@ -1,0 +1,616 @@
+[
+  {
+    "word": "Weather",
+    "synonyms": [
+      {
+        "word": "meteorology",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌmiːtɪəˈɹɒlədʒi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "weatherboard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weatherboard/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "windward",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɪndwə(ɹ)d/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Warm",
+    "synonyms": []
+  },
+  {
+    "word": "Wind",
+    "synonyms": [
+      {
+        "word": "gas",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡæs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "breeze",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹiːz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "draft",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɹæft/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gale",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɡeɪl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rain",
+    "synonyms": []
+  },
+  {
+    "word": "Temperature",
+    "synonyms": []
+  },
+  {
+    "word": "Weather forecast",
+    "synonyms": [
+      {
+        "word": "weather report",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weather report/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "weathercast",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weathercast/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sunny",
+    "synonyms": [
+      {
+        "word": "bright",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹaɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cheerful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈt͡ʃɪəfəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sunlit",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsʌnˌlɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sunshiny",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sunshiny/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sunshine",
+    "synonyms": [
+      {
+        "word": "sunlight",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsʌnˌlaɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Icy",
+    "synonyms": []
+  },
+  {
+    "word": "Atmosphere",
+    "synonyms": [
+      {
+        "word": "air",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eər/",
+        "meaning": "Không khí"
+      },
+      {
+        "word": "ambiance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæm.bi.əns/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "feeling",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈfiːlɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mood",
+        "partOfSpeech": "noun",
+        "pronunciation": "/muːd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dry",
+    "synonyms": []
+  },
+  {
+    "word": "Sun",
+    "synonyms": [
+      {
+        "word": "apricate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/apricate/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cloud",
+    "synonyms": []
+  },
+  {
+    "word": "Fog",
+    "synonyms": [
+      {
+        "word": "daze",
+        "partOfSpeech": "noun",
+        "pronunciation": "/deɪz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "haze",
+        "partOfSpeech": "noun",
+        "pronunciation": "/heɪz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɪst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "steam",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stiːm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Snow",
+    "synonyms": [
+      {
+        "word": "blow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bləʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shash",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shash/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cold",
+    "synonyms": [
+      {
+        "word": "chilled",
+        "partOfSpeech": "verb",
+        "pronunciation": "/tʃɪld/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "chilly",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/chilly/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cool",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kuːl/",
+        "meaning": "Mát mẻ"
+      },
+      {
+        "word": "freezing",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈfɹiːz.ɪŋ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cool",
+    "synonyms": [
+      {
+        "word": "calmness",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɑːmnəs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "composure",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəmˈpəʊʒə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "OK",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/OK/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "acceptable",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/æk.ˈsɛp.tə.bəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hot",
+    "synonyms": [
+      {
+        "word": "heat",
+        "partOfSpeech": "verb",
+        "pronunciation": "/hiːt/",
+        "meaning": "Sưởi ấm, làm nóng"
+      },
+      {
+        "word": "heat up",
+        "partOfSpeech": "noun",
+        "pronunciation": "/heat up/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hot up",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hot up/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "live",
+        "partOfSpeech": "verb",
+        "pronunciation": "/lɪv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wet",
+    "synonyms": [
+      {
+        "word": "damp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dæmp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "raining",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈɹeɪnɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "rainy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹeɪni/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "saturated",
+        "partOfSpeech": "verb",
+        "pronunciation": "/saturated/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Erratic",
+    "synonyms": [
+      {
+        "word": "dropstone",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dropstone/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Thunder",
+    "synonyms": []
+  },
+  {
+    "word": "Hailstone",
+    "synonyms": []
+  },
+  {
+    "word": "Blustery",
+    "synonyms": [
+      {
+        "word": "blowy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blowy/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "blusterous",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈblʌst(ə)ɹəs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "breezy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbɹiːzi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "squally",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/squally/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Downpour",
+    "synonyms": [
+      {
+        "word": "cloudburst",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cloudburst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "deluge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɛl.juːdʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "inundation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/inundation/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "monsoon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɒnˈsuːn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Raincoat",
+    "synonyms": []
+  },
+  {
+    "word": "Blizzard",
+    "synonyms": []
+  },
+  {
+    "word": "Rainbow",
+    "synonyms": [
+      {
+        "word": "spectrum",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈspektɹəm/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "multipartisan",
+        "partOfSpeech": "noun",
+        "pronunciation": "/multipartisan/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "multiethnic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/multiethnic/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "multiracial",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌmʌltiˈɹeɪʃəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dew",
+    "synonyms": [
+      {
+        "word": "rore",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rore/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sleet",
+    "synonyms": [
+      {
+        "word": "black ice",
+        "partOfSpeech": "noun",
+        "pronunciation": "/black ice/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "glaze",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡleɪz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ice pellets",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ice pellets/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "slush",
+        "partOfSpeech": "noun",
+        "pronunciation": "/slʌʃ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stormy",
+    "synonyms": [
+      {
+        "word": "storm-wracked",
+        "partOfSpeech": "noun",
+        "pronunciation": "/storm-wracked/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Snowflake",
+    "synonyms": []
+  },
+  {
+    "word": "Puddle",
+    "synonyms": []
+  },
+  {
+    "word": "Lightning",
+    "synonyms": []
+  },
+  {
+    "word": "Mild",
+    "synonyms": [
+      {
+        "word": "assuasive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/assuasive/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bland",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/blænd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "calm",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kam/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "clement",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/clement/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dull",
+    "synonyms": [
+      {
+        "word": "dullen",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dullen/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lackluster",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lackluster/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "matte",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mæt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Shelter",
+    "synonyms": []
+  },
+  {
+    "word": "Celsius",
+    "synonyms": [
+      {
+        "word": "centesimal",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/centesimal/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "centigrade",
+        "partOfSpeech": "noun",
+        "pronunciation": "/centigrade/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Fine",
+    "synonyms": [
+      {
+        "word": "clarify",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈklæɹɪfaɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "purify",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈpjʊəɹɪfaɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "refine",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɹɪˈfaɪn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fine-threaded",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fine-threaded/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "word": "Stadium",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Stadium**.",
+        "vi": "Ảnh này thể hiện một bức ảnh **sân vận động** sạch sẽ."
+      }
+    ]
+  },
+  {
+    "word": "Stand",
+    "examples": [
+      {
+        "en": "The Commander says we will make our **stand** here.",
+        "vi": "Chỉ huy nói rằng chúng tôi sẽ **đứng** ở đây."
+      },
+      {
+        "en": "They took a firm **stand** against copyright infringement.",
+        "vi": "**Họ có lập trường vững chắc chống lại vi phạm bản quyền.**"
+      },
+      {
+        "en": "They have a four-game **stand** at home against the Yankees.  They spent the summer touring giving 4 one-night stands a week.",
+        "vi": "**Họ có một trận đấu bốn trận trên sân nhà trước Yankees.  Họ đã dành chuyến lưu diễn mùa hè để đưa ra 4 tình huống một đêm một tuần.**"
+      }
+    ]
+  },
+  {
+    "word": "Pitch",
+    "examples": [
+      {
+        "en": "It is hard to get this **pitch** off my hand.",
+        "vi": "Thật khó để có được **sân** này ra khỏi bàn tay của tôi."
+      },
+      {
+        "en": "It was **pitch** black because there was no moon.",
+        "vi": "**Trời tối đen như mực vì không có trăng.**"
+      }
+    ]
+  },
+  {
+    "word": "Touchline",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Touchline**.",
+        "vi": "Ảnh này thể hiện hình ảnh rõ nét của **Đường** dây cảm ứng."
+      }
+    ]
+  },
+  {
+    "word": "Penalty area",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Penalty area**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ về **khu** vực Phạt đền."
+      }
+    ]
+  },
+  {
+    "word": "Goal",
+    "examples": [
+      {
+        "en": "My lifelong **goal** is to get into a Hollywood movie.",
+        "vi": "**Mục tiêu cả đời của tôi là tham gia vào một bộ phim Hollywood.**"
+      }
+    ]
+  },
+  {
+    "word": "Penalty",
+    "examples": [
+      {
+        "en": "The **penalty** for his crime was to do hard labor.",
+        "vi": "Hình **phạt** cho tội ác của anh ta là lao động khổ sai."
+      },
+      {
+        "en": "A **penalty** was called when he tripped up his opponent.",
+        "vi": "Một quả **phạt đền** được gọi khi anh ta vấp phải đối thủ của mình."
+      }
+    ]
+  },
+  {
+    "word": "Corner kick",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Corner kick**.",
+        "vi": "Điều này thể hiện một bức ảnh rõ nét về **cú đá phạt góc**."
+      }
+    ]
+  },
+  {
+    "word": "Free kick",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Free kick**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một cú **đá** phạt."
+      }
+    ]
+  },
+  {
+    "word": "Indirect free kick",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Indirect free kick**.",
+        "vi": "Điều này thể hiện một bức ảnh rõ nét về một cú **đá phạt gián tiếp**."
+      }
+    ]
+  },
+  {
+    "word": "Kick o",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Kick o**.",
+        "vi": "**Điều này thể hiện một bức ảnh sạch sẽ của một Kick o.**"
+      }
+    ]
+  },
+  {
+    "word": "Oside",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Oside**.",
+        "vi": "**Ảnh này thể hiện hình ảnh rõ nét của một Oside.**"
+      }
+    ]
+  },
+  {
+    "word": "Corner flag",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Corner flag**.",
+        "vi": "**Ảnh này thể hiện hình ảnh rõ nét của một lá cờ Góc.**"
+      }
+    ]
+  },
+  {
+    "word": "Bet",
+    "examples": [
+      {
+        "en": "Dylan owes Fletcher $30 from an unsuccessful **bet**.",
+        "vi": "**Dylan nợ Fletcher $ 30 từ một vụ cá cược không thành công.**"
+      },
+      {
+        "en": "It’s a safe **bet** that it will rain tomorrow.",
+        "vi": "**Đó là một cược an toàn rằng trời sẽ mưa vào ngày mai.**"
+      },
+      {
+        "en": "Fancy going for a drink after work?\nYou **bet** I do!",
+        "vi": "**Bạn muốn đi uống nước sau giờ làm việc?\nBạn đặt cược tôi làm!**"
+      }
+    ]
+  },
+  {
+    "word": "The bench",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **The bench**.",
+        "vi": "**Điều này thể hiện một bức ảnh sạch sẽ của một chiếc ghế dài.**"
+      }
+    ]
+  },
+  {
+    "word": "Foul",
+    "examples": [
+      {
+        "en": "A ship's bottom is **foul** when overgrown with barnacles",
+        "vi": "**Đáy tàu bị hôi khi phát triển quá mức với hàu**"
+      },
+      {
+        "en": "His **foul** language causes many people to believe he is uneducated.",
+        "vi": "**Ngôn ngữ thô tục của anh ta khiến nhiều người tin rằng anh ta không được giáo dục.**"
+      },
+      {
+        "en": "He has a **foul** set of friends.",
+        "vi": "**Anh ta có rất nhiều bạn bè.**"
+      }
+    ]
+  },
+  {
+    "word": "Goal line",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Goal line**.",
+        "vi": "**Ảnh này thể hiện hình ảnh rõ nét của một dòng Mục tiêu.**"
+      }
+    ]
+  },
+  {
+    "word": "Shoot",
+    "examples": [
+      {
+        "en": "The land **shoot**s into a promontory.",
+        "vi": "**Vùng đất chồi lên thành một mũi đất.**"
+      }
+    ]
+  },
+  {
+    "word": "Goalkeeper",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Goalkeeper**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một **Thủ môn**."
+      }
+    ]
+  },
+  {
+    "word": "Defender",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Defender**.",
+        "vi": "**Ảnh này thể hiện một bức ảnh sạch sẽ của một Người bảo vệ.**"
+      }
+    ]
+  },
+  {
+    "word": "Centre back",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Centre back**.",
+        "vi": "Ảnh này thể hiện ảnh chụp sạch mặt sau của **Trung** tâm."
+      }
+    ]
+  },
+  {
+    "word": "Midelder",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Midelder**.",
+        "vi": "**Ảnh này thể hiện một bức ảnh sạch sẽ của một Midelder.**"
+      }
+    ]
+  },
+  {
+    "word": "Attacking midelder",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Attacking midelder**.",
+        "vi": "**Điều này thể hiện một bức ảnh rõ nét của một người tấn công ở giữa.**"
+      }
+    ]
+  },
+  {
+    "word": "Winger",
+    "examples": [
+      {
+        "en": "We hauled out a **winger** of grog.",
+        "vi": "Chúng tôi kéo ra một **cầu** thủ chạy cánh của grog."
+      },
+      {
+        "en": "The center passed to the left **winger**, who shot and scored.",
+        "vi": "Trung phong chuyền cho **cầu** thủ chạy cánh trái, người đã sút và ghi bàn."
+      }
+    ]
+  },
+  {
+    "word": "Referee",
+    "examples": [
+      {
+        "en": "The **referee** kicked Jim out of the game for fighting.",
+        "vi": "**Trọng tài** đá Jim ra khỏi trận đấu vì đánh nhau."
+      },
+      {
+        "en": "Your application, along with letters from three **referee**s, should be received by January 31.",
+        "vi": "Đơn đăng ký của quý vị, cùng với thư của ba **trọng tài**, sẽ được nhận trước ngày 31 tháng 1."
+      },
+      {
+        "en": "He has to **referee** three hockey games this weekend.",
+        "vi": "Anh phải làm **trọng tài** ba trận khúc côn cầu vào cuối tuần này."
+      }
+    ]
+  },
+  {
+    "word": "Commentator",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Commentator**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một **Bình luận viên**."
+      }
+    ]
+  },
+  {
+    "word": "Supporter",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Supporter**.",
+        "vi": "**Ảnh này thể hiện ảnh chụp sạch sẽ của Người hỗ trợ.**"
+      }
+    ]
+  },
+  {
+    "word": "Linesman",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Linesman**.",
+        "vi": "**Ảnh này thể hiện một bức ảnh sạch sẽ của một Người xếp hàng.**"
+      }
+    ]
+  },
+  {
+    "word": "Hooligan",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Hooligan**.",
+        "vi": "**Điều này thể hiện một bức ảnh sạch sẽ của một Hooligan.**"
+      }
+    ]
+  },
+  {
+    "word": "Red card",
+    "examples": [
+      {
+        "en": "In the 1994 FIFA World Cup, Argentine player Diego Maradona was given a **red card** for striking a US player Tab Ramos.",
+        "vi": "Tại FIFA World Cup 1994, cầu thủ người Argentina Diego Maradona đã nhận **thẻ đỏ** vì đánh trúng cầu thủ người Mỹ Tab Ramos."
+      },
+      {
+        "en": "I hoped to park in the members' area but the attendant showed me the **red card**.",
+        "vi": "Tôi hy vọng sẽ đỗ xe trong khu vực của các thành viên nhưng người phục vụ đã đưa cho tôi **thẻ đỏ**."
+      }
+    ]
+  },
+  {
+    "word": "Yellow card",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Yellow card**.",
+        "vi": "Ảnh này thể hiện ảnh chụp rõ **thẻ Vàng**."
+      }
+    ]
+  },
+  {
+    "word": "Coach",
+    "examples": [
+      {
+        "en": "John flew **coach** to Vienna, but first-class back home.",
+        "vi": "**John lái xe đến Vienna, nhưng trở về nhà bằng khoang hạng nhất.**"
+      },
+      {
+        "en": "She has **coach**ed many opera stars.",
+        "vi": "Cô đã **huấn** luyện nhiều ngôi sao opera."
+      }
+    ]
+  },
+  {
+    "word": "Reserve team",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Reserve team**.",
+        "vi": "**Ảnh này thể hiện ảnh chụp sạch sẽ của một nhóm Dự trữ.**"
+      }
+    ]
+  },
+  {
+    "word": "Caution",
+    "examples": [
+      {
+        "en": "The guideline expressed **caution** against excessive radiographic imaging.",
+        "vi": "**Hướng dẫn thể hiện sự thận trọng đối với việc chụp X quang quá mức.**"
+      },
+      {
+        "en": "Oh, that boy, he's a **caution**! He does make me laugh.",
+        "vi": "**Ồ, cậu bé đó, cậu ta là một cảnh báo! Anh ấy làm tôi cười.**"
+      }
+    ]
+  },
+  {
+    "word": "Stimulant",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Stimulant**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ về **Chất kích thích**."
+      }
+    ]
+  },
+  {
+    "word": "Strategy",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Strategy**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ về một **Chiến lược**."
+      }
+    ]
+  },
+  {
+    "word": "Striker",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Striker**.",
+        "vi": "**Ảnh này thể hiện một bức ảnh sạch sẽ của Striker.**"
+      }
+    ]
+  }
+]

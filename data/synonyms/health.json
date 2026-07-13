@@ -1,0 +1,627 @@
+[
+  {
+    "word": "Fever",
+    "synonyms": [
+      {
+        "word": "excitation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/excitation/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "excitement",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪkˈsaɪtmənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "passion",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈpʰæʃən]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pyrexia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɪˈrɛk.si.ə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cough",
+    "synonyms": [
+      {
+        "word": "tussis",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tussis/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hurt",
+    "synonyms": [
+      {
+        "word": "smart",
+        "partOfSpeech": "verb",
+        "pronunciation": "/smɑːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dere",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "injure",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈɪndʒə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "wound",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wuːnd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Swollen",
+    "synonyms": []
+  },
+  {
+    "word": "Pus",
+    "synonyms": []
+  },
+  {
+    "word": "Graze",
+    "synonyms": []
+  },
+  {
+    "word": "Headache",
+    "synonyms": [
+      {
+        "word": "bother",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈbɔðə(ɹ)]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pain in the neck",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pain in the neck/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cephalalgia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cephalalgia/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Insomnia",
+    "synonyms": [
+      {
+        "word": "sleeplessness",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleeplessness/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rash",
+    "synonyms": [
+      {
+        "word": "brash",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹæʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "heady",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈhɛdi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hotheaded",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/hotheaded/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "impulsive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪmˈpʌlsɪv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Black eye",
+    "synonyms": [
+      {
+        "word": "shiner",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʃaɪnə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bruise",
+    "synonyms": [
+      {
+        "word": "contusion",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈtjuːʒən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ecchymosis",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɛk.ɪˈməʊ.sɪs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Constipation",
+    "synonyms": []
+  },
+  {
+    "word": "Diarrhea",
+    "synonyms": [
+      {
+        "word": "runs",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹʌnz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shits",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃɪts/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "skitters",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skitters/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "squirts",
+        "partOfSpeech": "noun",
+        "pronunciation": "/squirts/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sore eyes",
+    "synonyms": []
+  },
+  {
+    "word": "Runny nose",
+    "synonyms": []
+  },
+  {
+    "word": "Snile",
+    "synonyms": []
+  },
+  {
+    "word": "Sneeze",
+    "synonyms": [
+      {
+        "word": "ptarmus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ptarmus/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sternutation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sternutation/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sternutate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sternutate/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bad breath",
+    "synonyms": []
+  },
+  {
+    "word": "Earache",
+    "synonyms": [
+      {
+        "word": "otalgia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/otalgia/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Nausea",
+    "synonyms": []
+  },
+  {
+    "word": "Eating disorder",
+    "synonyms": []
+  },
+  {
+    "word": "Asthma",
+    "synonyms": []
+  },
+  {
+    "word": "Backache",
+    "synonyms": [
+      {
+        "word": "back pain",
+        "partOfSpeech": "noun",
+        "pronunciation": "/back pain/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chill",
+    "synonyms": []
+  },
+  {
+    "word": "Fever virus",
+    "synonyms": []
+  },
+  {
+    "word": "Allergy",
+    "synonyms": [
+      {
+        "word": "type 1 hypersensitivity",
+        "partOfSpeech": "noun",
+        "pronunciation": "/type 1 hypersensitivity/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "intolerance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/intolerance/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Paralyse",
+    "synonyms": []
+  },
+  {
+    "word": "Infected",
+    "synonyms": []
+  },
+  {
+    "word": "Inflamed",
+    "synonyms": [
+      {
+        "word": "anger",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæŋɡə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "arouse",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈɹaʊz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "enrage",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪnˈɹeɪd͡ʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "exasperate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪɡˈzæsp(ə)ɹeɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Gout",
+    "synonyms": [
+      {
+        "word": "crystalline arthritis",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crystalline arthritis/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gouty arthritis",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gouty arthritis/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "urarthritis",
+        "partOfSpeech": "noun",
+        "pronunciation": "/urarthritis/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hepatitis",
+    "synonyms": []
+  },
+  {
+    "word": "Lump",
+    "synonyms": []
+  },
+  {
+    "word": "Insect bite",
+    "synonyms": []
+  },
+  {
+    "word": "Stomachache",
+    "synonyms": []
+  },
+  {
+    "word": "Toothache",
+    "synonyms": [
+      {
+        "word": "dentalgia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dentalgia/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "odontalgia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/odontalgia/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "High blood pressure",
+    "synonyms": []
+  },
+  {
+    "word": "Sore throat",
+    "synonyms": []
+  },
+  {
+    "word": "Sprain",
+    "synonyms": [
+      {
+        "word": "wramp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wramp/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Burn",
+    "synonyms": []
+  },
+  {
+    "word": "Malaria",
+    "synonyms": [
+      {
+        "word": "ague",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈeɪ.ɡju/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Scabies",
+    "synonyms": []
+  },
+  {
+    "word": "Smallpox",
+    "synonyms": [
+      {
+        "word": "variola",
+        "partOfSpeech": "noun",
+        "pronunciation": "/variola/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Heart attack",
+    "synonyms": [
+      {
+        "word": "myocardial infarction",
+        "partOfSpeech": "noun",
+        "pronunciation": "/myocardial infarction/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tuberculosis",
+    "synonyms": [
+      {
+        "word": "TB",
+        "partOfSpeech": "noun",
+        "pronunciation": "/TB/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "consumption",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈsʌmp.ʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "phthisic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/phthisic/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Diabetes",
+    "synonyms": [
+      {
+        "word": "DM",
+        "partOfSpeech": "noun",
+        "pronunciation": "/DM/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "diabeetus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diabeetus/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "diabetes mellitus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diabetes mellitus/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cancer",
+    "synonyms": [
+      {
+        "word": "growth",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɹəʊθ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "malignancy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/məˈlɪɡ.nən.si/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "neoplasia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/neoplasia/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lichen",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlaɪ.kn̩/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pneumonia",
+    "synonyms": []
+  },
+  {
+    "word": "Chicken pox",
+    "synonyms": [
+      {
+        "word": "varicella",
+        "partOfSpeech": "noun",
+        "pronunciation": "/varicella/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Depression",
+    "synonyms": []
+  },
+  {
+    "word": "Low blood pressure",
+    "synonyms": []
+  },
+  {
+    "word": "Hypertension",
+    "synonyms": [
+      {
+        "word": "high blood pressure",
+        "partOfSpeech": "noun",
+        "pronunciation": "/haɪ blʌd ˈpreʃ.əʳ/",
+        "meaning": "Cao huyết áp"
+      }
+    ]
+  },
+  {
+    "word": "Measles",
+    "synonyms": [
+      {
+        "word": "10-day measles",
+        "partOfSpeech": "noun",
+        "pronunciation": "/10-day measles/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "7-day measles",
+        "partOfSpeech": "noun",
+        "pronunciation": "/7-day measles/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hard measles",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hard measles/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "morbilli",
+        "partOfSpeech": "noun",
+        "pronunciation": "/morbilli/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Migraine",
+    "synonyms": [
+      {
+        "word": "hemicrania",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hemicrania/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "megrim",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmiːɡɹɪm/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sick headache",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sick headache/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mumps",
+    "synonyms": []
+  },
+  {
+    "word": "Rheumatism",
+    "synonyms": []
+  }
+]

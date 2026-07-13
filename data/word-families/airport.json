@@ -1,0 +1,232 @@
+[
+  {
+    "word": "Switch o",
+    "rootWord": "Switch o",
+    "members": [
+      {
+        "word": "switch o",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/switch o/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lavatory",
+    "rootWord": "Lavatory",
+    "members": [
+      {
+        "word": "lavatory",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lavatory/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Blanket",
+    "rootWord": "Blanket",
+    "members": [
+      {
+        "word": "blanket",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blanket/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Oxygen mask",
+    "rootWord": "Oxygen mask",
+    "members": [
+      {
+        "word": "oxygen mask",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oxygen mask/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Serve",
+    "rootWord": "Serve",
+    "members": [
+      {
+        "word": "serve",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/serve/",
+        "meaning": ""
+      },
+      {
+        "word": "server",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɜːvə/",
+        "meaning": "server"
+      },
+      {
+        "word": "serval",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɜːvəl/",
+        "meaning": "serval"
+      }
+    ]
+  },
+  {
+    "word": "Window seat",
+    "rootWord": "Window seat",
+    "members": [
+      {
+        "word": "window seat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/window seat/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Airsick",
+    "rootWord": "Airsick",
+    "members": [
+      {
+        "word": "airsick",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/airsick/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cockpit",
+    "rootWord": "Cockpit",
+    "members": [
+      {
+        "word": "cockpit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cockpit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fasten",
+    "rootWord": "Fasten",
+    "members": [
+      {
+        "word": "fasten",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fasten/",
+        "meaning": ""
+      },
+      {
+        "word": "fastener",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɐːsnɘ/",
+        "meaning": "fastener"
+      }
+    ]
+  },
+  {
+    "word": "Take o",
+    "rootWord": "Take o",
+    "members": [
+      {
+        "word": "take o",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/take o/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Co-pilot",
+    "rootWord": "Co-pilot",
+    "members": [
+      {
+        "word": "co-pilot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/co-pilot/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Assist",
+    "rootWord": "Assist",
+    "members": [
+      {
+        "word": "assist",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/assist/",
+        "meaning": ""
+      },
+      {
+        "word": "assistance",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈsɪs.təns/",
+        "meaning": "assistance"
+      },
+      {
+        "word": "assistive",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əˈsɪstɪv/",
+        "meaning": "assistive"
+      }
+    ]
+  },
+  {
+    "word": "First-class",
+    "rootWord": "First-class",
+    "members": [
+      {
+        "word": "first-class",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/first-class/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Conscate",
+    "rootWord": "Conscate",
+    "members": [
+      {
+        "word": "conscate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/conscate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Turn on",
+    "rootWord": "Turn on",
+    "members": [
+      {
+        "word": "turn on",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turn on/",
+        "meaning": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,540 @@
+[
+  {
+    "word": "Restaurant",
+    "rootWord": "Restaurant",
+    "members": [
+      {
+        "word": "restaurant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/restaurant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Main course",
+    "rootWord": "Main course",
+    "members": [
+      {
+        "word": "main course",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/main course/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Napkin",
+    "rootWord": "Napkin",
+    "members": [
+      {
+        "word": "napkin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/napkin/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wine",
+    "rootWord": "Wine",
+    "members": [
+      {
+        "word": "wine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cutlery",
+    "rootWord": "Cutlery",
+    "members": [
+      {
+        "word": "cutlery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cutlery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Drink",
+    "rootWord": "Drink",
+    "members": [
+      {
+        "word": "drink",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drink/",
+        "meaning": ""
+      },
+      {
+        "word": "drinker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drinker/",
+        "meaning": "drinker"
+      },
+      {
+        "word": "drinkable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drinkable/",
+        "meaning": "drinkable"
+      }
+    ]
+  },
+  {
+    "word": "Combo",
+    "rootWord": "Combo",
+    "members": [
+      {
+        "word": "combo",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/combo/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Side dish",
+    "rootWord": "Side dish",
+    "members": [
+      {
+        "word": "side dish",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/side dish/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Meal",
+    "rootWord": "Meal",
+    "members": [
+      {
+        "word": "meal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/meal/",
+        "meaning": ""
+      },
+      {
+        "word": "mealy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/miːli/",
+        "meaning": "mealy"
+      }
+    ]
+  },
+  {
+    "word": "Order",
+    "rootWord": "Order",
+    "members": [
+      {
+        "word": "order",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/order/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Speciality",
+    "rootWord": "Speciality",
+    "members": [
+      {
+        "word": "speciality",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/speciality/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dessert",
+    "rootWord": "Dessert",
+    "members": [
+      {
+        "word": "dessert",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dessert/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Salad",
+    "rootWord": "Salad",
+    "members": [
+      {
+        "word": "salad",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/salad/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Menu",
+    "rootWord": "Menu",
+    "members": [
+      {
+        "word": "menu",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/menu/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Waiter",
+    "rootWord": "Waiter",
+    "members": [
+      {
+        "word": "waiter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waiter/",
+        "meaning": ""
+      },
+      {
+        "word": "wait",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weɪt/",
+        "meaning": "wait"
+      }
+    ]
+  },
+  {
+    "word": "Guest",
+    "rootWord": "Guest",
+    "members": [
+      {
+        "word": "guest",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/guest/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coupon",
+    "rootWord": "Coupon",
+    "members": [
+      {
+        "word": "coupon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coupon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Neat",
+    "rootWord": "Neat",
+    "members": [
+      {
+        "word": "neat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/neat/",
+        "meaning": ""
+      },
+      {
+        "word": "neatness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/neatness/",
+        "meaning": "neatness"
+      },
+      {
+        "word": "neaten",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/neaten/",
+        "meaning": "neaten"
+      },
+      {
+        "word": "neatly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈniːtli/",
+        "meaning": "neatly"
+      }
+    ]
+  },
+  {
+    "word": "Animated",
+    "rootWord": "Animated",
+    "members": [
+      {
+        "word": "animated",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/animated/",
+        "meaning": ""
+      },
+      {
+        "word": "animator",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/animator/",
+        "meaning": "animator"
+      }
+    ]
+  },
+  {
+    "word": "Hotel",
+    "rootWord": "Hotel",
+    "members": [
+      {
+        "word": "hotel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hotel/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hotel receptionist",
+    "rootWord": "Hotel receptionist",
+    "members": [
+      {
+        "word": "hotel receptionist",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hotel receptionist/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Housekeeper",
+    "rootWord": "Housekeeper",
+    "members": [
+      {
+        "word": "housekeeper",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/housekeeper/",
+        "meaning": ""
+      },
+      {
+        "word": "housekeep",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/housekeep/",
+        "meaning": "housekeep"
+      }
+    ]
+  },
+  {
+    "word": "Hall",
+    "rootWord": "Hall",
+    "members": [
+      {
+        "word": "hall",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hall/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Vacancy",
+    "rootWord": "Vacancy",
+    "members": [
+      {
+        "word": "vacancy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vacancy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lobby",
+    "rootWord": "Lobby",
+    "members": [
+      {
+        "word": "lobby",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lobby/",
+        "meaning": ""
+      },
+      {
+        "word": "lobbyist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɒ.bi.ɪst/",
+        "meaning": "lobbyist"
+      }
+    ]
+  },
+  {
+    "word": "Concierge",
+    "rootWord": "Concierge",
+    "members": [
+      {
+        "word": "concierge",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/concierge/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Check-in",
+    "rootWord": "Check-in",
+    "members": [
+      {
+        "word": "check-in",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/check-in/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Desk clerk",
+    "rootWord": "Desk clerk",
+    "members": [
+      {
+        "word": "desk clerk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/desk clerk/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Double bed",
+    "rootWord": "Double bed",
+    "members": [
+      {
+        "word": "double bed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/double bed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Single bed",
+    "rootWord": "Single bed",
+    "members": [
+      {
+        "word": "single bed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/single bed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Doorman",
+    "rootWord": "Doorman",
+    "members": [
+      {
+        "word": "doorman",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/doorman/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Reception",
+    "rootWord": "Reception",
+    "members": [
+      {
+        "word": "reception",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reception/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Elevator",
+    "rootWord": "Elevator",
+    "members": [
+      {
+        "word": "elevator",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/elevator/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Reservation",
+    "rootWord": "Reservation",
+    "members": [
+      {
+        "word": "reservation",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reservation/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bellboy",
+    "rootWord": "Bellboy",
+    "members": [
+      {
+        "word": "bellboy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bellboy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Check out",
+    "rootWord": "Check out",
+    "members": [
+      {
+        "word": "check out",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/check out/",
+        "meaning": ""
+      }
+    ]
+  }
+]

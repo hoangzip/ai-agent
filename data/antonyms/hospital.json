@@ -1,0 +1,147 @@
+[
+  {
+    "word": "Radiologist",
+    "antonyms": []
+  },
+  {
+    "word": "Emergency room",
+    "antonyms": []
+  },
+  {
+    "word": "Obstetrician",
+    "antonyms": []
+  },
+  {
+    "word": "Operating room",
+    "antonyms": []
+  },
+  {
+    "word": "Needle",
+    "antonyms": []
+  },
+  {
+    "word": "Laboratory",
+    "antonyms": []
+  },
+  {
+    "word": "Pharmacy",
+    "antonyms": []
+  },
+  {
+    "word": "Hospital bed",
+    "antonyms": []
+  },
+  {
+    "word": "Call button",
+    "antonyms": []
+  },
+  {
+    "word": "Doctor",
+    "antonyms": []
+  },
+  {
+    "word": "Nurse",
+    "antonyms": []
+  },
+  {
+    "word": "Gurney",
+    "antonyms": []
+  },
+  {
+    "word": "Waiting room",
+    "antonyms": []
+  },
+  {
+    "word": "Surgeon",
+    "antonyms": []
+  },
+  {
+    "word": "Midwife",
+    "antonyms": []
+  },
+  {
+    "word": "Injection",
+    "antonyms": []
+  },
+  {
+    "word": "Calcium",
+    "antonyms": []
+  },
+  {
+    "word": "Hospital",
+    "antonyms": []
+  },
+  {
+    "word": "Crutch",
+    "antonyms": []
+  },
+  {
+    "word": "Wheelchair",
+    "antonyms": []
+  },
+  {
+    "word": "Paramedic",
+    "antonyms": []
+  },
+  {
+    "word": "Stretcher",
+    "antonyms": []
+  },
+  {
+    "word": "Rush",
+    "antonyms": []
+  },
+  {
+    "word": "Treat",
+    "antonyms": []
+  },
+  {
+    "word": "Condition",
+    "antonyms": []
+  },
+  {
+    "word": "Recovery",
+    "antonyms": []
+  },
+  {
+    "word": "Suer",
+    "antonyms": []
+  },
+  {
+    "word": "Deteriorate",
+    "antonyms": [
+      {
+        "word": "ameliorate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈmiːli.əɹeɪt/",
+        "meaning": "cải thiện"
+      },
+      {
+        "word": "better",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈbeɾə]",
+        "meaning": "tốt hơn"
+      },
+      {
+        "word": "improve",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪmˈpɹuːv/",
+        "meaning": "cải thiện, cái tiến, mở mang"
+      },
+      {
+        "word": "revamp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹiːˈvamp/",
+        "meaning": "cải tạo"
+      }
+    ]
+  },
+  {
+    "word": "Coma",
+    "antonyms": []
+  },
+  {
+    "word": "Common cold",
+    "antonyms": []
+  }
+]

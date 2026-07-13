@@ -1,0 +1,716 @@
+[
+  {
+    "word": "Customer",
+    "rootWord": "Customer",
+    "members": [
+      {
+        "word": "customer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/customer/",
+        "meaning": ""
+      },
+      {
+        "word": "custom",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkʌstəm/",
+        "meaning": "custom"
+      }
+    ]
+  },
+  {
+    "word": "Cashier",
+    "rootWord": "Cashier",
+    "members": [
+      {
+        "word": "cashier",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cashier/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Attendant",
+    "rootWord": "Attendant",
+    "members": [
+      {
+        "word": "attendant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/attendant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Manager",
+    "rootWord": "Manager",
+    "members": [
+      {
+        "word": "manager",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/manager/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wallet",
+    "rootWord": "Wallet",
+    "members": [
+      {
+        "word": "wallet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wallet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Purse",
+    "rootWord": "Purse",
+    "members": [
+      {
+        "word": "purse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/purse/",
+        "meaning": ""
+      },
+      {
+        "word": "pursy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/pursy/",
+        "meaning": "pursy"
+      },
+      {
+        "word": "purser",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/purser/",
+        "meaning": "purser"
+      }
+    ]
+  },
+  {
+    "word": "Scale",
+    "rootWord": "Scale",
+    "members": [
+      {
+        "word": "scale",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scale/",
+        "meaning": ""
+      },
+      {
+        "word": "scalable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/scalable/",
+        "meaning": "scalable"
+      },
+      {
+        "word": "scaly",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈskeɪli/",
+        "meaning": "scaly"
+      }
+    ]
+  },
+  {
+    "word": "Counter",
+    "rootWord": "Counter",
+    "members": [
+      {
+        "word": "counter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/counter/",
+        "meaning": ""
+      },
+      {
+        "word": "countable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "[ˈkʰaʊn(ɾ)əbɫ̩]",
+        "meaning": "countable"
+      },
+      {
+        "word": "countless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkaʊntləs/",
+        "meaning": "countless"
+      },
+      {
+        "word": "count",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kaʊnt/",
+        "meaning": "count"
+      },
+      {
+        "word": "county",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkaʊnti/",
+        "meaning": "county"
+      }
+    ]
+  },
+  {
+    "word": "Barcode reader",
+    "rootWord": "Barcode reader",
+    "members": [
+      {
+        "word": "barcode reader",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/barcode reader/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Receipt",
+    "rootWord": "Receipt",
+    "members": [
+      {
+        "word": "receipt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/receipt/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pay",
+    "rootWord": "Pay",
+    "members": [
+      {
+        "word": "pay",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pay/",
+        "meaning": ""
+      },
+      {
+        "word": "payable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪəbl̩/",
+        "meaning": "payable"
+      },
+      {
+        "word": "payer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪ.ɚ/",
+        "meaning": "payer"
+      },
+      {
+        "word": "payment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪmənt/",
+        "meaning": "payment"
+      }
+    ]
+  },
+  {
+    "word": "Expensive",
+    "rootWord": "Expensive",
+    "members": [
+      {
+        "word": "expensive",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/expensive/",
+        "meaning": ""
+      },
+      {
+        "word": "expensively",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/expensively/",
+        "meaning": "expensively"
+      }
+    ]
+  },
+  {
+    "word": "Cheap",
+    "rootWord": "Cheap",
+    "members": [
+      {
+        "word": "cheap",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cheap/",
+        "meaning": ""
+      },
+      {
+        "word": "cheaply",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈtʃiːpli/",
+        "meaning": "cheaply"
+      },
+      {
+        "word": "cheapen",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/cheapen/",
+        "meaning": "cheapen"
+      },
+      {
+        "word": "cheapness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtʃiːpnəs/",
+        "meaning": "cheapness"
+      }
+    ]
+  },
+  {
+    "word": "Discount",
+    "rootWord": "Discount",
+    "members": [
+      {
+        "word": "discount",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/discount/",
+        "meaning": ""
+      },
+      {
+        "word": "discounter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/discounter/",
+        "meaning": "discounter"
+      }
+    ]
+  },
+  {
+    "word": "Sell",
+    "rootWord": "Sell",
+    "members": [
+      {
+        "word": "sell",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sell/",
+        "meaning": ""
+      },
+      {
+        "word": "seller",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɛlə/",
+        "meaning": "seller"
+      }
+    ]
+  },
+  {
+    "word": "Price",
+    "rootWord": "Price",
+    "members": [
+      {
+        "word": "price",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/price/",
+        "meaning": ""
+      },
+      {
+        "word": "priceless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpɹaɪsləs/",
+        "meaning": "priceless"
+      }
+    ]
+  },
+  {
+    "word": "Trolley",
+    "rootWord": "Trolley",
+    "members": [
+      {
+        "word": "trolley",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trolley/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Credit card",
+    "rootWord": "Credit card",
+    "members": [
+      {
+        "word": "credit card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/credit card/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cash",
+    "rootWord": "Cash",
+    "members": [
+      {
+        "word": "cash",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cash/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shop",
+    "rootWord": "Shop",
+    "members": [
+      {
+        "word": "shop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Money",
+    "rootWord": "Money",
+    "members": [
+      {
+        "word": "money",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/money/",
+        "meaning": ""
+      },
+      {
+        "word": "moneyer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmʌnɪə/",
+        "meaning": "moneyer"
+      }
+    ]
+  },
+  {
+    "word": "Basket",
+    "rootWord": "Basket",
+    "members": [
+      {
+        "word": "basket",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/basket/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bag",
+    "rootWord": "Bag",
+    "members": [
+      {
+        "word": "bag",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bag/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Buy",
+    "rootWord": "Buy",
+    "members": [
+      {
+        "word": "buy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/buy/",
+        "meaning": ""
+      },
+      {
+        "word": "buyer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbaɪ.ə(ɹ)/",
+        "meaning": "buyer"
+      },
+      {
+        "word": "buyable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbaɪəbəl/",
+        "meaning": "buyable"
+      }
+    ]
+  },
+  {
+    "word": "Greengrocer",
+    "rootWord": "Greengrocer",
+    "members": [
+      {
+        "word": "greengrocer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/greengrocer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Housewares",
+    "rootWord": "Housewares",
+    "members": [
+      {
+        "word": "housewares",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/housewares/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Toy store",
+    "rootWord": "Toy store",
+    "members": [
+      {
+        "word": "toy store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/toy store/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shopping mall",
+    "rootWord": "Shopping mall",
+    "members": [
+      {
+        "word": "shopping mall",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shopping mall/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Grocery store",
+    "rootWord": "Grocery store",
+    "members": [
+      {
+        "word": "grocery store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grocery store/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Convenience store",
+    "rootWord": "Convenience store",
+    "members": [
+      {
+        "word": "convenience store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/convenience store/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bargain",
+    "rootWord": "Bargain",
+    "members": [
+      {
+        "word": "bargain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bargain/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Refund",
+    "rootWord": "Refund",
+    "members": [
+      {
+        "word": "refund",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/refund/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Brochure",
+    "rootWord": "Brochure",
+    "members": [
+      {
+        "word": "brochure",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brochure/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Liquor store",
+    "rootWord": "Liquor store",
+    "members": [
+      {
+        "word": "liquor store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/liquor store/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Drugstore",
+    "rootWord": "Drugstore",
+    "members": [
+      {
+        "word": "drugstore",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drugstore/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Candy store",
+    "rootWord": "Candy store",
+    "members": [
+      {
+        "word": "candy store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/candy store/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Gift shop",
+    "rootWord": "Gift shop",
+    "members": [
+      {
+        "word": "gift shop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gift shop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pet shop",
+    "rootWord": "Pet shop",
+    "members": [
+      {
+        "word": "pet shop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pet shop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shoe shop",
+    "rootWord": "Shoe shop",
+    "members": [
+      {
+        "word": "shoe shop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shoe shop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Meat shop",
+    "rootWord": "Meat shop",
+    "members": [
+      {
+        "word": "meat shop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/meat shop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Florist",
+    "rootWord": "Florist",
+    "members": [
+      {
+        "word": "florist",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/florist/",
+        "meaning": ""
+      },
+      {
+        "word": "floristic",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/floristic/",
+        "meaning": "floristic"
+      }
+    ]
+  },
+  {
+    "word": "Butcher",
+    "rootWord": "Butcher",
+    "members": [
+      {
+        "word": "butcher",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/butcher/",
+        "meaning": ""
+      },
+      {
+        "word": "butch",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bʊtʃ/",
+        "meaning": "butch"
+      }
+    ]
+  }
+]

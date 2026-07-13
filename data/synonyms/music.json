@@ -1,0 +1,299 @@
+[
+  {
+    "word": "Music",
+    "synonyms": [
+      { "word": "melody", "partOfSpeech": "noun", "pronunciation": "/ˈmelədi/", "meaning": "giai điệu" },
+      { "word": "harmony", "partOfSpeech": "noun", "pronunciation": "/ˈhɑːməni/", "meaning": "hòa âm, sự hài hòa" },
+      { "word": "tune", "partOfSpeech": "noun", "pronunciation": "/tjuːn/", "meaning": "giai điệu, tông giọng" },
+      { "word": "song", "partOfSpeech": "noun", "pronunciation": "/sɒŋ/", "meaning": "bài hát" }
+    ]
+  },
+  {
+    "word": "Band",
+    "synonyms": [
+      { "word": "orchestra", "partOfSpeech": "noun", "pronunciation": "/ˈɔːkɪstrə/", "meaning": "dàn nhạc giao hưởng" },
+      { "word": "ensemble", "partOfSpeech": "noun", "pronunciation": "/ɒnˈsɒmbl/", "meaning": "nhóm nhạc, hợp xướng" },
+      { "word": "group", "partOfSpeech": "noun", "pronunciation": "/ɡruːp/", "meaning": "nhóm, ban nhạc" },
+      { "word": "troupe", "partOfSpeech": "noun", "pronunciation": "/truːp/", "meaning": "gánh hát, đoàn diễn" }
+    ]
+  },
+  {
+    "word": "Play",
+    "synonyms": [
+      { "word": "perform", "partOfSpeech": "verb", "pronunciation": "/pəˈfɔːm/", "meaning": "biểu diễn, trình diễn" },
+      { "word": "execute", "partOfSpeech": "verb", "pronunciation": "/ˈeksɪkjuːt/", "meaning": "thực hiện, biểu diễn" },
+      { "word": "render", "partOfSpeech": "verb", "pronunciation": "/ˈrendə(r)/", "meaning": "trình bày, biểu diễn" }
+    ]
+  },
+  {
+    "word": "Note",
+    "synonyms": [
+      { "word": "tone", "partOfSpeech": "noun", "pronunciation": "/təʊn/", "meaning": "tông giọng, nốt nhạc" },
+      { "word": "pitch", "partOfSpeech": "noun", "pronunciation": "/pɪtʃ/", "meaning": "cao độ nốt nhạc" },
+      { "word": "sound", "partOfSpeech": "noun", "pronunciation": "/saʊnd/", "meaning": "âm thanh" }
+    ]
+  },
+  {
+    "word": "Drum",
+    "synonyms": [
+      { "word": "tambour", "partOfSpeech": "noun", "pronunciation": "/ˈtæmbʊə/", "meaning": "cái trống nhỏ" },
+      { "word": "percussion", "partOfSpeech": "noun", "pronunciation": "/pəˈkʌʃn/", "meaning": "bộ gõ, nhạc cụ gõ" }
+    ]
+  },
+  {
+    "word": "Playlist",
+    "synonyms": [
+      { "word": "tracklist", "partOfSpeech": "noun", "pronunciation": "/ˈtræklɪst/", "meaning": "danh sách bản ghi" },
+      { "word": "setlist", "partOfSpeech": "noun", "pronunciation": "/ˈsetlɪst/", "meaning": "danh sách bài hát biểu diễn" },
+      { "word": "music list", "partOfSpeech": "noun", "pronunciation": "/ˈmjuːzɪk lɪst/", "meaning": "danh sách nhạc" }
+    ]
+  },
+  {
+    "word": "Musician",
+    "synonyms": [
+      { "word": "player", "partOfSpeech": "noun", "pronunciation": "/ˈpleɪə(r)/", "meaning": "người chơi, nhạc công" },
+      { "word": "instrumentalist", "partOfSpeech": "noun", "pronunciation": "/ˌɪnstrəˈmentəlɪst/", "meaning": "nhạc công chơi nhạc cụ" },
+      { "word": "performer", "partOfSpeech": "noun", "pronunciation": "/pəˈfɔːmə(r)/", "meaning": "người biểu diễn" }
+    ]
+  },
+  {
+    "word": "Perform",
+    "synonyms": [
+      { "word": "play", "partOfSpeech": "verb", "pronunciation": "/pleɪ/", "meaning": "chơi nhạc, biểu diễn" },
+      { "word": "present", "partOfSpeech": "verb", "pronunciation": "/prɪˈzent/", "meaning": "trình diễn, giới thiệu" },
+      { "word": "render", "partOfSpeech": "verb", "pronunciation": "/ˈrendə(r)/", "meaning": "biểu diễn, trình bày" },
+      { "word": "act", "partOfSpeech": "verb", "pronunciation": "/ækt/", "meaning": "diễn xuất, biểu diễn" }
+    ]
+  },
+  {
+    "word": "Rhythm",
+    "synonyms": [
+      { "word": "tempo", "partOfSpeech": "noun", "pronunciation": "/ˈtempəʊ/", "meaning": "nhịp độ" },
+      { "word": "beat", "partOfSpeech": "noun", "pronunciation": "/biːt/", "meaning": "nhịp, tiếng trống" },
+      { "word": "meter", "partOfSpeech": "noun", "pronunciation": "/ˈmiːtə(r)/", "meaning": "nhịp phách" },
+      { "word": "measure", "partOfSpeech": "noun", "pronunciation": "/ˈmeʒə(r)/", "meaning": "nhịp điệu, khuôn nhạc" }
+    ]
+  },
+  {
+    "word": "Dance",
+    "synonyms": [
+      { "word": "groove", "partOfSpeech": "verb", "pronunciation": "/ɡruːv/", "meaning": "nhảy theo nhạc, bắt nhịp" },
+      { "word": "sway", "partOfSpeech": "verb", "pronunciation": "/sweɪ/", "meaning": "lắc lư, đu đưa" },
+      { "word": "boogie", "partOfSpeech": "verb", "pronunciation": "/ˈbuːɡi/", "meaning": "nhảy múa sôi động" }
+    ]
+  },
+  {
+    "word": "Listen",
+    "synonyms": [
+      { "word": "hear", "partOfSpeech": "verb", "pronunciation": "/hɪə(r)/", "meaning": "nghe" },
+      { "word": "hearken", "partOfSpeech": "verb", "pronunciation": "/ˈhɑːkən/", "meaning": "lắng tai nghe (từ cổ)" },
+      { "word": "attend", "partOfSpeech": "verb", "pronunciation": "/əˈtend/", "meaning": "chú ý lắng nghe" }
+    ]
+  },
+  {
+    "word": "Volume",
+    "synonyms": [
+      { "word": "loudness", "partOfSpeech": "noun", "pronunciation": "/ˈlaʊdnəs/", "meaning": "độ to, mức âm lượng" },
+      { "word": "amplitude", "partOfSpeech": "noun", "pronunciation": "/ˈæmplɪtjuːd/", "meaning": "biên độ âm thanh" },
+      { "word": "sound level", "partOfSpeech": "noun", "pronunciation": "/saʊnd ˈlevl/", "meaning": "mức âm lượng" }
+    ]
+  },
+  {
+    "word": "Song",
+    "synonyms": [
+      { "word": "track", "partOfSpeech": "noun", "pronunciation": "/træk/", "meaning": "bản nhạc, bài hát" },
+      { "word": "tune", "partOfSpeech": "noun", "pronunciation": "/tjuːn/", "meaning": "giai điệu, bài hát" },
+      { "word": "number", "partOfSpeech": "noun", "pronunciation": "/ˈnʌmbə(r)/", "meaning": "tiết mục biểu diễn, bài hát" },
+      { "word": "melody", "partOfSpeech": "noun", "pronunciation": "/ˈmelədi/", "meaning": "giai điệu" }
+    ]
+  },
+  {
+    "word": "Sing",
+    "synonyms": [
+      { "word": "vocalize", "partOfSpeech": "verb", "pronunciation": "/ˈvəʊkəlaɪz/", "meaning": "phát âm, hát thành tiếng" },
+      { "word": "chant", "partOfSpeech": "verb", "pronunciation": "/tʃɑːnt/", "meaning": "tụng ca, hát theo nhịp" },
+      { "word": "hum", "partOfSpeech": "verb", "pronunciation": "/hʌm/", "meaning": "ngân nga, hát nhẩm" }
+    ]
+  },
+  {
+    "word": "Piano",
+    "synonyms": [
+      { "word": "pianoforte", "partOfSpeech": "noun", "pronunciation": "/piˌænəʊˈfɔːti/", "meaning": "đàn pianoforte" },
+      { "word": "keyboard instrument", "partOfSpeech": "noun", "pronunciation": "/ˈkiːbɔːd ˈɪnstrəmənt/", "meaning": "nhạc cụ phím" }
+    ]
+  },
+  {
+    "word": "Guitar",
+    "synonyms": [
+      { "word": "stringed instrument", "partOfSpeech": "noun", "pronunciation": "/strɪŋd ˈɪnstrəmənt/", "meaning": "nhạc cụ dây" }
+    ]
+  },
+  {
+    "word": "Instrument",
+    "synonyms": [
+      { "word": "device", "partOfSpeech": "noun", "pronunciation": "/dɪˈvaɪs/", "meaning": "thiết bị, công cụ" },
+      { "word": "implement", "partOfSpeech": "noun", "pronunciation": "/ˈɪmplɪment/", "meaning": "dụng cụ, công cụ" },
+      { "word": "tool", "partOfSpeech": "noun", "pronunciation": "/tuːl/", "meaning": "công cụ" }
+    ]
+  },
+  {
+    "word": "Harmony",
+    "synonyms": [
+      { "word": "concord", "partOfSpeech": "noun", "pronunciation": "/ˈkɒŋkɔːd/", "meaning": "sự hòa hợp, hòa âm" },
+      { "word": "agreement", "partOfSpeech": "noun", "pronunciation": "/əˈɡriːmənt/", "meaning": "sự đồng tình, hòa hợp" },
+      { "word": "tunefulness", "partOfSpeech": "noun", "pronunciation": "/ˈtjuːnflnəs/", "meaning": "sự du dương, dễ nghe" }
+    ]
+  },
+  {
+    "word": "Melody",
+    "synonyms": [
+      { "word": "tune", "partOfSpeech": "noun", "pronunciation": "/tjuːn/", "meaning": "giai điệu, bản nhạc" },
+      { "word": "air", "partOfSpeech": "noun", "pronunciation": "/eə(r)/", "meaning": "giai điệu nhẹ nhàng" },
+      { "word": "strain", "partOfSpeech": "noun", "pronunciation": "/streɪn/", "meaning": "giai điệu, khúc nhạc" },
+      { "word": "song", "partOfSpeech": "noun", "pronunciation": "/sɒŋ/", "meaning": "bài hát" }
+    ]
+  },
+  {
+    "word": "String",
+    "synonyms": [
+      { "word": "chord", "partOfSpeech": "noun", "pronunciation": "/kɔːd/", "meaning": "hợp âm, dây đàn" },
+      { "word": "wire", "partOfSpeech": "noun", "pronunciation": "/ˈwaɪə(r)/", "meaning": "dây kim loại, dây đàn" },
+      { "word": "fiber", "partOfSpeech": "noun", "pronunciation": "/ˈfaɪbə(r)/", "meaning": "sợi dây, xơ" }
+    ]
+  },
+  {
+    "word": "The brass",
+    "synonyms": [
+      { "word": "wind instruments", "partOfSpeech": "noun", "pronunciation": "/wɪnd ˈɪnstrəmənts/", "meaning": "nhạc cụ hơi" },
+      { "word": "horns", "partOfSpeech": "noun", "pronunciation": "/hɔːnz/", "meaning": "kèn đồng, còi" }
+    ]
+  },
+  {
+    "word": "Symphony",
+    "synonyms": [
+      { "word": "concerto", "partOfSpeech": "noun", "pronunciation": "/kənˈtʃeətəʊ/", "meaning": "bản hòa tấu concerto" },
+      { "word": "orchestral piece", "partOfSpeech": "noun", "pronunciation": "/ɔːˈkestrəl piːs/", "meaning": "tác phẩm dàn nhạc" }
+    ]
+  },
+  {
+    "word": "Overture",
+    "synonyms": [
+      { "word": "prelude", "partOfSpeech": "noun", "pronunciation": "/ˈpreljuːd/", "meaning": "khúc dạo đầu" },
+      { "word": "prologue", "partOfSpeech": "noun", "pronunciation": "/ˈprəʊlɒɡ/", "meaning": "phần mở đầu, lời mở màn" },
+      { "word": "introduction", "partOfSpeech": "noun", "pronunciation": "/ˌɪntrəˈdʌkʃn/", "meaning": "phần giới thiệu, dạo đầu" }
+    ]
+  },
+  {
+    "word": "Conductor",
+    "synonyms": [
+      { "word": "director", "partOfSpeech": "noun", "pronunciation": "/dəˈrektə(r)/", "meaning": "đạo diễn, người điều hành" },
+      { "word": "leader", "partOfSpeech": "noun", "pronunciation": "/ˈliːdə(r)/", "meaning": "người dẫn đầu, trưởng nhóm" },
+      { "word": "orchestra leader", "partOfSpeech": "noun", "pronunciation": "/ɔːˈkestrə ˈliːdər/", "meaning": "trưởng dàn nhạc" }
+    ]
+  },
+  {
+    "word": "Composer",
+    "synonyms": [
+      { "word": "writer", "partOfSpeech": "noun", "pronunciation": "/ˈraɪtə(r)/", "meaning": "người viết, tác giả" },
+      { "word": "creator", "partOfSpeech": "noun", "pronunciation": "/kriˈeɪtə(r)/", "meaning": "người tạo ra, tác giả" },
+      { "word": "songwriter", "partOfSpeech": "noun", "pronunciation": "/ˈsɒŋraɪtə(r)/", "meaning": "người viết bài hát" },
+      { "word": "musician", "partOfSpeech": "noun", "pronunciation": "/mjuˈzɪʃn/", "meaning": "nhạc sĩ" }
+    ]
+  },
+  {
+    "word": "Voice",
+    "synonyms": [
+      { "word": "speech", "partOfSpeech": "noun", "pronunciation": "/spiːtʃ/", "meaning": "bài phát biểu, lời nói" },
+      { "word": "vocals", "partOfSpeech": "noun", "pronunciation": "/ˈvəʊklz/", "meaning": "giọng hát, phần hát" },
+      { "word": "tone", "partOfSpeech": "noun", "pronunciation": "/təʊn/", "meaning": "tông giọng, âm sắc" }
+    ]
+  },
+  {
+    "word": "Solo",
+    "synonyms": [
+      { "word": "monologue", "partOfSpeech": "noun", "pronunciation": "/ˈmɒnəlɒɡ/", "meaning": "độc thoại, màn độc diễn" },
+      { "word": "single performance", "partOfSpeech": "noun", "pronunciation": "/ˈsɪŋɡl pəˈfɔːməns/", "meaning": "buổi diễn đơn lẻ" }
+    ]
+  },
+  {
+    "word": "Lead singer",
+    "synonyms": [
+      { "word": "frontman", "partOfSpeech": "noun", "pronunciation": "/ˈfrʌntmæn/", "meaning": "trưởng nhóm nhạc, ca sĩ chính" },
+      { "word": "lead vocalist", "partOfSpeech": "noun", "pronunciation": "/liːd ˈvəʊkəlɪst/", "meaning": "ca sĩ hát chính" }
+    ]
+  },
+  {
+    "word": "Guitarist",
+    "synonyms": [
+      { "word": "guitar player", "partOfSpeech": "noun", "pronunciation": "/ɡɪˈtɑː ˈpleɪər/", "meaning": "người chơi ghi-ta" },
+      { "word": "strummer", "partOfSpeech": "noun", "pronunciation": "/ˈstrʌmər/", "meaning": "người gảy đàn ghi-ta" }
+    ]
+  },
+  {
+    "word": "Drummer",
+    "synonyms": [
+      { "word": "percussionist", "partOfSpeech": "noun", "pronunciation": "/pəˈkʌʃənɪst/", "meaning": "nghệ sĩ chơi bộ gõ" },
+      { "word": "beatsmith", "partOfSpeech": "noun", "pronunciation": "/ˈbiːtsmɪθ/", "meaning": "người tạo nhịp điệu" }
+    ]
+  },
+  {
+    "word": "Lyrics",
+    "synonyms": [
+      { "word": "words", "partOfSpeech": "noun", "pronunciation": "/wɜːdz/", "meaning": "từ ngữ, lời bài hát" },
+      { "word": "libretto", "partOfSpeech": "noun", "pronunciation": "/lɪˈbretəʊ/", "meaning": "lời kịch opera" },
+      { "word": "verses", "partOfSpeech": "noun", "pronunciation": "/vɜːsɪz/", "meaning": "các câu thơ, lời bài hát" }
+    ]
+  },
+  {
+    "word": "Chorus",
+    "synonyms": [
+      { "word": "refrain", "partOfSpeech": "noun", "pronunciation": "/rɪˈfreɪn/", "meaning": "điệp khúc" },
+      { "word": "choir", "partOfSpeech": "noun", "pronunciation": "/ˈkwaɪə(r)/", "meaning": "dàn hợp xướng" },
+      { "word": "ensemble", "partOfSpeech": "noun", "pronunciation": "/ɒnˈsɒmbl/", "meaning": "dàn đồng ca, hợp xướng" }
+    ]
+  },
+  {
+    "word": "Opera",
+    "synonyms": [
+      { "word": "musical drama", "partOfSpeech": "noun", "pronunciation": "/ˈmjuːzɪkl ˈdrɑːmə/", "meaning": "kịch âm nhạc" },
+      { "word": "stage play", "partOfSpeech": "noun", "pronunciation": "/steɪdʒ pleɪ/", "meaning": "kịch sân khấu" }
+    ]
+  },
+  {
+    "word": "Folk music",
+    "synonyms": [
+      { "word": "traditional music", "partOfSpeech": "noun", "pronunciation": "/trəˈdɪʃənl ˈmjuːzɪk/", "meaning": "nhạc truyền thống" },
+      { "word": "roots music", "partOfSpeech": "noun", "pronunciation": "/ruːts ˈmjuːzɪk/", "meaning": "nhạc cội nguồn, dân gian" }
+    ]
+  },
+  {
+    "word": "Album",
+    "synonyms": [
+      { "word": "record", "partOfSpeech": "noun", "pronunciation": "/ˈrekɔːd/", "meaning": "bản ghi âm, đĩa nhạc" },
+      { "word": "release", "partOfSpeech": "noun", "pronunciation": "/rɪˈliːs/", "meaning": "ấn phẩm phát hành" },
+      { "word": "collection", "partOfSpeech": "noun", "pronunciation": "/kəˈlekʃn/", "meaning": "bộ sưu tập" }
+    ]
+  },
+  {
+    "word": "Tune",
+    "synonyms": [
+      { "word": "melody", "partOfSpeech": "noun", "pronunciation": "/ˈmelədi/", "meaning": "giai điệu" },
+      { "word": "air", "partOfSpeech": "noun", "pronunciation": "/eə(r)/", "meaning": "giai điệu nhẹ nhàng" },
+      { "word": "song", "partOfSpeech": "noun", "pronunciation": "/sɒŋ/", "meaning": "bài hát, giai điệu" },
+      { "word": "theme", "partOfSpeech": "noun", "pronunciation": "/θiːm/", "meaning": "chủ đề, nhạc đề" }
+    ]
+  },
+  {
+    "word": "Violin",
+    "synonyms": [
+      { "word": "fiddle", "partOfSpeech": "noun", "pronunciation": "/ˈfɪdl/", "meaning": "đàn nhị, violin dân gian" }
+    ]
+  },
+  {
+    "word": "Classical music",
+    "synonyms": [
+      { "word": "art music", "partOfSpeech": "noun", "pronunciation": "/ɑːt ˈmjuːzɪk/", "meaning": "nhạc nghệ thuật, bác học" },
+      { "word": "symphonic music", "partOfSpeech": "noun", "pronunciation": "/sɪmˈfɒnɪk ˈmjuːzɪk/", "meaning": "nhạc giao hưởng" }
+    ]
+  }
+]

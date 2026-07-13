@@ -1,0 +1,325 @@
+[
+  {
+    "word": "Land",
+    "rootWord": "Land",
+    "members": [
+      {
+        "word": "land",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/land/",
+        "meaning": ""
+      },
+      {
+        "word": "landless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/landless/",
+        "meaning": "landless"
+      },
+      {
+        "word": "lander",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lander/",
+        "meaning": "lander"
+      }
+    ]
+  },
+  {
+    "word": "Pollute",
+    "rootWord": "Pollute",
+    "members": [
+      {
+        "word": "pollute",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pollute/",
+        "meaning": ""
+      },
+      {
+        "word": "polluter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/polluter/",
+        "meaning": "polluter"
+      }
+    ]
+  },
+  {
+    "word": "Decompose",
+    "rootWord": "Decompose",
+    "members": [
+      {
+        "word": "decompose",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/decompose/",
+        "meaning": ""
+      },
+      {
+        "word": "decomposer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diːkəmˈpəʊzə(ɹ)/",
+        "meaning": "decomposer"
+      }
+    ]
+  },
+  {
+    "word": "Balance",
+    "rootWord": "Balance",
+    "members": [
+      {
+        "word": "balance",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/balance/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Climate change",
+    "rootWord": "Climate change",
+    "members": [
+      {
+        "word": "climate change",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/climate change/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Global warming",
+    "rootWord": "Global warming",
+    "members": [
+      {
+        "word": "global warming",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/global warming/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Oil slick",
+    "rootWord": "Oil slick",
+    "members": [
+      {
+        "word": "oil slick",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oil slick/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ozone layer",
+    "rootWord": "Ozone layer",
+    "members": [
+      {
+        "word": "ozone layer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ozone layer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Biodiversity",
+    "rootWord": "Biodiversity",
+    "members": [
+      {
+        "word": "biodiversity",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/biodiversity/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ecology",
+    "rootWord": "Ecology",
+    "members": [
+      {
+        "word": "ecology",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ecology/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Water",
+    "rootWord": "Water",
+    "members": [
+      {
+        "word": "water",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/water/",
+        "meaning": ""
+      },
+      {
+        "word": "wat",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wat/",
+        "meaning": "wat"
+      }
+    ]
+  },
+  {
+    "word": "Air",
+    "rootWord": "Air",
+    "members": [
+      {
+        "word": "air",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/air/",
+        "meaning": ""
+      },
+      {
+        "word": "airy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɛəɹ.i/",
+        "meaning": "airy"
+      },
+      {
+        "word": "airer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/airer/",
+        "meaning": "airer"
+      },
+      {
+        "word": "airless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/eə(ɹ).ləs/",
+        "meaning": "airless"
+      }
+    ]
+  },
+  {
+    "word": "Forest",
+    "rootWord": "Forest",
+    "members": [
+      {
+        "word": "forest",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/forest/",
+        "meaning": ""
+      },
+      {
+        "word": "forester",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/forester/",
+        "meaning": "forester"
+      }
+    ]
+  },
+  {
+    "word": "Flora",
+    "rootWord": "Flora",
+    "members": [
+      {
+        "word": "flora",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flora/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Creature",
+    "rootWord": "Creature",
+    "members": [
+      {
+        "word": "creature",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/creature/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Insect",
+    "rootWord": "Insect",
+    "members": [
+      {
+        "word": "insect",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insect/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Reproduction",
+    "rootWord": "Reproduction",
+    "members": [
+      {
+        "word": "reproduction",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reproduction/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wildlife",
+    "rootWord": "Wildlife",
+    "members": [
+      {
+        "word": "wildlife",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wildlife/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sewage",
+    "rootWord": "Sewage",
+    "members": [
+      {
+        "word": "sewage",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sewage/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fauna",
+    "rootWord": "Fauna",
+    "members": [
+      {
+        "word": "fauna",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fauna/",
+        "meaning": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "word": "Bride",
+    "antonyms": []
+  },
+  {
+    "word": "Vow",
+    "antonyms": []
+  },
+  {
+    "word": "Groomsman",
+    "antonyms": []
+  },
+  {
+    "word": "Groom",
+    "antonyms": []
+  },
+  {
+    "word": "Tuxedo",
+    "antonyms": []
+  },
+  {
+    "word": "Party",
+    "antonyms": []
+  },
+  {
+    "word": "Wedding",
+    "antonyms": []
+  },
+  {
+    "word": "Wedding card",
+    "antonyms": []
+  },
+  {
+    "word": "Reception",
+    "antonyms": []
+  },
+  {
+    "word": "Champagne",
+    "antonyms": []
+  },
+  {
+    "word": "Bouquet",
+    "antonyms": []
+  },
+  {
+    "word": "Married",
+    "antonyms": [
+      {
+        "word": "single",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsɪŋ.ɡəl/",
+        "meaning": "Độc thân"
+      },
+      {
+        "word": "unmarried",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʌnˈmæɹid/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "divorce",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈvɔːs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Newlywed",
+    "antonyms": []
+  },
+  {
+    "word": "Cake",
+    "antonyms": []
+  },
+  {
+    "word": "Ring",
+    "antonyms": []
+  },
+  {
+    "word": "Emblem",
+    "antonyms": []
+  },
+  {
+    "word": "Band",
+    "antonyms": []
+  },
+  {
+    "word": "Congratulation",
+    "antonyms": []
+  },
+  {
+    "word": "Jewelry",
+    "antonyms": []
+  },
+  {
+    "word": "Wine",
+    "antonyms": []
+  },
+  {
+    "word": "Dowry",
+    "antonyms": [
+      {
+        "word": "bride price",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bride price/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dower",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈdaʊ.ə(ɹ)]",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Honeymoon",
+    "antonyms": []
+  },
+  {
+    "word": "Anniversary",
+    "antonyms": []
+  },
+  {
+    "word": "Brother-in-law",
+    "antonyms": []
+  },
+  {
+    "word": "Sister-in-law",
+    "antonyms": []
+  },
+  {
+    "word": "Engaged",
+    "antonyms": [
+      {
+        "word": "disengage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌdɪsɪŋˈɡeɪdʒ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Couple",
+    "antonyms": []
+  },
+  {
+    "word": "Husband",
+    "antonyms": [
+      {
+        "word": "wife",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waɪf/",
+        "meaning": "Vợ"
+      }
+    ]
+  },
+  {
+    "word": "Wife",
+    "antonyms": [
+      {
+        "word": "husband",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhʌz.bənd/",
+        "meaning": "Chồng"
+      },
+      {
+        "word": "were",
+        "partOfSpeech": "noun",
+        "pronunciation": "/were/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Ceremony",
+    "antonyms": []
+  },
+  {
+    "word": "Betroth",
+    "antonyms": []
+  }
+]

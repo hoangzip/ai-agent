@@ -1,0 +1,166 @@
+[
+  {
+    "word": "Date",
+    "antonyms": []
+  },
+  {
+    "word": "Engagement",
+    "antonyms": [
+      {
+        "word": "apathy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæ.pə.θi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disengagement",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌdɪs.ɪŋˈɡeɪdʒ.mənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Ring",
+    "antonyms": []
+  },
+  {
+    "word": "Romantic",
+    "antonyms": [
+      {
+        "word": "antiromantic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/antiromantic/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "aromantic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌeɪ.ɹəʊˈman.tɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nonromantic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonromantic/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unromantic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/unromantic/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sweet",
+    "antonyms": [
+      {
+        "word": "lame",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lame/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "uncool",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/uncool/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nonsweet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonsweet/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sugarless",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sugarless/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Alone",
+    "antonyms": []
+  },
+  {
+    "word": "Couple",
+    "antonyms": []
+  },
+  {
+    "word": "Forever",
+    "antonyms": []
+  },
+  {
+    "word": "Boyfriend",
+    "antonyms": []
+  },
+  {
+    "word": "Girlfriend",
+    "antonyms": []
+  },
+  {
+    "word": "Kiss",
+    "antonyms": []
+  },
+  {
+    "word": "Heart",
+    "antonyms": []
+  },
+  {
+    "word": "Hug",
+    "antonyms": []
+  },
+  {
+    "word": "Propose",
+    "antonyms": []
+  },
+  {
+    "word": "Chocolate",
+    "antonyms": []
+  },
+  {
+    "word": "Wedding",
+    "antonyms": []
+  },
+  {
+    "word": "Anniversary",
+    "antonyms": []
+  },
+  {
+    "word": "Darling",
+    "antonyms": []
+  },
+  {
+    "word": "Single",
+    "antonyms": [
+      {
+        "word": "album",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæl.bəm/",
+        "meaning": "Tuyển tập ca khúc"
+      },
+      {
+        "word": "married",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈmær.id/",
+        "meaning": "Đã kết hôn"
+      },
+      {
+        "word": "divorced",
+        "partOfSpeech": "verb",
+        "pronunciation": "/divorced/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "taken",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈteɪkən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

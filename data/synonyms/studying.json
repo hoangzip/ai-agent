@@ -1,0 +1,298 @@
+[
+  {
+    "word": "Class",
+    "synonyms": []
+  },
+  {
+    "word": "Classroom",
+    "synonyms": []
+  },
+  {
+    "word": "Textbook",
+    "synonyms": []
+  },
+  {
+    "word": "Workbook",
+    "synonyms": []
+  },
+  {
+    "word": "Reference book",
+    "synonyms": []
+  },
+  {
+    "word": "Notebook",
+    "synonyms": [
+      {
+        "word": "by-book",
+        "partOfSpeech": "noun",
+        "pronunciation": "/by-book/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "note pad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/note pad/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "notepad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnoʊtˌpæd/",
+        "meaning": "Sổ ghi chép"
+      },
+      {
+        "word": "rough book",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rough book/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Notepad",
+    "synonyms": []
+  },
+  {
+    "word": "Pencil",
+    "synonyms": []
+  },
+  {
+    "word": "Crayon",
+    "synonyms": [
+      {
+        "word": "pencil crayon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil crayon/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pencil sharpener",
+    "synonyms": [
+      {
+        "word": "pencil parer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil parer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pencil pointer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil pointer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pencil topper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil topper/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Eraser",
+    "synonyms": [
+      {
+        "word": "bungee",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʌn.d͡ʒi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "india rubber",
+        "partOfSpeech": "noun",
+        "pronunciation": "/india rubber/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "rubber",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈrʌb.ər/",
+        "meaning": "Cục tẩy"
+      }
+    ]
+  },
+  {
+    "word": "Pen",
+    "synonyms": []
+  },
+  {
+    "word": "Ballpoint pen",
+    "synonyms": [
+      {
+        "word": "ball pen",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ball pen/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ballpen",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ballpen/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "biro",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbaɪ.ɹəʊ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Paper",
+    "synonyms": [
+      {
+        "word": "bookfell",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bookfell/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Desk",
+    "synonyms": []
+  },
+  {
+    "word": "Map",
+    "synonyms": [
+      {
+        "word": "function",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfʌŋ(k)ʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mapping",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈmæpɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "level",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɛv.əl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/steɪd͡ʒ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Glue",
+    "synonyms": [
+      {
+        "word": "adhere",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ædˈhiɹ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cling",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈklɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stick",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "agglutinate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/agglutinate/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Scissors",
+    "synonyms": [
+      {
+        "word": "switch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swɪtʃ/",
+        "meaning": "Công tắc"
+      },
+      {
+        "word": "pair of scissors",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pair of scissors/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shears",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʃɪəz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Ruler",
+    "synonyms": [
+      {
+        "word": "rule",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹuːl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Protractor",
+    "synonyms": []
+  },
+  {
+    "word": "Ink",
+    "synonyms": [
+      {
+        "word": "ballyhoo",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bæliˈhuː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "flak",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flæk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hoopla",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhuːplɑ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hype",
+        "partOfSpeech": "noun",
+        "pronunciation": "/haɪp/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chalk",
+    "synonyms": []
+  },
+  {
+    "word": "Folder",
+    "synonyms": [
+      {
+        "word": "directory",
+        "partOfSpeech": "noun",
+        "pronunciation": "/daɪˈɹɛktəɹi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "word": "Keep-t",
+    "synonyms": []
+  },
+  {
+    "word": "Regular",
+    "synonyms": [
+      {
+        "word": "frequenter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/frequenter/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "habitué",
+        "partOfSpeech": "noun",
+        "pronunciation": "/həˈbɪt͡ʃuˌeɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "patron",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪ.tɹən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "usual suspects",
+        "partOfSpeech": "noun",
+        "pronunciation": "/usual suspects/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Diabetes",
+    "synonyms": [
+      {
+        "word": "DM",
+        "partOfSpeech": "noun",
+        "pronunciation": "/DM/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "diabeetus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diabeetus/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "diabetes mellitus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diabetes mellitus/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dietitian",
+    "synonyms": []
+  },
+  {
+    "word": "Goiter",
+    "synonyms": []
+  },
+  {
+    "word": "Body",
+    "synonyms": []
+  },
+  {
+    "word": "Thin",
+    "synonyms": [
+      {
+        "word": "reedy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹiː.di/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "skinny",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈskɪni/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "slender",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈslɛndə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "slim",
+        "partOfSpeech": "noun",
+        "pronunciation": "/slɪm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dietary",
+    "synonyms": []
+  },
+  {
+    "word": "Fat",
+    "synonyms": [
+      {
+        "word": "adipose tissue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/adipose tissue/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lɑːd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fatso",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfætsoʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fatty",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/fatty/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Overweight",
+    "synonyms": [
+      {
+        "word": "fat",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/fæt/",
+        "meaning": "Mập"
+      },
+      {
+        "word": "morbidly obese",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/morbidly obese/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "obese",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əʊˈbiːs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "overnourished",
+        "partOfSpeech": "noun",
+        "pronunciation": "/overnourished/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Eating disorder",
+    "synonyms": []
+  },
+  {
+    "word": "Nutrient",
+    "synonyms": [
+      {
+        "word": "nutriment",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nutriment/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Ingredient",
+    "synonyms": []
+  },
+  {
+    "word": "Allergy",
+    "synonyms": [
+      {
+        "word": "type 1 hypersensitivity",
+        "partOfSpeech": "noun",
+        "pronunciation": "/type 1 hypersensitivity/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "intolerance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/intolerance/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Vitamin",
+    "synonyms": []
+  },
+  {
+    "word": "Overeat",
+    "synonyms": []
+  },
+  {
+    "word": "Nutritious",
+    "synonyms": []
+  },
+  {
+    "word": "Vegetarian",
+    "synonyms": [
+      {
+        "word": "herbivore (standard term)",
+        "partOfSpeech": "noun",
+        "pronunciation": "/herbivore (standard term)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "Pythagorean",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Pythagorean/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mineral",
+    "synonyms": []
+  }
+]

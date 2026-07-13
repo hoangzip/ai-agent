@@ -1,0 +1,346 @@
+[
+  {
+    "word": "Weather",
+    "antonyms": [
+      {
+        "word": "lee",
+        "partOfSpeech": "noun",
+        "pronunciation": "/liː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Warm",
+    "antonyms": [
+      {
+        "word": "Arctic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Arctic/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cold",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/koʊld/",
+        "meaning": "Lạnh"
+      },
+      {
+        "word": "cool",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kuːl/",
+        "meaning": "Mát mẻ"
+      },
+      {
+        "word": "frozen",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈfɹəʊzən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wind",
+    "antonyms": []
+  },
+  {
+    "word": "Rain",
+    "antonyms": []
+  },
+  {
+    "word": "Temperature",
+    "antonyms": []
+  },
+  {
+    "word": "Weather forecast",
+    "antonyms": []
+  },
+  {
+    "word": "Sunny",
+    "antonyms": []
+  },
+  {
+    "word": "Sunshine",
+    "antonyms": []
+  },
+  {
+    "word": "Icy",
+    "antonyms": []
+  },
+  {
+    "word": "Atmosphere",
+    "antonyms": []
+  },
+  {
+    "word": "Dry",
+    "antonyms": [
+      {
+        "word": "wet",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/wɛt/",
+        "meaning": "Ẩm ướt"
+      }
+    ]
+  },
+  {
+    "word": "Sun",
+    "antonyms": []
+  },
+  {
+    "word": "Cloud",
+    "antonyms": []
+  },
+  {
+    "word": "Fog",
+    "antonyms": []
+  },
+  {
+    "word": "Snow",
+    "antonyms": []
+  },
+  {
+    "word": "Cold",
+    "antonyms": [
+      {
+        "word": "baking",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈbeɪkɪŋ(ɡ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "boiling",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈbɔɪlɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "heated",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈhiːtɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hot",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/hɒt/",
+        "meaning": "Nóng"
+      }
+    ]
+  },
+  {
+    "word": "Cool",
+    "antonyms": [
+      {
+        "word": "awkward",
+        "partOfSpeech": "noun",
+        "pronunciation": "/awkward/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "uncool",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/uncool/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bothered",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bothered/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "upset",
+        "partOfSpeech": "noun",
+        "pronunciation": "/upset/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hot",
+    "antonyms": [
+      {
+        "word": "dead",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diːd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "neutral",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnjuːtɹəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "freezing",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈfɹiːz.ɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "freezing cold",
+        "partOfSpeech": "noun",
+        "pronunciation": "/freezing cold/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wet",
+    "antonyms": [
+      {
+        "word": "dry",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/draɪ/",
+        "meaning": "Khô"
+      },
+      {
+        "word": "sunny",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsʌn.i/",
+        "meaning": "Có nắng"
+      }
+    ]
+  },
+  {
+    "word": "Erratic",
+    "antonyms": [
+      {
+        "word": "consistent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈsɪstənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Thunder",
+    "antonyms": []
+  },
+  {
+    "word": "Hailstone",
+    "antonyms": []
+  },
+  {
+    "word": "Blustery",
+    "antonyms": []
+  },
+  {
+    "word": "Downpour",
+    "antonyms": []
+  },
+  {
+    "word": "Raincoat",
+    "antonyms": []
+  },
+  {
+    "word": "Blizzard",
+    "antonyms": []
+  },
+  {
+    "word": "Rainbow",
+    "antonyms": []
+  },
+  {
+    "word": "Dew",
+    "antonyms": []
+  },
+  {
+    "word": "Sleet",
+    "antonyms": []
+  },
+  {
+    "word": "Stormy",
+    "antonyms": [
+      {
+        "word": "calm",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kam/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Snowflake",
+    "antonyms": []
+  },
+  {
+    "word": "Puddle",
+    "antonyms": []
+  },
+  {
+    "word": "Lightning",
+    "antonyms": []
+  },
+  {
+    "word": "Mild",
+    "antonyms": [
+      {
+        "word": "disagreeable",
+        "partOfSpeech": "noun",
+        "pronunciation": "[dɪsəˈɡɹi.əbəɫ]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "harsh",
+        "partOfSpeech": "verb",
+        "pronunciation": "/harsh/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "irritating",
+        "partOfSpeech": "verb",
+        "pronunciation": "/irritating/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "severe",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sɪˈvɪə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dull",
+    "antonyms": [
+      {
+        "word": "bright",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹaɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "intelligent",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪnˈtɛlɪd͡ʒənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sharp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃɑːp/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Shelter",
+    "antonyms": []
+  },
+  {
+    "word": "Celsius",
+    "antonyms": []
+  },
+  {
+    "word": "Fine",
+    "antonyms": [
+      {
+        "word": "coarse",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kɔːs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

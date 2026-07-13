@@ -1,0 +1,115 @@
+[
+  {
+    "word": "Avenue",
+    "antonyms": []
+  },
+  {
+    "word": "Between",
+    "antonyms": []
+  },
+  {
+    "word": "Beside",
+    "antonyms": []
+  },
+  {
+    "word": "Behind",
+    "antonyms": [
+      {
+        "word": "in front of",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪn frʌnt əv/",
+        "meaning": "(vị trí) ở phía trước, ở đằng trước"
+      }
+    ]
+  },
+  {
+    "word": "Curve",
+    "antonyms": []
+  },
+  {
+    "word": "In front of",
+    "antonyms": [
+      {
+        "word": "after",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈæf.tə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "behind",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪˈhaɪnd/",
+        "meaning": "Ở phía sau"
+      },
+      {
+        "word": "in back of",
+        "partOfSpeech": "noun",
+        "pronunciation": "/in back of/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "absence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæb.səns/",
+        "meaning": "Sự vắng mặt"
+      }
+    ]
+  },
+  {
+    "word": "Opposite",
+    "antonyms": []
+  },
+  {
+    "word": "Near",
+    "antonyms": [
+      {
+        "word": "off side",
+        "partOfSpeech": "noun",
+        "pronunciation": "/off side/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "off",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɔːf/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "remote",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ɹəˈməʊt]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "far from",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/far from/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Turn right",
+    "antonyms": []
+  },
+  {
+    "word": "Turn left",
+    "antonyms": []
+  },
+  {
+    "word": "Junction",
+    "antonyms": []
+  },
+  {
+    "word": "Turning",
+    "antonyms": []
+  },
+  {
+    "word": "Roundabout",
+    "antonyms": []
+  },
+  {
+    "word": "Pavement",
+    "antonyms": []
+  }
+]

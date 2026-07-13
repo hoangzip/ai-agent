@@ -1,0 +1,516 @@
+[
+  {
+    "word": "Sea",
+    "rootWord": "Sea",
+    "members": [
+      {
+        "word": "sea",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sea/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ocean",
+    "rootWord": "Ocean",
+    "members": [
+      {
+        "word": "ocean",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ocean/",
+        "meaning": ""
+      },
+      {
+        "word": "oceanic",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/oceanic/",
+        "meaning": "oceanic"
+      }
+    ]
+  },
+  {
+    "word": "Wave",
+    "rootWord": "Wave",
+    "members": [
+      {
+        "word": "wave",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wave/",
+        "meaning": ""
+      },
+      {
+        "word": "waver",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈweɪ.və(ɹ)/",
+        "meaning": "waver"
+      },
+      {
+        "word": "wavy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈweɪvi/",
+        "meaning": "wavy"
+      }
+    ]
+  },
+  {
+    "word": "Island",
+    "rootWord": "Island",
+    "members": [
+      {
+        "word": "island",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/island/",
+        "meaning": ""
+      },
+      {
+        "word": "islander",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈaɪləndə/",
+        "meaning": "islander"
+      }
+    ]
+  },
+  {
+    "word": "Harbor",
+    "rootWord": "Harbor",
+    "members": [
+      {
+        "word": "harbor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/harbor/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lighthouse",
+    "rootWord": "Lighthouse",
+    "members": [
+      {
+        "word": "lighthouse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lighthouse/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Submarine",
+    "rootWord": "Submarine",
+    "members": [
+      {
+        "word": "submarine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/submarine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ship",
+    "rootWord": "Ship",
+    "members": [
+      {
+        "word": "ship",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ship/",
+        "meaning": ""
+      },
+      {
+        "word": "shipment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʃɪpmənt/",
+        "meaning": "shipment"
+      }
+    ]
+  },
+  {
+    "word": "Boat",
+    "rootWord": "Boat",
+    "members": [
+      {
+        "word": "boat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/boat/",
+        "meaning": ""
+      },
+      {
+        "word": "boater",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɐʉt.ɘ/",
+        "meaning": "boater"
+      }
+    ]
+  },
+  {
+    "word": "Captain",
+    "rootWord": "Captain",
+    "members": [
+      {
+        "word": "captain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/captain/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fisherman",
+    "rootWord": "Fisherman",
+    "members": [
+      {
+        "word": "fisherman",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fisherman/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lifeguard",
+    "rootWord": "Lifeguard",
+    "members": [
+      {
+        "word": "lifeguard",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lifeguard/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Seashore",
+    "rootWord": "Seashore",
+    "members": [
+      {
+        "word": "seashore",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/seashore/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Beach",
+    "rootWord": "Beach",
+    "members": [
+      {
+        "word": "beach",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beach/",
+        "meaning": ""
+      },
+      {
+        "word": "beachy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/beachy/",
+        "meaning": "beachy"
+      }
+    ]
+  },
+  {
+    "word": "Coast",
+    "rootWord": "Coast",
+    "members": [
+      {
+        "word": "coast",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coast/",
+        "meaning": ""
+      },
+      {
+        "word": "coastal",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkəʊstəl/",
+        "meaning": "coastal"
+      },
+      {
+        "word": "coaster",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coaster/",
+        "meaning": "coaster"
+      }
+    ]
+  },
+  {
+    "word": "Seagull",
+    "rootWord": "Seagull",
+    "members": [
+      {
+        "word": "seagull",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/seagull/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Whale",
+    "rootWord": "Whale",
+    "members": [
+      {
+        "word": "whale",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/whale/",
+        "meaning": ""
+      },
+      {
+        "word": "whaler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/whaler/",
+        "meaning": "whaler"
+      }
+    ]
+  },
+  {
+    "word": "Shark",
+    "rootWord": "Shark",
+    "members": [
+      {
+        "word": "shark",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shark/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dolphin",
+    "rootWord": "Dolphin",
+    "members": [
+      {
+        "word": "dolphin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dolphin/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Octopus",
+    "rootWord": "Octopus",
+    "members": [
+      {
+        "word": "octopus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/octopus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fish",
+    "rootWord": "Fish",
+    "members": [
+      {
+        "word": "fish",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fish/",
+        "meaning": ""
+      },
+      {
+        "word": "fisher",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɪʃə/",
+        "meaning": "fisher"
+      },
+      {
+        "word": "fishy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fishy/",
+        "meaning": "fishy"
+      }
+    ]
+  },
+  {
+    "word": "Jellysh",
+    "rootWord": "Jellysh",
+    "members": [
+      {
+        "word": "jellysh",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jellysh/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sea horse",
+    "rootWord": "Sea horse",
+    "members": [
+      {
+        "word": "sea horse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sea horse/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Seaweed",
+    "rootWord": "Seaweed",
+    "members": [
+      {
+        "word": "seaweed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/seaweed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coral",
+    "rootWord": "Coral",
+    "members": [
+      {
+        "word": "coral",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coral/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coral reef",
+    "rootWord": "Coral reef",
+    "members": [
+      {
+        "word": "coral reef",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coral reef/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shellsh",
+    "rootWord": "Shellsh",
+    "members": [
+      {
+        "word": "shellsh",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shellsh/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Clam",
+    "rootWord": "Clam",
+    "members": [
+      {
+        "word": "clam",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clam/",
+        "meaning": ""
+      },
+      {
+        "word": "clamor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈklæm.ə/",
+        "meaning": "clamor"
+      }
+    ]
+  },
+  {
+    "word": "Starsh",
+    "rootWord": "Starsh",
+    "members": [
+      {
+        "word": "starsh",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/starsh/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Seal",
+    "rootWord": "Seal",
+    "members": [
+      {
+        "word": "seal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/seal/",
+        "meaning": ""
+      },
+      {
+        "word": "sealer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/siːlə/",
+        "meaning": "sealer"
+      }
+    ]
+  },
+  {
+    "word": "Turtle",
+    "rootWord": "Turtle",
+    "members": [
+      {
+        "word": "turtle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turtle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Crab",
+    "rootWord": "Crab",
+    "members": [
+      {
+        "word": "crab",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crab/",
+        "meaning": ""
+      }
+    ]
+  }
+]

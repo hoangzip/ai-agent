@@ -1,0 +1,193 @@
+[
+  {
+    "word": "Skirt",
+    "antonyms": []
+  },
+  {
+    "word": "Leggings",
+    "antonyms": []
+  },
+  {
+    "word": "Overalls",
+    "antonyms": []
+  },
+  {
+    "word": "Turtleneck",
+    "antonyms": []
+  },
+  {
+    "word": "Bow tie",
+    "antonyms": []
+  },
+  {
+    "word": "Tie",
+    "antonyms": []
+  },
+  {
+    "word": "Tunic",
+    "antonyms": []
+  },
+  {
+    "word": "Vest",
+    "antonyms": []
+  },
+  {
+    "word": "T-shirt",
+    "antonyms": []
+  },
+  {
+    "word": "Shirt",
+    "antonyms": []
+  },
+  {
+    "word": "Jeans",
+    "antonyms": []
+  },
+  {
+    "word": "Dress",
+    "antonyms": [
+      {
+        "word": "strip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɹɪp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "undress",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʌnˈdɹɛs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disrobe",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪsˈɹəʊb/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "get undressed",
+        "partOfSpeech": "noun",
+        "pronunciation": "/get undressed/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Coat",
+    "antonyms": []
+  },
+  {
+    "word": "Jacket",
+    "antonyms": []
+  },
+  {
+    "word": "Sweater",
+    "antonyms": []
+  },
+  {
+    "word": "Jumpsuit",
+    "antonyms": []
+  },
+  {
+    "word": "Shorts",
+    "antonyms": []
+  },
+  {
+    "word": "Suit",
+    "antonyms": []
+  },
+  {
+    "word": "Anorak",
+    "antonyms": []
+  },
+  {
+    "word": "Hat",
+    "antonyms": []
+  },
+  {
+    "word": "Cap",
+    "antonyms": [
+      {
+        "word": "floor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flɔː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Glove",
+    "antonyms": []
+  },
+  {
+    "word": "Scarf",
+    "antonyms": []
+  },
+  {
+    "word": "Sandals",
+    "antonyms": []
+  },
+  {
+    "word": "Slippers",
+    "antonyms": []
+  },
+  {
+    "word": "Pocket",
+    "antonyms": []
+  },
+  {
+    "word": "Sleeve",
+    "antonyms": []
+  },
+  {
+    "word": "Collar",
+    "antonyms": []
+  },
+  {
+    "word": "Zip",
+    "antonyms": []
+  },
+  {
+    "word": "Blouse",
+    "antonyms": [
+      {
+        "word": "unblouse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unblouse/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Button",
+    "antonyms": []
+  },
+  {
+    "word": "Underwear",
+    "antonyms": []
+  },
+  {
+    "word": "Bra",
+    "antonyms": []
+  },
+  {
+    "word": "Pants",
+    "antonyms": []
+  },
+  {
+    "word": "Belt",
+    "antonyms": []
+  },
+  {
+    "word": "High heels",
+    "antonyms": []
+  },
+  {
+    "word": "Try on",
+    "antonyms": []
+  },
+  {
+    "word": "Size",
+    "antonyms": []
+  }
+]

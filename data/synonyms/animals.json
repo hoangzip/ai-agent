@@ -1,0 +1,747 @@
+[
+  {
+    "word": "Piglet",
+    "synonyms": [
+      {
+        "word": "bonham",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɒnəm/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pigling",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pigling/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shoat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃəʊt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sow",
+    "synonyms": [
+      {
+        "word": "bitch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪt͡s/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kaʊ/",
+        "meaning": "Bò cái"
+      },
+      {
+        "word": "ingot",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɪŋɡət/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pig",
+    "synonyms": [
+      {
+        "word": "hog",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hɒɡ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "swine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swaɪn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Duck",
+    "synonyms": [
+      {
+        "word": "dip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dunk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dunk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "duck down",
+        "partOfSpeech": "noun",
+        "pronunciation": "/duck down/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Animal",
+    "synonyms": [
+      {
+        "word": "beast",
+        "partOfSpeech": "noun",
+        "pronunciation": "/biːst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "creature",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkriː.tʃər/",
+        "meaning": "Sinh vật"
+      },
+      {
+        "word": "brute",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹuːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "monster",
+        "partOfSpeech": "noun",
+        "pronunciation": "/monster/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Goat",
+    "synonyms": []
+  },
+  {
+    "word": "Horse",
+    "synonyms": [
+      {
+        "word": "horsie",
+        "partOfSpeech": "noun",
+        "pronunciation": "/horsie/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nag",
+        "partOfSpeech": "noun",
+        "pronunciation": "/neɪɡ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "prad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/prad/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "steed",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stiːd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Goose",
+    "synonyms": [
+      {
+        "word": "goose iron",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goose iron/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Donkey",
+    "synonyms": [
+      {
+        "word": "donkey engine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/donkey engine/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sheep",
+    "synonyms": []
+  },
+  {
+    "word": "Ox",
+    "synonyms": [
+      {
+        "word": "bullock",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʊlək/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "steer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɪə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dog",
+    "synonyms": [
+      {
+        "word": "Canis canis",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Canis canis/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "Canis domesticus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Canis domesticus/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "Canis familiaris",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Canis familiaris/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "canine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/canine/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cat",
+    "synonyms": [
+      {
+        "word": "saber-tooth",
+        "partOfSpeech": "noun",
+        "pronunciation": "/saber-tooth/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "saber-toothed cat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/saber-toothed cat/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "feline",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfiːlaɪn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "feline cat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/feline cat/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chicken",
+    "synonyms": [
+      {
+        "word": "biddy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɪdi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "chook",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tʃʊk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "spring chicken",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spring chicken/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "twink",
+        "partOfSpeech": "noun",
+        "pronunciation": "/twɪŋk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rooster",
+    "synonyms": [
+      {
+        "word": "cock",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɒk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cock of the roost",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cock of the roost/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cock of the walk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cock of the walk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "brawler",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brawler/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hen",
+    "synonyms": [
+      {
+        "word": "hard clam",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hard clam/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hen-clam",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hen-clam/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hen-fish",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hen-fish/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bachelorette",
+        "partOfSpeech": "noun",
+        "pronunciation": "/batʃələˈɹɛt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cow",
+    "synonyms": [
+      {
+        "word": "bitch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪt͡s/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bastard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɑːs.təd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bugger",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bugger/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bull",
+    "synonyms": [
+      {
+        "word": "bro",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bro/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kæt/",
+        "meaning": "Mèo"
+      },
+      {
+        "word": "dude",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dude/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "guy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡaɪ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Calf",
+    "synonyms": [
+      {
+        "word": "bullet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʊl.ɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cowlet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cowlet/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cowling",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cowling/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "moggy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/moggy/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rabbit",
+    "synonyms": [
+      {
+        "word": "bunny",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʌni/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "colloquial",
+        "partOfSpeech": "noun",
+        "pronunciation": "/colloquial/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hypocoristic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌhaɪpəkəˈɹɪstɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pet name",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pet name/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Owl",
+    "synonyms": []
+  },
+  {
+    "word": "Deer",
+    "synonyms": []
+  },
+  {
+    "word": "Bat",
+    "synonyms": [
+      {
+        "word": "chiropter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chiropter/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "chiropteran",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chiropteran/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "flindermouse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flindermouse/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "flittermouse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flittermouse/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mink",
+    "synonyms": []
+  },
+  {
+    "word": "Monkey",
+    "synonyms": [
+      {
+        "word": "fiddle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fiddle/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "interfere",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˌɪntəˈfɪə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Snake",
+    "synonyms": [
+      {
+        "word": "auger",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɔːɡə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "plumber's snake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plumber's snake/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "joe blake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/joe blake/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "serpent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɜːpənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Lizard",
+    "synonyms": []
+  },
+  {
+    "word": "Girae",
+    "synonyms": []
+  },
+  {
+    "word": "Bear",
+    "synonyms": []
+  },
+  {
+    "word": "Rhino",
+    "synonyms": []
+  },
+  {
+    "word": "Elephant",
+    "synonyms": [
+      {
+        "word": "Elephas",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Elephas/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "Loxodonta",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Loxodonta/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "africana",
+        "partOfSpeech": "noun",
+        "pronunciation": "/africana/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "maximus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/maximus/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Panther",
+    "synonyms": []
+  },
+  {
+    "word": "Leopard",
+    "synonyms": [
+      {
+        "word": "clouded leopard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clouded leopard/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pard/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pardal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pardal/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "snow leopard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snow leopard/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tiger",
+    "synonyms": []
+  },
+  {
+    "word": "Lion",
+    "synonyms": []
+  },
+  {
+    "word": "Fox",
+    "synonyms": [
+      {
+        "word": "tod",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɒd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dinosaur",
+    "synonyms": [
+      {
+        "word": "nonavian",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonavian/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fossil",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɒsəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "old fart",
+        "partOfSpeech": "noun",
+        "pronunciation": "/old fart/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Turtle",
+    "synonyms": [
+      {
+        "word": "sea turtle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sea turtle/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shellpad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shellpad/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shield-toad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shield-toad/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "testudo",
+        "partOfSpeech": "noun",
+        "pronunciation": "/testudo/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Snail",
+    "synonyms": [
+      {
+        "word": "dodman",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dodman/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hodmandod",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hodmandod/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Crow",
+    "synonyms": [
+      {
+        "word": "cock-a-doodle-doo",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌkɒkəˌduːdəlˈduː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "crowbar",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɹoʊˌbɑɹ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Parrot",
+    "synonyms": [
+      {
+        "word": "copycat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/copycat/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mimic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmɪm.ɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "popinjay",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɒpɪndʒeɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "psittacine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/psittacine/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

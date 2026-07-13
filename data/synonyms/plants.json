@@ -1,0 +1,169 @@
+[
+  {
+    "word": "Tree",
+    "synonyms": []
+  },
+  {
+    "word": "Pine",
+    "synonyms": [
+      {
+        "word": "pine tree",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paɪn triː/",
+        "meaning": "Cây thông"
+      },
+      {
+        "word": "pinewood",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pinewood/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cedar",
+    "synonyms": []
+  },
+  {
+    "word": "Oak",
+    "synonyms": [
+      {
+        "word": "oaken",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əʊk.ən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Ivy",
+    "synonyms": []
+  },
+  {
+    "word": "Moss",
+    "synonyms": []
+  },
+  {
+    "word": "Mushroom",
+    "synonyms": [
+      {
+        "word": "mushrump",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mushrump/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shroom",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃɹuːm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wheat",
+    "synonyms": []
+  },
+  {
+    "word": "Corn",
+    "synonyms": []
+  },
+  {
+    "word": "Flower",
+    "synonyms": [
+      {
+        "word": "cream",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kriːm/",
+        "meaning": "Màu kem"
+      },
+      {
+        "word": "prime",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɹaɪ̯m/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "head",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hɛd/",
+        "meaning": "Đầu"
+      },
+      {
+        "word": "pseudanthium",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pseudanthium/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Grass",
+    "synonyms": [
+      {
+        "word": "breakup",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɹeɪkʌp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "spring",
+        "partOfSpeech": "verb",
+        "pronunciation": "/spɹɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "springtime",
+        "partOfSpeech": "noun",
+        "pronunciation": "/springtime/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ephemera",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈfɛməɹə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Herb",
+    "synonyms": [
+      {
+        "word": "grass",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡræs/",
+        "meaning": "Cỏ"
+      },
+      {
+        "word": "weed",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wiːd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bush",
+    "synonyms": [
+      {
+        "word": "shrub",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃɹʌb/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Coconut tree",
+    "synonyms": []
+  },
+  {
+    "word": "Apple tree",
+    "synonyms": []
+  },
+  {
+    "word": "Shrubland",
+    "synonyms": []
+  }
+]

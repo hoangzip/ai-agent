@@ -1,0 +1,822 @@
+[
+  {
+    "word": "Fever",
+    "rootWord": "Fever",
+    "members": [
+      {
+        "word": "fever",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fever/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cough",
+    "rootWord": "Cough",
+    "members": [
+      {
+        "word": "cough",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cough/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hurt",
+    "rootWord": "Hurt",
+    "members": [
+      {
+        "word": "hurt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hurt/",
+        "meaning": ""
+      },
+      {
+        "word": "hurtful",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/hurtful/",
+        "meaning": "hurtful"
+      },
+      {
+        "word": "hurty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/hurty/",
+        "meaning": "hurty"
+      }
+    ]
+  },
+  {
+    "word": "Swollen",
+    "rootWord": "Swollen",
+    "members": [
+      {
+        "word": "swollen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swollen/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pus",
+    "rootWord": "Pus",
+    "members": [
+      {
+        "word": "pus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Graze",
+    "rootWord": "Graze",
+    "members": [
+      {
+        "word": "graze",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/graze/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Headache",
+    "rootWord": "Headache",
+    "members": [
+      {
+        "word": "headache",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/headache/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Insomnia",
+    "rootWord": "Insomnia",
+    "members": [
+      {
+        "word": "insomnia",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insomnia/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rash",
+    "rootWord": "Rash",
+    "members": [
+      {
+        "word": "rash",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rash/",
+        "meaning": ""
+      },
+      {
+        "word": "rashly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/rashly/",
+        "meaning": "rashly"
+      },
+      {
+        "word": "rasher",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹæʃə(ɹ)/",
+        "meaning": "rasher"
+      }
+    ]
+  },
+  {
+    "word": "Black eye",
+    "rootWord": "Black eye",
+    "members": [
+      {
+        "word": "black eye",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/black eye/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bruise",
+    "rootWord": "Bruise",
+    "members": [
+      {
+        "word": "bruise",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bruise/",
+        "meaning": ""
+      },
+      {
+        "word": "bruiser",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bruiser/",
+        "meaning": "bruiser"
+      }
+    ]
+  },
+  {
+    "word": "Constipation",
+    "rootWord": "Constipation",
+    "members": [
+      {
+        "word": "constipation",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/constipation/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Diarrhea",
+    "rootWord": "Diarrhea",
+    "members": [
+      {
+        "word": "diarrhea",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diarrhea/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sore eyes",
+    "rootWord": "Sore eyes",
+    "members": [
+      {
+        "word": "sore eyes",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sore eyes/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Runny nose",
+    "rootWord": "Runny nose",
+    "members": [
+      {
+        "word": "runny nose",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/runny nose/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Snile",
+    "rootWord": "Snile",
+    "members": [
+      {
+        "word": "snile",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snile/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sneeze",
+    "rootWord": "Sneeze",
+    "members": [
+      {
+        "word": "sneeze",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sneeze/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bad breath",
+    "rootWord": "Bad breath",
+    "members": [
+      {
+        "word": "bad breath",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bad breath/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Earache",
+    "rootWord": "Earache",
+    "members": [
+      {
+        "word": "earache",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/earache/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nausea",
+    "rootWord": "Nausea",
+    "members": [
+      {
+        "word": "nausea",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nausea/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Eating disorder",
+    "rootWord": "Eating disorder",
+    "members": [
+      {
+        "word": "eating disorder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eating disorder/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Asthma",
+    "rootWord": "Asthma",
+    "members": [
+      {
+        "word": "asthma",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/asthma/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Backache",
+    "rootWord": "Backache",
+    "members": [
+      {
+        "word": "backache",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/backache/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chill",
+    "rootWord": "Chill",
+    "members": [
+      {
+        "word": "chill",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chill/",
+        "meaning": ""
+      },
+      {
+        "word": "chilly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/chilly/",
+        "meaning": "chilly"
+      },
+      {
+        "word": "chiller",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chiller/",
+        "meaning": "chiller"
+      }
+    ]
+  },
+  {
+    "word": "Fever virus",
+    "rootWord": "Fever virus",
+    "members": [
+      {
+        "word": "fever virus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fever virus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Allergy",
+    "rootWord": "Allergy",
+    "members": [
+      {
+        "word": "allergy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/allergy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Paralyse",
+    "rootWord": "Paralyse",
+    "members": [
+      {
+        "word": "paralyse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paralyse/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Infected",
+    "rootWord": "Infected",
+    "members": [
+      {
+        "word": "infected",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/infected/",
+        "meaning": ""
+      },
+      {
+        "word": "infective",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪnˈfɛktɪv/",
+        "meaning": "infective"
+      },
+      {
+        "word": "infect",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪnˈfɛkt/",
+        "meaning": "infect"
+      }
+    ]
+  },
+  {
+    "word": "Inflamed",
+    "rootWord": "Inflamed",
+    "members": [
+      {
+        "word": "inflamed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/inflamed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Gout",
+    "rootWord": "Gout",
+    "members": [
+      {
+        "word": "gout",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gout/",
+        "meaning": ""
+      },
+      {
+        "word": "gouty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/gouty/",
+        "meaning": "gouty"
+      }
+    ]
+  },
+  {
+    "word": "Hepatitis",
+    "rootWord": "Hepatitis",
+    "members": [
+      {
+        "word": "hepatitis",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hepatitis/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lump",
+    "rootWord": "Lump",
+    "members": [
+      {
+        "word": "lump",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lump/",
+        "meaning": ""
+      },
+      {
+        "word": "lumpy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/lumpy/",
+        "meaning": "lumpy"
+      },
+      {
+        "word": "lumper",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lumper/",
+        "meaning": "lumper"
+      }
+    ]
+  },
+  {
+    "word": "Insect bite",
+    "rootWord": "Insect bite",
+    "members": [
+      {
+        "word": "insect bite",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insect bite/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stomachache",
+    "rootWord": "Stomachache",
+    "members": [
+      {
+        "word": "stomachache",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stomachache/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Toothache",
+    "rootWord": "Toothache",
+    "members": [
+      {
+        "word": "toothache",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/toothache/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "High blood pressure",
+    "rootWord": "High blood pressure",
+    "members": [
+      {
+        "word": "high blood pressure",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/high blood pressure/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sore throat",
+    "rootWord": "Sore throat",
+    "members": [
+      {
+        "word": "sore throat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sore throat/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sprain",
+    "rootWord": "Sprain",
+    "members": [
+      {
+        "word": "sprain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sprain/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Burn",
+    "rootWord": "Burn",
+    "members": [
+      {
+        "word": "burn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/burn/",
+        "meaning": ""
+      },
+      {
+        "word": "burnous",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/burnous/",
+        "meaning": "burnous"
+      },
+      {
+        "word": "burnable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/burnable/",
+        "meaning": "burnable"
+      },
+      {
+        "word": "burner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/burner/",
+        "meaning": "burner"
+      }
+    ]
+  },
+  {
+    "word": "Malaria",
+    "rootWord": "Malaria",
+    "members": [
+      {
+        "word": "malaria",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/malaria/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Scabies",
+    "rootWord": "Scabies",
+    "members": [
+      {
+        "word": "scabies",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scabies/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Smallpox",
+    "rootWord": "Smallpox",
+    "members": [
+      {
+        "word": "smallpox",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/smallpox/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Heart attack",
+    "rootWord": "Heart attack",
+    "members": [
+      {
+        "word": "heart attack",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/heart attack/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tuberculosis",
+    "rootWord": "Tuberculosis",
+    "members": [
+      {
+        "word": "tuberculosis",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tuberculosis/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Diabetes",
+    "rootWord": "Diabetes",
+    "members": [
+      {
+        "word": "diabetes",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diabetes/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cancer",
+    "rootWord": "Cancer",
+    "members": [
+      {
+        "word": "cancer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cancer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pneumonia",
+    "rootWord": "Pneumonia",
+    "members": [
+      {
+        "word": "pneumonia",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pneumonia/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chicken pox",
+    "rootWord": "Chicken pox",
+    "members": [
+      {
+        "word": "chicken pox",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chicken pox/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Depression",
+    "rootWord": "Depression",
+    "members": [
+      {
+        "word": "depression",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/depression/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Low blood pressure",
+    "rootWord": "Low blood pressure",
+    "members": [
+      {
+        "word": "low blood pressure",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/low blood pressure/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hypertension",
+    "rootWord": "Hypertension",
+    "members": [
+      {
+        "word": "hypertension",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hypertension/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Measles",
+    "rootWord": "Measles",
+    "members": [
+      {
+        "word": "measles",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/measles/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Migraine",
+    "rootWord": "Migraine",
+    "members": [
+      {
+        "word": "migraine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/migraine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mumps",
+    "rootWord": "Mumps",
+    "members": [
+      {
+        "word": "mumps",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mumps/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rheumatism",
+    "rootWord": "Rheumatism",
+    "members": [
+      {
+        "word": "rheumatism",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rheumatism/",
+        "meaning": ""
+      }
+    ]
+  }
+]

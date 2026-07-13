@@ -1,0 +1,368 @@
+[
+  {
+    "word": "Tomato",
+    "rootWord": "Tomato",
+    "members": [
+      {
+        "word": "tomato",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tomato/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Spinach",
+    "rootWord": "Spinach",
+    "members": [
+      {
+        "word": "spinach",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spinach/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Water Spinach",
+    "rootWord": "Water Spinach",
+    "members": [
+      {
+        "word": "water spinach",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/water spinach/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Thai Basil",
+    "rootWord": "Thai Basil",
+    "members": [
+      {
+        "word": "thai basil",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thai basil/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Eggplant",
+    "rootWord": "Eggplant",
+    "members": [
+      {
+        "word": "eggplant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eggplant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Beet",
+    "rootWord": "Beet",
+    "members": [
+      {
+        "word": "beet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pepper",
+    "rootWord": "Pepper",
+    "members": [
+      {
+        "word": "pepper",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pepper/",
+        "meaning": ""
+      },
+      {
+        "word": "peppy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpɛpi/",
+        "meaning": "peppy"
+      }
+    ]
+  },
+  {
+    "word": "Cauliflower",
+    "rootWord": "Cauliflower",
+    "members": [
+      {
+        "word": "cauliflower",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cauliflower/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cilantro",
+    "rootWord": "Cilantro",
+    "members": [
+      {
+        "word": "cilantro",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cilantro/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Marrow",
+    "rootWord": "Marrow",
+    "members": [
+      {
+        "word": "marrow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/marrow/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fish Mint",
+    "rootWord": "Fish Mint",
+    "members": [
+      {
+        "word": "fish mint",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fish mint/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rice Paddy",
+    "rootWord": "Rice Paddy",
+    "members": [
+      {
+        "word": "rice paddy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rice paddy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Batata",
+    "rootWord": "Batata",
+    "members": [
+      {
+        "word": "batata",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/batata/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Asparagus",
+    "rootWord": "Asparagus",
+    "members": [
+      {
+        "word": "asparagus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/asparagus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mustard Leaves",
+    "rootWord": "Mustard Leaves",
+    "members": [
+      {
+        "word": "mustard leaves",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mustard leaves/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pumpkin buds",
+    "rootWord": "Pumpkin buds",
+    "members": [
+      {
+        "word": "pumpkin buds",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pumpkin buds/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pumpkin",
+    "rootWord": "Pumpkin",
+    "members": [
+      {
+        "word": "pumpkin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pumpkin/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Corn",
+    "rootWord": "Corn",
+    "members": [
+      {
+        "word": "corn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/corn/",
+        "meaning": ""
+      },
+      {
+        "word": "corny",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/corny/",
+        "meaning": "corny"
+      },
+      {
+        "word": "corner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɔːnə(ɹ)/",
+        "meaning": "corner"
+      }
+    ]
+  },
+  {
+    "word": "Pepper-elder",
+    "rootWord": "Pepper-elder",
+    "members": [
+      {
+        "word": "pepper-elder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pepper-elder/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Onion",
+    "rootWord": "Onion",
+    "members": [
+      {
+        "word": "onion",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/onion/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cress",
+    "rootWord": "Cress",
+    "members": [
+      {
+        "word": "cress",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cress/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Celery",
+    "rootWord": "Celery",
+    "members": [
+      {
+        "word": "celery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/celery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Potato",
+    "rootWord": "Potato",
+    "members": [
+      {
+        "word": "potato",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/potato/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Carrot",
+    "rootWord": "Carrot",
+    "members": [
+      {
+        "word": "carrot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/carrot/",
+        "meaning": ""
+      },
+      {
+        "word": "carroty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/carroty/",
+        "meaning": "carroty"
+      }
+    ]
+  },
+  {
+    "word": "Artichoke",
+    "rootWord": "Artichoke",
+    "members": [
+      {
+        "word": "artichoke",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/artichoke/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Beetroot",
+    "rootWord": "Beetroot",
+    "members": [
+      {
+        "word": "beetroot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beetroot/",
+        "meaning": ""
+      }
+    ]
+  }
+]

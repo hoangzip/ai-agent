@@ -1,0 +1,254 @@
+[
+  {
+    "word": "Classmate",
+    "rootWord": "Classmate",
+    "members": [
+      {
+        "word": "classmate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/classmate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Schoolmate",
+    "rootWord": "Schoolmate",
+    "members": [
+      {
+        "word": "schoolmate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/schoolmate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Roommate",
+    "rootWord": "Roommate",
+    "members": [
+      {
+        "word": "roommate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/roommate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Soulmate",
+    "rootWord": "Soulmate",
+    "members": [
+      {
+        "word": "soulmate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/soulmate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Colleague",
+    "rootWord": "Colleague",
+    "members": [
+      {
+        "word": "colleague",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/colleague/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Comradeship",
+    "rootWord": "Comradeship",
+    "members": [
+      {
+        "word": "comradeship",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/comradeship/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Partner",
+    "rootWord": "Partner",
+    "members": [
+      {
+        "word": "partner",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/partner/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Associate",
+    "rootWord": "Associate",
+    "members": [
+      {
+        "word": "associate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/associate/",
+        "meaning": ""
+      },
+      {
+        "word": "associative",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əˈsoʊ.si.ə.tɪv/",
+        "meaning": "associative"
+      }
+    ]
+  },
+  {
+    "word": "Buddy",
+    "rootWord": "Buddy",
+    "members": [
+      {
+        "word": "buddy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/buddy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ally",
+    "rootWord": "Ally",
+    "members": [
+      {
+        "word": "ally",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ally/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Companion",
+    "rootWord": "Companion",
+    "members": [
+      {
+        "word": "companion",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/companion/",
+        "meaning": ""
+      },
+      {
+        "word": "companionable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/companionable/",
+        "meaning": "companionable"
+      },
+      {
+        "word": "companionate",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/companionate/",
+        "meaning": "companionate"
+      }
+    ]
+  },
+  {
+    "word": "Pal",
+    "rootWord": "Pal",
+    "members": [
+      {
+        "word": "pal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pal/",
+        "meaning": ""
+      },
+      {
+        "word": "palate",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpælət/",
+        "meaning": "palate"
+      },
+      {
+        "word": "paly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/paly/",
+        "meaning": "paly"
+      },
+      {
+        "word": "pally",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpali/",
+        "meaning": "pally"
+      },
+      {
+        "word": "paler",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/paler/",
+        "meaning": "paler"
+      }
+    ]
+  },
+  {
+    "word": "Friendship",
+    "rootWord": "Friendship",
+    "members": [
+      {
+        "word": "friendship",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/friendship/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Close",
+    "rootWord": "Close",
+    "members": [
+      {
+        "word": "close",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/close/",
+        "meaning": ""
+      },
+      {
+        "word": "closely",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈkləʊsliː/",
+        "meaning": "closely"
+      },
+      {
+        "word": "closeness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkləʊsnəs/",
+        "meaning": "closeness"
+      },
+      {
+        "word": "closer",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkloʊsɚ/",
+        "meaning": "closer"
+      }
+    ]
+  }
+]

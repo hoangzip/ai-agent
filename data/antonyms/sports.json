@@ -1,0 +1,164 @@
+[
+  {
+    "word": "Sport",
+    "antonyms": []
+  },
+  {
+    "word": "Skiing",
+    "antonyms": []
+  },
+  {
+    "word": "Ice skating",
+    "antonyms": []
+  },
+  {
+    "word": "Horse racing",
+    "antonyms": []
+  },
+  {
+    "word": "Running",
+    "antonyms": []
+  },
+  {
+    "word": "Walking",
+    "antonyms": [
+      {
+        "word": "run",
+        "partOfSpeech": "verb",
+        "pronunciation": "/rʌn/",
+        "meaning": "Chạy"
+      }
+    ]
+  },
+  {
+    "word": "Water sports",
+    "antonyms": []
+  },
+  {
+    "word": "Boxing",
+    "antonyms": [
+      {
+        "word": "unbox",
+        "partOfSpeech": "verb",
+        "pronunciation": "/unbox/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "uncase",
+        "partOfSpeech": "verb",
+        "pronunciation": "/uncase/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unpack",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ʌnˈpæk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Swimming",
+    "antonyms": []
+  },
+  {
+    "word": "Football",
+    "antonyms": []
+  },
+  {
+    "word": "Basketball",
+    "antonyms": []
+  },
+  {
+    "word": "Badminton",
+    "antonyms": []
+  },
+  {
+    "word": "Tennis",
+    "antonyms": []
+  },
+  {
+    "word": "Table tennis",
+    "antonyms": []
+  },
+  {
+    "word": "Baseball",
+    "antonyms": []
+  },
+  {
+    "word": "Cycling",
+    "antonyms": []
+  },
+  {
+    "word": "Golf",
+    "antonyms": []
+  },
+  {
+    "word": "Contact sport",
+    "antonyms": []
+  },
+  {
+    "word": "Water polo",
+    "antonyms": []
+  },
+  {
+    "word": "Archery",
+    "antonyms": []
+  },
+  {
+    "word": "Weightlifting",
+    "antonyms": []
+  },
+  {
+    "word": "Wrestling",
+    "antonyms": []
+  },
+  {
+    "word": "Bowling",
+    "antonyms": []
+  },
+  {
+    "word": "Lacrosse",
+    "antonyms": []
+  },
+  {
+    "word": "Hockey",
+    "antonyms": []
+  },
+  {
+    "word": "Referee",
+    "antonyms": []
+  },
+  {
+    "word": "Dart",
+    "antonyms": []
+  },
+  {
+    "word": "Synchronized swimming",
+    "antonyms": []
+  },
+  {
+    "word": "SEA Games",
+    "antonyms": []
+  },
+  {
+    "word": "Host",
+    "antonyms": []
+  },
+  {
+    "word": "Wushu",
+    "antonyms": []
+  },
+  {
+    "word": "Sportsmanship",
+    "antonyms": []
+  },
+  {
+    "word": "Captain",
+    "antonyms": []
+  },
+  {
+    "word": "Cross-country",
+    "antonyms": []
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "word": "Avenue",
+    "rootWord": "Avenue",
+    "members": [
+      {
+        "word": "avenue",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/avenue/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Between",
+    "rootWord": "Between",
+    "members": [
+      {
+        "word": "between",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/between/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Beside",
+    "rootWord": "Beside",
+    "members": [
+      {
+        "word": "beside",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beside/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Behind",
+    "rootWord": "Behind",
+    "members": [
+      {
+        "word": "behind",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/behind/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Curve",
+    "rootWord": "Curve",
+    "members": [
+      {
+        "word": "curve",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/curve/",
+        "meaning": ""
+      },
+      {
+        "word": "curvy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɜːvi/",
+        "meaning": "curvy"
+      }
+    ]
+  },
+  {
+    "word": "In front of",
+    "rootWord": "In front of",
+    "members": [
+      {
+        "word": "in front of",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/in front of/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Opposite",
+    "rootWord": "Opposite",
+    "members": [
+      {
+        "word": "opposite",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/opposite/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Near",
+    "rootWord": "Near",
+    "members": [
+      {
+        "word": "near",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/near/",
+        "meaning": ""
+      },
+      {
+        "word": "nearly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈniːɹli/",
+        "meaning": "nearly"
+      },
+      {
+        "word": "nearer",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈnɪəɹə/",
+        "meaning": "nearer"
+      }
+    ]
+  },
+  {
+    "word": "Turn right",
+    "rootWord": "Turn right",
+    "members": [
+      {
+        "word": "turn right",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turn right/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Turn left",
+    "rootWord": "Turn left",
+    "members": [
+      {
+        "word": "turn left",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turn left/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Junction",
+    "rootWord": "Junction",
+    "members": [
+      {
+        "word": "junction",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/junction/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Turning",
+    "rootWord": "Turning",
+    "members": [
+      {
+        "word": "turning",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turning/",
+        "meaning": ""
+      },
+      {
+        "word": "turn",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/turn/",
+        "meaning": "turn"
+      },
+      {
+        "word": "turner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turner/",
+        "meaning": "turner"
+      }
+    ]
+  },
+  {
+    "word": "Roundabout",
+    "rootWord": "Roundabout",
+    "members": [
+      {
+        "word": "roundabout",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/roundabout/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pavement",
+    "rootWord": "Pavement",
+    "members": [
+      {
+        "word": "pavement",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pavement/",
+        "meaning": ""
+      },
+      {
+        "word": "pave",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/peɪv/",
+        "meaning": "pave"
+      },
+      {
+        "word": "paver",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪvɚ/",
+        "meaning": "paver"
+      }
+    ]
+  }
+]

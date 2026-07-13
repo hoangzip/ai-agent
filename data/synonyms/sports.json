@@ -1,0 +1,368 @@
+[
+  {
+    "word": "Sport",
+    "synonyms": []
+  },
+  {
+    "word": "Skiing",
+    "synonyms": []
+  },
+  {
+    "word": "Ice skating",
+    "synonyms": []
+  },
+  {
+    "word": "Horse racing",
+    "synonyms": []
+  },
+  {
+    "word": "Running",
+    "synonyms": [
+      {
+        "word": "runny",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹʌni/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Walking",
+    "synonyms": [
+      {
+        "word": "nicked",
+        "partOfSpeech": "verb",
+        "pronunciation": "/nicked/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pinched",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pinched/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stolen",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈstəʊlən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "full",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/fʊl/",
+        "meaning": "No"
+      }
+    ]
+  },
+  {
+    "word": "Water sports",
+    "synonyms": [
+      {
+        "word": "golden shower",
+        "partOfSpeech": "noun",
+        "pronunciation": "/golden shower/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pee play",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pee play/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "piss play",
+        "partOfSpeech": "noun",
+        "pronunciation": "/piss play/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "platinum shower",
+        "partOfSpeech": "noun",
+        "pronunciation": "/platinum shower/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Boxing",
+    "synonyms": [
+      {
+        "word": "box up",
+        "partOfSpeech": "verb",
+        "pronunciation": "/box up/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "case",
+        "partOfSpeech": "noun",
+        "pronunciation": "/keɪs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "embox",
+        "partOfSpeech": "noun",
+        "pronunciation": "/embox/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "encase",
+        "partOfSpeech": "verb",
+        "pronunciation": "/encase/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Swimming",
+    "synonyms": []
+  },
+  {
+    "word": "Football",
+    "synonyms": [
+      {
+        "word": "atomic football",
+        "partOfSpeech": "noun",
+        "pronunciation": "/atomic football/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "black bag",
+        "partOfSpeech": "noun",
+        "pronunciation": "/black bag/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "black box",
+        "partOfSpeech": "noun",
+        "pronunciation": "/black box/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nuclear football",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nuclear football/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Basketball",
+    "synonyms": [
+      {
+        "word": "hoops",
+        "partOfSpeech": "noun",
+        "pronunciation": "/huːps/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Badminton",
+    "synonyms": [
+      {
+        "word": "badders",
+        "partOfSpeech": "noun",
+        "pronunciation": "/badders/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tennis",
+    "synonyms": []
+  },
+  {
+    "word": "Table tennis",
+    "synonyms": [
+      {
+        "word": "flim flam",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flim flam/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ping pong",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ping pong/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ping-pong",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ping-pong/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "whiff waff",
+        "partOfSpeech": "noun",
+        "pronunciation": "/whiff waff/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Baseball",
+    "synonyms": []
+  },
+  {
+    "word": "Cycling",
+    "synonyms": [
+      {
+        "word": "biking",
+        "partOfSpeech": "verb",
+        "pronunciation": "/biking/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cyclism",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cyclism/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Golf",
+    "synonyms": []
+  },
+  {
+    "word": "Contact sport",
+    "synonyms": []
+  },
+  {
+    "word": "Water polo",
+    "synonyms": []
+  },
+  {
+    "word": "Archery",
+    "synonyms": []
+  },
+  {
+    "word": "Weightlifting",
+    "synonyms": [
+      {
+        "word": "weight training",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weight training/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wrestling",
+    "synonyms": []
+  },
+  {
+    "word": "Bowling",
+    "synonyms": []
+  },
+  {
+    "word": "Lacrosse",
+    "synonyms": []
+  },
+  {
+    "word": "Hockey",
+    "synonyms": [
+      {
+        "word": "field hockey",
+        "partOfSpeech": "noun",
+        "pronunciation": "/field hockey/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ice hockey",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ice hockey/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shinny",
+        "partOfSpeech": "verb",
+        "pronunciation": "/shinny/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shinny hockey",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shinny hockey/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Referee",
+    "synonyms": []
+  },
+  {
+    "word": "Dart",
+    "synonyms": []
+  },
+  {
+    "word": "Synchronized swimming",
+    "synonyms": []
+  },
+  {
+    "word": "SEA Games",
+    "synonyms": []
+  },
+  {
+    "word": "Host",
+    "synonyms": [
+      {
+        "word": "presenter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɹɪˈzɛntə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wushu",
+    "synonyms": []
+  },
+  {
+    "word": "Sportsmanship",
+    "synonyms": []
+  },
+  {
+    "word": "Captain",
+    "synonyms": [
+      {
+        "word": "master",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmastə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "skipper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈskɪpɚ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "foreman",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɔː(ɹ)mən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "straw boss",
+        "partOfSpeech": "noun",
+        "pronunciation": "/straw boss/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cross-country",
+    "synonyms": [
+      {
+        "word": "cross-countries",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cross-countries/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

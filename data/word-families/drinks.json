@@ -1,0 +1,339 @@
+[
+  {
+    "word": "Juice",
+    "rootWord": "Juice",
+    "members": [
+      {
+        "word": "juice",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/juice/",
+        "meaning": ""
+      },
+      {
+        "word": "juicy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdʒusi/",
+        "meaning": "juicy"
+      }
+    ]
+  },
+  {
+    "word": "Lemonade",
+    "rootWord": "Lemonade",
+    "members": [
+      {
+        "word": "lemonade",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lemonade/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Beer",
+    "rootWord": "Beer",
+    "members": [
+      {
+        "word": "beer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beer/",
+        "meaning": ""
+      },
+      {
+        "word": "beery",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbɪəɹi/",
+        "meaning": "beery"
+      }
+    ]
+  },
+  {
+    "word": "Soda",
+    "rootWord": "Soda",
+    "members": [
+      {
+        "word": "soda",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/soda/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cider",
+    "rootWord": "Cider",
+    "members": [
+      {
+        "word": "cider",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cider/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rum",
+    "rootWord": "Rum",
+    "members": [
+      {
+        "word": "rum",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rum/",
+        "meaning": ""
+      },
+      {
+        "word": "rumen",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹu.mən/",
+        "meaning": "rumen"
+      },
+      {
+        "word": "rumor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹuːmə(ɹ)/",
+        "meaning": "rumor"
+      }
+    ]
+  },
+  {
+    "word": "Ginger ale",
+    "rootWord": "Ginger ale",
+    "members": [
+      {
+        "word": "ginger ale",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ginger ale/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Champagne",
+    "rootWord": "Champagne",
+    "members": [
+      {
+        "word": "champagne",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/champagne/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bitter",
+    "rootWord": "Bitter",
+    "members": [
+      {
+        "word": "bitter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bitter/",
+        "meaning": ""
+      },
+      {
+        "word": "bitty",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪti/",
+        "meaning": "bitty"
+      },
+      {
+        "word": "bitt",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bitt/",
+        "meaning": "bitt"
+      },
+      {
+        "word": "bitten",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈbɪtn̩/",
+        "meaning": "bitten"
+      }
+    ]
+  },
+  {
+    "word": "Malt",
+    "rootWord": "Malt",
+    "members": [
+      {
+        "word": "malt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/malt/",
+        "meaning": ""
+      },
+      {
+        "word": "malty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/malty/",
+        "meaning": "malty"
+      }
+    ]
+  },
+  {
+    "word": "Barley",
+    "rootWord": "Barley",
+    "members": [
+      {
+        "word": "barley",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/barley/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Distillery",
+    "rootWord": "Distillery",
+    "members": [
+      {
+        "word": "distillery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/distillery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coee",
+    "rootWord": "Coee",
+    "members": [
+      {
+        "word": "coee",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coee/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Milk",
+    "rootWord": "Milk",
+    "members": [
+      {
+        "word": "milk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/milk/",
+        "meaning": ""
+      },
+      {
+        "word": "milker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/milker/",
+        "meaning": "milker"
+      },
+      {
+        "word": "milky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈmɪlki/",
+        "meaning": "milky"
+      }
+    ]
+  },
+  {
+    "word": "Tea",
+    "rootWord": "Tea",
+    "members": [
+      {
+        "word": "tea",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tea/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Red wine",
+    "rootWord": "Red wine",
+    "members": [
+      {
+        "word": "red wine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/red wine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Non-alcoholic",
+    "rootWord": "Non-alcoholic",
+    "members": [
+      {
+        "word": "non-alcoholic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/non-alcoholic/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Full-cream",
+    "rootWord": "Full-cream",
+    "members": [
+      {
+        "word": "full-cream",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/full-cream/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Herbal",
+    "rootWord": "Herbal",
+    "members": [
+      {
+        "word": "herbal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/herbal/",
+        "meaning": ""
+      },
+      {
+        "word": "herbalist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/herbalist/",
+        "meaning": "herbalist"
+      }
+    ]
+  },
+  {
+    "word": "Mineral water",
+    "rootWord": "Mineral water",
+    "members": [
+      {
+        "word": "mineral water",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mineral water/",
+        "meaning": ""
+      }
+    ]
+  }
+]

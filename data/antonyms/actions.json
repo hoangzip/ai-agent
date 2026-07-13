@@ -1,0 +1,340 @@
+[
+  {
+    "word": "Pack",
+    "antonyms": []
+  },
+  {
+    "word": "Paint",
+    "antonyms": []
+  },
+  {
+    "word": "Paste",
+    "antonyms": []
+  },
+  {
+    "word": "Pick",
+    "antonyms": []
+  },
+  {
+    "word": "Plant",
+    "antonyms": []
+  },
+  {
+    "word": "Play",
+    "antonyms": []
+  },
+  {
+    "word": "Point",
+    "antonyms": []
+  },
+  {
+    "word": "Pour",
+    "antonyms": []
+  },
+  {
+    "word": "Pull",
+    "antonyms": [
+      {
+        "word": "push",
+        "partOfSpeech": "verb",
+        "pronunciation": "/puʃ/",
+        "meaning": "Xô, đẩy"
+      },
+      {
+        "word": "shove",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃʌv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "repulsion",
+        "partOfSpeech": "noun",
+        "pronunciation": "/repulsion/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "button",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʌt.ən/",
+        "meaning": "Khuy, nút"
+      }
+    ]
+  },
+  {
+    "word": "Push",
+    "antonyms": [
+      {
+        "word": "draw",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɹɔː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pull",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pul/",
+        "meaning": "Lôi, kéo"
+      },
+      {
+        "word": "tug",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tʌɡ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɒp/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rake",
+    "antonyms": []
+  },
+  {
+    "word": "Read",
+    "antonyms": [
+      {
+        "word": "pass",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pɑːs/",
+        "meaning": "Đậu, đỗ (kỳ thi)"
+      }
+    ]
+  },
+  {
+    "word": "Ride",
+    "antonyms": []
+  },
+  {
+    "word": "Row",
+    "antonyms": [
+      {
+        "word": "column",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɑljəm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Run",
+    "antonyms": [
+      {
+        "word": "rise",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɹaɪs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "riser",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹaɪ.zə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sail",
+    "antonyms": []
+  },
+  {
+    "word": "Scrub",
+    "antonyms": []
+  },
+  {
+    "word": "See",
+    "antonyms": []
+  },
+  {
+    "word": "Set",
+    "antonyms": [
+      {
+        "word": "extinguish",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪkˈstɪŋ.ɡwɪʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "put out",
+        "partOfSpeech": "noun",
+        "pronunciation": "/put out/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "quench",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kwɛnt͡ʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pick up",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pick up/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sew",
+    "antonyms": []
+  },
+  {
+    "word": "Shout",
+    "antonyms": []
+  },
+  {
+    "word": "Show",
+    "antonyms": [
+      {
+        "word": "conceal",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kənˈsiːl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cover up",
+        "partOfSpeech": "verb",
+        "pronunciation": "/cover up/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hide",
+        "partOfSpeech": "verb",
+        "pronunciation": "/haɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disprove",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪsˈpɹuːv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sing",
+    "antonyms": []
+  },
+  {
+    "word": "Sit",
+    "antonyms": []
+  },
+  {
+    "word": "Skate",
+    "antonyms": []
+  },
+  {
+    "word": "Skip",
+    "antonyms": []
+  },
+  {
+    "word": "Sleep",
+    "antonyms": []
+  },
+  {
+    "word": "Slide",
+    "antonyms": []
+  },
+  {
+    "word": "Sneeze",
+    "antonyms": []
+  },
+  {
+    "word": "Spin",
+    "antonyms": []
+  },
+  {
+    "word": "Stand",
+    "antonyms": []
+  },
+  {
+    "word": "Stop",
+    "antonyms": [
+      {
+        "word": "continue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈtɪnjuː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "move",
+        "partOfSpeech": "noun",
+        "pronunciation": "/muːv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "go",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡəʉ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "proceed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pɹəˈsiːd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sweep",
+    "antonyms": []
+  },
+  {
+    "word": "Swim",
+    "antonyms": []
+  },
+  {
+    "word": "Swing",
+    "antonyms": []
+  },
+  {
+    "word": "Take",
+    "antonyms": [
+      {
+        "word": "give",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɪv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bring",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈbɹɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "drop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drop/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Talk",
+    "antonyms": []
+  },
+  {
+    "word": "Tell",
+    "antonyms": [
+      {
+        "word": "ask",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈask/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Throw",
+    "antonyms": []
+  },
+  {
+    "word": "Tie",
+    "antonyms": []
+  }
+]

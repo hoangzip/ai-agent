@@ -1,0 +1,188 @@
+[
+  {
+    "word": "Bakery",
+    "synonyms": [
+      {
+        "word": "bakehouse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbeɪkhaʊs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bookshop",
+    "synonyms": [
+      {
+        "word": "bookstore",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʊkstɔː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Butcher's",
+    "synonyms": []
+  },
+  {
+    "word": "Candy store",
+    "synonyms": []
+  },
+  {
+    "word": "Convenience store",
+    "synonyms": [
+      {
+        "word": "bodega",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bodega/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "corner shop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/corner shop/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "corner store",
+        "partOfSpeech": "noun",
+        "pronunciation": "/corner store/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dépanneur",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dépanneur/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Greengrocer",
+    "synonyms": [
+      {
+        "word": "greengrocer's",
+        "partOfSpeech": "noun",
+        "pronunciation": "/greengrocer's/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "produce",
+        "partOfSpeech": "verb",
+        "pronunciation": "/produce/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃɒp/",
+        "meaning": "Cửa hàng"
+      },
+      {
+        "word": "store",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌstɔːr/",
+        "meaning": "Cửa hàng"
+      }
+    ]
+  },
+  {
+    "word": "Flower shop",
+    "synonyms": []
+  },
+  {
+    "word": "Store",
+    "synonyms": [
+      {
+        "word": "memory",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmɛm(ə)ɹi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "boutique",
+        "partOfSpeech": "noun",
+        "pronunciation": "/buːˈtiːk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃɒp/",
+        "meaning": "Cửa hàng"
+      },
+      {
+        "word": "stock",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɒk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Gift shop",
+    "synonyms": []
+  },
+  {
+    "word": "Shop",
+    "synonyms": [
+      {
+        "word": "garage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡəˈɹɑː(d)ʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "boutique",
+        "partOfSpeech": "noun",
+        "pronunciation": "/buːˈtiːk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "outlet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈaʊtlɛt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "retail",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹiˌteɪl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Food stall",
+    "synonyms": []
+  },
+  {
+    "word": "Fast food restaurant",
+    "synonyms": []
+  },
+  {
+    "word": "Dry-cleaner's",
+    "synonyms": []
+  },
+  {
+    "word": "Shoe store",
+    "synonyms": []
+  },
+  {
+    "word": "Barbershop",
+    "synonyms": []
+  },
+  {
+    "word": "Newspaper kiosk",
+    "synonyms": []
+  },
+  {
+    "word": "Bookstall",
+    "synonyms": []
+  },
+  {
+    "word": "Sports center",
+    "synonyms": []
+  }
+]

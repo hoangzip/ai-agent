@@ -1,0 +1,439 @@
+[
+  {
+    "word": "Head",
+    "synonyms": [
+      {
+        "word": "blow job",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blow job/",
+        "meaning": "thổi kèn"
+      },
+      {
+        "word": "blowjob",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbləʊdʒɒb/",
+        "meaning": "ảnh ghép"
+      },
+      {
+        "word": "fellatio",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fəˈleɪ.ʃi.əʊ/",
+        "meaning": "Thổi kèn."
+      },
+      {
+        "word": "oral sex",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oral sex/",
+        "meaning": "Làm tình bằng miệng"
+      }
+    ]
+  },
+  {
+    "word": "Face",
+    "synonyms": [
+      {
+        "word": "countenance",
+        "partOfSpeech": "noun",
+        "pronunciation": "[kʲʰæũ̯.ʔɪ̆.nəns]",
+        "meaning": "nét mặt"
+      },
+      {
+        "word": "expression",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪkˈspɹɛʃ.ən/",
+        "meaning": "diễn tả, bày tỏ, biếu lộ, diễn đạt"
+      },
+      {
+        "word": "facial expression",
+        "partOfSpeech": "noun",
+        "pronunciation": "/facial expression/",
+        "meaning": "Biểu cảm Khuôn mặt"
+      },
+      {
+        "word": "look",
+        "partOfSpeech": "noun",
+        "pronunciation": "/look/",
+        "meaning": "mong đợi một cách hân hoan"
+      }
+    ]
+  },
+  {
+    "word": "Hair",
+    "synonyms": []
+  },
+  {
+    "word": "Ear",
+    "synonyms": []
+  },
+  {
+    "word": "Neck",
+    "synonyms": [
+      {
+        "word": "Neck",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nɛk/",
+        "meaning": "Cổ"
+      },
+      {
+        "word": "Näcken",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Näcken/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nicor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nicor/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nix",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nɪks/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Forehead",
+    "synonyms": [
+      {
+        "word": "brow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹaʊ/",
+        "meaning": "lông mày"
+      }
+    ]
+  },
+  {
+    "word": "Beard",
+    "synonyms": []
+  },
+  {
+    "word": "Eye",
+    "synonyms": [
+      {
+        "word": "eyelet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈaɪ.lət/",
+        "meaning": "Mắt cáo"
+      },
+      {
+        "word": "perceptiveness",
+        "partOfSpeech": "noun",
+        "pronunciation": "/perceptiveness/",
+        "meaning": "khả năng nhận thức"
+      }
+    ]
+  },
+  {
+    "word": "Nose",
+    "synonyms": [
+      {
+        "word": "tab",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tæb/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "drip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɹɪp/",
+        "meaning": "thùng hứng conđensat"
+      },
+      {
+        "word": "nark",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nark/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mouth",
+    "synonyms": []
+  },
+  {
+    "word": "Chin",
+    "synonyms": [
+      {
+        "word": "mentum",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mentum/",
+        "meaning": "1.cằm 2.vùng cằm"
+      },
+      {
+        "word": "gab",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡæb/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Shoulder",
+    "synonyms": []
+  },
+  {
+    "word": "Elbow",
+    "synonyms": []
+  },
+  {
+    "word": "Arm",
+    "synonyms": []
+  },
+  {
+    "word": "Chest",
+    "synonyms": [
+      {
+        "word": "trunk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɹʌŋk/",
+        "meaning": "thân"
+      },
+      {
+        "word": "breast",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹɛst/",
+        "meaning": "ngực, vú"
+      }
+    ]
+  },
+  {
+    "word": "Armpit",
+    "synonyms": [
+      {
+        "word": "armhole",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɑɹmˌhoʊl/",
+        "meaning": "Vòng nách"
+      },
+      {
+        "word": "axilla",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ækˈsɪlə/",
+        "meaning": "nách"
+      },
+      {
+        "word": "oxter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oxter/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "underarm",
+        "partOfSpeech": "noun",
+        "pronunciation": "/underarm/",
+        "meaning": "Ném theo hướng từ dưới lên"
+      }
+    ]
+  },
+  {
+    "word": "Wrist",
+    "synonyms": []
+  },
+  {
+    "word": "Navel",
+    "synonyms": [
+      {
+        "word": "belly button",
+        "partOfSpeech": "noun",
+        "pronunciation": "/belly button/",
+        "meaning": "Cái lỗ rốn!"
+      },
+      {
+        "word": "bellybutton",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bellybutton/",
+        "meaning": "rốn"
+      },
+      {
+        "word": "nave",
+        "partOfSpeech": "noun",
+        "pronunciation": "/neɪv/",
+        "meaning": "gian giữa"
+      },
+      {
+        "word": "umbilicus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʌmbɪˈlʌɪkəs/",
+        "meaning": "1.hố nhỏ 2.lỗ thân ống lông 3.rốn"
+      }
+    ]
+  },
+  {
+    "word": "Ankle",
+    "synonyms": []
+  },
+  {
+    "word": "Waist",
+    "synonyms": []
+  },
+  {
+    "word": "Abdomen",
+    "synonyms": [
+      {
+        "word": "belly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɛli/",
+        "meaning": "bụng"
+      },
+      {
+        "word": "stomach",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈstʌmək/",
+        "meaning": "dạ dày"
+      },
+      {
+        "word": "tummy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtʌm.i/",
+        "meaning": "dạ dày"
+      }
+    ]
+  },
+  {
+    "word": "Leg",
+    "synonyms": [
+      {
+        "word": "cathetus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cathetus/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "on",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɒn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Thigh",
+    "synonyms": []
+  },
+  {
+    "word": "Knee",
+    "synonyms": []
+  },
+  {
+    "word": "Hand",
+    "synonyms": [
+      {
+        "word": "manus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/manus/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "paw",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɔː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Thumb",
+    "synonyms": [
+      {
+        "word": "digit I",
+        "partOfSpeech": "noun",
+        "pronunciation": "/digit I/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "first digit",
+        "partOfSpeech": "noun",
+        "pronunciation": "/first digit/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pollex",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pollex/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "thumby",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thumby/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Back",
+    "synonyms": [
+      {
+        "word": "dorsum",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dorsum/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "reverse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈvɜːs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "remote",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ɹəˈməʊt]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "rear",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɹɪə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Foot",
+    "synonyms": []
+  },
+  {
+    "word": "Finger",
+    "synonyms": [
+      {
+        "word": "bloke",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bloke/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "boy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɔːə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "guv",
+        "partOfSpeech": "noun",
+        "pronunciation": "/guv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/læd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Toe",
+    "synonyms": [
+      {
+        "word": "hoof",
+        "partOfSpeech": "noun",
+        "pronunciation": "/huːf/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

@@ -1,0 +1,725 @@
+[
+  {
+    "word": "Sta movements",
+    "synonyms": []
+  },
+  {
+    "word": "Retire",
+    "synonyms": [
+      {
+        "word": "retreat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹəˈtɹiːt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dismiss",
+    "synonyms": []
+  },
+  {
+    "word": "Finance",
+    "synonyms": [
+      {
+        "word": "fund",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfʌnd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Appointment",
+    "synonyms": [
+      {
+        "word": "command",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəˈmɑːnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "designation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɛzɪɡˈneɪʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "direction",
+        "partOfSpeech": "noun",
+        "pronunciation": "/d(a)ɪˈɹɛk.ʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "equipment",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈkwɪpmənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Multinational",
+    "synonyms": []
+  },
+  {
+    "word": "Investor",
+    "synonyms": []
+  },
+  {
+    "word": "Inherit",
+    "synonyms": []
+  },
+  {
+    "word": "Accountant",
+    "synonyms": []
+  },
+  {
+    "word": "Lend",
+    "synonyms": []
+  },
+  {
+    "word": "Borrow",
+    "synonyms": [
+      {
+        "word": "adopt",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈdɒpt/",
+        "meaning": "Nhận con nuôi"
+      },
+      {
+        "word": "use",
+        "partOfSpeech": "noun",
+        "pronunciation": "/use/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rent",
+    "synonyms": []
+  },
+  {
+    "word": "Distribution",
+    "synonyms": []
+  },
+  {
+    "word": "Co-ordinate",
+    "synonyms": []
+  },
+  {
+    "word": "Purchase",
+    "synonyms": [
+      {
+        "word": "contact",
+        "partOfSpeech": "noun",
+        "pronunciation": "/contact/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "grip",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɡɹɪp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hold",
+        "partOfSpeech": "noun",
+        "pronunciation": "/həʊld/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "foothold",
+        "partOfSpeech": "noun",
+        "pronunciation": "/foothold/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stock exchange",
+    "synonyms": [
+      {
+        "word": "bourse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɔːs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stock market",
+    "synonyms": []
+  },
+  {
+    "word": "Opportunity",
+    "synonyms": []
+  },
+  {
+    "word": "Challenge",
+    "synonyms": [
+      {
+        "word": "becall",
+        "partOfSpeech": "noun",
+        "pronunciation": "/becall/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "call out",
+        "partOfSpeech": "verb",
+        "pronunciation": "/call out/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Career",
+    "synonyms": []
+  },
+  {
+    "word": "Intensive course",
+    "synonyms": []
+  },
+  {
+    "word": "Commerce",
+    "synonyms": [
+      {
+        "word": "communication",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəˌmjuːnɪˈkeɪʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "communion",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəˈmjuːnjən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dealings",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdiːlɪŋ(ɡ)z/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "interchange",
+        "partOfSpeech": "noun",
+        "pronunciation": "/interchange/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Costly",
+    "synonyms": []
+  },
+  {
+    "word": "Responsible",
+    "synonyms": []
+  },
+  {
+    "word": "Communicate",
+    "synonyms": []
+  },
+  {
+    "word": "Abroad",
+    "synonyms": []
+  },
+  {
+    "word": "Inheritance",
+    "synonyms": []
+  },
+  {
+    "word": "Fortune",
+    "synonyms": [
+      {
+        "word": "riches",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪt͡ʃɪz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hap",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hæp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "luck",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lʊk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Property",
+    "synonyms": [
+      {
+        "word": "land",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lænd/",
+        "meaning": "Đất, đất đai"
+      },
+      {
+        "word": "parcel",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɑːrsəl/",
+        "meaning": "Bưu kiện, bưu phẩm"
+      },
+      {
+        "word": "prop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɹɒp/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cash machine",
+    "synonyms": [
+      {
+        "word": "ABM",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ABM/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ATM",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ATM/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "automated teller machine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/automated teller machine/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "automatic teller machine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/automatic teller machine/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Online account",
+    "synonyms": []
+  },
+  {
+    "word": "Insurance policy",
+    "synonyms": [
+      {
+        "word": "insurance contract",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insurance contract/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Credit card",
+    "synonyms": [
+      {
+        "word": "charge card",
+        "partOfSpeech": "noun",
+        "pronunciation": "/charge card/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "chargecard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chargecard/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Debit card",
+    "synonyms": []
+  },
+  {
+    "word": "Rental contract",
+    "synonyms": []
+  },
+  {
+    "word": "Discount",
+    "synonyms": [
+      {
+        "word": "rebate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹəˈbeɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "reduction",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹiˈdɑk.ʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Credit limit",
+    "synonyms": []
+  },
+  {
+    "word": "Survey",
+    "synonyms": [
+      {
+        "word": "prospect",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹɒspɛkt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "surveil",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sɚˈveɪl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "review",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈvjuː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Possession",
+    "synonyms": [
+      {
+        "word": "owndom",
+        "partOfSpeech": "noun",
+        "pronunciation": "/owndom/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "retention",
+        "partOfSpeech": "noun",
+        "pronunciation": "/retention/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ight",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ight/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Equality",
+    "synonyms": [
+      {
+        "word": "equivalence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈkwɪvələns/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Poverty",
+    "synonyms": []
+  },
+  {
+    "word": "Charge",
+    "synonyms": [
+      {
+        "word": "count",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kaʊnt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Outsource",
+    "synonyms": [
+      {
+        "word": "farm out",
+        "partOfSpeech": "noun",
+        "pronunciation": "/farm out/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "subcontract",
+        "partOfSpeech": "noun",
+        "pronunciation": "/subcontract/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Grant",
+    "synonyms": [
+      {
+        "word": "allow",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈlaʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "concede",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kənˈsiːd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "concur",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kənˈkɜː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Warehouse",
+    "synonyms": []
+  },
+  {
+    "word": "Lease",
+    "synonyms": []
+  },
+  {
+    "word": "In-house",
+    "synonyms": []
+  },
+  {
+    "word": "Potential",
+    "synonyms": [
+      {
+        "word": "noumenon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnaʊmənɒn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "spirit",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈspɪɹɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "efficacious",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɛf.ɪ.ˈkeɪ.ʃəs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "influential",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪnfluˈɛnʃəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Back-oce",
+    "synonyms": []
+  },
+  {
+    "word": "Campaign",
+    "synonyms": []
+  },
+  {
+    "word": "Insecurity",
+    "synonyms": [
+      {
+        "word": "insecureness",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insecureness/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "self-doubt",
+        "partOfSpeech": "noun",
+        "pronunciation": "/self-doubt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Insurance provider",
+    "synonyms": []
+  },
+  {
+    "word": "Compensation",
+    "synonyms": [
+      {
+        "word": "restitution",
+        "partOfSpeech": "noun",
+        "pronunciation": "/restitution/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "amends",
+        "partOfSpeech": "noun",
+        "pronunciation": "/amends/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "recompense",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɹɛkəmˈpɛns/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "remuneration",
+        "partOfSpeech": "noun",
+        "pronunciation": "/remuneration/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Commit",
+    "synonyms": []
+  },
+  {
+    "word": "Short-term cost",
+    "synonyms": []
+  },
+  {
+    "word": "Long-term gain",
+    "synonyms": []
+  },
+  {
+    "word": "Expense",
+    "synonyms": [
+      {
+        "word": "charge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʧɑrdʒ/",
+        "meaning": "Phí, tiền phải trả"
+      },
+      {
+        "word": "cost",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɑst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disbursement",
+        "partOfSpeech": "noun",
+        "pronunciation": "/disbursement/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "expenditure",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɛkˈspɛndɪt͡ʃə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Invoice",
+    "synonyms": [
+      {
+        "word": "shipment",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʃɪpmənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bribery",
+    "synonyms": []
+  },
+  {
+    "word": "Corrupt",
+    "synonyms": [
+      {
+        "word": "corrupted",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kəˈɹʌptɪd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Balance of payment",
+    "synonyms": []
+  },
+  {
+    "word": "Balance of trade",
+    "synonyms": [
+      {
+        "word": "trade balance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trade balance/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Budget",
+    "synonyms": [
+      {
+        "word": "low-cost",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/low-cost/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cost of borrowing",
+    "synonyms": []
+  },
+  {
+    "word": "Consumer price index",
+    "synonyms": []
+  },
+  {
+    "word": "Retail banking",
+    "synonyms": []
+  },
+  {
+    "word": "Commercial bank",
+    "synonyms": []
+  },
+  {
+    "word": "Central bank",
+    "synonyms": []
+  },
+  {
+    "word": "Treasury",
+    "synonyms": [
+      {
+        "word": "finance ministry",
+        "partOfSpeech": "noun",
+        "pronunciation": "/finance ministry/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ministry",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmɪnɪstɹi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "of finance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/of finance/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "treasury",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtrɛʒəri/",
+        "meaning": "Kho bạc"
+      }
+    ]
+  },
+  {
+    "word": "Investment bank",
+    "synonyms": []
+  }
+]

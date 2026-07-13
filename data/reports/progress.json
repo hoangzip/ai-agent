@@ -1,0 +1,474 @@
+{
+  "school-supplies": {
+    "category": "school-supplies",
+    "totalWords": 62,
+    "completedWords": 62,
+    "failedWords": [],
+    "lastProcessedWord": "Funnel",
+    "status": "completed"
+  },
+  "football": {
+    "category": "football",
+    "totalWords": 37,
+    "completedWords": 37,
+    "failedWords": [],
+    "lastProcessedWord": "Striker",
+    "status": "completed"
+  },
+  "post-office": {
+    "category": "post-office",
+    "totalWords": 22,
+    "completedWords": 22,
+    "failedWords": [],
+    "lastProcessedWord": "Well-trained",
+    "status": "completed"
+  },
+  "hospital": {
+    "category": "hospital",
+    "totalWords": 30,
+    "completedWords": 30,
+    "failedWords": [],
+    "lastProcessedWord": "Common cold",
+    "status": "completed"
+  },
+  "body-parts": {
+    "category": "body-parts",
+    "totalWords": 30,
+    "completedWords": 30,
+    "failedWords": [],
+    "lastProcessedWord": "Toe",
+    "status": "completed"
+  },
+  "diet": {
+    "category": "diet",
+    "totalWords": 19,
+    "completedWords": 19,
+    "failedWords": [],
+    "lastProcessedWord": "Mineral",
+    "status": "completed"
+  },
+  "directions": {
+    "category": "directions",
+    "totalWords": 14,
+    "completedWords": 14,
+    "failedWords": [],
+    "lastProcessedWord": "Pavement",
+    "status": "completed"
+  },
+  "sea": {
+    "category": "sea",
+    "totalWords": 32,
+    "completedWords": 32,
+    "failedWords": [],
+    "lastProcessedWord": "Crab",
+    "status": "completed"
+  },
+  "flowers": {
+    "category": "flowers",
+    "totalWords": 19,
+    "completedWords": 19,
+    "failedWords": [],
+    "lastProcessedWord": "Peach blossom",
+    "status": "completed"
+  },
+  "insects": {
+    "category": "insects",
+    "totalWords": 18,
+    "completedWords": 18,
+    "failedWords": [],
+    "lastProcessedWord": "Centipede",
+    "status": "completed"
+  },
+  "housework": {
+    "category": "housework",
+    "totalWords": 19,
+    "completedWords": 19,
+    "failedWords": [],
+    "lastProcessedWord": "Clean the kitchen",
+    "status": "completed"
+  },
+  "emotions": {
+    "category": "emotions",
+    "totalWords": 18,
+    "completedWords": 18,
+    "failedWords": [],
+    "lastProcessedWord": "Bored",
+    "status": "completed"
+  },
+  "shops": {
+    "category": "shops",
+    "totalWords": 18,
+    "completedWords": 18,
+    "failedWords": [],
+    "lastProcessedWord": "Sports center",
+    "status": "completed"
+  },
+  "travel": {
+    "category": "travel",
+    "totalWords": 21,
+    "completedWords": 21,
+    "failedWords": [],
+    "lastProcessedWord": "Safari",
+    "status": "completed"
+  },
+  "family": {
+    "category": "family",
+    "totalWords": 40,
+    "completedWords": 40,
+    "failedWords": [],
+    "lastProcessedWord": "Generation",
+    "status": "completed"
+  },
+  "transportation": {
+    "category": "transportation",
+    "totalWords": 50,
+    "completedWords": 50,
+    "failedWords": [],
+    "lastProcessedWord": "Puncture",
+    "status": "completed"
+  },
+  "christmas": {
+    "category": "christmas",
+    "totalWords": 18,
+    "completedWords": 18,
+    "failedWords": [],
+    "lastProcessedWord": "Christmas card",
+    "status": "completed"
+  },
+  "education": {
+    "category": "education",
+    "totalWords": 58,
+    "completedWords": 58,
+    "failedWords": [],
+    "lastProcessedWord": "Test",
+    "status": "completed"
+  },
+  "entertainment": {
+    "category": "entertainment",
+    "totalWords": 16,
+    "completedWords": 16,
+    "failedWords": [],
+    "lastProcessedWord": "Concert hall",
+    "status": "completed"
+  },
+  "daily-activities": {
+    "category": "daily-activities",
+    "totalWords": 47,
+    "completedWords": 47,
+    "failedWords": [],
+    "lastProcessedWord": "Work",
+    "status": "completed"
+  },
+  "actions": {
+    "category": "actions",
+    "totalWords": 40,
+    "completedWords": 40,
+    "failedWords": [],
+    "lastProcessedWord": "Tie",
+    "status": "completed"
+  },
+  "seafood": {
+    "category": "seafood",
+    "totalWords": 18,
+    "completedWords": 18,
+    "failedWords": [],
+    "lastProcessedWord": "Jellysh",
+    "status": "completed"
+  },
+  "studying": {
+    "category": "studying",
+    "totalWords": 23,
+    "completedWords": 23,
+    "failedWords": [],
+    "lastProcessedWord": "Folder",
+    "status": "completed"
+  },
+  "shopping": {
+    "category": "shopping",
+    "totalWords": 42,
+    "completedWords": 42,
+    "failedWords": [],
+    "lastProcessedWord": "Butcher",
+    "status": "completed"
+  },
+  "colors": {
+    "category": "colors",
+    "totalWords": 19,
+    "completedWords": 19,
+    "failedWords": [],
+    "lastProcessedWord": "White",
+    "status": "completed"
+  },
+  "computers": {
+    "category": "computers",
+    "totalWords": 37,
+    "completedWords": 37,
+    "failedWords": [],
+    "lastProcessedWord": "Screen",
+    "status": "completed"
+  },
+  "environment": {
+    "category": "environment",
+    "totalWords": 20,
+    "completedWords": 20,
+    "failedWords": [],
+    "lastProcessedWord": "Fauna",
+    "status": "completed"
+  },
+  "jobs": {
+    "category": "jobs",
+    "totalWords": 42,
+    "completedWords": 42,
+    "failedWords": [],
+    "lastProcessedWord": "Farmer",
+    "status": "completed"
+  },
+  "banking": {
+    "category": "banking",
+    "totalWords": 70,
+    "completedWords": 70,
+    "failedWords": [],
+    "lastProcessedWord": "Investment bank",
+    "status": "completed"
+  },
+  "kitchen": {
+    "category": "kitchen",
+    "totalWords": 35,
+    "completedWords": 35,
+    "failedWords": [],
+    "lastProcessedWord": "Spoon",
+    "status": "completed"
+  },
+  "restaurants-hotels": {
+    "category": "restaurants-hotels",
+    "totalWords": 36,
+    "completedWords": 36,
+    "failedWords": [],
+    "lastProcessedWord": "Check out",
+    "status": "completed"
+  },
+  "energy": {
+    "category": "energy",
+    "totalWords": 16,
+    "completedWords": 16,
+    "failedWords": [],
+    "lastProcessedWord": "Solar power",
+    "status": "completed"
+  },
+  "movies": {
+    "category": "movies",
+    "totalWords": 20,
+    "completedWords": 20,
+    "failedWords": [],
+    "lastProcessedWord": "Movie ticket",
+    "status": "completed"
+  },
+  "living-room": {
+    "category": "living-room",
+    "totalWords": 32,
+    "completedWords": 32,
+    "failedWords": [],
+    "lastProcessedWord": "Curtain",
+    "status": "completed"
+  },
+  "hotel-rooms": {
+    "category": "hotel-rooms",
+    "totalWords": 19,
+    "completedWords": 19,
+    "failedWords": [],
+    "lastProcessedWord": "Dessert",
+    "status": "completed"
+  },
+  "bedroom": {
+    "category": "bedroom",
+    "totalWords": 26,
+    "completedWords": 26,
+    "failedWords": [],
+    "lastProcessedWord": "Chest of drawers",
+    "status": "completed"
+  },
+  "hometown": {
+    "category": "hometown",
+    "totalWords": 34,
+    "completedWords": 34,
+    "failedWords": [],
+    "lastProcessedWord": "View",
+    "status": "completed"
+  },
+  "clothing": {
+    "category": "clothing",
+    "totalWords": 38,
+    "completedWords": 38,
+    "failedWords": [],
+    "lastProcessedWord": "Size",
+    "status": "completed"
+  },
+  "countries": {
+    "category": "countries",
+    "totalWords": 19,
+    "completedWords": 19,
+    "failedWords": [],
+    "lastProcessedWord": "China",
+    "status": "completed"
+  },
+  "vegetables": {
+    "category": "vegetables",
+    "totalWords": 26,
+    "completedWords": 26,
+    "failedWords": [],
+    "lastProcessedWord": "Beetroot",
+    "status": "completed"
+  },
+  "airport": {
+    "category": "airport",
+    "totalWords": 15,
+    "completedWords": 15,
+    "failedWords": [],
+    "lastProcessedWord": "Turn on",
+    "status": "completed"
+  },
+  "numbers": {
+    "category": "numbers",
+    "totalWords": 20,
+    "completedWords": 20,
+    "failedWords": [],
+    "lastProcessedWord": "Half",
+    "status": "completed"
+  },
+  "health": {
+    "category": "health",
+    "totalWords": 55,
+    "completedWords": 55,
+    "failedWords": [],
+    "lastProcessedWord": "Rheumatism",
+    "status": "completed"
+  },
+  "natural-disasters": {
+    "category": "natural-disasters",
+    "totalWords": 16,
+    "completedWords": 16,
+    "failedWords": [],
+    "lastProcessedWord": "Precaution",
+    "status": "completed"
+  },
+  "sports": {
+    "category": "sports",
+    "totalWords": 34,
+    "completedWords": 34,
+    "failedWords": [],
+    "lastProcessedWord": "Cross-country",
+    "status": "completed"
+  },
+  "time": {
+    "category": "time",
+    "totalWords": 16,
+    "completedWords": 16,
+    "failedWords": [],
+    "lastProcessedWord": "Dawn",
+    "status": "completed"
+  },
+  "weather": {
+    "category": "weather",
+    "totalWords": 38,
+    "completedWords": 38,
+    "failedWords": [],
+    "lastProcessedWord": "Fine",
+    "status": "completed"
+  },
+  "plants": {
+    "category": "plants",
+    "totalWords": 16,
+    "completedWords": 16,
+    "failedWords": [],
+    "lastProcessedWord": "Shrubland",
+    "status": "completed"
+  },
+  "fruits": {
+    "category": "fruits",
+    "totalWords": 39,
+    "completedWords": 39,
+    "failedWords": [],
+    "lastProcessedWord": "Kumquat",
+    "status": "completed"
+  },
+  "schools": {
+    "category": "schools",
+    "totalWords": 40,
+    "completedWords": 40,
+    "failedWords": [],
+    "lastProcessedWord": "Course",
+    "status": "completed"
+  },
+  "friendship": {
+    "category": "friendship",
+    "totalWords": 14,
+    "completedWords": 14,
+    "failedWords": [],
+    "lastProcessedWord": "Close",
+    "status": "completed"
+  },
+  "love": {
+    "category": "love",
+    "totalWords": 19,
+    "completedWords": 19,
+    "failedWords": [],
+    "lastProcessedWord": "Single",
+    "status": "completed"
+  },
+  "personality": {
+    "category": "personality",
+    "totalWords": 39,
+    "completedWords": 39,
+    "failedWords": [],
+    "lastProcessedWord": "Hostile",
+    "status": "completed"
+  },
+  "mid-autumn-festival": {
+    "category": "mid-autumn-festival",
+    "totalWords": 12,
+    "completedWords": 12,
+    "failedWords": [],
+    "lastProcessedWord": "Rabbit",
+    "status": "completed"
+  },
+  "wedding": {
+    "category": "wedding",
+    "totalWords": 31,
+    "completedWords": 31,
+    "failedWords": [],
+    "lastProcessedWord": "Betroth",
+    "status": "completed"
+  },
+  "jewelry": {
+    "category": "jewelry",
+    "totalWords": 19,
+    "completedWords": 19,
+    "failedWords": [],
+    "lastProcessedWord": "Precious stone",
+    "status": "completed"
+  },
+  "drinks": {
+    "category": "drinks",
+    "totalWords": 20,
+    "completedWords": 20,
+    "failedWords": [],
+    "lastProcessedWord": "Mineral water",
+    "status": "completed"
+  },
+  "food": {
+    "category": "food",
+    "totalWords": 38,
+    "completedWords": 38,
+    "failedWords": [],
+    "lastProcessedWord": "Hot dog",
+    "status": "completed"
+  },
+  "animals": {
+    "category": "animals",
+    "totalWords": 41,
+    "completedWords": 41,
+    "failedWords": [],
+    "lastProcessedWord": "Parrot",
+    "status": "completed"
+  }
+}

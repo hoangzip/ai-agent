@@ -1,0 +1,253 @@
+[
+  {
+    "word": "Customer",
+    "antonyms": []
+  },
+  {
+    "word": "Cashier",
+    "antonyms": []
+  },
+  {
+    "word": "Attendant",
+    "antonyms": []
+  },
+  {
+    "word": "Manager",
+    "antonyms": []
+  },
+  {
+    "word": "Wallet",
+    "antonyms": []
+  },
+  {
+    "word": "Purse",
+    "antonyms": []
+  },
+  {
+    "word": "Scale",
+    "antonyms": []
+  },
+  {
+    "word": "Counter",
+    "antonyms": []
+  },
+  {
+    "word": "Barcode reader",
+    "antonyms": []
+  },
+  {
+    "word": "Receipt",
+    "antonyms": []
+  },
+  {
+    "word": "Pay",
+    "antonyms": []
+  },
+  {
+    "word": "Expensive",
+    "antonyms": [
+      {
+        "word": "cheap",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tʃiːp/",
+        "meaning": "Rẻ"
+      },
+      {
+        "word": "inexpensive",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/inexpensive/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "low-priced",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/low-priced/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cheap",
+    "antonyms": [
+      {
+        "word": "rich",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɹɪt͡ʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dear",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diːɹ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "expensive",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪkˈspen.sɪv/",
+        "meaning": "Đắt"
+      },
+      {
+        "word": "high-priced",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/high-priced/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Discount",
+    "antonyms": [
+      {
+        "word": "surcharge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɜː(ɹ)t͡ʃɑː(ɹ)d͡ʒ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sell",
+    "antonyms": [
+      {
+        "word": "buy",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bai/",
+        "meaning": "Mua"
+      }
+    ]
+  },
+  {
+    "word": "Price",
+    "antonyms": []
+  },
+  {
+    "word": "Trolley",
+    "antonyms": []
+  },
+  {
+    "word": "Credit card",
+    "antonyms": []
+  },
+  {
+    "word": "Cash",
+    "antonyms": []
+  },
+  {
+    "word": "Shop",
+    "antonyms": []
+  },
+  {
+    "word": "Money",
+    "antonyms": []
+  },
+  {
+    "word": "Basket",
+    "antonyms": []
+  },
+  {
+    "word": "Bag",
+    "antonyms": []
+  },
+  {
+    "word": "Buy",
+    "antonyms": [
+      {
+        "word": "sale",
+        "partOfSpeech": "noun",
+        "pronunciation": "/seɪl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disbelieve",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪsbɪˈliːv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pitch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɪʧ/",
+        "meaning": "Sân"
+      },
+      {
+        "word": "reject",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reject/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Greengrocer",
+    "antonyms": []
+  },
+  {
+    "word": "Housewares",
+    "antonyms": []
+  },
+  {
+    "word": "Toy store",
+    "antonyms": []
+  },
+  {
+    "word": "Shopping mall",
+    "antonyms": []
+  },
+  {
+    "word": "Grocery store",
+    "antonyms": []
+  },
+  {
+    "word": "Convenience store",
+    "antonyms": []
+  },
+  {
+    "word": "Bargain",
+    "antonyms": []
+  },
+  {
+    "word": "Refund",
+    "antonyms": []
+  },
+  {
+    "word": "Brochure",
+    "antonyms": []
+  },
+  {
+    "word": "Liquor store",
+    "antonyms": []
+  },
+  {
+    "word": "Drugstore",
+    "antonyms": []
+  },
+  {
+    "word": "Candy store",
+    "antonyms": []
+  },
+  {
+    "word": "Gift shop",
+    "antonyms": []
+  },
+  {
+    "word": "Pet shop",
+    "antonyms": []
+  },
+  {
+    "word": "Shoe shop",
+    "antonyms": []
+  },
+  {
+    "word": "Meat shop",
+    "antonyms": []
+  },
+  {
+    "word": "Florist",
+    "antonyms": []
+  },
+  {
+    "word": "Butcher",
+    "antonyms": []
+  }
+]

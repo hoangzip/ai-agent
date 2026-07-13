@@ -1,0 +1,278 @@
+[
+  {
+    "word": "Herring",
+    "rootWord": "Herring",
+    "members": [
+      {
+        "word": "herring",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/herring/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Skate",
+    "rootWord": "Skate",
+    "members": [
+      {
+        "word": "skate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skate/",
+        "meaning": ""
+      },
+      {
+        "word": "skater",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈskeɪ.tə(ɹ)/",
+        "meaning": "skater"
+      }
+    ]
+  },
+  {
+    "word": "Salmon",
+    "rootWord": "Salmon",
+    "members": [
+      {
+        "word": "salmon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/salmon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Prawn",
+    "rootWord": "Prawn",
+    "members": [
+      {
+        "word": "prawn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/prawn/",
+        "meaning": ""
+      },
+      {
+        "word": "prawner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/prawner/",
+        "meaning": "prawner"
+      }
+    ]
+  },
+  {
+    "word": "Cuttlesh",
+    "rootWord": "Cuttlesh",
+    "members": [
+      {
+        "word": "cuttlesh",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cuttlesh/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lobster",
+    "rootWord": "Lobster",
+    "members": [
+      {
+        "word": "lobster",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lobster/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Squid",
+    "rootWord": "Squid",
+    "members": [
+      {
+        "word": "squid",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/squid/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shrimp",
+    "rootWord": "Shrimp",
+    "members": [
+      {
+        "word": "shrimp",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shrimp/",
+        "meaning": ""
+      },
+      {
+        "word": "shrimper",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shrimper/",
+        "meaning": "shrimper"
+      }
+    ]
+  },
+  {
+    "word": "Oyster",
+    "rootWord": "Oyster",
+    "members": [
+      {
+        "word": "oyster",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oyster/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Crab",
+    "rootWord": "Crab",
+    "members": [
+      {
+        "word": "crab",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crab/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cockle",
+    "rootWord": "Cockle",
+    "members": [
+      {
+        "word": "cockle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cockle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Scallop",
+    "rootWord": "Scallop",
+    "members": [
+      {
+        "word": "scallop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scallop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Octopus",
+    "rootWord": "Octopus",
+    "members": [
+      {
+        "word": "octopus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/octopus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fish",
+    "rootWord": "Fish",
+    "members": [
+      {
+        "word": "fish",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fish/",
+        "meaning": ""
+      },
+      {
+        "word": "fishy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fishy/",
+        "meaning": "fishy"
+      },
+      {
+        "word": "fisher",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɪʃə/",
+        "meaning": "fisher"
+      }
+    ]
+  },
+  {
+    "word": "Eel",
+    "rootWord": "Eel",
+    "members": [
+      {
+        "word": "eel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eel/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mussel",
+    "rootWord": "Mussel",
+    "members": [
+      {
+        "word": "mussel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mussel/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Clam",
+    "rootWord": "Clam",
+    "members": [
+      {
+        "word": "clam",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clam/",
+        "meaning": ""
+      },
+      {
+        "word": "clamor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈklæm.ə/",
+        "meaning": "clamor"
+      }
+    ]
+  },
+  {
+    "word": "Jellysh",
+    "rootWord": "Jellysh",
+    "members": [
+      {
+        "word": "jellysh",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jellysh/",
+        "meaning": ""
+      }
+    ]
+  }
+]

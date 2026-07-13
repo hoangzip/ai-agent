@@ -1,0 +1,382 @@
+[
+  {
+    "word": "Red",
+    "rootWord": "Red",
+    "members": [
+      {
+        "word": "red",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/red/",
+        "meaning": ""
+      },
+      {
+        "word": "redness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/redness/",
+        "meaning": "redness"
+      }
+    ]
+  },
+  {
+    "word": "Cream",
+    "rootWord": "Cream",
+    "members": [
+      {
+        "word": "cream",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cream/",
+        "meaning": ""
+      },
+      {
+        "word": "creamer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɹiː.mə(ɹ)/",
+        "meaning": "creamer"
+      },
+      {
+        "word": "creamy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɹiːmi/",
+        "meaning": "creamy"
+      }
+    ]
+  },
+  {
+    "word": "Purple",
+    "rootWord": "Purple",
+    "members": [
+      {
+        "word": "purple",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/purple/",
+        "meaning": ""
+      },
+      {
+        "word": "purply",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/purply/",
+        "meaning": "purply"
+      }
+    ]
+  },
+  {
+    "word": "Black",
+    "rootWord": "Black",
+    "members": [
+      {
+        "word": "black",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/black/",
+        "meaning": ""
+      },
+      {
+        "word": "blacker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈblækɚ/",
+        "meaning": "blacker"
+      },
+      {
+        "word": "blackness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈblæknəs/",
+        "meaning": "blackness"
+      },
+      {
+        "word": "blacken",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈblækən/",
+        "meaning": "blacken"
+      }
+    ]
+  },
+  {
+    "word": "Gray",
+    "rootWord": "Gray",
+    "members": [
+      {
+        "word": "gray",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gray/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Silver",
+    "rootWord": "Silver",
+    "members": [
+      {
+        "word": "silver",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/silver/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Gold",
+    "rootWord": "Gold",
+    "members": [
+      {
+        "word": "gold",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gold/",
+        "meaning": ""
+      },
+      {
+        "word": "golden",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/golden/",
+        "meaning": "golden"
+      }
+    ]
+  },
+  {
+    "word": "Copper",
+    "rootWord": "Copper",
+    "members": [
+      {
+        "word": "copper",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/copper/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Green",
+    "rootWord": "Green",
+    "members": [
+      {
+        "word": "green",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/green/",
+        "meaning": ""
+      },
+      {
+        "word": "greener",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/greener/",
+        "meaning": "greener"
+      },
+      {
+        "word": "greeny",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/greeny/",
+        "meaning": "greeny"
+      }
+    ]
+  },
+  {
+    "word": "Pink",
+    "rootWord": "Pink",
+    "members": [
+      {
+        "word": "pink",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pink/",
+        "meaning": ""
+      },
+      {
+        "word": "pinker",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpɪŋkə(ɹ)/",
+        "meaning": "pinker"
+      },
+      {
+        "word": "pinky",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɪŋki/",
+        "meaning": "pinky"
+      }
+    ]
+  },
+  {
+    "word": "Yellow",
+    "rootWord": "Yellow",
+    "members": [
+      {
+        "word": "yellow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yellow/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Brown",
+    "rootWord": "Brown",
+    "members": [
+      {
+        "word": "brown",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brown/",
+        "meaning": ""
+      },
+      {
+        "word": "browner",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/browner/",
+        "meaning": "browner"
+      }
+    ]
+  },
+  {
+    "word": "Blue",
+    "rootWord": "Blue",
+    "members": [
+      {
+        "word": "blue",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blue/",
+        "meaning": ""
+      },
+      {
+        "word": "bluey",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bluey/",
+        "meaning": "bluey"
+      },
+      {
+        "word": "bluer",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/bluer/",
+        "meaning": "bluer"
+      }
+    ]
+  },
+  {
+    "word": "Chestnut",
+    "rootWord": "Chestnut",
+    "members": [
+      {
+        "word": "chestnut",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chestnut/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Turquoise",
+    "rootWord": "Turquoise",
+    "members": [
+      {
+        "word": "turquoise",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turquoise/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Navy blue",
+    "rootWord": "Navy blue",
+    "members": [
+      {
+        "word": "navy blue",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/navy blue/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bright red",
+    "rootWord": "Bright red",
+    "members": [
+      {
+        "word": "bright red",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bright red/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Vivid",
+    "rootWord": "Vivid",
+    "members": [
+      {
+        "word": "vivid",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vivid/",
+        "meaning": ""
+      },
+      {
+        "word": "vividly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈvɪvɪdli/",
+        "meaning": "vividly"
+      }
+    ]
+  },
+  {
+    "word": "White",
+    "rootWord": "White",
+    "members": [
+      {
+        "word": "white",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/white/",
+        "meaning": ""
+      },
+      {
+        "word": "whiteness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwaɪtnəs/",
+        "meaning": "whiteness"
+      },
+      {
+        "word": "whiten",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈ(h)waɪtn̩/",
+        "meaning": "whiten"
+      },
+      {
+        "word": "whity",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/whity/",
+        "meaning": "whity"
+      }
+    ]
+  }
+]

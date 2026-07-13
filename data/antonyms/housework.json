@@ -1,0 +1,112 @@
+[
+  {
+    "word": "Dusting",
+    "antonyms": []
+  },
+  {
+    "word": "Cooking",
+    "antonyms": []
+  },
+  {
+    "word": "Ironing",
+    "antonyms": []
+  },
+  {
+    "word": "Sweep",
+    "antonyms": []
+  },
+  {
+    "word": "Wipe",
+    "antonyms": []
+  },
+  {
+    "word": "Throw out",
+    "antonyms": []
+  },
+  {
+    "word": "Vacuum",
+    "antonyms": [
+      {
+        "word": "plenum",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpliːnəm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cleaning",
+    "antonyms": []
+  },
+  {
+    "word": "Polish",
+    "antonyms": []
+  },
+  {
+    "word": "Fold",
+    "antonyms": [
+      {
+        "word": "unfold",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʌnˈfəʊld/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Scrub",
+    "antonyms": []
+  },
+  {
+    "word": "Tighten",
+    "antonyms": [
+      {
+        "word": "loosen",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈluːsn̩/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Make the bed",
+    "antonyms": []
+  },
+  {
+    "word": "Set the table",
+    "antonyms": []
+  },
+  {
+    "word": "Clear the table",
+    "antonyms": [
+      {
+        "word": "lay the table",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lay the table/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "set the table",
+        "partOfSpeech": "verb",
+        "pronunciation": "/set ðəˈteɪ.bəl/",
+        "meaning": "Bày chén bát"
+      }
+    ]
+  },
+  {
+    "word": "Mow the lawn",
+    "antonyms": []
+  },
+  {
+    "word": "Dishwashing",
+    "antonyms": []
+  },
+  {
+    "word": "Water the plants",
+    "antonyms": []
+  },
+  {
+    "word": "Clean the kitchen",
+    "antonyms": []
+  }
+]

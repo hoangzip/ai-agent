@@ -1,0 +1,235 @@
+[
+  {
+    "word": "Avenue",
+    "synonyms": [
+      {
+        "word": "av",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/av/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "av.",
+        "partOfSpeech": "noun",
+        "pronunciation": "/av./",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ave",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ave/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ave.",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ave./",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Between",
+    "synonyms": [
+      {
+        "word": "atween",
+        "partOfSpeech": "noun",
+        "pronunciation": "/atween/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "atwix",
+        "partOfSpeech": "noun",
+        "pronunciation": "/atwix/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "atwixt",
+        "partOfSpeech": "noun",
+        "pronunciation": "/atwixt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "betwixt",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪˈtwɪkst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Beside",
+    "synonyms": []
+  },
+  {
+    "word": "Behind",
+    "synonyms": [
+      {
+        "word": "in back of",
+        "partOfSpeech": "noun",
+        "pronunciation": "/in back of/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "to the rear of",
+        "partOfSpeech": "noun",
+        "pronunciation": "/to the rear of/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Curve",
+    "synonyms": []
+  },
+  {
+    "word": "In front of",
+    "synonyms": [
+      {
+        "word": "before",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/bɪˈfɔː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "around",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/əˈraʊnd/",
+        "meaning": "Khoảng"
+      },
+      {
+        "word": "company",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkʌmp(ə)ni/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "presence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹɛzəns/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Opposite",
+    "synonyms": []
+  },
+  {
+    "word": "Near",
+    "synonyms": [
+      {
+        "word": "near side",
+        "partOfSpeech": "noun",
+        "pronunciation": "/near side/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "close",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kləʊz/",
+        "meaning": "Thân thiết"
+      }
+    ]
+  },
+  {
+    "word": "Turn right",
+    "synonyms": []
+  },
+  {
+    "word": "Turn left",
+    "synonyms": []
+  },
+  {
+    "word": "Junction",
+    "synonyms": [
+      {
+        "word": "intersection",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɪntəɹˌsɛkʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Turning",
+    "synonyms": [
+      {
+        "word": "become",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bəˈkʊm/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "get",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɛt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "go",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡəʉ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "rotate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɹəʊˈteɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Roundabout",
+    "synonyms": [
+      {
+        "word": "merry-go-round",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmɛ.ɹi.ɡoʊ.ɹaʊnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "rotary",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹoʊtəɹi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "traffic circle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/traffic circle/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pavement",
+    "synonyms": [
+      {
+        "word": "footpath",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfʊtˌpæθ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "footway",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfʊtˌweɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "platform",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈplætfɔːm/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sidewalk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsaɪdwɔːk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

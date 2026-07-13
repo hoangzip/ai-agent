@@ -1,0 +1,91 @@
+[
+  {
+    "word": "Bar",
+    "antonyms": []
+  },
+  {
+    "word": "Chef",
+    "antonyms": []
+  },
+  {
+    "word": "Waiter",
+    "antonyms": []
+  },
+  {
+    "word": "Waitress",
+    "antonyms": []
+  },
+  {
+    "word": "Bill",
+    "antonyms": []
+  },
+  {
+    "word": "Service",
+    "antonyms": [
+      {
+        "word": "good",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɡʊ(d)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "capital",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkæp.ɪ.təl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tip",
+    "antonyms": []
+  },
+  {
+    "word": "Knife",
+    "antonyms": []
+  },
+  {
+    "word": "Bowl",
+    "antonyms": []
+  },
+  {
+    "word": "Teapot",
+    "antonyms": []
+  },
+  {
+    "word": "Glass",
+    "antonyms": []
+  },
+  {
+    "word": "Breakfast",
+    "antonyms": []
+  },
+  {
+    "word": "Dinner",
+    "antonyms": []
+  },
+  {
+    "word": "Lunch",
+    "antonyms": []
+  },
+  {
+    "word": "Booking oce",
+    "antonyms": []
+  },
+  {
+    "word": "Menu",
+    "antonyms": []
+  },
+  {
+    "word": "Starter",
+    "antonyms": []
+  },
+  {
+    "word": "Main course",
+    "antonyms": []
+  },
+  {
+    "word": "Dessert",
+    "antonyms": []
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "word": "Denmark",
+    "rootWord": "Denmark",
+    "members": [
+      {
+        "word": "denmark",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/denmark/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "England",
+    "rootWord": "England",
+    "members": [
+      {
+        "word": "england",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/england/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sweden",
+    "rootWord": "Sweden",
+    "members": [
+      {
+        "word": "sweden",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweden/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Austria",
+    "rootWord": "Austria",
+    "members": [
+      {
+        "word": "austria",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/austria/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Australia",
+    "rootWord": "Australia",
+    "members": [
+      {
+        "word": "australia",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/australia/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "France",
+    "rootWord": "France",
+    "members": [
+      {
+        "word": "france",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/france/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Germany",
+    "rootWord": "Germany",
+    "members": [
+      {
+        "word": "germany",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/germany/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Switzerland",
+    "rootWord": "Switzerland",
+    "members": [
+      {
+        "word": "switzerland",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/switzerland/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Greece",
+    "rootWord": "Greece",
+    "members": [
+      {
+        "word": "greece",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/greece/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Italy",
+    "rootWord": "Italy",
+    "members": [
+      {
+        "word": "italy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/italy/",
+        "meaning": ""
+      },
+      {
+        "word": "ita",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ita/",
+        "meaning": "ita"
+      }
+    ]
+  },
+  {
+    "word": "Spain",
+    "rootWord": "Spain",
+    "members": [
+      {
+        "word": "spain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spain/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Russia",
+    "rootWord": "Russia",
+    "members": [
+      {
+        "word": "russia",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/russia/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Canada",
+    "rootWord": "Canada",
+    "members": [
+      {
+        "word": "canada",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/canada/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mexico",
+    "rootWord": "Mexico",
+    "members": [
+      {
+        "word": "mexico",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mexico/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "America",
+    "rootWord": "America",
+    "members": [
+      {
+        "word": "america",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/america/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Brazil",
+    "rootWord": "Brazil",
+    "members": [
+      {
+        "word": "brazil",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brazil/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Japan",
+    "rootWord": "Japan",
+    "members": [
+      {
+        "word": "japan",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/japan/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Korea",
+    "rootWord": "Korea",
+    "members": [
+      {
+        "word": "korea",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/korea/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "China",
+    "rootWord": "China",
+    "members": [
+      {
+        "word": "china",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/china/",
+        "meaning": ""
+      }
+    ]
+  }
+]

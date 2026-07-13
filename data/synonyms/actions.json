@@ -1,0 +1,686 @@
+[
+  {
+    "word": "Pack",
+    "synonyms": []
+  },
+  {
+    "word": "Paint",
+    "synonyms": []
+  },
+  {
+    "word": "Paste",
+    "synonyms": []
+  },
+  {
+    "word": "Pick",
+    "synonyms": []
+  },
+  {
+    "word": "Plant",
+    "synonyms": []
+  },
+  {
+    "word": "Play",
+    "synonyms": [
+      {
+        "word": "drama",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdrɑː.mə/",
+        "meaning": "Vở kịch"
+      },
+      {
+        "word": "listen",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈlɪs.ən/",
+        "meaning": "Lắng nghe"
+      },
+      {
+        "word": "view",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vjuː/",
+        "meaning": "Khung cảnh, quang cảnh"
+      },
+      {
+        "word": "move",
+        "partOfSpeech": "noun",
+        "pronunciation": "/muːv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Point",
+    "synonyms": [
+      {
+        "word": "decimal point",
+        "partOfSpeech": "noun",
+        "pronunciation": "/decimal point/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "spot",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spɒt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ord",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ord/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "location",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ləʊˈkeɪʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pour",
+    "synonyms": [
+      {
+        "word": "shink",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shink/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "skink",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skɪŋk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pull",
+    "synonyms": [
+      {
+        "word": "drag",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɹæɡ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "toke",
+        "partOfSpeech": "noun",
+        "pronunciation": "/toke/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tug",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tʌɡ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "yank",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jæŋk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Push",
+    "synonyms": [
+      {
+        "word": "approach",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈpɹəʊt͡ʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "near",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nɪər/",
+        "meaning": "Gần"
+      },
+      {
+        "word": "press",
+        "partOfSpeech": "noun",
+        "pronunciation": "/prɛs/",
+        "meaning": "Báo chí"
+      },
+      {
+        "word": "urge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɜːd͡ʒ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rake",
+    "synonyms": [
+      {
+        "word": "horserake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/horserake/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Read",
+    "synonyms": [
+      {
+        "word": "clock",
+        "partOfSpeech": "noun",
+        "pronunciation": "/klɒk/",
+        "meaning": "Đồng hồ treo tường"
+      },
+      {
+        "word": "copy",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɒp.i/",
+        "meaning": "Sao chép"
+      },
+      {
+        "word": "hear",
+        "partOfSpeech": "verb",
+        "pronunciation": "/hɪə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "receive",
+        "partOfSpeech": "verb",
+        "pronunciation": "/rɪˈsiːv/",
+        "meaning": "Nhận"
+      }
+    ]
+  },
+  {
+    "word": "Ride",
+    "synonyms": [
+      {
+        "word": "do it",
+        "partOfSpeech": "noun",
+        "pronunciation": "/do it/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "get it on",
+        "partOfSpeech": "verb",
+        "pronunciation": "/get it on/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Row",
+    "synonyms": [
+      {
+        "word": "line",
+        "partOfSpeech": "noun",
+        "pronunciation": "/laɪn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sequence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsiːkwəns/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "series",
+        "partOfSpeech": "noun",
+        "pronunciation": "/series/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "succession",
+        "partOfSpeech": "noun",
+        "pronunciation": "/səkˈsɛʃ.ən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Run",
+    "synonyms": [
+      {
+        "word": "execute",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈɛksɪˌkjuːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "start",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɑːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tread",
+        "partOfSpeech": "verb",
+        "pronunciation": "/tɹɛd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ladder",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ladder/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sail",
+    "synonyms": []
+  },
+  {
+    "word": "Scrub",
+    "synonyms": []
+  },
+  {
+    "word": "See",
+    "synonyms": [
+      {
+        "word": "go out",
+        "partOfSpeech": "verb",
+        "pronunciation": "/go out/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "behold",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bɪˈhəʊld/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "descry",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈskɹaɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "espy",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪˈspaɪ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Set",
+    "synonyms": [
+      {
+        "word": "lay",
+        "partOfSpeech": "noun",
+        "pronunciation": "/leɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "put",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pʊt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "set down",
+        "partOfSpeech": "verb",
+        "pronunciation": "/set down/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "light",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lʌɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sew",
+    "synonyms": [
+      {
+        "word": "stitch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɪt͡ʃ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Shout",
+    "synonyms": [
+      {
+        "word": "shout out",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shout out/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Show",
+    "synonyms": [
+      {
+        "word": "big leagues",
+        "partOfSpeech": "noun",
+        "pronunciation": "/big leagues/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "program(me)",
+        "partOfSpeech": "noun",
+        "pronunciation": "/program(me)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "demonstration",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɛmənˈstɹeɪʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "illustration",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɪləˈstɹeɪʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sing",
+    "synonyms": []
+  },
+  {
+    "word": "Sit",
+    "synonyms": [
+      {
+        "word": "accepted",
+        "partOfSpeech": "verb",
+        "pronunciation": "/æk.ˈsɛp.tɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "received",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɹɪˈsiːvd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "welcomed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈwɛlkəmd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "well",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wel/",
+        "meaning": "Giếng"
+      }
+    ]
+  },
+  {
+    "word": "Skate",
+    "synonyms": [
+      {
+        "word": "roller boot",
+        "partOfSpeech": "noun",
+        "pronunciation": "/roller boot/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Skip",
+    "synonyms": [
+      {
+        "word": "play hookie",
+        "partOfSpeech": "noun",
+        "pronunciation": "/play hookie/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sleep",
+    "synonyms": []
+  },
+  {
+    "word": "Slide",
+    "synonyms": [
+      {
+        "word": "chute",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃ(j)uːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "slippery dip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/slippery dip/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "runner",
+        "partOfSpeech": "noun",
+        "pronunciation": "/runner/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sneeze",
+    "synonyms": [
+      {
+        "word": "ptarmus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ptarmus/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sternutation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sternutation/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sternutate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sternutate/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Spin",
+    "synonyms": [
+      {
+        "word": "propaganda",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˌpɹɒp.ə.ˈɡæn.də]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "blandish",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈblændɪʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dress up",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dress up/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gild",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɡɪld/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stand",
+    "synonyms": []
+  },
+  {
+    "word": "Stop",
+    "synonyms": [
+      {
+        "word": "occlusive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/occlusive/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "plosive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpləʊsɪv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "arrest",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈɹɛst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "freeze",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈfɹiːz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sweep",
+    "synonyms": []
+  },
+  {
+    "word": "Swim",
+    "synonyms": []
+  },
+  {
+    "word": "Swing",
+    "synonyms": []
+  },
+  {
+    "word": "Take",
+    "synonyms": [
+      {
+        "word": "capture",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkæp.t͡ʃə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "conquer",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɒŋkə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "seize",
+        "partOfSpeech": "verb",
+        "pronunciation": "/siːz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ingest",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪnˈdʒɛst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Talk",
+    "synonyms": []
+  },
+  {
+    "word": "Tell",
+    "synonyms": [
+      {
+        "word": "count",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kaʊnt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "number",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnʌmbə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "grass up",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grass up/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "snitch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snɪtʃ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Throw",
+    "synonyms": [
+      {
+        "word": "spend",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spɛnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pledge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plɛdʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "promise",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹɒmɪs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vaʊ/",
+        "meaning": "Lời thề"
+      }
+    ]
+  },
+  {
+    "word": "Tie",
+    "synonyms": [
+      {
+        "word": "bond",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɒnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "draw",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɹɔː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "necktie",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnɛk.taɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sleeper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleeper/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

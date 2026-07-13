@@ -1,0 +1,696 @@
+[
+  {
+    "word": "Piglet",
+    "rootWord": "Piglet",
+    "members": [
+      {
+        "word": "piglet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/piglet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sow",
+    "rootWord": "Sow",
+    "members": [
+      {
+        "word": "sow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sow/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pig",
+    "rootWord": "Pig",
+    "members": [
+      {
+        "word": "pig",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pig/",
+        "meaning": ""
+      },
+      {
+        "word": "pigment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɪɡ.mənt/",
+        "meaning": "pigment"
+      }
+    ]
+  },
+  {
+    "word": "Duck",
+    "rootWord": "Duck",
+    "members": [
+      {
+        "word": "duck",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/duck/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Animal",
+    "rootWord": "Animal",
+    "members": [
+      {
+        "word": "animal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/animal/",
+        "meaning": ""
+      },
+      {
+        "word": "animalist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/animalist/",
+        "meaning": "animalist"
+      },
+      {
+        "word": "animality",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/animality/",
+        "meaning": "animality"
+      },
+      {
+        "word": "animalize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/animalize/",
+        "meaning": "animalize"
+      }
+    ]
+  },
+  {
+    "word": "Goat",
+    "rootWord": "Goat",
+    "members": [
+      {
+        "word": "goat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goat/",
+        "meaning": ""
+      },
+      {
+        "word": "goaty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɡəʊti/",
+        "meaning": "goaty"
+      }
+    ]
+  },
+  {
+    "word": "Horse",
+    "rootWord": "Horse",
+    "members": [
+      {
+        "word": "horse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/horse/",
+        "meaning": ""
+      },
+      {
+        "word": "horseless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/horseless/",
+        "meaning": "horseless"
+      },
+      {
+        "word": "horsy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɔːsi/",
+        "meaning": "horsy"
+      }
+    ]
+  },
+  {
+    "word": "Goose",
+    "rootWord": "Goose",
+    "members": [
+      {
+        "word": "goose",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goose/",
+        "meaning": ""
+      },
+      {
+        "word": "goosy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goosy/",
+        "meaning": "goosy"
+      }
+    ]
+  },
+  {
+    "word": "Donkey",
+    "rootWord": "Donkey",
+    "members": [
+      {
+        "word": "donkey",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/donkey/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sheep",
+    "rootWord": "Sheep",
+    "members": [
+      {
+        "word": "sheep",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sheep/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ox",
+    "rootWord": "Ox",
+    "members": [
+      {
+        "word": "ox",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ox/",
+        "meaning": ""
+      },
+      {
+        "word": "oxen",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɒksən/",
+        "meaning": "oxen"
+      },
+      {
+        "word": "oxer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oxer/",
+        "meaning": "oxer"
+      },
+      {
+        "word": "oxy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oxy/",
+        "meaning": "oxy"
+      }
+    ]
+  },
+  {
+    "word": "Dog",
+    "rootWord": "Dog",
+    "members": [
+      {
+        "word": "dog",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dog/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cat",
+    "rootWord": "Cat",
+    "members": [
+      {
+        "word": "cat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cat/",
+        "meaning": ""
+      },
+      {
+        "word": "cater",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkeɪtə/",
+        "meaning": "cater"
+      }
+    ]
+  },
+  {
+    "word": "Chicken",
+    "rootWord": "Chicken",
+    "members": [
+      {
+        "word": "chicken",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chicken/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rooster",
+    "rootWord": "Rooster",
+    "members": [
+      {
+        "word": "rooster",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rooster/",
+        "meaning": ""
+      },
+      {
+        "word": "roost",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹuːst/",
+        "meaning": "roost"
+      }
+    ]
+  },
+  {
+    "word": "Hen",
+    "rootWord": "Hen",
+    "members": [
+      {
+        "word": "hen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hen/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cow",
+    "rootWord": "Cow",
+    "members": [
+      {
+        "word": "cow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cow/",
+        "meaning": ""
+      },
+      {
+        "word": "cower",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkaʊə/",
+        "meaning": "cower"
+      }
+    ]
+  },
+  {
+    "word": "Bull",
+    "rootWord": "Bull",
+    "members": [
+      {
+        "word": "bull",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bull/",
+        "meaning": ""
+      },
+      {
+        "word": "bullate",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/bullate/",
+        "meaning": "bullate"
+      },
+      {
+        "word": "bullous",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/bullous/",
+        "meaning": "bullous"
+      },
+      {
+        "word": "bully",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʊli/",
+        "meaning": "bully"
+      }
+    ]
+  },
+  {
+    "word": "Calf",
+    "rootWord": "Calf",
+    "members": [
+      {
+        "word": "calf",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/calf/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rabbit",
+    "rootWord": "Rabbit",
+    "members": [
+      {
+        "word": "rabbit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rabbit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Owl",
+    "rootWord": "Owl",
+    "members": [
+      {
+        "word": "owl",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/owl/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Deer",
+    "rootWord": "Deer",
+    "members": [
+      {
+        "word": "deer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/deer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bat",
+    "rootWord": "Bat",
+    "members": [
+      {
+        "word": "bat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bat/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mink",
+    "rootWord": "Mink",
+    "members": [
+      {
+        "word": "mink",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mink/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Monkey",
+    "rootWord": "Monkey",
+    "members": [
+      {
+        "word": "monkey",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/monkey/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Snake",
+    "rootWord": "Snake",
+    "members": [
+      {
+        "word": "snake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snake/",
+        "meaning": ""
+      },
+      {
+        "word": "snaky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/snaky/",
+        "meaning": "snaky"
+      }
+    ]
+  },
+  {
+    "word": "Lizard",
+    "rootWord": "Lizard",
+    "members": [
+      {
+        "word": "lizard",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lizard/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Girae",
+    "rootWord": "Girae",
+    "members": [
+      {
+        "word": "girae",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/girae/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bear",
+    "rootWord": "Bear",
+    "members": [
+      {
+        "word": "bear",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bear/",
+        "meaning": ""
+      },
+      {
+        "word": "bearer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɛəɹə/",
+        "meaning": "bearer"
+      },
+      {
+        "word": "bearable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbɛəɹəbəɫ/",
+        "meaning": "bearable"
+      }
+    ]
+  },
+  {
+    "word": "Rhino",
+    "rootWord": "Rhino",
+    "members": [
+      {
+        "word": "rhino",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rhino/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Elephant",
+    "rootWord": "Elephant",
+    "members": [
+      {
+        "word": "elephant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/elephant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Panther",
+    "rootWord": "Panther",
+    "members": [
+      {
+        "word": "panther",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/panther/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Leopard",
+    "rootWord": "Leopard",
+    "members": [
+      {
+        "word": "leopard",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/leopard/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tiger",
+    "rootWord": "Tiger",
+    "members": [
+      {
+        "word": "tiger",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tiger/",
+        "meaning": ""
+      },
+      {
+        "word": "tig",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɪɡ/",
+        "meaning": "tig"
+      }
+    ]
+  },
+  {
+    "word": "Lion",
+    "rootWord": "Lion",
+    "members": [
+      {
+        "word": "lion",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lion/",
+        "meaning": ""
+      },
+      {
+        "word": "lionize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈlaɪənaɪz/",
+        "meaning": "lionize"
+      }
+    ]
+  },
+  {
+    "word": "Fox",
+    "rootWord": "Fox",
+    "members": [
+      {
+        "word": "fox",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fox/",
+        "meaning": ""
+      },
+      {
+        "word": "foxy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfɒksi/",
+        "meaning": "foxy"
+      }
+    ]
+  },
+  {
+    "word": "Dinosaur",
+    "rootWord": "Dinosaur",
+    "members": [
+      {
+        "word": "dinosaur",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dinosaur/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Turtle",
+    "rootWord": "Turtle",
+    "members": [
+      {
+        "word": "turtle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turtle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Snail",
+    "rootWord": "Snail",
+    "members": [
+      {
+        "word": "snail",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snail/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Crow",
+    "rootWord": "Crow",
+    "members": [
+      {
+        "word": "crow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crow/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Parrot",
+    "rootWord": "Parrot",
+    "members": [
+      {
+        "word": "parrot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parrot/",
+        "meaning": ""
+      }
+    ]
+  }
+]

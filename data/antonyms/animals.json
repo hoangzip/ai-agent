@@ -1,0 +1,236 @@
+[
+  {
+    "word": "Piglet",
+    "antonyms": []
+  },
+  {
+    "word": "Sow",
+    "antonyms": []
+  },
+  {
+    "word": "Pig",
+    "antonyms": []
+  },
+  {
+    "word": "Duck",
+    "antonyms": []
+  },
+  {
+    "word": "Animal",
+    "antonyms": []
+  },
+  {
+    "word": "Goat",
+    "antonyms": []
+  },
+  {
+    "word": "Horse",
+    "antonyms": []
+  },
+  {
+    "word": "Goose",
+    "antonyms": []
+  },
+  {
+    "word": "Donkey",
+    "antonyms": []
+  },
+  {
+    "word": "Sheep",
+    "antonyms": []
+  },
+  {
+    "word": "Ox",
+    "antonyms": []
+  },
+  {
+    "word": "Dog",
+    "antonyms": []
+  },
+  {
+    "word": "Cat",
+    "antonyms": []
+  },
+  {
+    "word": "Chicken",
+    "antonyms": []
+  },
+  {
+    "word": "Rooster",
+    "antonyms": []
+  },
+  {
+    "word": "Hen",
+    "antonyms": []
+  },
+  {
+    "word": "Cow",
+    "antonyms": [
+      {
+        "word": "bull",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bʊl/",
+        "meaning": "Bò đực"
+      },
+      {
+        "word": "heifer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɛfə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ox",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɒks/",
+        "meaning": "Bò"
+      },
+      {
+        "word": "steer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɪə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bull",
+    "antonyms": [
+      {
+        "word": "bear",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɛr/",
+        "meaning": "Gấu"
+      },
+      {
+        "word": "feeble",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈfiːbəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "puny",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pjuːni/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "weak",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/wiːk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Calf",
+    "antonyms": []
+  },
+  {
+    "word": "Rabbit",
+    "antonyms": []
+  },
+  {
+    "word": "Owl",
+    "antonyms": [
+      {
+        "word": "lark",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lɑːk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Deer",
+    "antonyms": []
+  },
+  {
+    "word": "Bat",
+    "antonyms": []
+  },
+  {
+    "word": "Mink",
+    "antonyms": []
+  },
+  {
+    "word": "Monkey",
+    "antonyms": []
+  },
+  {
+    "word": "Snake",
+    "antonyms": []
+  },
+  {
+    "word": "Lizard",
+    "antonyms": []
+  },
+  {
+    "word": "Girae",
+    "antonyms": []
+  },
+  {
+    "word": "Bear",
+    "antonyms": [
+      {
+        "word": "bull",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bʊl/",
+        "meaning": "Bò đực"
+      },
+      {
+        "word": "twink",
+        "partOfSpeech": "noun",
+        "pronunciation": "/twɪŋk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rhino",
+    "antonyms": []
+  },
+  {
+    "word": "Elephant",
+    "antonyms": []
+  },
+  {
+    "word": "Panther",
+    "antonyms": []
+  },
+  {
+    "word": "Leopard",
+    "antonyms": []
+  },
+  {
+    "word": "Tiger",
+    "antonyms": []
+  },
+  {
+    "word": "Lion",
+    "antonyms": []
+  },
+  {
+    "word": "Fox",
+    "antonyms": []
+  },
+  {
+    "word": "Dinosaur",
+    "antonyms": []
+  },
+  {
+    "word": "Turtle",
+    "antonyms": []
+  },
+  {
+    "word": "Snail",
+    "antonyms": []
+  },
+  {
+    "word": "Crow",
+    "antonyms": []
+  },
+  {
+    "word": "Parrot",
+    "antonyms": []
+  }
+]

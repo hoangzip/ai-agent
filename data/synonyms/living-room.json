@@ -1,0 +1,379 @@
+[
+  {
+    "word": "Drapes",
+    "synonyms": [
+      {
+        "word": "curtains",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɜː(ɹ).tənz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cushion",
+    "synonyms": []
+  },
+  {
+    "word": "Sofa",
+    "synonyms": [
+      {
+        "word": "couch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kaʊtʃ/",
+        "meaning": "Trường kỷ"
+      },
+      {
+        "word": "divan",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈvæn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lounge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/laʊndʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "settee",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sɛˈtiː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rug",
+    "synonyms": [
+      {
+        "word": "carpet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈKɑː.pɪt/",
+        "meaning": "Tấm thảm"
+      },
+      {
+        "word": "mat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mæt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "toupee",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tuːˈpeɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "wig",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wɪɡ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Banister",
+    "synonyms": []
+  },
+  {
+    "word": "Bookcase",
+    "synonyms": []
+  },
+  {
+    "word": "Ceiling",
+    "synonyms": []
+  },
+  {
+    "word": "Clock",
+    "synonyms": [
+      {
+        "word": "timepiece",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtaɪmpiːs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "odometer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oʊˈdɑːmətɚ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "check out",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtʃɛk aʊt/",
+        "meaning": "Trả phòng"
+      },
+      {
+        "word": "scope out",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scope out/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Desk",
+    "synonyms": []
+  },
+  {
+    "word": "Frame",
+    "synonyms": [
+      {
+        "word": "fit up",
+        "partOfSpeech": "verb",
+        "pronunciation": "/fit up/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Lampshade",
+    "synonyms": []
+  },
+  {
+    "word": "Mantelpiece",
+    "synonyms": []
+  },
+  {
+    "word": "Painting",
+    "synonyms": [
+      {
+        "word": "third art",
+        "partOfSpeech": "noun",
+        "pronunciation": "/third art/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Remote control",
+    "synonyms": [
+      {
+        "word": "clicker",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clicker/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "remote",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ɹəˈməʊt]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "zapper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈzæp.ə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Speaker",
+    "synonyms": [
+      {
+        "word": "talker",
+        "partOfSpeech": "noun",
+        "pronunciation": "/talker/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Step",
+    "synonyms": [
+      {
+        "word": "stride",
+        "partOfSpeech": "verb",
+        "pronunciation": "/stɹaɪd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stereo system",
+    "synonyms": []
+  },
+  {
+    "word": "Stereo",
+    "synonyms": [
+      {
+        "word": "console",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɒn.səʊl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hi-fi",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhaɪˌfaɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "music centre",
+        "partOfSpeech": "noun",
+        "pronunciation": "/music centre/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "radiogram",
+        "partOfSpeech": "noun",
+        "pronunciation": "/radiogram/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Television",
+    "synonyms": []
+  },
+  {
+    "word": "Vase",
+    "synonyms": []
+  },
+  {
+    "word": "Wall unit",
+    "synonyms": []
+  },
+  {
+    "word": "Lamp",
+    "synonyms": []
+  },
+  {
+    "word": "Calendar",
+    "synonyms": [
+      {
+        "word": "agenda",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈdʒɛn.də/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "calends",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkæləndz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "docket",
+        "partOfSpeech": "noun",
+        "pronunciation": "/docket/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "schedule",
+        "partOfSpeech": "noun",
+        "pronunciation": "/schedule/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Fan",
+    "synonyms": []
+  },
+  {
+    "word": "Chair",
+    "synonyms": [
+      {
+        "word": "chair",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tʃeər/",
+        "meaning": "Ghế"
+      },
+      {
+        "word": "officer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɑfɪsɚ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "presider",
+        "partOfSpeech": "noun",
+        "pronunciation": "/presider/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "presiding",
+        "partOfSpeech": "verb",
+        "pronunciation": "/presiding/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stool",
+    "synonyms": []
+  },
+  {
+    "word": "Ashtray",
+    "synonyms": []
+  },
+  {
+    "word": "Bookshelf",
+    "synonyms": []
+  },
+  {
+    "word": "Fuse",
+    "synonyms": [
+      {
+        "word": "fuze",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fjuːz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fuze (US)",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fuze (US)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Switch",
+    "synonyms": [
+      {
+        "word": "dowel",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdaʊəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "switch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swɪtʃ/",
+        "meaning": "Công tắc"
+      },
+      {
+        "word": "flag",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flæɡ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "option",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɒpʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Couch",
+    "synonyms": []
+  },
+  {
+    "word": "Curtain",
+    "synonyms": [
+      {
+        "word": "becurtain",
+        "partOfSpeech": "noun",
+        "pronunciation": "/becurtain/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

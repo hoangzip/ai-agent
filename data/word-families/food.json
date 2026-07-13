@@ -1,0 +1,622 @@
+[
+  {
+    "word": "Beef",
+    "rootWord": "Beef",
+    "members": [
+      {
+        "word": "beef",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beef/",
+        "meaning": ""
+      },
+      {
+        "word": "beefy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbiːfi/",
+        "meaning": "beefy"
+      }
+    ]
+  },
+  {
+    "word": "Pork",
+    "rootWord": "Pork",
+    "members": [
+      {
+        "word": "pork",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pork/",
+        "meaning": ""
+      },
+      {
+        "word": "porker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/porker/",
+        "meaning": "porker"
+      },
+      {
+        "word": "porky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/porky/",
+        "meaning": "porky"
+      }
+    ]
+  },
+  {
+    "word": "Bacon",
+    "rootWord": "Bacon",
+    "members": [
+      {
+        "word": "bacon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bacon/",
+        "meaning": ""
+      },
+      {
+        "word": "baconer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/baconer/",
+        "meaning": "baconer"
+      }
+    ]
+  },
+  {
+    "word": "Ham",
+    "rootWord": "Ham",
+    "members": [
+      {
+        "word": "ham",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ham/",
+        "meaning": ""
+      },
+      {
+        "word": "hamate",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hamate/",
+        "meaning": "hamate"
+      }
+    ]
+  },
+  {
+    "word": "Yoghurt",
+    "rootWord": "Yoghurt",
+    "members": [
+      {
+        "word": "yoghurt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yoghurt/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pie",
+    "rootWord": "Pie",
+    "members": [
+      {
+        "word": "pie",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pie/",
+        "meaning": ""
+      },
+      {
+        "word": "pier",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɪə/",
+        "meaning": "pier"
+      },
+      {
+        "word": "pious",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpaɪəs/",
+        "meaning": "pious"
+      }
+    ]
+  },
+  {
+    "word": "Bread",
+    "rootWord": "Bread",
+    "members": [
+      {
+        "word": "bread",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bread/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cake",
+    "rootWord": "Cake",
+    "members": [
+      {
+        "word": "cake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cake/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chip",
+    "rootWord": "Chip",
+    "members": [
+      {
+        "word": "chip",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chip/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Biscuit",
+    "rootWord": "Biscuit",
+    "members": [
+      {
+        "word": "biscuit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/biscuit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Noodle",
+    "rootWord": "Noodle",
+    "members": [
+      {
+        "word": "noodle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/noodle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Butter",
+    "rootWord": "Butter",
+    "members": [
+      {
+        "word": "butter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/butter/",
+        "meaning": ""
+      },
+      {
+        "word": "butt",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bʌt/",
+        "meaning": "butt"
+      },
+      {
+        "word": "butty",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʊti/",
+        "meaning": "butty"
+      }
+    ]
+  },
+  {
+    "word": "Olive",
+    "rootWord": "Olive",
+    "members": [
+      {
+        "word": "olive",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/olive/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Soy",
+    "rootWord": "Soy",
+    "members": [
+      {
+        "word": "soy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/soy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Flour",
+    "rootWord": "Flour",
+    "members": [
+      {
+        "word": "flour",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flour/",
+        "meaning": ""
+      },
+      {
+        "word": "floury",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈflaʊɹi/",
+        "meaning": "floury"
+      }
+    ]
+  },
+  {
+    "word": "Lunch",
+    "rootWord": "Lunch",
+    "members": [
+      {
+        "word": "lunch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lunch/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mint",
+    "rootWord": "Mint",
+    "members": [
+      {
+        "word": "mint",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mint/",
+        "meaning": ""
+      },
+      {
+        "word": "minter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/minter/",
+        "meaning": "minter"
+      }
+    ]
+  },
+  {
+    "word": "Vanilla",
+    "rootWord": "Vanilla",
+    "members": [
+      {
+        "word": "vanilla",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vanilla/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Candy",
+    "rootWord": "Candy",
+    "members": [
+      {
+        "word": "candy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/candy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Popcorn",
+    "rootWord": "Popcorn",
+    "members": [
+      {
+        "word": "popcorn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/popcorn/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Snack",
+    "rootWord": "Snack",
+    "members": [
+      {
+        "word": "snack",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snack/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Barbecue",
+    "rootWord": "Barbecue",
+    "members": [
+      {
+        "word": "barbecue",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/barbecue/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fast food",
+    "rootWord": "Fast food",
+    "members": [
+      {
+        "word": "fast food",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fast food/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Junk food",
+    "rootWord": "Junk food",
+    "members": [
+      {
+        "word": "junk food",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/junk food/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Frozen food",
+    "rootWord": "Frozen food",
+    "members": [
+      {
+        "word": "frozen food",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/frozen food/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Health food",
+    "rootWord": "Health food",
+    "members": [
+      {
+        "word": "health food",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/health food/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Distinctive",
+    "rootWord": "Distinctive",
+    "members": [
+      {
+        "word": "distinctive",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/distinctive/",
+        "meaning": ""
+      },
+      {
+        "word": "distinctiveness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪsˈtɪŋ(k)tɪvnɪs/",
+        "meaning": "distinctiveness"
+      },
+      {
+        "word": "distinctively",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/distinctively/",
+        "meaning": "distinctively"
+      }
+    ]
+  },
+  {
+    "word": "Flavor",
+    "rootWord": "Flavor",
+    "members": [
+      {
+        "word": "flavor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flavor/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Balanced diet",
+    "rootWord": "Balanced diet",
+    "members": [
+      {
+        "word": "balanced diet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/balanced diet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stale",
+    "rootWord": "Stale",
+    "members": [
+      {
+        "word": "stale",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stale/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sour",
+    "rootWord": "Sour",
+    "members": [
+      {
+        "word": "sour",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sour/",
+        "meaning": ""
+      },
+      {
+        "word": "sourer",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sourer/",
+        "meaning": "sourer"
+      }
+    ]
+  },
+  {
+    "word": "Burnt",
+    "rootWord": "Burnt",
+    "members": [
+      {
+        "word": "burnt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/burnt/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Overdone",
+    "rootWord": "Overdone",
+    "members": [
+      {
+        "word": "overdone",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/overdone/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Underdone",
+    "rootWord": "Underdone",
+    "members": [
+      {
+        "word": "underdone",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/underdone/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Full",
+    "rootWord": "Full",
+    "members": [
+      {
+        "word": "full",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/full/",
+        "meaning": ""
+      },
+      {
+        "word": "fuller",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfʊlə(ɹ)/",
+        "meaning": "fuller"
+      },
+      {
+        "word": "fully",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈfʊli/",
+        "meaning": "fully"
+      },
+      {
+        "word": "fullness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfʊlnəs/",
+        "meaning": "fullness"
+      }
+    ]
+  },
+  {
+    "word": "Veal",
+    "rootWord": "Veal",
+    "members": [
+      {
+        "word": "veal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/veal/",
+        "meaning": ""
+      },
+      {
+        "word": "vealer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vealer/",
+        "meaning": "vealer"
+      }
+    ]
+  },
+  {
+    "word": "Cereal",
+    "rootWord": "Cereal",
+    "members": [
+      {
+        "word": "cereal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cereal/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hot dog",
+    "rootWord": "Hot dog",
+    "members": [
+      {
+        "word": "hot dog",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hot dog/",
+        "meaning": ""
+      }
+    ]
+  }
+]

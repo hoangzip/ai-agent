@@ -1,0 +1,103 @@
+[
+  {
+    "word": "Classmate",
+    "antonyms": []
+  },
+  {
+    "word": "Schoolmate",
+    "antonyms": []
+  },
+  {
+    "word": "Roommate",
+    "antonyms": []
+  },
+  {
+    "word": "Soulmate",
+    "antonyms": []
+  },
+  {
+    "word": "Colleague",
+    "antonyms": []
+  },
+  {
+    "word": "Comradeship",
+    "antonyms": []
+  },
+  {
+    "word": "Partner",
+    "antonyms": []
+  },
+  {
+    "word": "Associate",
+    "antonyms": [
+      {
+        "word": "disassociate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪsəˈsəʊʃieɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Buddy",
+    "antonyms": []
+  },
+  {
+    "word": "Ally",
+    "antonyms": []
+  },
+  {
+    "word": "Companion",
+    "antonyms": []
+  },
+  {
+    "word": "Pal",
+    "antonyms": []
+  },
+  {
+    "word": "Friendship",
+    "antonyms": [
+      {
+        "word": "enemyship",
+        "partOfSpeech": "noun",
+        "pronunciation": "/enemyship/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "foeship",
+        "partOfSpeech": "noun",
+        "pronunciation": "/foeship/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Close",
+    "antonyms": [
+      {
+        "word": "beginning",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪˈɡɪn.ɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "start",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɑːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "extend",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɛkˈstɛnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "widen",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈwaɪdən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "word": "Dancer",
+    "synonyms": [
+      {
+        "word": "exotic dancer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/exotic dancer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stepper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stepper/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Designer",
+    "synonyms": []
+  },
+  {
+    "word": "Magician",
+    "synonyms": [
+      {
+        "word": "stage magician",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stage magician/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "trickster",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trickster/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "wizard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɪ.zəd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "phenomenon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɪˈnɒmənɒn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tour guide",
+    "synonyms": [
+      {
+        "word": "tourist guide",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tourist guide/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sailor",
+    "synonyms": []
+  },
+  {
+    "word": "Commentator",
+    "synonyms": []
+  },
+  {
+    "word": "Dentist",
+    "synonyms": []
+  },
+  {
+    "word": "Postman",
+    "synonyms": [
+      {
+        "word": "mailman",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmeɪl.mən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Writer",
+    "synonyms": [
+      {
+        "word": "author",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɔː.θə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ship writer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ship writer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ship's writer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ship's writer/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pilot",
+    "synonyms": []
+  },
+  {
+    "word": "Plumber",
+    "synonyms": []
+  },
+  {
+    "word": "Tailor",
+    "synonyms": [
+      {
+        "word": "bluefish",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bluefish/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Copywriter",
+    "synonyms": []
+  },
+  {
+    "word": "Journalist",
+    "synonyms": []
+  },
+  {
+    "word": "Grocer",
+    "synonyms": []
+  },
+  {
+    "word": "Clerk",
+    "synonyms": []
+  },
+  {
+    "word": "Assistant",
+    "synonyms": [
+      {
+        "word": "wizard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɪ.zəd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Model",
+    "synonyms": [
+      {
+        "word": "modelise",
+        "partOfSpeech": "noun",
+        "pronunciation": "/modelise/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "modelize",
+        "partOfSpeech": "noun",
+        "pronunciation": "/modelize/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ideal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/aɪˈdiː.əl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Freelancer",
+    "synonyms": []
+  },
+  {
+    "word": "Consultant",
+    "synonyms": []
+  },
+  {
+    "word": "Self-employed",
+    "synonyms": []
+  },
+  {
+    "word": "Supervisor",
+    "synonyms": []
+  },
+  {
+    "word": "Sales manager",
+    "synonyms": []
+  },
+  {
+    "word": "Production manager",
+    "synonyms": []
+  },
+  {
+    "word": "Mechanic",
+    "synonyms": []
+  },
+  {
+    "word": "Managing director",
+    "synonyms": []
+  },
+  {
+    "word": "Personal assistant",
+    "synonyms": [
+      {
+        "word": "PA",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɑː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hairdresser",
+    "synonyms": [
+      {
+        "word": "barber",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɑː.bə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "friseur",
+        "partOfSpeech": "noun",
+        "pronunciation": "/friseur/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hairstylist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hairstylist/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Architect",
+    "synonyms": []
+  },
+  {
+    "word": "Engineer",
+    "synonyms": []
+  },
+  {
+    "word": "Vet",
+    "synonyms": []
+  },
+  {
+    "word": "Shoemaker",
+    "synonyms": []
+  },
+  {
+    "word": "Translator",
+    "synonyms": [
+      {
+        "word": "machine translator",
+        "partOfSpeech": "noun",
+        "pronunciation": "/machine translator/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Interpreter",
+    "synonyms": [
+      {
+        "word": "terp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/terp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "docent",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdəʊ.sənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tour guide",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tʊr ɡaɪd/",
+        "meaning": "Hướng dẫn viên du lịch"
+      }
+    ]
+  },
+  {
+    "word": "Sanitation worker",
+    "synonyms": []
+  },
+  {
+    "word": "Business manager",
+    "synonyms": []
+  },
+  {
+    "word": "Police ocer",
+    "synonyms": []
+  },
+  {
+    "word": "Personnel manager",
+    "synonyms": []
+  },
+  {
+    "word": "Teacher",
+    "synonyms": [
+      {
+        "word": "preceptor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹiːˌsɛptəɹ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Doctor",
+    "synonyms": [
+      {
+        "word": "GP",
+        "partOfSpeech": "noun",
+        "pronunciation": "/GP/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "doc",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɒk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "family doctor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/family doctor/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "general practitioner",
+        "partOfSpeech": "noun",
+        "pronunciation": "/general practitioner/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Nurse",
+    "synonyms": [
+      {
+        "word": "sip",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sɪp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "husband",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhʌz.bənd/",
+        "meaning": "Chồng"
+      }
+    ]
+  },
+  {
+    "word": "Farmer",
+    "synonyms": []
+  }
+]

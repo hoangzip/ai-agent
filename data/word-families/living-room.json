@@ -1,0 +1,474 @@
+[
+  {
+    "word": "Drapes",
+    "rootWord": "Drapes",
+    "members": [
+      {
+        "word": "drapes",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drapes/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cushion",
+    "rootWord": "Cushion",
+    "members": [
+      {
+        "word": "cushion",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cushion/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sofa",
+    "rootWord": "Sofa",
+    "members": [
+      {
+        "word": "sofa",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sofa/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rug",
+    "rootWord": "Rug",
+    "members": [
+      {
+        "word": "rug",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rug/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Banister",
+    "rootWord": "Banister",
+    "members": [
+      {
+        "word": "banister",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/banister/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bookcase",
+    "rootWord": "Bookcase",
+    "members": [
+      {
+        "word": "bookcase",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bookcase/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ceiling",
+    "rootWord": "Ceiling",
+    "members": [
+      {
+        "word": "ceiling",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ceiling/",
+        "meaning": ""
+      },
+      {
+        "word": "ceil",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/siːl/",
+        "meaning": "ceil"
+      }
+    ]
+  },
+  {
+    "word": "Clock",
+    "rootWord": "Clock",
+    "members": [
+      {
+        "word": "clock",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clock/",
+        "meaning": ""
+      },
+      {
+        "word": "clocker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clocker/",
+        "meaning": "clocker"
+      }
+    ]
+  },
+  {
+    "word": "Desk",
+    "rootWord": "Desk",
+    "members": [
+      {
+        "word": "desk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/desk/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Frame",
+    "rootWord": "Frame",
+    "members": [
+      {
+        "word": "frame",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/frame/",
+        "meaning": ""
+      },
+      {
+        "word": "framer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/framer/",
+        "meaning": "framer"
+      }
+    ]
+  },
+  {
+    "word": "Lampshade",
+    "rootWord": "Lampshade",
+    "members": [
+      {
+        "word": "lampshade",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lampshade/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mantelpiece",
+    "rootWord": "Mantelpiece",
+    "members": [
+      {
+        "word": "mantelpiece",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mantelpiece/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Painting",
+    "rootWord": "Painting",
+    "members": [
+      {
+        "word": "painting",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/painting/",
+        "meaning": ""
+      },
+      {
+        "word": "painter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪntə/",
+        "meaning": "painter"
+      },
+      {
+        "word": "paint",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/peɪnt/",
+        "meaning": "Sơn, màu"
+      }
+    ]
+  },
+  {
+    "word": "Remote control",
+    "rootWord": "Remote control",
+    "members": [
+      {
+        "word": "remote control",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/remote control/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Speaker",
+    "rootWord": "Speaker",
+    "members": [
+      {
+        "word": "speaker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/speaker/",
+        "meaning": ""
+      },
+      {
+        "word": "speak",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spiːk/",
+        "meaning": "speak"
+      }
+    ]
+  },
+  {
+    "word": "Step",
+    "rootWord": "Step",
+    "members": [
+      {
+        "word": "step",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/step/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stereo system",
+    "rootWord": "Stereo system",
+    "members": [
+      {
+        "word": "stereo system",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stereo system/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stereo",
+    "rootWord": "Stereo",
+    "members": [
+      {
+        "word": "stereo",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stereo/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Television",
+    "rootWord": "Television",
+    "members": [
+      {
+        "word": "television",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/television/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Vase",
+    "rootWord": "Vase",
+    "members": [
+      {
+        "word": "vase",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vase/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wall unit",
+    "rootWord": "Wall unit",
+    "members": [
+      {
+        "word": "wall unit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wall unit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lamp",
+    "rootWord": "Lamp",
+    "members": [
+      {
+        "word": "lamp",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lamp/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Calendar",
+    "rootWord": "Calendar",
+    "members": [
+      {
+        "word": "calendar",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/calendar/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fan",
+    "rootWord": "Fan",
+    "members": [
+      {
+        "word": "fan",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fan/",
+        "meaning": ""
+      },
+      {
+        "word": "fanal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fanal/",
+        "meaning": "fanal"
+      }
+    ]
+  },
+  {
+    "word": "Chair",
+    "rootWord": "Chair",
+    "members": [
+      {
+        "word": "chair",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chair/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stool",
+    "rootWord": "Stool",
+    "members": [
+      {
+        "word": "stool",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stool/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ashtray",
+    "rootWord": "Ashtray",
+    "members": [
+      {
+        "word": "ashtray",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ashtray/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bookshelf",
+    "rootWord": "Bookshelf",
+    "members": [
+      {
+        "word": "bookshelf",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bookshelf/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fuse",
+    "rootWord": "Fuse",
+    "members": [
+      {
+        "word": "fuse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fuse/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Switch",
+    "rootWord": "Switch",
+    "members": [
+      {
+        "word": "switch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/switch/",
+        "meaning": ""
+      },
+      {
+        "word": "switcher",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/switcher/",
+        "meaning": "switcher"
+      }
+    ]
+  },
+  {
+    "word": "Couch",
+    "rootWord": "Couch",
+    "members": [
+      {
+        "word": "couch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/couch/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Curtain",
+    "rootWord": "Curtain",
+    "members": [
+      {
+        "word": "curtain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/curtain/",
+        "meaning": ""
+      }
+    ]
+  }
+]

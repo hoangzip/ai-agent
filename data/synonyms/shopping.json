@@ -1,0 +1,566 @@
+[
+  {
+    "word": "Customer",
+    "synonyms": []
+  },
+  {
+    "word": "Cashier",
+    "synonyms": []
+  },
+  {
+    "word": "Attendant",
+    "synonyms": []
+  },
+  {
+    "word": "Manager",
+    "synonyms": [
+      {
+        "word": "administrator",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ədˈmɪnɪstɹeɪtə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "boss",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɑs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "chief",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tʃiːf/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "comptroller",
+        "partOfSpeech": "noun",
+        "pronunciation": "[kəmpˈtɹoʊləɹ]",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wallet",
+    "synonyms": [
+      {
+        "word": "billfold",
+        "partOfSpeech": "noun",
+        "pronunciation": "/billfold/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pocketbook",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pocketbook/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Purse",
+    "synonyms": [
+      {
+        "word": "bursary",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bursary/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "grant",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡrænt/",
+        "meaning": "Trợ cấp, công nhận"
+      },
+      {
+        "word": "change purse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/change purse/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "coin purse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coin purse/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Scale",
+    "synonyms": []
+  },
+  {
+    "word": "Counter",
+    "synonyms": []
+  },
+  {
+    "word": "Barcode reader",
+    "synonyms": []
+  },
+  {
+    "word": "Receipt",
+    "synonyms": []
+  },
+  {
+    "word": "Pay",
+    "synonyms": []
+  },
+  {
+    "word": "Expensive",
+    "synonyms": []
+  },
+  {
+    "word": "Cheap",
+    "synonyms": [
+      {
+        "word": "bargain",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɑː.ɡɪn/",
+        "meaning": "Mặc cả"
+      },
+      {
+        "word": "frugal",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfɹuːɡəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "inexpensive",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/inexpensive/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "no-frills",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/no-frills/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Discount",
+    "synonyms": [
+      {
+        "word": "rebate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹəˈbeɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "reduction",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹiˈdɑk.ʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sell",
+    "synonyms": []
+  },
+  {
+    "word": "Price",
+    "synonyms": []
+  },
+  {
+    "word": "Trolley",
+    "synonyms": []
+  },
+  {
+    "word": "Credit card",
+    "synonyms": [
+      {
+        "word": "charge card",
+        "partOfSpeech": "noun",
+        "pronunciation": "/charge card/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "chargecard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chargecard/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cash",
+    "synonyms": []
+  },
+  {
+    "word": "Shop",
+    "synonyms": [
+      {
+        "word": "garage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡəˈɹɑː(d)ʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "boutique",
+        "partOfSpeech": "noun",
+        "pronunciation": "/buːˈtiːk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "outlet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈaʊtlɛt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "retail",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹiˌteɪl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Money",
+    "synonyms": [
+      {
+        "word": "beer ticket",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beer ticket/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bread",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brɛd/",
+        "meaning": "Bánh mì"
+      },
+      {
+        "word": "bucks",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bʌks/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/keɪk/",
+        "meaning": "Bánh ngọt"
+      }
+    ]
+  },
+  {
+    "word": "Basket",
+    "synonyms": [
+      {
+        "word": "basketball",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbæs.kɪtˌbɔːl/",
+        "meaning": "Bóng rổ"
+      },
+      {
+        "word": "hoop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/huːp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cart",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɑːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shopping basket",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shopping basket/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bag",
+    "synonyms": [
+      {
+        "word": "cup of tea",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cup of tea/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "thing",
+        "partOfSpeech": "noun",
+        "pronunciation": "/θɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dog",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɒɡ/",
+        "meaning": "Chó"
+      },
+      {
+        "word": "hag",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hæɡ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Buy",
+    "synonyms": [
+      {
+        "word": "make a buy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/make a buy/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "accept",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ækˈsɛpt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "believe",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bɪˈliːv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "swallow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈswɒləʊ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Greengrocer",
+    "synonyms": [
+      {
+        "word": "greengrocer's",
+        "partOfSpeech": "noun",
+        "pronunciation": "/greengrocer's/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "produce",
+        "partOfSpeech": "verb",
+        "pronunciation": "/produce/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃɒp/",
+        "meaning": "Cửa hàng"
+      },
+      {
+        "word": "store",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌstɔːr/",
+        "meaning": "Cửa hàng"
+      }
+    ]
+  },
+  {
+    "word": "Housewares",
+    "synonyms": []
+  },
+  {
+    "word": "Toy store",
+    "synonyms": []
+  },
+  {
+    "word": "Shopping mall",
+    "synonyms": []
+  },
+  {
+    "word": "Grocery store",
+    "synonyms": [
+      {
+        "word": "greengrocer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡriːŋ.ɡrəʊ.sər/",
+        "meaning": "Cửa hàng bán rau quả"
+      }
+    ]
+  },
+  {
+    "word": "Convenience store",
+    "synonyms": [
+      {
+        "word": "bodega",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bodega/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "corner shop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/corner shop/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "corner store",
+        "partOfSpeech": "noun",
+        "pronunciation": "/corner store/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dépanneur",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dépanneur/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bargain",
+    "synonyms": [
+      {
+        "word": "contract",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɒntɹækt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "engagement",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪnˈɡeɪdʒ.mənt/",
+        "meaning": "Đính hôn"
+      },
+      {
+        "word": "stipulation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌstɪp.jəˈleɪ.ʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "purchase",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈpɜrʧəs/",
+        "meaning": "Mua"
+      }
+    ]
+  },
+  {
+    "word": "Refund",
+    "synonyms": []
+  },
+  {
+    "word": "Brochure",
+    "synonyms": []
+  },
+  {
+    "word": "Liquor store",
+    "synonyms": [
+      {
+        "word": "bottle shop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bottle shop/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bottle store",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bottle store/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bottle-o",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɔdl̩əʉ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "off-licence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/off-licence/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Drugstore",
+    "synonyms": [
+      {
+        "word": "chemist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɛmɪst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "chemist's",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chemist's/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "druggist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/druggist/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pharmacist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɑɹməsɪst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Candy store",
+    "synonyms": []
+  },
+  {
+    "word": "Gift shop",
+    "synonyms": []
+  },
+  {
+    "word": "Pet shop",
+    "synonyms": []
+  },
+  {
+    "word": "Shoe shop",
+    "synonyms": []
+  },
+  {
+    "word": "Meat shop",
+    "synonyms": []
+  },
+  {
+    "word": "Florist",
+    "synonyms": []
+  },
+  {
+    "word": "Butcher",
+    "synonyms": [
+      {
+        "word": "carnager",
+        "partOfSpeech": "noun",
+        "pronunciation": "/carnager/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "flesher",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flesher/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "kill",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɪl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "slaughter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈslɔːtə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

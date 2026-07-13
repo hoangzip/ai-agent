@@ -1,0 +1,76 @@
+[
+  {
+    "word": "Switch o",
+    "antonyms": []
+  },
+  {
+    "word": "Lavatory",
+    "antonyms": []
+  },
+  {
+    "word": "Blanket",
+    "antonyms": []
+  },
+  {
+    "word": "Oxygen mask",
+    "antonyms": []
+  },
+  {
+    "word": "Serve",
+    "antonyms": [
+      {
+        "word": "receive",
+        "partOfSpeech": "verb",
+        "pronunciation": "/rɪˈsiːv/",
+        "meaning": "Nhận"
+      }
+    ]
+  },
+  {
+    "word": "Window seat",
+    "antonyms": []
+  },
+  {
+    "word": "Airsick",
+    "antonyms": []
+  },
+  {
+    "word": "Cockpit",
+    "antonyms": []
+  },
+  {
+    "word": "Fasten",
+    "antonyms": []
+  },
+  {
+    "word": "Take o",
+    "antonyms": []
+  },
+  {
+    "word": "Co-pilot",
+    "antonyms": []
+  },
+  {
+    "word": "Assist",
+    "antonyms": []
+  },
+  {
+    "word": "First-class",
+    "antonyms": []
+  },
+  {
+    "word": "Conscate",
+    "antonyms": []
+  },
+  {
+    "word": "Turn on",
+    "antonyms": [
+      {
+        "word": "turn off",
+        "partOfSpeech": "verb",
+        "pronunciation": "/turn off/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

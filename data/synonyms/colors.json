@@ -1,0 +1,325 @@
+[
+  {
+    "word": "Red",
+    "synonyms": [
+      {
+        "word": "blood",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blʊd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "brick",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cardinal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cardinal/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "carmine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/carmine/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cream",
+    "synonyms": [
+      {
+        "word": "ream",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹiːm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Purple",
+    "synonyms": [
+      {
+        "word": "purpureal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/purpureal/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "Texas tea",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Texas tea/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lean",
+        "partOfSpeech": "noun",
+        "pronunciation": "/liːn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sizzurp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sizzurp/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Black",
+    "synonyms": [
+      {
+        "word": "blackball",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈblækbɔːl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "blacklist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈblæklɪst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "blacken",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈblækən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "darken",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈdɑːkən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Gray",
+    "synonyms": []
+  },
+  {
+    "word": "Silver",
+    "synonyms": [
+      {
+        "word": "silverware",
+        "partOfSpeech": "noun",
+        "pronunciation": "/silverware/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "argyr-",
+        "partOfSpeech": "noun",
+        "pronunciation": "/argyr-/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "E174",
+        "partOfSpeech": "noun",
+        "pronunciation": "/E174/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "food colouring",
+        "partOfSpeech": "noun",
+        "pronunciation": "/food colouring/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Gold",
+    "synonyms": [
+      {
+        "word": "E175",
+        "partOfSpeech": "noun",
+        "pronunciation": "/E175/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "food colouring",
+        "partOfSpeech": "noun",
+        "pronunciation": "/food colouring/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "golden",
+        "partOfSpeech": "noun",
+        "pronunciation": "/golden/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Copper",
+    "synonyms": [
+      {
+        "word": "chestnut",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtʃɛs.nʌt/",
+        "meaning": "Màu nâu hạt dẻ"
+      },
+      {
+        "word": "russet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹʌsɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "coppery",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/coppery/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "coppern",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coppern/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Green",
+    "synonyms": [
+      {
+        "word": "verdant",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈvɝ.dənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vert",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vɜːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "raw",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɔː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unprocessed",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/unprocessed/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pink",
+    "synonyms": []
+  },
+  {
+    "word": "Yellow",
+    "synonyms": [
+      {
+        "word": "amber",
+        "partOfSpeech": "noun",
+        "pronunciation": "/amber/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cowardly",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkaʊədli/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Brown",
+    "synonyms": []
+  },
+  {
+    "word": "Blue",
+    "synonyms": []
+  },
+  {
+    "word": "Chestnut",
+    "synonyms": [
+      {
+        "word": "chestnut tree",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtʃɛsnʌt ˌtɹiː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "night eye",
+        "partOfSpeech": "noun",
+        "pronunciation": "/night eye/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Turquoise",
+    "synonyms": [
+      {
+        "word": "blue-green",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blue-green/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "green-blue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/green-blue/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "greenish blue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/greenish blue/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "turquoise blue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turquoise blue/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Navy blue",
+    "synonyms": [
+      {
+        "word": "navy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈneɪvi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bright red",
+    "synonyms": []
+  },
+  {
+    "word": "Vivid",
+    "synonyms": []
+  },
+  {
+    "word": "White",
+    "synonyms": [
+      {
+        "word": "fair",
+        "partOfSpeech": "noun",
+        "pronunciation": "/feː(ə)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pale",
+        "partOfSpeech": "noun",
+        "pronunciation": "/peɪl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

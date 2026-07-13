@@ -1,0 +1,361 @@
+[
+  {
+    "word": "Dusting",
+    "rootWord": "Dusting",
+    "members": [
+      {
+        "word": "dusting",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dusting/",
+        "meaning": ""
+      },
+      {
+        "word": "duster",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʌs.tər/",
+        "meaning": "Khăn lau bảng"
+      },
+      {
+        "word": "dusty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdʌsti/",
+        "meaning": "dusty"
+      },
+      {
+        "word": "dust",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dʌst/",
+        "meaning": "dust"
+      }
+    ]
+  },
+  {
+    "word": "Cooking",
+    "rootWord": "Cooking",
+    "members": [
+      {
+        "word": "cooking",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cooking/",
+        "meaning": ""
+      },
+      {
+        "word": "cooker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkʊk.ər/",
+        "meaning": "Bếp, nồi nấu"
+      },
+      {
+        "word": "cook",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kuk/",
+        "meaning": "Nấu ăn"
+      }
+    ]
+  },
+  {
+    "word": "Ironing",
+    "rootWord": "Ironing",
+    "members": [
+      {
+        "word": "ironing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ironing/",
+        "meaning": ""
+      },
+      {
+        "word": "iron",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈaɪən/",
+        "meaning": "iron"
+      },
+      {
+        "word": "ironist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈaɪɹənɪst/",
+        "meaning": "ironist"
+      },
+      {
+        "word": "ironize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ironize/",
+        "meaning": "ironize"
+      },
+      {
+        "word": "irony",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/irony/",
+        "meaning": "irony"
+      }
+    ]
+  },
+  {
+    "word": "Sweep",
+    "rootWord": "Sweep",
+    "members": [
+      {
+        "word": "sweep",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweep/",
+        "meaning": ""
+      },
+      {
+        "word": "sweeper",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweeper/",
+        "meaning": "sweeper"
+      }
+    ]
+  },
+  {
+    "word": "Wipe",
+    "rootWord": "Wipe",
+    "members": [
+      {
+        "word": "wipe",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wipe/",
+        "meaning": ""
+      },
+      {
+        "word": "wiper",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwaɪpɚ/",
+        "meaning": "wiper"
+      }
+    ]
+  },
+  {
+    "word": "Throw out",
+    "rootWord": "Throw out",
+    "members": [
+      {
+        "word": "throw out",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/throw out/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Vacuum",
+    "rootWord": "Vacuum",
+    "members": [
+      {
+        "word": "vacuum",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vacuum/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cleaning",
+    "rootWord": "Cleaning",
+    "members": [
+      {
+        "word": "cleaning",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cleaning/",
+        "meaning": ""
+      },
+      {
+        "word": "clean",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kleːn/",
+        "meaning": "clean"
+      },
+      {
+        "word": "cleanly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈklɛnli/",
+        "meaning": "cleanly"
+      },
+      {
+        "word": "cleaner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkliː.nə/",
+        "meaning": "cleaner"
+      }
+    ]
+  },
+  {
+    "word": "Polish",
+    "rootWord": "Polish",
+    "members": [
+      {
+        "word": "polish",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/polish/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fold",
+    "rootWord": "Fold",
+    "members": [
+      {
+        "word": "fold",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fold/",
+        "meaning": ""
+      },
+      {
+        "word": "folder",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfəʊl.dər/",
+        "meaning": "Thư mục"
+      }
+    ]
+  },
+  {
+    "word": "Scrub",
+    "rootWord": "Scrub",
+    "members": [
+      {
+        "word": "scrub",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scrub/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tighten",
+    "rootWord": "Tighten",
+    "members": [
+      {
+        "word": "tighten",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tighten/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Make the bed",
+    "rootWord": "Make the bed",
+    "members": [
+      {
+        "word": "make the bed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/make the bed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Set the table",
+    "rootWord": "Set the table",
+    "members": [
+      {
+        "word": "set the table",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/set the table/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Clear the table",
+    "rootWord": "Clear the table",
+    "members": [
+      {
+        "word": "clear the table",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clear the table/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mow the lawn",
+    "rootWord": "Mow the lawn",
+    "members": [
+      {
+        "word": "mow the lawn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mow the lawn/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dishwashing",
+    "rootWord": "Dishwashing",
+    "members": [
+      {
+        "word": "dishwashing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dishwashing/",
+        "meaning": ""
+      },
+      {
+        "word": "dishwasher",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɪʃˌwɒʃ.ər/",
+        "meaning": "Máy rửa chén"
+      }
+    ]
+  },
+  {
+    "word": "Water the plants",
+    "rootWord": "Water the plants",
+    "members": [
+      {
+        "word": "water the plants",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/water the plants/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Clean the kitchen",
+    "rootWord": "Clean the kitchen",
+    "members": [
+      {
+        "word": "clean the kitchen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clean the kitchen/",
+        "meaning": ""
+      }
+    ]
+  }
+]

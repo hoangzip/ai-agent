@@ -1,0 +1,322 @@
+[
+  {
+    "word": "Tree",
+    "rootWord": "Tree",
+    "members": [
+      {
+        "word": "tree",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tree/",
+        "meaning": ""
+      },
+      {
+        "word": "treen",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɹiːn/",
+        "meaning": "treen"
+      },
+      {
+        "word": "trey",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɹeɪ/",
+        "meaning": "trey"
+      },
+      {
+        "word": "treeless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/treeless/",
+        "meaning": "treeless"
+      }
+    ]
+  },
+  {
+    "word": "Pine",
+    "rootWord": "Pine",
+    "members": [
+      {
+        "word": "pine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pine/",
+        "meaning": ""
+      },
+      {
+        "word": "pineal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɪnɪəl/",
+        "meaning": "pineal"
+      },
+      {
+        "word": "piny",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/piny/",
+        "meaning": "piny"
+      },
+      {
+        "word": "piney",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/piney/",
+        "meaning": "piney"
+      }
+    ]
+  },
+  {
+    "word": "Cedar",
+    "rootWord": "Cedar",
+    "members": [
+      {
+        "word": "cedar",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cedar/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Oak",
+    "rootWord": "Oak",
+    "members": [
+      {
+        "word": "oak",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oak/",
+        "meaning": ""
+      },
+      {
+        "word": "oaken",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əʊk.ən/",
+        "meaning": "oaken"
+      }
+    ]
+  },
+  {
+    "word": "Ivy",
+    "rootWord": "Ivy",
+    "members": [
+      {
+        "word": "ivy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ivy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Moss",
+    "rootWord": "Moss",
+    "members": [
+      {
+        "word": "moss",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/moss/",
+        "meaning": ""
+      },
+      {
+        "word": "mossy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mossy/",
+        "meaning": "mossy"
+      }
+    ]
+  },
+  {
+    "word": "Mushroom",
+    "rootWord": "Mushroom",
+    "members": [
+      {
+        "word": "mushroom",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mushroom/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wheat",
+    "rootWord": "Wheat",
+    "members": [
+      {
+        "word": "wheat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wheat/",
+        "meaning": ""
+      },
+      {
+        "word": "wheaten",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wheaten/",
+        "meaning": "wheaten"
+      }
+    ]
+  },
+  {
+    "word": "Corn",
+    "rootWord": "Corn",
+    "members": [
+      {
+        "word": "corn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/corn/",
+        "meaning": ""
+      },
+      {
+        "word": "corny",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/corny/",
+        "meaning": "corny"
+      },
+      {
+        "word": "corner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɔːnə(ɹ)/",
+        "meaning": "corner"
+      }
+    ]
+  },
+  {
+    "word": "Flower",
+    "rootWord": "Flower",
+    "members": [
+      {
+        "word": "flower",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flower/",
+        "meaning": ""
+      },
+      {
+        "word": "flow",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fləʊ/",
+        "meaning": "flow"
+      }
+    ]
+  },
+  {
+    "word": "Grass",
+    "rootWord": "Grass",
+    "members": [
+      {
+        "word": "grass",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grass/",
+        "meaning": ""
+      },
+      {
+        "word": "grassy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɡɹɑːsi/",
+        "meaning": "grassy"
+      }
+    ]
+  },
+  {
+    "word": "Herb",
+    "rootWord": "Herb",
+    "members": [
+      {
+        "word": "herb",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/herb/",
+        "meaning": ""
+      },
+      {
+        "word": "herbal",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈhɜːr.bəl/",
+        "meaning": "(chứa) thảo mộc"
+      },
+      {
+        "word": "herby",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/herby/",
+        "meaning": "herby"
+      }
+    ]
+  },
+  {
+    "word": "Bush",
+    "rootWord": "Bush",
+    "members": [
+      {
+        "word": "bush",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bush/",
+        "meaning": ""
+      },
+      {
+        "word": "bushy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbʊʃi/",
+        "meaning": "bushy"
+      }
+    ]
+  },
+  {
+    "word": "Coconut tree",
+    "rootWord": "Coconut tree",
+    "members": [
+      {
+        "word": "coconut tree",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coconut tree/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Apple tree",
+    "rootWord": "Apple tree",
+    "members": [
+      {
+        "word": "apple tree",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/apple tree/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shrubland",
+    "rootWord": "Shrubland",
+    "members": [
+      {
+        "word": "shrubland",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shrubland/",
+        "meaning": ""
+      }
+    ]
+  }
+]

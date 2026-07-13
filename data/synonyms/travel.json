@@ -1,0 +1,289 @@
+[
+  {
+    "word": "Travel",
+    "synonyms": [
+      {
+        "word": "journey",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒɜː.ni/",
+        "meaning": "Chuyến đi"
+      },
+      {
+        "word": "passage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpæsɪd͡ʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tour",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɔː(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "trip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trɪp/",
+        "meaning": "Chuyến đi (ngắn ngày)"
+      }
+    ]
+  },
+  {
+    "word": "Travel agent",
+    "synonyms": []
+  },
+  {
+    "word": "Vacation",
+    "synonyms": [
+      {
+        "word": "holiday",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɒl.ɪ.deɪ/",
+        "meaning": "Kỳ nghỉ"
+      },
+      {
+        "word": "departure",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈpɑː(ɹ)tjə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "moveout",
+        "partOfSpeech": "noun",
+        "pronunciation": "/moveout/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "annulment",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈnʌl.mənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Flight",
+    "synonyms": []
+  },
+  {
+    "word": "Voyage",
+    "synonyms": [
+      {
+        "word": "adventure",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ædˈvɛnt͡ʃɚ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "excursion",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪkˈskɜː.ʃən/",
+        "meaning": "Chuyến tham quan"
+      },
+      {
+        "word": "expedition",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɛkspəˈdɪʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "exploration",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɛkspləˈɹeɪʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Relax",
+    "synonyms": []
+  },
+  {
+    "word": "Cancel",
+    "synonyms": [
+      {
+        "word": "blacklist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈblæklɪst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "belay",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪˈleɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "take care of",
+        "partOfSpeech": "verb",
+        "pronunciation": "/teɪk kɛər əv/",
+        "meaning": "Chăm sóc, quan tâm"
+      }
+    ]
+  },
+  {
+    "word": "Homestay",
+    "synonyms": []
+  },
+  {
+    "word": "Souvenir",
+    "synonyms": [
+      {
+        "word": "keepsake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkiːp.seɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "memento",
+        "partOfSpeech": "noun",
+        "pronunciation": "/məˈmɛntoʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "memorabilia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/memorabilia/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Travel sickness",
+    "synonyms": []
+  },
+  {
+    "word": "Journey",
+    "synonyms": [
+      {
+        "word": "wayfare",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wayfare/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Peak season",
+    "synonyms": []
+  },
+  {
+    "word": "Route",
+    "synonyms": [
+      {
+        "word": "circuit",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈsəɾ.kɪʈ]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lu",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lu/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "province",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹɒvɪns/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Trip",
+    "synonyms": []
+  },
+  {
+    "word": "Excursion",
+    "synonyms": [
+      {
+        "word": "journey",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒɜː.ni/",
+        "meaning": "Chuyến đi"
+      },
+      {
+        "word": "trip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trɪp/",
+        "meaning": "Chuyến đi (ngắn ngày)"
+      },
+      {
+        "word": "digression",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈɡɹɛʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "excursus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪkˈskɜːsəs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Luggage",
+    "synonyms": [
+      {
+        "word": "baggage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbæɡɪdʒ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tourist",
+    "synonyms": []
+  },
+  {
+    "word": "Ticket",
+    "synonyms": []
+  },
+  {
+    "word": "Eager",
+    "synonyms": [
+      {
+        "word": "raring",
+        "partOfSpeech": "verb",
+        "pronunciation": "/raring/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sunglasses",
+    "synonyms": [
+      {
+        "word": "cooling glasses",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cooling glasses/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "glasses",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈɡlasɪz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "smoked",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sməʊkt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "spectacles",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈspɛktəkl̩z/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Safari",
+    "synonyms": []
+  }
+]

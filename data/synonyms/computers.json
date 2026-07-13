@@ -1,0 +1,547 @@
+[
+  {
+    "word": "Monitor",
+    "synonyms": [
+      {
+        "word": "oversee",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əʊvə(ɹ)siː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "supervise",
+        "partOfSpeech": "verb",
+        "pronunciation": "/supervise/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "track",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɹæk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mouse pad",
+    "synonyms": [
+      {
+        "word": "mouse mat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmaʊs ˌmæt/",
+        "meaning": "Miếng lót chuột"
+      }
+    ]
+  },
+  {
+    "word": "Printer",
+    "synonyms": []
+  },
+  {
+    "word": "Scanner",
+    "synonyms": []
+  },
+  {
+    "word": "Open",
+    "synonyms": [
+      {
+        "word": "free",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɹiː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "accessible",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/accessible/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unimpeded",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/unimpeded/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Close",
+    "synonyms": [
+      {
+        "word": "end",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɛnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "finale",
+        "partOfSpeech": "noun",
+        "pronunciation": "/finale/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "narrow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnæɹəʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "shut",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʃʌt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Delete",
+    "synonyms": [
+      {
+        "word": "clear",
+        "partOfSpeech": "noun",
+        "pronunciation": "/klɪə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "erase",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈɹeɪz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "remove",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈmuːv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "strike",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɹaɪk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Insert",
+    "synonyms": [
+      {
+        "word": "enter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɛntə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "inset",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɪnsɛt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "introduce",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˌɪntɹəˈdjuːs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "put",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pʊt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Merge",
+    "synonyms": []
+  },
+  {
+    "word": "Helpline",
+    "synonyms": []
+  },
+  {
+    "word": "Hard disk",
+    "synonyms": [
+      {
+        "word": "Winchester disk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Winchester disk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fixed disk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fixed disk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hard disc drive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hard disc drive/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hard disk drive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hard disk drive/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Software",
+    "synonyms": []
+  },
+  {
+    "word": "CD-ROM",
+    "synonyms": []
+  },
+  {
+    "word": "Toolbar",
+    "synonyms": []
+  },
+  {
+    "word": "Database",
+    "synonyms": [
+      {
+        "word": "databank",
+        "partOfSpeech": "noun",
+        "pronunciation": "/databank/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "database management system",
+        "partOfSpeech": "noun",
+        "pronunciation": "/database management system/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hacker",
+    "synonyms": [
+      {
+        "word": "cracker",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɹækə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Save",
+    "synonyms": [
+      {
+        "word": "barring",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈbɑːɹɪŋ(ɡ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "except for",
+        "partOfSpeech": "noun",
+        "pronunciation": "/except for/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "save for",
+        "partOfSpeech": "noun",
+        "pronunciation": "/save for/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Select",
+    "synonyms": [
+      {
+        "word": "choose",
+        "partOfSpeech": "verb",
+        "pronunciation": "/t͡ʃuːz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "opt",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɒpt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Copy",
+    "synonyms": [
+      {
+        "word": "duplicate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdjuː.plɪ.kət/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "facsimile",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fækˈsɪm.ə.li/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/feɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "forgery",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɔː.dʒəɹ.ɪ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Computer",
+    "synonyms": [
+      {
+        "word": "'puter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/'puter/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "box",
+        "partOfSpeech": "noun",
+        "pronunciation": "/box/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "calculator",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkæl.kjə.leɪ.tər/",
+        "meaning": "Máy tính cầm tay"
+      },
+      {
+        "word": "machine",
+        "partOfSpeech": "noun",
+        "pronunciation": "/machine/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Laptop",
+    "synonyms": [
+      {
+        "word": "laptop computer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/laptop computer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "notebook computer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/notebook computer/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Speaker",
+    "synonyms": [
+      {
+        "word": "talker",
+        "partOfSpeech": "noun",
+        "pronunciation": "/talker/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "File",
+    "synonyms": [
+      {
+        "word": "document",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɒkjʊmənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "paper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪ.pər/",
+        "meaning": "Giấy"
+      }
+    ]
+  },
+  {
+    "word": "Disk drive",
+    "synonyms": [
+      {
+        "word": "drive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/draɪv/",
+        "meaning": "Lái xe"
+      }
+    ]
+  },
+  {
+    "word": "Battery",
+    "synonyms": []
+  },
+  {
+    "word": "Click",
+    "synonyms": []
+  },
+  {
+    "word": "Type",
+    "synonyms": [
+      {
+        "word": "data type",
+        "partOfSpeech": "noun",
+        "pronunciation": "/data type/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "category",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkætəˌɡɔɹi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "class",
+        "partOfSpeech": "noun",
+        "pronunciation": "/klæs/",
+        "meaning": "Lớp học"
+      },
+      {
+        "word": "genre",
+        "partOfSpeech": "noun",
+        "pronunciation": "/(d)ʒɒn.ɹə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mouse",
+    "synonyms": []
+  },
+  {
+    "word": "Keyboard",
+    "synonyms": [
+      {
+        "word": "electronic keyboard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/electronic keyboard/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mouse mat",
+    "synonyms": [
+      {
+        "word": "mouse pad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmaʊs ˌpæd/",
+        "meaning": "Tấm lót chuột"
+      }
+    ]
+  },
+  {
+    "word": "Key",
+    "synonyms": []
+  },
+  {
+    "word": "Shut down",
+    "synonyms": [
+      {
+        "word": "close down",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kləʊzˈdaʊn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Folder",
+    "synonyms": [
+      {
+        "word": "directory",
+        "partOfSpeech": "noun",
+        "pronunciation": "/daɪˈɹɛktəɹi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Print",
+    "synonyms": []
+  },
+  {
+    "word": "Program",
+    "synonyms": [
+      {
+        "word": "application",
+        "partOfSpeech": "noun",
+        "pronunciation": "/aplɪˈkeɪʃ(ə)n/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "computer program",
+        "partOfSpeech": "noun",
+        "pronunciation": "/computer program/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "playbill",
+        "partOfSpeech": "noun",
+        "pronunciation": "/playbill/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "show",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ʃou/",
+        "meaning": "Cho xem, cho thấy, trưng bày"
+      }
+    ]
+  },
+  {
+    "word": "Search",
+    "synonyms": [
+      {
+        "word": "comb",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəʊm/",
+        "meaning": "Lược"
+      },
+      {
+        "word": "look for",
+        "partOfSpeech": "verb",
+        "pronunciation": "/look for/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "scour",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scour/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "seek",
+        "partOfSpeech": "noun",
+        "pronunciation": "/siːk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Screen",
+    "synonyms": [
+      {
+        "word": "pick",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pik/",
+        "meaning": "Hái, nhổ"
+      }
+    ]
+  }
+]

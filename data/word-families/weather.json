@@ -1,0 +1,734 @@
+[
+  {
+    "word": "Weather",
+    "rootWord": "Weather",
+    "members": [
+      {
+        "word": "weather",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weather/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Warm",
+    "rootWord": "Warm",
+    "members": [
+      {
+        "word": "warm",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/warm/",
+        "meaning": ""
+      },
+      {
+        "word": "warmly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/wɔːmli/",
+        "meaning": "warmly"
+      },
+      {
+        "word": "warmer",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈwɔːmə/",
+        "meaning": "warmer"
+      }
+    ]
+  },
+  {
+    "word": "Wind",
+    "rootWord": "Wind",
+    "members": [
+      {
+        "word": "wind",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wind/",
+        "meaning": ""
+      },
+      {
+        "word": "windy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɪndi/",
+        "meaning": "windy"
+      },
+      {
+        "word": "winder",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/winder/",
+        "meaning": "winder"
+      }
+    ]
+  },
+  {
+    "word": "Rain",
+    "rootWord": "Rain",
+    "members": [
+      {
+        "word": "rain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rain/",
+        "meaning": ""
+      },
+      {
+        "word": "rainy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹeɪni/",
+        "meaning": "rainy"
+      }
+    ]
+  },
+  {
+    "word": "Temperature",
+    "rootWord": "Temperature",
+    "members": [
+      {
+        "word": "temperature",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/temperature/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Weather forecast",
+    "rootWord": "Weather forecast",
+    "members": [
+      {
+        "word": "weather forecast",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weather forecast/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sunny",
+    "rootWord": "Sunny",
+    "members": [
+      {
+        "word": "sunny",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sunny/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sunshine",
+    "rootWord": "Sunshine",
+    "members": [
+      {
+        "word": "sunshine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sunshine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Icy",
+    "rootWord": "Icy",
+    "members": [
+      {
+        "word": "icy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/icy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Atmosphere",
+    "rootWord": "Atmosphere",
+    "members": [
+      {
+        "word": "atmosphere",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/atmosphere/",
+        "meaning": ""
+      },
+      {
+        "word": "atmospheric",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/atmospheric/",
+        "meaning": "atmospheric"
+      }
+    ]
+  },
+  {
+    "word": "Dry",
+    "rootWord": "Dry",
+    "members": [
+      {
+        "word": "dry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dry/",
+        "meaning": ""
+      },
+      {
+        "word": "dryly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈdɹaɪ.li/",
+        "meaning": "dryly"
+      },
+      {
+        "word": "dryness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɹaɪ.nəs/",
+        "meaning": "dryness"
+      }
+    ]
+  },
+  {
+    "word": "Sun",
+    "rootWord": "Sun",
+    "members": [
+      {
+        "word": "sun",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sun/",
+        "meaning": ""
+      },
+      {
+        "word": "sunless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sunless/",
+        "meaning": "sunless"
+      }
+    ]
+  },
+  {
+    "word": "Cloud",
+    "rootWord": "Cloud",
+    "members": [
+      {
+        "word": "cloud",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cloud/",
+        "meaning": ""
+      },
+      {
+        "word": "cloudy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈklaʊːdɪ/",
+        "meaning": "cloudy"
+      },
+      {
+        "word": "cloudless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/cloudless/",
+        "meaning": "cloudless"
+      }
+    ]
+  },
+  {
+    "word": "Fog",
+    "rootWord": "Fog",
+    "members": [
+      {
+        "word": "fog",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fog/",
+        "meaning": ""
+      },
+      {
+        "word": "fogy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fogy/",
+        "meaning": "fogy"
+      }
+    ]
+  },
+  {
+    "word": "Snow",
+    "rootWord": "Snow",
+    "members": [
+      {
+        "word": "snow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snow/",
+        "meaning": ""
+      },
+      {
+        "word": "snowy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/snəʊi/",
+        "meaning": "snowy"
+      }
+    ]
+  },
+  {
+    "word": "Cold",
+    "rootWord": "Cold",
+    "members": [
+      {
+        "word": "cold",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cold/",
+        "meaning": ""
+      },
+      {
+        "word": "colder",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/colder/",
+        "meaning": "colder"
+      },
+      {
+        "word": "coldness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkəʊldnəs/",
+        "meaning": "coldness"
+      },
+      {
+        "word": "coldly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈkəʊldli/",
+        "meaning": "coldly"
+      }
+    ]
+  },
+  {
+    "word": "Cool",
+    "rootWord": "Cool",
+    "members": [
+      {
+        "word": "cool",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cool/",
+        "meaning": ""
+      },
+      {
+        "word": "coolness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkuːlnəs/",
+        "meaning": "coolness"
+      },
+      {
+        "word": "coolly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkuːli/",
+        "meaning": "coolly"
+      },
+      {
+        "word": "cooler",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkuːl.ə(ɹ)/",
+        "meaning": "cooler"
+      }
+    ]
+  },
+  {
+    "word": "Hot",
+    "rootWord": "Hot",
+    "members": [
+      {
+        "word": "hot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hot/",
+        "meaning": ""
+      },
+      {
+        "word": "hotness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hotness/",
+        "meaning": "hotness"
+      },
+      {
+        "word": "hotly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/hotly/",
+        "meaning": "hotly"
+      }
+    ]
+  },
+  {
+    "word": "Wet",
+    "rootWord": "Wet",
+    "members": [
+      {
+        "word": "wet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wet/",
+        "meaning": ""
+      },
+      {
+        "word": "wetness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɛt.nəs/",
+        "meaning": "wetness"
+      }
+    ]
+  },
+  {
+    "word": "Erratic",
+    "rootWord": "Erratic",
+    "members": [
+      {
+        "word": "erratic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/erratic/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Thunder",
+    "rootWord": "Thunder",
+    "members": [
+      {
+        "word": "thunder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thunder/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hailstone",
+    "rootWord": "Hailstone",
+    "members": [
+      {
+        "word": "hailstone",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hailstone/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Blustery",
+    "rootWord": "Blustery",
+    "members": [
+      {
+        "word": "blustery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blustery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Downpour",
+    "rootWord": "Downpour",
+    "members": [
+      {
+        "word": "downpour",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/downpour/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Raincoat",
+    "rootWord": "Raincoat",
+    "members": [
+      {
+        "word": "raincoat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/raincoat/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Blizzard",
+    "rootWord": "Blizzard",
+    "members": [
+      {
+        "word": "blizzard",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blizzard/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rainbow",
+    "rootWord": "Rainbow",
+    "members": [
+      {
+        "word": "rainbow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rainbow/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dew",
+    "rootWord": "Dew",
+    "members": [
+      {
+        "word": "dew",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dew/",
+        "meaning": ""
+      },
+      {
+        "word": "dewy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdjuː.i/",
+        "meaning": "dewy"
+      }
+    ]
+  },
+  {
+    "word": "Sleet",
+    "rootWord": "Sleet",
+    "members": [
+      {
+        "word": "sleet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stormy",
+    "rootWord": "Stormy",
+    "members": [
+      {
+        "word": "stormy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stormy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Snowflake",
+    "rootWord": "Snowflake",
+    "members": [
+      {
+        "word": "snowflake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snowflake/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Puddle",
+    "rootWord": "Puddle",
+    "members": [
+      {
+        "word": "puddle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/puddle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lightning",
+    "rootWord": "Lightning",
+    "members": [
+      {
+        "word": "lightning",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lightning/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mild",
+    "rootWord": "Mild",
+    "members": [
+      {
+        "word": "mild",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mild/",
+        "meaning": ""
+      },
+      {
+        "word": "mildly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈmaɪldli/",
+        "meaning": "mildly"
+      },
+      {
+        "word": "milder",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/milder/",
+        "meaning": "milder"
+      },
+      {
+        "word": "mildness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mildness/",
+        "meaning": "mildness"
+      }
+    ]
+  },
+  {
+    "word": "Dull",
+    "rootWord": "Dull",
+    "members": [
+      {
+        "word": "dull",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dull/",
+        "meaning": ""
+      },
+      {
+        "word": "duller",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/duller/",
+        "meaning": "duller"
+      },
+      {
+        "word": "dully",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/dully/",
+        "meaning": "dully"
+      },
+      {
+        "word": "dullness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʌl.nəs/",
+        "meaning": "dullness"
+      }
+    ]
+  },
+  {
+    "word": "Shelter",
+    "rootWord": "Shelter",
+    "members": [
+      {
+        "word": "shelter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shelter/",
+        "meaning": ""
+      },
+      {
+        "word": "shelty",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shelty/",
+        "meaning": "shelty"
+      }
+    ]
+  },
+  {
+    "word": "Celsius",
+    "rootWord": "Celsius",
+    "members": [
+      {
+        "word": "celsius",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/celsius/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fine",
+    "rootWord": "Fine",
+    "members": [
+      {
+        "word": "fine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fine/",
+        "meaning": ""
+      },
+      {
+        "word": "final",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfaɪ.nəl/",
+        "meaning": "final"
+      },
+      {
+        "word": "finance",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfaɪnæns/",
+        "meaning": "Tài chính"
+      },
+      {
+        "word": "finely",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈfaɪnli/",
+        "meaning": "finely"
+      },
+      {
+        "word": "finer",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfaɪnə/",
+        "meaning": "finer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "word": "Play",
+    "antonyms": []
+  },
+  {
+    "word": "Circus",
+    "antonyms": []
+  },
+  {
+    "word": "Stadium",
+    "antonyms": []
+  },
+  {
+    "word": "Orchestra",
+    "antonyms": []
+  },
+  {
+    "word": "Scene",
+    "antonyms": []
+  },
+  {
+    "word": "Opera",
+    "antonyms": []
+  },
+  {
+    "word": "Theater",
+    "antonyms": []
+  },
+  {
+    "word": "Applaud",
+    "antonyms": []
+  },
+  {
+    "word": "Perform",
+    "antonyms": []
+  },
+  {
+    "word": "Exhibit",
+    "antonyms": []
+  },
+  {
+    "word": "Art gallery",
+    "antonyms": []
+  },
+  {
+    "word": "Comedy",
+    "antonyms": [
+      {
+        "word": "drama",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdrɑː.mə/",
+        "meaning": "Vở kịch"
+      },
+      {
+        "word": "tragedy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɹæd͡ʒɪdi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chamber music",
+    "antonyms": []
+  },
+  {
+    "word": "Casino",
+    "antonyms": []
+  },
+  {
+    "word": "Pub",
+    "antonyms": []
+  },
+  {
+    "word": "Concert hall",
+    "antonyms": []
+  }
+]

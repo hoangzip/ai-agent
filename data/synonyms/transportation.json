@@ -1,0 +1,505 @@
+[
+  {
+    "word": "Road",
+    "synonyms": [
+      {
+        "word": "away",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈweɪ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Trac",
+    "synonyms": []
+  },
+  {
+    "word": "Vehicle",
+    "synonyms": [
+      {
+        "word": "vahan",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vahan/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Roadside",
+    "synonyms": [
+      {
+        "word": "side of the road",
+        "partOfSpeech": "noun",
+        "pronunciation": "/side of the road/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Car hire",
+    "synonyms": []
+  },
+  {
+    "word": "Ring road",
+    "synonyms": [
+      {
+        "word": "beltway",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beltway/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "orbital motorway",
+        "partOfSpeech": "noun",
+        "pronunciation": "/orbital motorway/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Petrol station",
+    "synonyms": []
+  },
+  {
+    "word": "Kerb",
+    "synonyms": []
+  },
+  {
+    "word": "Road sign",
+    "synonyms": []
+  },
+  {
+    "word": "Pedestrian crossing",
+    "synonyms": [
+      {
+        "word": "crosswalk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crosswalk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ped xing",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ped xing/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Turning",
+    "synonyms": [
+      {
+        "word": "become",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bəˈkʊm/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "get",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɛt/",
+        "meaning": "Thế hệ mới"
+      },
+      {
+        "word": "go",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡəʉ/",
+        "meaning": "Hành động đi."
+      },
+      {
+        "word": "rotate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɹəʊˈteɪt/",
+        "meaning": "Để quay, xoay hoặc xoay."
+      }
+    ]
+  },
+  {
+    "word": "Fork",
+    "synonyms": [
+      {
+        "word": "branch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹæntʃ/",
+        "meaning": "Phần gỗ của cây phát sinh từ thân cây và thường phân chia."
+      },
+      {
+        "word": "pitchfork",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɪtʃˌfɔɹk/",
+        "meaning": "Một công cụ nông nghiệp bao gồm một cái nĩa được gắn vào cán dài được sử dụng để ném cỏ khô hoặc các kiện cỏ khô cao lên trên đống cỏ khô."
+      },
+      {
+        "word": "pommel",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɒ.məl/",
+        "meaning": "Lông mày trên phía trước của yên ngựa."
+      },
+      {
+        "word": "swell",
+        "partOfSpeech": "verb",
+        "pronunciation": "/swɛl/",
+        "meaning": "Để trở nên lớn hơn, đặc biệt là do bị căng thẳng."
+      }
+    ]
+  },
+  {
+    "word": "Toll",
+    "synonyms": []
+  },
+  {
+    "word": "Toll road",
+    "synonyms": []
+  },
+  {
+    "word": "Motorway",
+    "synonyms": [
+      {
+        "word": "controlled-access highway",
+        "partOfSpeech": "noun",
+        "pronunciation": "/controlled-access highway/",
+        "meaning": "Đường cao tốc"
+      },
+      {
+        "word": "freeway",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɹiː.wei/",
+        "meaning": "Một con đường được thiết kế để vận hành xe cơ giới an toàn, tốc độ cao thông qua việc loại bỏ các nút giao thông ở cấp độ, thường được phân chia và có ít nhất hai làn xe theo mỗi hướng; một đường hai chiều không có đường giao nhau ở cấp độ, một đường cao tốc."
+      }
+    ]
+  },
+  {
+    "word": "Hard shoulder",
+    "synonyms": [
+      {
+        "word": "breakdown lane",
+        "partOfSpeech": "noun",
+        "pronunciation": "/breakdown lane/",
+        "meaning": "<g id=\"1\">Làn Dừng Khẩn Cấp</g>."
+      }
+    ]
+  },
+  {
+    "word": "Dual carriageway",
+    "synonyms": [
+      {
+        "word": "divided highway",
+        "partOfSpeech": "noun",
+        "pronunciation": "/divided highway/",
+        "meaning": "Một làn kép"
+      }
+    ]
+  },
+  {
+    "word": "One-way street",
+    "synonyms": []
+  },
+  {
+    "word": "T-junction",
+    "synonyms": []
+  },
+  {
+    "word": "Roundabout",
+    "synonyms": [
+      {
+        "word": "merry-go-round",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmɛ.ɹi.ɡoʊ.ɹaʊnd/",
+        "meaning": "Một băng chuyền; một chuyến đi thú vị, thường được tìm thấy tại các hội chợ và công viên giải trí, bao gồm một nền tảng hình tròn quay chậm trên đó các ghế khác nhau được cố định, thường có hình dạng giống như ngựa hoặc các động vật khác."
+      },
+      {
+        "word": "rotary",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹoʊtəɹi/",
+        "meaning": "Một vòng tròn giao thông."
+      },
+      {
+        "word": "traffic circle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/traffic circle/",
+        "meaning": "Một giao lộ có hình tròn và thường là một hòn đảo trung tâm"
+      }
+    ]
+  },
+  {
+    "word": "Accident",
+    "synonyms": [
+      {
+        "word": "fortune",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɔrʧən/",
+        "meaning": "Tài sản, vận may"
+      },
+      {
+        "word": "luck",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lʊk/",
+        "meaning": "Một cái gì đó xảy ra với ai đó một cách tình cờ, một sự tình cờ, đặc biệt là một điều thuận lợi."
+      },
+      {
+        "word": "casus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/casus/",
+        "meaning": "casus"
+      },
+      {
+        "word": "befalling",
+        "partOfSpeech": "verb",
+        "pronunciation": "/befalling/",
+        "meaning": "Ngã lên; ngã khắp nơi; vượt qua"
+      }
+    ]
+  },
+  {
+    "word": "Breathalyser",
+    "synonyms": []
+  },
+  {
+    "word": "Trac warden",
+    "synonyms": []
+  },
+  {
+    "word": "Parking-meter",
+    "synonyms": []
+  },
+  {
+    "word": "Car park",
+    "synonyms": [
+      {
+        "word": "parkade",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parkade/",
+        "meaning": "Một gara đỗ xe nhiều tầng."
+      },
+      {
+        "word": "parking garage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parking garage/",
+        "meaning": "Một tòa nhà cho xe cộ đậu vào, thường có nhiều tầng và đôi khi dưới lòng đất."
+      },
+      {
+        "word": "parking lot",
+        "partOfSpeech": "noun",
+        "pronunciation": "/parking lot/",
+        "meaning": "Một khu vực mở, thường được trải nhựa, nơi có thể để xe ô tô khi không sử dụng."
+      }
+    ]
+  },
+  {
+    "word": "Parking space",
+    "synonyms": []
+  },
+  {
+    "word": "Multi-storey car park",
+    "synonyms": []
+  },
+  {
+    "word": "Parking ticket",
+    "synonyms": []
+  },
+  {
+    "word": "Driving licence",
+    "synonyms": []
+  },
+  {
+    "word": "Reverse gear",
+    "synonyms": []
+  },
+  {
+    "word": "Learner driver",
+    "synonyms": []
+  },
+  {
+    "word": "Passenger",
+    "synonyms": []
+  },
+  {
+    "word": "Stall",
+    "synonyms": [
+      {
+        "word": "boose",
+        "partOfSpeech": "noun",
+        "pronunciation": "/boose/",
+        "meaning": "boose"
+      }
+    ]
+  },
+  {
+    "word": "Tyre pressure",
+    "synonyms": []
+  },
+  {
+    "word": "Trac light",
+    "synonyms": []
+  },
+  {
+    "word": "Speed limit",
+    "synonyms": []
+  },
+  {
+    "word": "Speeding ne",
+    "synonyms": []
+  },
+  {
+    "word": "Level crossing",
+    "synonyms": [
+      {
+        "word": "grade crossing",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grade crossing/",
+        "meaning": "Một giao cắt đồng cấp giữa một tuyến đường sắt và một con đường thông thường, với đường ray và đường bộ ở cùng một mức độ."
+      },
+      {
+        "word": "railroad crossing",
+        "partOfSpeech": "noun",
+        "pronunciation": "/railroad crossing/",
+        "meaning": "Đường sắt giao nhau"
+      }
+    ]
+  },
+  {
+    "word": "Jump leads",
+    "synonyms": [
+      {
+        "word": "booster cable",
+        "partOfSpeech": "noun",
+        "pronunciation": "/booster cable/",
+        "meaning": "cáp tăng cường"
+      },
+      {
+        "word": "jump lead",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jump lead/",
+        "meaning": "(thường là số nhiều) Một cặp dây điện cách điện với kẹp cá sấu ở mỗi đầu được sử dụng để khởi động một chiếc xe với pin chết (phẳng)."
+      }
+    ]
+  },
+  {
+    "word": "Oil",
+    "synonyms": []
+  },
+  {
+    "word": "Diesel",
+    "synonyms": []
+  },
+  {
+    "word": "Petrol",
+    "synonyms": [
+      {
+        "word": "gas",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡæs/",
+        "meaning": "Vật chất ở trạng thái trung gian giữa chất lỏng và plasma chỉ có thể được chứa nếu nó được bao quanh hoàn toàn bởi chất rắn (hoặc trong bong bóng chất lỏng) (hoặc được giữ lại với nhau bằng lực hấp dẫn); nó có thể ngưng tụ thành chất lỏng, hoặc có thể (hiếm khi) trở thành chất rắn trực tiếp."
+      },
+      {
+        "word": "gasoline",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡæsəˌliːn/",
+        "meaning": "Xăng"
+      }
+    ]
+  },
+  {
+    "word": "Unleaded",
+    "synonyms": [
+      {
+        "word": "caffeine-free",
+        "partOfSpeech": "noun",
+        "pronunciation": "/caffeine-free/",
+        "meaning": "không chứa caffeine"
+      },
+      {
+        "word": "decaf",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdiːkæf/",
+        "meaning": "Cà phê, trà hoặc nước ngọt đã khử caffein."
+      },
+      {
+        "word": "decaffeinated",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/diːˈkæfiːneɪtəd/",
+        "meaning": "Từ đó caffeine đã được loại bỏ (ví dụ: cà phê đã khử caffein)."
+      },
+      {
+        "word": "light",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lʌɪt/",
+        "meaning": "Bức xạ điện từ nhìn thấy được. Mắt người thường có thể phát hiện bức xạ (ánh sáng) trong phạm vi bước sóng khoảng 400 đến 750 nanomet. Phạm vi bước sóng ngắn hơn và dài hơn gần đó, mặc dù không nhìn thấy được, thường được gọi là tia cực tím và tia hồng ngoại."
+      }
+    ]
+  },
+  {
+    "word": "Petrol pump",
+    "synonyms": [
+      {
+        "word": "gas pump",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gas pump/",
+        "meaning": "Một thiết bị tại trạm xăng phân phối xăng."
+      }
+    ]
+  },
+  {
+    "word": "Driver",
+    "synonyms": []
+  },
+  {
+    "word": "Drive",
+    "synonyms": [
+      {
+        "word": "line drive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/line drive/",
+        "meaning": "Một quả bóng được đánh đủ mạnh và đủ thấp để nó dường như di chuyển theo một đường tương đối thẳng."
+      },
+      {
+        "word": "disk drive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɪsk ˌdraɪv/",
+        "meaning": "Ổ đĩa"
+      },
+      {
+        "word": "approach",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈpɹəʊt͡ʃ/",
+        "meaning": "Hành động đến gần; đến gần hoặc tiến gần."
+      },
+      {
+        "word": "driveway",
+        "partOfSpeech": "noun",
+        "pronunciation": "/driveway/",
+        "meaning": "Đường riêng ngắn dẫn đến nhà hoặc gara."
+      }
+    ]
+  },
+  {
+    "word": "Change gear",
+    "synonyms": []
+  },
+  {
+    "word": "Jack",
+    "synonyms": []
+  },
+  {
+    "word": "Flat tyre",
+    "synonyms": []
+  },
+  {
+    "word": "Puncture",
+    "synonyms": [
+      {
+        "word": "flat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flæt/",
+        "meaning": "Một khu vực bằng phẳng."
+      },
+      {
+        "word": "flat tyre",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flæt ˈtaɪər/",
+        "meaning": "Lốp xì hơi"
+      }
+    ]
+  }
+]

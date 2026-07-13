@@ -1,0 +1,189 @@
+[
+  {
+    "word": "Angry",
+    "antonyms": []
+  },
+  {
+    "word": "Sleepy",
+    "antonyms": []
+  },
+  {
+    "word": "Surprised",
+    "antonyms": []
+  },
+  {
+    "word": "Grateful",
+    "antonyms": [
+      {
+        "word": "ungrateful",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʌnˈɡɹeɪtfəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Scared",
+    "antonyms": []
+  },
+  {
+    "word": "Embarrassed",
+    "antonyms": [
+      {
+        "word": "honored",
+        "partOfSpeech": "verb",
+        "pronunciation": "/honored/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "proud",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/praʊd/",
+        "meaning": "Tự trọng"
+      }
+    ]
+  },
+  {
+    "word": "Confused",
+    "antonyms": []
+  },
+  {
+    "word": "Sad",
+    "antonyms": [
+      {
+        "word": "cheerful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈt͡ʃɪəfəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "decent",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdiːsənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gleeful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɡliːfəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "upbeat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/upbeat/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hungry",
+    "antonyms": []
+  },
+  {
+    "word": "Full",
+    "antonyms": [
+      {
+        "word": "incomplete",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪn.kəm.ˈpliːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "empty",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɛmpti/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "close-fitting",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/close-fitting/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "small",
+        "partOfSpeech": "noun",
+        "pronunciation": "/smoːl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Happy",
+    "antonyms": [
+      {
+        "word": "inappropriate",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌɪnəˈpɹəʊpɹi.ət/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "inapt",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪnæpt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unfelicitous",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unfelicitous/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disenchanted",
+        "partOfSpeech": "verb",
+        "pronunciation": "/disenchanted/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Jealous",
+    "antonyms": []
+  },
+  {
+    "word": "Nervous",
+    "antonyms": []
+  },
+  {
+    "word": "Thirsty",
+    "antonyms": []
+  },
+  {
+    "word": "Comfortable",
+    "antonyms": [
+      {
+        "word": "comfortless",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkʌm.fət.ləs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "uncomfortable",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʌnˈkʌm.fə.tə.bəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tense",
+    "antonyms": []
+  },
+  {
+    "word": "Tired",
+    "antonyms": []
+  },
+  {
+    "word": "Bored",
+    "antonyms": [
+      {
+        "word": "interest",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɪntəɹɪst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

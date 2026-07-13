@@ -1,0 +1,404 @@
+[
+  {
+    "word": "Angry",
+    "rootWord": "Angry",
+    "members": [
+      {
+        "word": "angry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/angry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sleepy",
+    "rootWord": "Sleepy",
+    "members": [
+      {
+        "word": "sleepy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleepy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Surprised",
+    "rootWord": "Surprised",
+    "members": [
+      {
+        "word": "surprised",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/surprised/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Grateful",
+    "rootWord": "Grateful",
+    "members": [
+      {
+        "word": "grateful",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grateful/",
+        "meaning": ""
+      },
+      {
+        "word": "gratefully",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈɡɹeɪtfəli/",
+        "meaning": "gratefully"
+      }
+    ]
+  },
+  {
+    "word": "Scared",
+    "rootWord": "Scared",
+    "members": [
+      {
+        "word": "scared",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scared/",
+        "meaning": ""
+      },
+      {
+        "word": "scary",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈskɛəɹi/",
+        "meaning": "scary"
+      },
+      {
+        "word": "scarify",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈskæ.ɹɪˌfaɪ/",
+        "meaning": "scarify"
+      },
+      {
+        "word": "scar",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skɑː(ɹ)/",
+        "meaning": "scar"
+      }
+    ]
+  },
+  {
+    "word": "Embarrassed",
+    "rootWord": "Embarrassed",
+    "members": [
+      {
+        "word": "embarrassed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/embarrassed/",
+        "meaning": ""
+      },
+      {
+        "word": "embarrass",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪmˈbæ.ɹəs/",
+        "meaning": "embarrass"
+      },
+      {
+        "word": "embarrassment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪmˈbæɹəsmənt/",
+        "meaning": "embarrassment"
+      }
+    ]
+  },
+  {
+    "word": "Confused",
+    "rootWord": "Confused",
+    "members": [
+      {
+        "word": "confused",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/confused/",
+        "meaning": ""
+      },
+      {
+        "word": "confusable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/confusable/",
+        "meaning": "confusable"
+      }
+    ]
+  },
+  {
+    "word": "Sad",
+    "rootWord": "Sad",
+    "members": [
+      {
+        "word": "sad",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sad/",
+        "meaning": ""
+      },
+      {
+        "word": "sadness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsædnəs/",
+        "meaning": "sadness"
+      },
+      {
+        "word": "sadist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈseɪdɪst/",
+        "meaning": "sadist"
+      },
+      {
+        "word": "sadly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈsadli/",
+        "meaning": "sadly"
+      }
+    ]
+  },
+  {
+    "word": "Hungry",
+    "rootWord": "Hungry",
+    "members": [
+      {
+        "word": "hungry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hungry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Full",
+    "rootWord": "Full",
+    "members": [
+      {
+        "word": "full",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/full/",
+        "meaning": ""
+      },
+      {
+        "word": "fuller",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfʊlə(ɹ)/",
+        "meaning": "fuller"
+      },
+      {
+        "word": "fully",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈfʊli/",
+        "meaning": "fully"
+      },
+      {
+        "word": "fullness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfʊlnəs/",
+        "meaning": "fullness"
+      }
+    ]
+  },
+  {
+    "word": "Happy",
+    "rootWord": "Happy",
+    "members": [
+      {
+        "word": "happy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/happy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jealous",
+    "rootWord": "Jealous",
+    "members": [
+      {
+        "word": "jealous",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jealous/",
+        "meaning": ""
+      },
+      {
+        "word": "jealously",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/jealously/",
+        "meaning": "jealously"
+      },
+      {
+        "word": "jealousy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒɛləsi/",
+        "meaning": "jealousy"
+      }
+    ]
+  },
+  {
+    "word": "Nervous",
+    "rootWord": "Nervous",
+    "members": [
+      {
+        "word": "nervous",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nervous/",
+        "meaning": ""
+      },
+      {
+        "word": "nervousness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nervousness/",
+        "meaning": "nervousness"
+      },
+      {
+        "word": "nervously",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/nervously/",
+        "meaning": "nervously"
+      }
+    ]
+  },
+  {
+    "word": "Thirsty",
+    "rootWord": "Thirsty",
+    "members": [
+      {
+        "word": "thirsty",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thirsty/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Comfortable",
+    "rootWord": "Comfortable",
+    "members": [
+      {
+        "word": "comfortable",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/comfortable/",
+        "meaning": ""
+      },
+      {
+        "word": "comfortably",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈkʌmf(ə)təbli/",
+        "meaning": "comfortably"
+      }
+    ]
+  },
+  {
+    "word": "Tense",
+    "rootWord": "Tense",
+    "members": [
+      {
+        "word": "tense",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tense/",
+        "meaning": ""
+      },
+      {
+        "word": "tensor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tensor/",
+        "meaning": "tensor"
+      },
+      {
+        "word": "tensive",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/tensive/",
+        "meaning": "tensive"
+      },
+      {
+        "word": "tensity",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɛnsɪti/",
+        "meaning": "tensity"
+      }
+    ]
+  },
+  {
+    "word": "Tired",
+    "rootWord": "Tired",
+    "members": [
+      {
+        "word": "tired",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tired/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bored",
+    "rootWord": "Bored",
+    "members": [
+      {
+        "word": "bored",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bored/",
+        "meaning": ""
+      },
+      {
+        "word": "boric",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/boric/",
+        "meaning": "boric"
+      },
+      {
+        "word": "borer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɔːɹə/",
+        "meaning": "borer"
+      },
+      {
+        "word": "borate",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/borate/",
+        "meaning": "borate"
+      }
+    ]
+  }
+]

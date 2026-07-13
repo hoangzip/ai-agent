@@ -1,0 +1,676 @@
+[
+  {
+    "word": "Nursery school",
+    "rootWord": "Nursery school",
+    "members": [
+      {
+        "word": "nursery school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nursery school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Teacher",
+    "rootWord": "Teacher",
+    "members": [
+      {
+        "word": "teacher",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/teacher/",
+        "meaning": ""
+      },
+      {
+        "word": "teachable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/teachable/",
+        "meaning": "teachable"
+      },
+      {
+        "word": "teach",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/tiːt͡ʃ/",
+        "meaning": "teach"
+      }
+    ]
+  },
+  {
+    "word": "Classmate",
+    "rootWord": "Classmate",
+    "members": [
+      {
+        "word": "classmate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/classmate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Library",
+    "rootWord": "Library",
+    "members": [
+      {
+        "word": "library",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/library/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pen",
+    "rootWord": "Pen",
+    "members": [
+      {
+        "word": "pen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pen/",
+        "meaning": ""
+      },
+      {
+        "word": "penal",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpiːnəl/",
+        "meaning": "penal"
+      },
+      {
+        "word": "penance",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɛn.əns/",
+        "meaning": "penance"
+      }
+    ]
+  },
+  {
+    "word": "Pencil",
+    "rootWord": "Pencil",
+    "members": [
+      {
+        "word": "pencil",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ruler",
+    "rootWord": "Ruler",
+    "members": [
+      {
+        "word": "ruler",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ruler/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Calculator",
+    "rootWord": "Calculator",
+    "members": [
+      {
+        "word": "calculator",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/calculator/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chalk",
+    "rootWord": "Chalk",
+    "members": [
+      {
+        "word": "chalk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chalk/",
+        "meaning": ""
+      },
+      {
+        "word": "chalky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/chalky/",
+        "meaning": "chalky"
+      }
+    ]
+  },
+  {
+    "word": "Student",
+    "rootWord": "Student",
+    "members": [
+      {
+        "word": "student",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/student/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Classroom",
+    "rootWord": "Classroom",
+    "members": [
+      {
+        "word": "classroom",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/classroom/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Primary school",
+    "rootWord": "Primary school",
+    "members": [
+      {
+        "word": "primary school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/primary school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Secondary school",
+    "rootWord": "Secondary school",
+    "members": [
+      {
+        "word": "secondary school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/secondary school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "High school",
+    "rootWord": "High school",
+    "members": [
+      {
+        "word": "high school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/high school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Vocational school",
+    "rootWord": "Vocational school",
+    "members": [
+      {
+        "word": "vocational school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vocational school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "College",
+    "rootWord": "College",
+    "members": [
+      {
+        "word": "college",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/college/",
+        "meaning": ""
+      },
+      {
+        "word": "colleger",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/colleger/",
+        "meaning": "colleger"
+      }
+    ]
+  },
+  {
+    "word": "University",
+    "rootWord": "University",
+    "members": [
+      {
+        "word": "university",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/university/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Principal",
+    "rootWord": "Principal",
+    "members": [
+      {
+        "word": "principal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/principal/",
+        "meaning": ""
+      },
+      {
+        "word": "principally",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/principally/",
+        "meaning": "principally"
+      },
+      {
+        "word": "principality",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɹɪnsɪˈpælɪti/",
+        "meaning": "principality"
+      }
+    ]
+  },
+  {
+    "word": "Blackboard",
+    "rootWord": "Blackboard",
+    "members": [
+      {
+        "word": "blackboard",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blackboard/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Compass",
+    "rootWord": "Compass",
+    "members": [
+      {
+        "word": "compass",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/compass/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "History",
+    "rootWord": "History",
+    "members": [
+      {
+        "word": "history",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/history/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Economics",
+    "rootWord": "Economics",
+    "members": [
+      {
+        "word": "economics",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/economics/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chemistry",
+    "rootWord": "Chemistry",
+    "members": [
+      {
+        "word": "chemistry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chemistry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Biology",
+    "rootWord": "Biology",
+    "members": [
+      {
+        "word": "biology",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/biology/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "IT",
+    "rootWord": "IT",
+    "members": [
+      {
+        "word": "it",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/it/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Geography",
+    "rootWord": "Geography",
+    "members": [
+      {
+        "word": "geography",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/geography/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Art",
+    "rootWord": "Art",
+    "members": [
+      {
+        "word": "art",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/art/",
+        "meaning": ""
+      },
+      {
+        "word": "artless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɑɹt.lɪs/",
+        "meaning": "artless"
+      },
+      {
+        "word": "artist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɑːtɪst/",
+        "meaning": "artist"
+      },
+      {
+        "word": "artful",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɑːɹt.fəl/",
+        "meaning": "artful"
+      },
+      {
+        "word": "arty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/arty/",
+        "meaning": "arty"
+      }
+    ]
+  },
+  {
+    "word": "Fail",
+    "rootWord": "Fail",
+    "members": [
+      {
+        "word": "fail",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fail/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pass",
+    "rootWord": "Pass",
+    "members": [
+      {
+        "word": "pass",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pass/",
+        "meaning": ""
+      },
+      {
+        "word": "passer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɑːsə(ɹ)/",
+        "meaning": "passer"
+      },
+      {
+        "word": "passable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/passable/",
+        "meaning": "passable"
+      },
+      {
+        "word": "passive",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpæs.ɪv/",
+        "meaning": "passive"
+      }
+    ]
+  },
+  {
+    "word": "Graduate",
+    "rootWord": "Graduate",
+    "members": [
+      {
+        "word": "graduate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/graduate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Degree",
+    "rootWord": "Degree",
+    "members": [
+      {
+        "word": "degree",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/degree/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Playground",
+    "rootWord": "Playground",
+    "members": [
+      {
+        "word": "playground",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/playground/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Uniform",
+    "rootWord": "Uniform",
+    "members": [
+      {
+        "word": "uniform",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/uniform/",
+        "meaning": ""
+      },
+      {
+        "word": "uniformity",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/uniformity/",
+        "meaning": "uniformity"
+      },
+      {
+        "word": "uniformly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈjuːnɪfɔːmli/",
+        "meaning": "uniformly"
+      }
+    ]
+  },
+  {
+    "word": "Grade",
+    "rootWord": "Grade",
+    "members": [
+      {
+        "word": "grade",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grade/",
+        "meaning": ""
+      },
+      {
+        "word": "gradely",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɡɹeɪdlɪ/",
+        "meaning": "gradely"
+      },
+      {
+        "word": "grader",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡɹeɪdə/",
+        "meaning": "grader"
+      },
+      {
+        "word": "gradable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gradable/",
+        "meaning": "gradable"
+      },
+      {
+        "word": "gradate",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/gradate/",
+        "meaning": "gradate"
+      }
+    ]
+  },
+  {
+    "word": "Form teacher",
+    "rootWord": "Form teacher",
+    "members": [
+      {
+        "word": "form teacher",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/form teacher/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Proctor",
+    "rootWord": "Proctor",
+    "members": [
+      {
+        "word": "proctor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/proctor/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "School bag",
+    "rootWord": "School bag",
+    "members": [
+      {
+        "word": "school bag",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/school bag/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dean",
+    "rootWord": "Dean",
+    "members": [
+      {
+        "word": "dean",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dean/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lesson",
+    "rootWord": "Lesson",
+    "members": [
+      {
+        "word": "lesson",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lesson/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Course",
+    "rootWord": "Course",
+    "members": [
+      {
+        "word": "course",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/course/",
+        "meaning": ""
+      },
+      {
+        "word": "courser",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɜːsɜ/",
+        "meaning": "courser"
+      }
+    ]
+  }
+]

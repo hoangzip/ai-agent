@@ -1,0 +1,298 @@
+[
+  {
+    "word": "Keep-t",
+    "rootWord": "Keep-t",
+    "members": [
+      {
+        "word": "keep-t",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/keep-t/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Regular",
+    "rootWord": "Regular",
+    "members": [
+      {
+        "word": "regular",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/regular/",
+        "meaning": ""
+      },
+      {
+        "word": "regularly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈɹɛɡjəli/",
+        "meaning": "regularly"
+      },
+      {
+        "word": "regularity",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɹɛɡjuˈlæɹəti/",
+        "meaning": "regularity"
+      }
+    ]
+  },
+  {
+    "word": "Diabetes",
+    "rootWord": "Diabetes",
+    "members": [
+      {
+        "word": "diabetes",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diabetes/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dietitian",
+    "rootWord": "Dietitian",
+    "members": [
+      {
+        "word": "dietitian",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dietitian/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Goiter",
+    "rootWord": "Goiter",
+    "members": [
+      {
+        "word": "goiter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goiter/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Body",
+    "rootWord": "Body",
+    "members": [
+      {
+        "word": "body",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/body/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Thin",
+    "rootWord": "Thin",
+    "members": [
+      {
+        "word": "thin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thin/",
+        "meaning": ""
+      },
+      {
+        "word": "thinly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈθɪnli/",
+        "meaning": "thinly"
+      }
+    ]
+  },
+  {
+    "word": "Dietary",
+    "rootWord": "Dietary",
+    "members": [
+      {
+        "word": "dietary",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dietary/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fat",
+    "rootWord": "Fat",
+    "members": [
+      {
+        "word": "fat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fat/",
+        "meaning": ""
+      },
+      {
+        "word": "fatal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈfeɪ.ɾɫ̩]",
+        "meaning": "fatal"
+      },
+      {
+        "word": "fatness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfætnəs/",
+        "meaning": "fatness"
+      }
+    ]
+  },
+  {
+    "word": "Overweight",
+    "rootWord": "Overweight",
+    "members": [
+      {
+        "word": "overweight",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/overweight/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Eating disorder",
+    "rootWord": "Eating disorder",
+    "members": [
+      {
+        "word": "eating disorder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eating disorder/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nutrient",
+    "rootWord": "Nutrient",
+    "members": [
+      {
+        "word": "nutrient",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nutrient/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ingredient",
+    "rootWord": "Ingredient",
+    "members": [
+      {
+        "word": "ingredient",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ingredient/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Allergy",
+    "rootWord": "Allergy",
+    "members": [
+      {
+        "word": "allergy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/allergy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Vitamin",
+    "rootWord": "Vitamin",
+    "members": [
+      {
+        "word": "vitamin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vitamin/",
+        "meaning": ""
+      },
+      {
+        "word": "vitaminize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/vitaminize/",
+        "meaning": "vitaminize"
+      }
+    ]
+  },
+  {
+    "word": "Overeat",
+    "rootWord": "Overeat",
+    "members": [
+      {
+        "word": "overeat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/overeat/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nutritious",
+    "rootWord": "Nutritious",
+    "members": [
+      {
+        "word": "nutritious",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nutritious/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Vegetarian",
+    "rootWord": "Vegetarian",
+    "members": [
+      {
+        "word": "vegetarian",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vegetarian/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mineral",
+    "rootWord": "Mineral",
+    "members": [
+      {
+        "word": "mineral",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mineral/",
+        "meaning": ""
+      },
+      {
+        "word": "mineralize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/mineralize/",
+        "meaning": "mineralize"
+      }
+    ]
+  }
+]

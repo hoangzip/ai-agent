@@ -1,0 +1,560 @@
+[
+  {
+    "word": "Stadium",
+    "rootWord": "Stadium",
+    "members": [
+      {
+        "word": "stadium",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stadium/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stand",
+    "rootWord": "Stand",
+    "members": [
+      {
+        "word": "stand",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stand/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pitch",
+    "rootWord": "Pitch",
+    "members": [
+      {
+        "word": "pitch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pitch/",
+        "meaning": ""
+      },
+      {
+        "word": "pitcher",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɪtʃə/",
+        "meaning": "Một người ném bất cứ thứ gì, như cỏ khô, quoits, một quả bóng, v.v."
+      },
+      {
+        "word": "pitchy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpɪtʃi/",
+        "meaning": "Của, liên quan đến, hoặc tương tự như cao độ."
+      }
+    ]
+  },
+  {
+    "word": "Touchline",
+    "rootWord": "Touchline",
+    "members": [
+      {
+        "word": "touchline",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/touchline/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Penalty area",
+    "rootWord": "Penalty area",
+    "members": [
+      {
+        "word": "penalty area",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/penalty area/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Goal",
+    "rootWord": "Goal",
+    "members": [
+      {
+        "word": "goal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goal/",
+        "meaning": ""
+      },
+      {
+        "word": "goalless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/goalless/",
+        "meaning": "Không có mục tiêu; không tham vọng."
+      }
+    ]
+  },
+  {
+    "word": "Penalty",
+    "rootWord": "Penalty",
+    "members": [
+      {
+        "word": "penalty",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/penalty/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Corner kick",
+    "rootWord": "Corner kick",
+    "members": [
+      {
+        "word": "corner kick",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/corner kick/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Free kick",
+    "rootWord": "Free kick",
+    "members": [
+      {
+        "word": "free kick",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/free kick/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Indirect free kick",
+    "rootWord": "Indirect free kick",
+    "members": [
+      {
+        "word": "indirect free kick",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/indirect free kick/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Kick o",
+    "rootWord": "Kick o",
+    "members": [
+      {
+        "word": "kick o",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kick o/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Oside",
+    "rootWord": "Oside",
+    "members": [
+      {
+        "word": "oside",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oside/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Corner flag",
+    "rootWord": "Corner flag",
+    "members": [
+      {
+        "word": "corner flag",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/corner flag/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bet",
+    "rootWord": "Bet",
+    "members": [
+      {
+        "word": "bet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "The bench",
+    "rootWord": "The bench",
+    "members": [
+      {
+        "word": "the bench",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/the bench/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Foul",
+    "rootWord": "Foul",
+    "members": [
+      {
+        "word": "foul",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/foul/",
+        "meaning": ""
+      },
+      {
+        "word": "fouler",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfaʊl.ə/",
+        "meaning": "Bị che phủ, hoặc có chứa chất bẩn; bẩn."
+      }
+    ]
+  },
+  {
+    "word": "Goal line",
+    "rootWord": "Goal line",
+    "members": [
+      {
+        "word": "goal line",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goal line/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shoot",
+    "rootWord": "Shoot",
+    "members": [
+      {
+        "word": "shoot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shoot/",
+        "meaning": ""
+      },
+      {
+        "word": "shootist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shootist/",
+        "meaning": "Một người là một chuyên gia sử dụng súng, đặc biệt là một tay súng bắn tỉa hoặc một tay súng ở miền Tây cũ."
+      }
+    ]
+  },
+  {
+    "word": "Goalkeeper",
+    "rootWord": "Goalkeeper",
+    "members": [
+      {
+        "word": "goalkeeper",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/goalkeeper/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Defender",
+    "rootWord": "Defender",
+    "members": [
+      {
+        "word": "defender",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/defender/",
+        "meaning": ""
+      },
+      {
+        "word": "defend",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈfɛnd/",
+        "meaning": "Để ngăn chặn các cuộc tấn công chống lại; để chiến đấu để bảo vệ; để bảo vệ."
+      }
+    ]
+  },
+  {
+    "word": "Centre back",
+    "rootWord": "Centre back",
+    "members": [
+      {
+        "word": "centre back",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/centre back/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Midelder",
+    "rootWord": "Midelder",
+    "members": [
+      {
+        "word": "midelder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/midelder/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Attacking midelder",
+    "rootWord": "Attacking midelder",
+    "members": [
+      {
+        "word": "attacking midelder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/attacking midelder/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Winger",
+    "rootWord": "Winger",
+    "members": [
+      {
+        "word": "winger",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/winger/",
+        "meaning": ""
+      },
+      {
+        "word": "wing",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wɪŋ/",
+        "meaning": "Một phần cơ thể của động vật (chim, dơi, côn trùng) cho phép nó bay; một vây tương tự ở bên cạnh một con cá hoặc cá tương tự"
+      }
+    ]
+  },
+  {
+    "word": "Referee",
+    "rootWord": "Referee",
+    "members": [
+      {
+        "word": "referee",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/referee/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Commentator",
+    "rootWord": "Commentator",
+    "members": [
+      {
+        "word": "commentator",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/commentator/",
+        "meaning": ""
+      },
+      {
+        "word": "commentative",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/commentative/",
+        "meaning": "(của nhạc phim) Điều đó xảy ra bên ngoài bối cảnh hành động của bộ phim, và do đó các nhân vật của bộ phim không thể nghe được."
+      }
+    ]
+  },
+  {
+    "word": "Supporter",
+    "rootWord": "Supporter",
+    "members": [
+      {
+        "word": "supporter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/supporter/",
+        "meaning": ""
+      },
+      {
+        "word": "supportive",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/səˈpɔːtɪv/",
+        "meaning": "Cung cấp hỗ trợ."
+      },
+      {
+        "word": "support",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/səˈpɔːt/",
+        "meaning": "(đôi khi thuộc tính) Một cái gì đó hỗ trợ."
+      }
+    ]
+  },
+  {
+    "word": "Linesman",
+    "rootWord": "Linesman",
+    "members": [
+      {
+        "word": "linesman",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/linesman/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hooligan",
+    "rootWord": "Hooligan",
+    "members": [
+      {
+        "word": "hooligan",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hooligan/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Red card",
+    "rootWord": "Red card",
+    "members": [
+      {
+        "word": "red card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/red card/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Yellow card",
+    "rootWord": "Yellow card",
+    "members": [
+      {
+        "word": "yellow card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yellow card/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coach",
+    "rootWord": "Coach",
+    "members": [
+      {
+        "word": "coach",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coach/",
+        "meaning": ""
+      },
+      {
+        "word": "coacher",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coacher/",
+        "meaning": "Một người huấn luyện hoặc đưa ra hướng dẫn; một huấn luyện viên."
+      }
+    ]
+  },
+  {
+    "word": "Reserve team",
+    "rootWord": "Reserve team",
+    "members": [
+      {
+        "word": "reserve team",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reserve team/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Caution",
+    "rootWord": "Caution",
+    "members": [
+      {
+        "word": "caution",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/caution/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stimulant",
+    "rootWord": "Stimulant",
+    "members": [
+      {
+        "word": "stimulant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stimulant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Strategy",
+    "rootWord": "Strategy",
+    "members": [
+      {
+        "word": "strategy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/strategy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Striker",
+    "rootWord": "Striker",
+    "members": [
+      {
+        "word": "striker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/striker/",
+        "meaning": ""
+      }
+    ]
+  }
+]

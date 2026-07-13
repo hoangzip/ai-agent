@@ -1,0 +1,491 @@
+[
+  {
+    "word": "Dishwasher",
+    "synonyms": []
+  },
+  {
+    "word": "Dish drainer",
+    "synonyms": []
+  },
+  {
+    "word": "Steamer",
+    "synonyms": [
+      {
+        "word": "bender",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bender/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "binge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪndʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "carouse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəˈɹaʊz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "piss-up",
+        "partOfSpeech": "noun",
+        "pronunciation": "/piss-up/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Colander",
+    "synonyms": []
+  },
+  {
+    "word": "Lid",
+    "synonyms": [
+      {
+        "word": "blepharon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blepharon/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Blender",
+    "synonyms": [
+      {
+        "word": "liquidiser",
+        "partOfSpeech": "noun",
+        "pronunciation": "/liquidiser/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "liquidizer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/liquidizer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vitamiser",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vitamiser/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vitamizer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vitamizer/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pot",
+    "synonyms": [
+      {
+        "word": "cooking pot",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cooking pot/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cookpot",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cookpot/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "kitty",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kitty/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pool",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pul/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Toaster",
+    "synonyms": []
+  },
+  {
+    "word": "Dishtowel",
+    "synonyms": [
+      {
+        "word": "dish cloth",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dish cloth/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tea cloth",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tea cloth/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tea towel",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tea towel/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Refrigerator",
+    "synonyms": [
+      {
+        "word": "chiller",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chiller/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "coolchest",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coolchest/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fridge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɹɪd͡ʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "frigerator",
+        "partOfSpeech": "noun",
+        "pronunciation": "/frigerator/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Freezer",
+    "synonyms": [
+      {
+        "word": "cooler",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkuːl.ə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "deep freeze",
+        "partOfSpeech": "noun",
+        "pronunciation": "/deep freeze/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "deep freezer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/deep freezer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "deep-freezer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/deep-freezer/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cabinet",
+    "synonyms": []
+  },
+  {
+    "word": "Microwave",
+    "synonyms": [
+      {
+        "word": "SHF",
+        "partOfSpeech": "noun",
+        "pronunciation": "/SHF/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nuke",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nuke/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "microwave",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmaɪ.krə.weɪv/",
+        "meaning": "Lò vi sóng"
+      }
+    ]
+  },
+  {
+    "word": "Bowl",
+    "synonyms": [
+      {
+        "word": "bowlful",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowlful/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "crater",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɹeɪ.tə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hollow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɒl.əʊ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bowl cut",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowl cut/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cutting board",
+    "synonyms": []
+  },
+  {
+    "word": "Stove",
+    "synonyms": []
+  },
+  {
+    "word": "Coee maker",
+    "synonyms": []
+  },
+  {
+    "word": "Oven",
+    "synonyms": []
+  },
+  {
+    "word": "Oven cleaner",
+    "synonyms": []
+  },
+  {
+    "word": "Jar",
+    "synonyms": [
+      {
+        "word": "cruse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɹuːs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pot",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɒt/",
+        "meaning": "Nồi"
+      },
+      {
+        "word": "bottle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɑ.təl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sink",
+    "synonyms": [
+      {
+        "word": "basin",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbeɪsɪn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "washbasin",
+        "partOfSpeech": "noun",
+        "pronunciation": "/washbasin/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "descend",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈsɛnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "go down",
+        "partOfSpeech": "verb",
+        "pronunciation": "/go down/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dish rack",
+    "synonyms": []
+  },
+  {
+    "word": "Sponge",
+    "synonyms": [
+      {
+        "word": "bath sponge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bath sponge/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "porifer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/porifer/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "poriferan",
+        "partOfSpeech": "noun",
+        "pronunciation": "/poriferan/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sea sponge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sea sponge/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chopstick",
+    "synonyms": []
+  },
+  {
+    "word": "Pan",
+    "synonyms": [
+      {
+        "word": "cookie sheet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cookie sheet/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "frying pan",
+        "partOfSpeech": "noun",
+        "pronunciation": "/frying pan/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "skillet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈskɪlɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tin",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɪn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cooker",
+    "synonyms": [
+      {
+        "word": "stove",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stəʊv/",
+        "meaning": "Bếp lò"
+      }
+    ]
+  },
+  {
+    "word": "Mug",
+    "synonyms": [
+      {
+        "word": "dial",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dial/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mush",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mʌʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "phiz",
+        "partOfSpeech": "noun",
+        "pronunciation": "/phiz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Kettle",
+    "synonyms": [
+      {
+        "word": "teakettle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/teakettle/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Glass",
+    "synonyms": [
+      {
+        "word": "glass",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡlɑːs/",
+        "meaning": "Ly"
+      }
+    ]
+  },
+  {
+    "word": "Teapot",
+    "synonyms": []
+  },
+  {
+    "word": "Grill",
+    "synonyms": [
+      {
+        "word": "fronts",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɹʌnts/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "golds",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɔʊldz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tray",
+    "synonyms": [
+      {
+        "word": "bed",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bed/",
+        "meaning": "Giường"
+      }
+    ]
+  },
+  {
+    "word": "Whisk",
+    "synonyms": []
+  },
+  {
+    "word": "Knife",
+    "synonyms": []
+  },
+  {
+    "word": "Spoon",
+    "synonyms": []
+  }
+]

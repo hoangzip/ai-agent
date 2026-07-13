@@ -1,0 +1,351 @@
+[
+  {
+    "word": "Boarding school",
+    "antonyms": []
+  },
+  {
+    "word": "Public school",
+    "antonyms": []
+  },
+  {
+    "word": "Private school",
+    "antonyms": []
+  },
+  {
+    "word": "Secondary school",
+    "antonyms": []
+  },
+  {
+    "word": "High school",
+    "antonyms": []
+  },
+  {
+    "word": "Primary school",
+    "antonyms": []
+  },
+  {
+    "word": "Nursery school",
+    "antonyms": []
+  },
+  {
+    "word": "School",
+    "antonyms": []
+  },
+  {
+    "word": "College",
+    "antonyms": []
+  },
+  {
+    "word": "University",
+    "antonyms": []
+  },
+  {
+    "word": "Professor",
+    "antonyms": []
+  },
+  {
+    "word": "Lecturer",
+    "antonyms": []
+  },
+  {
+    "word": "Researcher",
+    "antonyms": []
+  },
+  {
+    "word": "Graduate",
+    "antonyms": [
+      {
+        "word": "drop-out",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drop-out/",
+        "meaning": "Một người đã rời khỏi một cơ sở giáo dục mà không hoàn thành khóa học"
+      },
+      {
+        "word": "student",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈstjuː.dənt/",
+        "meaning": "Sinh viên, học sinh"
+      }
+    ]
+  },
+  {
+    "word": "Degree",
+    "antonyms": []
+  },
+  {
+    "word": "Thesis",
+    "antonyms": []
+  },
+  {
+    "word": "Lecture",
+    "antonyms": []
+  },
+  {
+    "word": "Debate",
+    "antonyms": []
+  },
+  {
+    "word": "Higher education",
+    "antonyms": []
+  },
+  {
+    "word": "Semester",
+    "antonyms": []
+  },
+  {
+    "word": "Student",
+    "antonyms": [
+      {
+        "word": "teacher",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtiː.tʃər/",
+        "meaning": "Giáo viên"
+      }
+    ]
+  },
+  {
+    "word": "Student union",
+    "antonyms": []
+  },
+  {
+    "word": "Tuition fee",
+    "antonyms": []
+  },
+  {
+    "word": "Exam",
+    "antonyms": []
+  },
+  {
+    "word": "Fail",
+    "antonyms": [
+      {
+        "word": "succeed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/səkˈsiːd/",
+        "meaning": "Theo thứ tự; tiếp theo sau; do đó, thay thế."
+      }
+    ]
+  },
+  {
+    "word": "Pass",
+    "antonyms": []
+  },
+  {
+    "word": "Study",
+    "antonyms": []
+  },
+  {
+    "word": "Learn",
+    "antonyms": [
+      {
+        "word": "forget",
+        "partOfSpeech": "verb",
+        "pronunciation": "/fəˈɡɛt/",
+        "meaning": "Để quên đi."
+      },
+      {
+        "word": "teach",
+        "partOfSpeech": "verb",
+        "pronunciation": "/tiːt͡ʃ/",
+        "meaning": "Chỉ đường cho (ai đó); hướng dẫn, chỉ đường; chỉ dẫn, chỉ dẫn."
+      }
+    ]
+  },
+  {
+    "word": "Curriculum",
+    "antonyms": []
+  },
+  {
+    "word": "Course",
+    "antonyms": []
+  },
+  {
+    "word": "Subject",
+    "antonyms": []
+  },
+  {
+    "word": "Grade",
+    "antonyms": []
+  },
+  {
+    "word": "Mark",
+    "antonyms": []
+  },
+  {
+    "word": "Qualication",
+    "antonyms": []
+  },
+  {
+    "word": "Attendance",
+    "antonyms": []
+  },
+  {
+    "word": "Absence",
+    "antonyms": [
+      {
+        "word": "existence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɛɡ.ˈzɪs.təns/",
+        "meaning": "Trạng thái tồn tại, tồn tại hoặc đang xảy ra; tồn tại."
+      },
+      {
+        "word": "possession",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pəˈzɛʃən/",
+        "meaning": "Sự sở hữu"
+      },
+      {
+        "word": "sufficiency",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sufficiency/",
+        "meaning": "Chất lượng hoặc điều kiện là đủ."
+      },
+      {
+        "word": "presence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹɛzəns/",
+        "meaning": "Thực tế hoặc tình trạng có mặt, hoặc ở trong tầm nhìn hoặc cuộc gọi, hoặc trong tầm tay."
+      }
+    ]
+  },
+  {
+    "word": "Projector",
+    "antonyms": []
+  },
+  {
+    "word": "Textbook",
+    "antonyms": []
+  },
+  {
+    "word": "Question",
+    "antonyms": []
+  },
+  {
+    "word": "Answer",
+    "antonyms": []
+  },
+  {
+    "word": "Mistake",
+    "antonyms": []
+  },
+  {
+    "word": "Right",
+    "antonyms": [
+      {
+        "word": "wrong",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/rɒŋ/",
+        "meaning": "Sai"
+      },
+      {
+        "word": "left",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lɛft/",
+        "meaning": "Phía bên trái hoặc hướng."
+      },
+      {
+        "word": "bowed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/baʊd/",
+        "meaning": "Để chơi nhạc trên nhạc cụ (có dây) bằng cung."
+      },
+      {
+        "word": "crooked",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kɹʊkt/",
+        "meaning": "Để uốn cong, hoặc tạo thành một cái móc."
+      }
+    ]
+  },
+  {
+    "word": "Wrong",
+    "antonyms": [
+      {
+        "word": "right",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/raɪt/",
+        "meaning": "Đúng"
+      }
+    ]
+  },
+  {
+    "word": "Register",
+    "antonyms": [
+      {
+        "word": "deregister",
+        "partOfSpeech": "verb",
+        "pronunciation": "/diːˈɹɛdʒɪstə(ɹ)/",
+        "meaning": "Để hủy đăng ký"
+      },
+      {
+        "word": "unregister",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unregister/",
+        "meaning": "Hủy đăng ký"
+      }
+    ]
+  },
+  {
+    "word": "Assembly",
+    "antonyms": []
+  },
+  {
+    "word": "Holiday",
+    "antonyms": []
+  },
+  {
+    "word": "Teacher",
+    "antonyms": []
+  },
+  {
+    "word": "Pupil",
+    "antonyms": []
+  },
+  {
+    "word": "Playground",
+    "antonyms": []
+  },
+  {
+    "word": "Library",
+    "antonyms": []
+  },
+  {
+    "word": "Hall",
+    "antonyms": []
+  },
+  {
+    "word": "Dormitory",
+    "antonyms": []
+  },
+  {
+    "word": "Locker",
+    "antonyms": []
+  },
+  {
+    "word": "Classroom",
+    "antonyms": []
+  },
+  {
+    "word": "Chalk",
+    "antonyms": []
+  },
+  {
+    "word": "Lesson",
+    "antonyms": []
+  },
+  {
+    "word": "Homework",
+    "antonyms": []
+  },
+  {
+    "word": "Test",
+    "antonyms": [
+      {
+        "word": "recess",
+        "partOfSpeech": "noun",
+        "pronunciation": "/recess/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

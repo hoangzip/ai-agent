@@ -1,0 +1,217 @@
+[
+  {
+    "word": "Dusting",
+    "synonyms": []
+  },
+  {
+    "word": "Cooking",
+    "synonyms": [
+      {
+        "word": "cook off",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cook off/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stew",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stʃʉː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "culinary art",
+        "partOfSpeech": "noun",
+        "pronunciation": "/culinary art/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Ironing",
+    "synonyms": [
+      {
+        "word": "press",
+        "partOfSpeech": "noun",
+        "pronunciation": "/prɛs/",
+        "meaning": "Báo chí"
+      }
+    ]
+  },
+  {
+    "word": "Sweep",
+    "synonyms": []
+  },
+  {
+    "word": "Wipe",
+    "synonyms": []
+  },
+  {
+    "word": "Throw out",
+    "synonyms": [
+      {
+        "word": "eject",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪˈdʒɛkt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "expel",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪkˈspɛl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "kick out",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kick out/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Vacuum",
+    "synonyms": [
+      {
+        "word": "vacancy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈveɪ.kən.si/",
+        "meaning": "Phòng trống"
+      },
+      {
+        "word": "void",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vɔɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hoover",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hoover/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hoovering",
+        "partOfSpeech": "verb",
+        "pronunciation": "/hoovering/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cleaning",
+    "synonyms": []
+  },
+  {
+    "word": "Polish",
+    "synonyms": [
+      {
+        "word": "class",
+        "partOfSpeech": "noun",
+        "pronunciation": "/klæs/",
+        "meaning": "Lớp học"
+      },
+      {
+        "word": "elegance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɛl.ɪ.ɡəns/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "panache",
+        "partOfSpeech": "noun",
+        "pronunciation": "/panache/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "refinement",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹəˈfaɪnmənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Fold",
+    "synonyms": [
+      {
+        "word": "bend",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɛnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "crease",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crease/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bending",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈbɛndɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "creasing",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɹiːsɪŋ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Scrub",
+    "synonyms": []
+  },
+  {
+    "word": "Tighten",
+    "synonyms": []
+  },
+  {
+    "word": "Make the bed",
+    "synonyms": []
+  },
+  {
+    "word": "Set the table",
+    "synonyms": []
+  },
+  {
+    "word": "Clear the table",
+    "synonyms": [
+      {
+        "word": "draw the cloth",
+        "partOfSpeech": "noun",
+        "pronunciation": "/draw the cloth/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unset the table",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unset the table/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mow the lawn",
+    "synonyms": []
+  },
+  {
+    "word": "Dishwashing",
+    "synonyms": []
+  },
+  {
+    "word": "Water the plants",
+    "synonyms": []
+  },
+  {
+    "word": "Clean the kitchen",
+    "synonyms": []
+  }
+]

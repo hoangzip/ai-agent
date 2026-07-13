@@ -1,0 +1,591 @@
+[
+  {
+    "word": "Sport",
+    "rootWord": "Sport",
+    "members": [
+      {
+        "word": "sport",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sport/",
+        "meaning": ""
+      },
+      {
+        "word": "sporty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈspɔːti/",
+        "meaning": "sporty"
+      },
+      {
+        "word": "sportive",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈspɔː(ɹ)tɪv/",
+        "meaning": "sportive"
+      }
+    ]
+  },
+  {
+    "word": "Skiing",
+    "rootWord": "Skiing",
+    "members": [
+      {
+        "word": "skiing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skiing/",
+        "meaning": ""
+      },
+      {
+        "word": "ski",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃiː/",
+        "meaning": "ski"
+      },
+      {
+        "word": "skier",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skier/",
+        "meaning": "skier"
+      }
+    ]
+  },
+  {
+    "word": "Ice skating",
+    "rootWord": "Ice skating",
+    "members": [
+      {
+        "word": "ice skating",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ice skating/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Horse racing",
+    "rootWord": "Horse racing",
+    "members": [
+      {
+        "word": "horse racing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/horse racing/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Running",
+    "rootWord": "Running",
+    "members": [
+      {
+        "word": "running",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/running/",
+        "meaning": ""
+      },
+      {
+        "word": "runny",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹʌni/",
+        "meaning": "runny"
+      },
+      {
+        "word": "runner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/runner/",
+        "meaning": "runner"
+      }
+    ]
+  },
+  {
+    "word": "Walking",
+    "rootWord": "Walking",
+    "members": [
+      {
+        "word": "walking",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/walking/",
+        "meaning": ""
+      },
+      {
+        "word": "walk",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/walk/",
+        "meaning": "walk"
+      },
+      {
+        "word": "walkable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/walkable/",
+        "meaning": "walkable"
+      },
+      {
+        "word": "walker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɑkɚ/",
+        "meaning": "walker"
+      }
+    ]
+  },
+  {
+    "word": "Water sports",
+    "rootWord": "Water sports",
+    "members": [
+      {
+        "word": "water sports",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/water sports/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Boxing",
+    "rootWord": "Boxing",
+    "members": [
+      {
+        "word": "boxing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/boxing/",
+        "meaning": ""
+      },
+      {
+        "word": "boxy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/boxy/",
+        "meaning": "boxy"
+      },
+      {
+        "word": "boxer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɒksə/",
+        "meaning": "boxer"
+      }
+    ]
+  },
+  {
+    "word": "Swimming",
+    "rootWord": "Swimming",
+    "members": [
+      {
+        "word": "swimming",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swimming/",
+        "meaning": ""
+      },
+      {
+        "word": "swimmer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈswɪm.ə(ɹ)/",
+        "meaning": "swimmer"
+      }
+    ]
+  },
+  {
+    "word": "Football",
+    "rootWord": "Football",
+    "members": [
+      {
+        "word": "football",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/football/",
+        "meaning": ""
+      },
+      {
+        "word": "footballer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfʊtbɔːlə/",
+        "meaning": "footballer"
+      }
+    ]
+  },
+  {
+    "word": "Basketball",
+    "rootWord": "Basketball",
+    "members": [
+      {
+        "word": "basketball",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/basketball/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Badminton",
+    "rootWord": "Badminton",
+    "members": [
+      {
+        "word": "badminton",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/badminton/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tennis",
+    "rootWord": "Tennis",
+    "members": [
+      {
+        "word": "tennis",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tennis/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Table tennis",
+    "rootWord": "Table tennis",
+    "members": [
+      {
+        "word": "table tennis",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/table tennis/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Baseball",
+    "rootWord": "Baseball",
+    "members": [
+      {
+        "word": "baseball",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/baseball/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cycling",
+    "rootWord": "Cycling",
+    "members": [
+      {
+        "word": "cycling",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cycling/",
+        "meaning": ""
+      },
+      {
+        "word": "cyclize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/cyclize/",
+        "meaning": "cyclize"
+      },
+      {
+        "word": "cyclist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsaɪ.klɪst/",
+        "meaning": "cyclist"
+      },
+      {
+        "word": "cyclic",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsaɪklɪk/",
+        "meaning": "cyclic"
+      }
+    ]
+  },
+  {
+    "word": "Golf",
+    "rootWord": "Golf",
+    "members": [
+      {
+        "word": "golf",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/golf/",
+        "meaning": ""
+      },
+      {
+        "word": "golfer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/golfer/",
+        "meaning": "golfer"
+      }
+    ]
+  },
+  {
+    "word": "Contact sport",
+    "rootWord": "Contact sport",
+    "members": [
+      {
+        "word": "contact sport",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/contact sport/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Water polo",
+    "rootWord": "Water polo",
+    "members": [
+      {
+        "word": "water polo",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/water polo/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Archery",
+    "rootWord": "Archery",
+    "members": [
+      {
+        "word": "archery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/archery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Weightlifting",
+    "rootWord": "Weightlifting",
+    "members": [
+      {
+        "word": "weightlifting",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weightlifting/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wrestling",
+    "rootWord": "Wrestling",
+    "members": [
+      {
+        "word": "wrestling",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wrestling/",
+        "meaning": ""
+      },
+      {
+        "word": "wrestler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wrestler/",
+        "meaning": "wrestler"
+      }
+    ]
+  },
+  {
+    "word": "Bowling",
+    "rootWord": "Bowling",
+    "members": [
+      {
+        "word": "bowling",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowling/",
+        "meaning": ""
+      },
+      {
+        "word": "bowler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowler/",
+        "meaning": "bowler"
+      },
+      {
+        "word": "bowl",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bəʊl/",
+        "meaning": "Bát, chén"
+      }
+    ]
+  },
+  {
+    "word": "Lacrosse",
+    "rootWord": "Lacrosse",
+    "members": [
+      {
+        "word": "lacrosse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lacrosse/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hockey",
+    "rootWord": "Hockey",
+    "members": [
+      {
+        "word": "hockey",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hockey/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Referee",
+    "rootWord": "Referee",
+    "members": [
+      {
+        "word": "referee",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/referee/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dart",
+    "rootWord": "Dart",
+    "members": [
+      {
+        "word": "dart",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dart/",
+        "meaning": ""
+      },
+      {
+        "word": "darter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/darter/",
+        "meaning": "darter"
+      }
+    ]
+  },
+  {
+    "word": "Synchronized swimming",
+    "rootWord": "Synchronized swimming",
+    "members": [
+      {
+        "word": "synchronized swimming",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/synchronized swimming/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "SEA Games",
+    "rootWord": "SEA Games",
+    "members": [
+      {
+        "word": "sea games",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sea games/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Host",
+    "rootWord": "Host",
+    "members": [
+      {
+        "word": "host",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/host/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wushu",
+    "rootWord": "Wushu",
+    "members": [
+      {
+        "word": "wushu",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wushu/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sportsmanship",
+    "rootWord": "Sportsmanship",
+    "members": [
+      {
+        "word": "sportsmanship",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sportsmanship/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Captain",
+    "rootWord": "Captain",
+    "members": [
+      {
+        "word": "captain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/captain/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cross-country",
+    "rootWord": "Cross-country",
+    "members": [
+      {
+        "word": "cross-country",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cross-country/",
+        "meaning": ""
+      }
+    ]
+  }
+]

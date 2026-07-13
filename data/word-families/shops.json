@@ -1,0 +1,243 @@
+[
+  {
+    "word": "Bakery",
+    "rootWord": "Bakery",
+    "members": [
+      {
+        "word": "bakery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bakery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bookshop",
+    "rootWord": "Bookshop",
+    "members": [
+      {
+        "word": "bookshop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bookshop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Butcher's",
+    "rootWord": "Butcher's",
+    "members": [
+      {
+        "word": "butcher's",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/butcher's/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Candy store",
+    "rootWord": "Candy store",
+    "members": [
+      {
+        "word": "candy store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/candy store/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Convenience store",
+    "rootWord": "Convenience store",
+    "members": [
+      {
+        "word": "convenience store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/convenience store/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Greengrocer",
+    "rootWord": "Greengrocer",
+    "members": [
+      {
+        "word": "greengrocer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/greengrocer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Flower shop",
+    "rootWord": "Flower shop",
+    "members": [
+      {
+        "word": "flower shop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flower shop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Store",
+    "rootWord": "Store",
+    "members": [
+      {
+        "word": "store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/store/",
+        "meaning": ""
+      },
+      {
+        "word": "story",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈstɔː.ɹi/",
+        "meaning": "story"
+      }
+    ]
+  },
+  {
+    "word": "Gift shop",
+    "rootWord": "Gift shop",
+    "members": [
+      {
+        "word": "gift shop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gift shop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shop",
+    "rootWord": "Shop",
+    "members": [
+      {
+        "word": "shop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Food stall",
+    "rootWord": "Food stall",
+    "members": [
+      {
+        "word": "food stall",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/food stall/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fast food restaurant",
+    "rootWord": "Fast food restaurant",
+    "members": [
+      {
+        "word": "fast food restaurant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fast food restaurant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dry-cleaner's",
+    "rootWord": "Dry-cleaner's",
+    "members": [
+      {
+        "word": "dry-cleaner's",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dry-cleaner's/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shoe store",
+    "rootWord": "Shoe store",
+    "members": [
+      {
+        "word": "shoe store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shoe store/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Barbershop",
+    "rootWord": "Barbershop",
+    "members": [
+      {
+        "word": "barbershop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/barbershop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Newspaper kiosk",
+    "rootWord": "Newspaper kiosk",
+    "members": [
+      {
+        "word": "newspaper kiosk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/newspaper kiosk/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bookstall",
+    "rootWord": "Bookstall",
+    "members": [
+      {
+        "word": "bookstall",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bookstall/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sports center",
+    "rootWord": "Sports center",
+    "members": [
+      {
+        "word": "sports center",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sports center/",
+        "meaning": ""
+      }
+    ]
+  }
+]

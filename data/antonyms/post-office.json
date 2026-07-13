@@ -1,0 +1,130 @@
+[
+  {
+    "word": "Advanced",
+    "antonyms": [
+      {
+        "word": "regress",
+        "partOfSpeech": "noun",
+        "pronunciation": "/regress/",
+        "meaning": "thoái lui"
+      },
+      {
+        "word": "retract",
+        "partOfSpeech": "noun",
+        "pronunciation": "/retract/",
+        "meaning": "co lại"
+      }
+    ]
+  },
+  {
+    "word": "Equip",
+    "antonyms": []
+  },
+  {
+    "word": "Express mail",
+    "antonyms": []
+  },
+  {
+    "word": "Graphic",
+    "antonyms": []
+  },
+  {
+    "word": "Messenger Call Service",
+    "antonyms": []
+  },
+  {
+    "word": "Notify",
+    "antonyms": []
+  },
+  {
+    "word": "Parcel",
+    "antonyms": []
+  },
+  {
+    "word": "Press",
+    "antonyms": []
+  },
+  {
+    "word": "Receive",
+    "antonyms": []
+  },
+  {
+    "word": "Recipient",
+    "antonyms": []
+  },
+  {
+    "word": "Secure",
+    "antonyms": [
+      {
+        "word": "insecure",
+        "partOfSpeech": "noun",
+        "pronunciation": "/insecure/",
+        "meaning": "Không bảo mật"
+      }
+    ]
+  },
+  {
+    "word": "Service",
+    "antonyms": [
+      {
+        "word": "good",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡʊ(d)/",
+        "meaning": "tốt, hay, tuyệt; điểu tốt, điều thiện"
+      },
+      {
+        "word": "capital",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkæp.ɪ.təl/",
+        "meaning": "thủ đô, tiền vốn"
+      }
+    ]
+  },
+  {
+    "word": "Spacious",
+    "antonyms": []
+  },
+  {
+    "word": "Speedy",
+    "antonyms": []
+  },
+  {
+    "word": "Sta",
+    "antonyms": []
+  },
+  {
+    "word": "Subscribe",
+    "antonyms": []
+  },
+  {
+    "word": "Surface mail",
+    "antonyms": []
+  },
+  {
+    "word": "Technology",
+    "antonyms": []
+  },
+  {
+    "word": "Thoughtful",
+    "antonyms": [
+      {
+        "word": "thoughtless",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈθɔːtləs/",
+        "meaning": "- Vô tư?"
+      }
+    ]
+  },
+  {
+    "word": "Transfer",
+    "antonyms": []
+  },
+  {
+    "word": "Transmit",
+    "antonyms": []
+  },
+  {
+    "word": "Well-trained",
+    "antonyms": []
+  }
+]

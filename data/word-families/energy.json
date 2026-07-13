@@ -1,0 +1,266 @@
+[
+  {
+    "word": "Charcoal",
+    "rootWord": "Charcoal",
+    "members": [
+      {
+        "word": "charcoal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/charcoal/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Battery",
+    "rootWord": "Battery",
+    "members": [
+      {
+        "word": "battery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/battery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Gasoline",
+    "rootWord": "Gasoline",
+    "members": [
+      {
+        "word": "gasoline",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gasoline/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Turbine",
+    "rootWord": "Turbine",
+    "members": [
+      {
+        "word": "turbine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turbine/",
+        "meaning": ""
+      },
+      {
+        "word": "turbinate",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turbinate/",
+        "meaning": "turbinate"
+      },
+      {
+        "word": "turbinal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turbinal/",
+        "meaning": "turbinal"
+      }
+    ]
+  },
+  {
+    "word": "Sun",
+    "rootWord": "Sun",
+    "members": [
+      {
+        "word": "sun",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sun/",
+        "meaning": ""
+      },
+      {
+        "word": "sunless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sunless/",
+        "meaning": "sunless"
+      }
+    ]
+  },
+  {
+    "word": "Wind",
+    "rootWord": "Wind",
+    "members": [
+      {
+        "word": "wind",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wind/",
+        "meaning": ""
+      },
+      {
+        "word": "windy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɪndi/",
+        "meaning": "windy"
+      },
+      {
+        "word": "winder",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/winder/",
+        "meaning": "winder"
+      }
+    ]
+  },
+  {
+    "word": "Waterfall",
+    "rootWord": "Waterfall",
+    "members": [
+      {
+        "word": "waterfall",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waterfall/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Renery",
+    "rootWord": "Renery",
+    "members": [
+      {
+        "word": "renery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/renery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nuclear reactor",
+    "rootWord": "Nuclear reactor",
+    "members": [
+      {
+        "word": "nuclear reactor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nuclear reactor/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dam",
+    "rootWord": "Dam",
+    "members": [
+      {
+        "word": "dam",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dam/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Power plant",
+    "rootWord": "Power plant",
+    "members": [
+      {
+        "word": "power plant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/power plant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Transformer",
+    "rootWord": "Transformer",
+    "members": [
+      {
+        "word": "transformer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/transformer/",
+        "meaning": ""
+      },
+      {
+        "word": "transform",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɹænzˈfɔːm/",
+        "meaning": "transform"
+      }
+    ]
+  },
+  {
+    "word": "Heat",
+    "rootWord": "Heat",
+    "members": [
+      {
+        "word": "heat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/heat/",
+        "meaning": ""
+      },
+      {
+        "word": "heater",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhiːtə/",
+        "meaning": "heater"
+      }
+    ]
+  },
+  {
+    "word": "Natural gas",
+    "rootWord": "Natural gas",
+    "members": [
+      {
+        "word": "natural gas",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/natural gas/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Diesel",
+    "rootWord": "Diesel",
+    "members": [
+      {
+        "word": "diesel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diesel/",
+        "meaning": ""
+      },
+      {
+        "word": "dieselize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dieselize/",
+        "meaning": "dieselize"
+      }
+    ]
+  },
+  {
+    "word": "Solar power",
+    "rootWord": "Solar power",
+    "members": [
+      {
+        "word": "solar power",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/solar power/",
+        "meaning": ""
+      }
+    ]
+  }
+]

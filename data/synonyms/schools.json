@@ -1,0 +1,522 @@
+[
+  {
+    "word": "Nursery school",
+    "synonyms": [
+      {
+        "word": "kindergarten",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɪndəɹˌɡɑːɹd(ə)n/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "preschool",
+        "partOfSpeech": "noun",
+        "pronunciation": "/preschool/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Teacher",
+    "synonyms": [
+      {
+        "word": "preceptor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹiːˌsɛptəɹ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Classmate",
+    "synonyms": []
+  },
+  {
+    "word": "Library",
+    "synonyms": [
+      {
+        "word": "bookhouse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bookhouse/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pen",
+    "synonyms": []
+  },
+  {
+    "word": "Pencil",
+    "synonyms": []
+  },
+  {
+    "word": "Ruler",
+    "synonyms": [
+      {
+        "word": "rule",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹuːl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Calculator",
+    "synonyms": [
+      {
+        "word": "electronic calculator",
+        "partOfSpeech": "noun",
+        "pronunciation": "/electronic calculator/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pocket calculator",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pocket calculator/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ready reckoner",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ready reckoner/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "table",
+        "partOfSpeech": "noun",
+        "pronunciation": "/table/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chalk",
+    "synonyms": []
+  },
+  {
+    "word": "Student",
+    "synonyms": [
+      {
+        "word": "candlewaster",
+        "partOfSpeech": "noun",
+        "pronunciation": "/candlewaster/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "devotee",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌdɛvəˈtiː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disciple",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈsaɪpl̩/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "scholar",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈskɒlə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Classroom",
+    "synonyms": []
+  },
+  {
+    "word": "Primary school",
+    "synonyms": [
+      {
+        "word": "elementary school",
+        "partOfSpeech": "noun",
+        "pronunciation": "/elementary school/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "grade school",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grade school/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Secondary school",
+    "synonyms": []
+  },
+  {
+    "word": "High school",
+    "synonyms": []
+  },
+  {
+    "word": "Vocational school",
+    "synonyms": []
+  },
+  {
+    "word": "College",
+    "synonyms": [
+      {
+        "word": "department",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈpɑːtm(ə)nt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "faculty",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfæ.kəl.ti/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "school",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skuːl/",
+        "meaning": "Trường học"
+      }
+    ]
+  },
+  {
+    "word": "University",
+    "synonyms": [
+      {
+        "word": "academy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈkæd.ə.mi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "college",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɒl.ɪdʒ/",
+        "meaning": "Trường đại học, cao đẳng"
+      },
+      {
+        "word": "institute",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɪnstɪt(j)uːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "uni",
+        "partOfSpeech": "noun",
+        "pronunciation": "/uni/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Principal",
+    "synonyms": [
+      {
+        "word": "dean",
+        "partOfSpeech": "noun",
+        "pronunciation": "/diːn/",
+        "meaning": "Trưởng khoa"
+      },
+      {
+        "word": "client",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈklʌɪənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "diapason",
+        "partOfSpeech": "noun",
+        "pronunciation": "/daɪəˈpeɪsən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "proprietor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɹəˈpɹaɪətɚ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Blackboard",
+    "synonyms": []
+  },
+  {
+    "word": "Compass",
+    "synonyms": [
+      {
+        "word": "pair of compasses",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pair of compasses/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "magnetic compass",
+        "partOfSpeech": "noun",
+        "pronunciation": "/magnetic compass/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "History",
+    "synonyms": [
+      {
+        "word": "background",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbæk.ɡɹaʊnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "past",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pɑːst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "log",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lɑɡ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "medical history",
+        "partOfSpeech": "noun",
+        "pronunciation": "/medical history/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Economics",
+    "synonyms": [
+      {
+        "word": "dismal science",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dismal science/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chemistry",
+    "synonyms": []
+  },
+  {
+    "word": "Biology",
+    "synonyms": [
+      {
+        "word": "life science",
+        "partOfSpeech": "noun",
+        "pronunciation": "/life science/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "life sciences",
+        "partOfSpeech": "noun",
+        "pronunciation": "/life sciences/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lifelore",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lifelore/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "IT",
+    "synonyms": []
+  },
+  {
+    "word": "Geography",
+    "synonyms": [
+      {
+        "word": "loo",
+        "partOfSpeech": "verb",
+        "pronunciation": "/luː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Art",
+    "synonyms": [
+      {
+        "word": "craft",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɹɑːft/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Fail",
+    "synonyms": [
+      {
+        "word": "fall on one's face",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fall on one's face/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "flunk",
+        "partOfSpeech": "verb",
+        "pronunciation": "/flʌŋk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pass",
+    "synonyms": [
+      {
+        "word": "spend",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spɛnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pledge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plɛdʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "promise",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹɒmɪs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vaʊ/",
+        "meaning": "Lời thề"
+      }
+    ]
+  },
+  {
+    "word": "Graduate",
+    "synonyms": []
+  },
+  {
+    "word": "Degree",
+    "synonyms": [
+      {
+        "word": "arcdegree",
+        "partOfSpeech": "noun",
+        "pronunciation": "/arcdegree/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Playground",
+    "synonyms": []
+  },
+  {
+    "word": "Uniform",
+    "synonyms": [
+      {
+        "word": "invariable",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪnˈvɛə.ɹi.ə.bl̩/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "of a piece",
+        "partOfSpeech": "noun",
+        "pronunciation": "/of a piece/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "regular",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈrɛɡ.jʊ.lər/",
+        "meaning": "Thường xuyên"
+      },
+      {
+        "word": "stable",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsteɪ.bəɫ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Grade",
+    "synonyms": [
+      {
+        "word": "group",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɹuːp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "paraphyletic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/paraphyletic/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mark",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɑːrk/",
+        "meaning": "Điểm số"
+      }
+    ]
+  },
+  {
+    "word": "Form teacher",
+    "synonyms": []
+  },
+  {
+    "word": "Proctor",
+    "synonyms": [
+      {
+        "word": "invigilator",
+        "partOfSpeech": "noun",
+        "pronunciation": "/invigilator/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "School bag",
+    "synonyms": []
+  },
+  {
+    "word": "Dean",
+    "synonyms": [
+      {
+        "word": "provost",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹoʊvoʊst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Lesson",
+    "synonyms": [
+      {
+        "word": "lection",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɛkʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lear",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lear/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Course",
+    "synonyms": []
+  }
+]

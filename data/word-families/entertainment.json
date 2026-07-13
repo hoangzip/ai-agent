@@ -1,0 +1,287 @@
+[
+  {
+    "word": "Play",
+    "rootWord": "Play",
+    "members": [
+      {
+        "word": "play",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/play/",
+        "meaning": ""
+      },
+      {
+        "word": "playful",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpleɪfəl/",
+        "meaning": "playful"
+      },
+      {
+        "word": "playable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/playable/",
+        "meaning": "playable"
+      },
+      {
+        "word": "player",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpleɪə(ɹ)/",
+        "meaning": "player"
+      }
+    ]
+  },
+  {
+    "word": "Circus",
+    "rootWord": "Circus",
+    "members": [
+      {
+        "word": "circus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/circus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stadium",
+    "rootWord": "Stadium",
+    "members": [
+      {
+        "word": "stadium",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stadium/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Orchestra",
+    "rootWord": "Orchestra",
+    "members": [
+      {
+        "word": "orchestra",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/orchestra/",
+        "meaning": ""
+      },
+      {
+        "word": "orchestration",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/orchestration/",
+        "meaning": "orchestration"
+      }
+    ]
+  },
+  {
+    "word": "Scene",
+    "rootWord": "Scene",
+    "members": [
+      {
+        "word": "scene",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scene/",
+        "meaning": ""
+      },
+      {
+        "word": "scenic",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsiːnɪk/",
+        "meaning": "scenic"
+      }
+    ]
+  },
+  {
+    "word": "Opera",
+    "rootWord": "Opera",
+    "members": [
+      {
+        "word": "opera",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/opera/",
+        "meaning": ""
+      },
+      {
+        "word": "operation",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɒpəˈɹeɪʃən/",
+        "meaning": "operation"
+      }
+    ]
+  },
+  {
+    "word": "Theater",
+    "rootWord": "Theater",
+    "members": [
+      {
+        "word": "theater",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/theater/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Applaud",
+    "rootWord": "Applaud",
+    "members": [
+      {
+        "word": "applaud",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/applaud/",
+        "meaning": ""
+      },
+      {
+        "word": "applaudable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/applaudable/",
+        "meaning": "applaudable"
+      }
+    ]
+  },
+  {
+    "word": "Perform",
+    "rootWord": "Perform",
+    "members": [
+      {
+        "word": "perform",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/perform/",
+        "meaning": ""
+      },
+      {
+        "word": "performer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pəˈfɔːmə/",
+        "meaning": "performer"
+      },
+      {
+        "word": "performance",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "[pə.ˈfɔː.məns]",
+        "meaning": "performance"
+      }
+    ]
+  },
+  {
+    "word": "Exhibit",
+    "rootWord": "Exhibit",
+    "members": [
+      {
+        "word": "exhibit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/exhibit/",
+        "meaning": ""
+      },
+      {
+        "word": "exhibitor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/exhibitor/",
+        "meaning": "exhibitor"
+      }
+    ]
+  },
+  {
+    "word": "Art gallery",
+    "rootWord": "Art gallery",
+    "members": [
+      {
+        "word": "art gallery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/art gallery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Comedy",
+    "rootWord": "Comedy",
+    "members": [
+      {
+        "word": "comedy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/comedy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chamber music",
+    "rootWord": "Chamber music",
+    "members": [
+      {
+        "word": "chamber music",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chamber music/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Casino",
+    "rootWord": "Casino",
+    "members": [
+      {
+        "word": "casino",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/casino/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pub",
+    "rootWord": "Pub",
+    "members": [
+      {
+        "word": "pub",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pub/",
+        "meaning": ""
+      },
+      {
+        "word": "pubic",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpjuːbɪk/",
+        "meaning": "pubic"
+      }
+    ]
+  },
+  {
+    "word": "Concert hall",
+    "rootWord": "Concert hall",
+    "members": [
+      {
+        "word": "concert hall",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/concert hall/",
+        "meaning": ""
+      }
+    ]
+  }
+]

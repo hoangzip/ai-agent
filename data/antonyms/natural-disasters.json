@@ -1,0 +1,119 @@
+[
+  {
+    "word": "Earthquake",
+    "antonyms": []
+  },
+  {
+    "word": "Aftershock",
+    "antonyms": [
+      {
+        "word": "foreshock",
+        "partOfSpeech": "noun",
+        "pronunciation": "/foreshock/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Flood",
+    "antonyms": [
+      {
+        "word": "drain",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɹeɪn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Drought",
+    "antonyms": [
+      {
+        "word": "winning streak",
+        "partOfSpeech": "noun",
+        "pronunciation": "/winning streak/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Famine",
+    "antonyms": []
+  },
+  {
+    "word": "Avalanche",
+    "antonyms": []
+  },
+  {
+    "word": "Blizzard",
+    "antonyms": []
+  },
+  {
+    "word": "Tornado",
+    "antonyms": []
+  },
+  {
+    "word": "Forest re",
+    "antonyms": []
+  },
+  {
+    "word": "Hurricane",
+    "antonyms": []
+  },
+  {
+    "word": "Storm",
+    "antonyms": []
+  },
+  {
+    "word": "Evacuation",
+    "antonyms": []
+  },
+  {
+    "word": "Evacuate",
+    "antonyms": []
+  },
+  {
+    "word": "Catastrophic",
+    "antonyms": [
+      {
+        "word": "anastrophic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/anastrophic/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Nationwide",
+    "antonyms": [
+      {
+        "word": "citywide",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/citywide/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "districtwide",
+        "partOfSpeech": "noun",
+        "pronunciation": "/districtwide/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "local",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈləʊkl̩/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "non-nationwide",
+        "partOfSpeech": "noun",
+        "pronunciation": "/non-nationwide/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Precaution",
+    "antonyms": []
+  }
+]

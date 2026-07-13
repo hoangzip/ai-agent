@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Travel",
+    "antonyms": []
+  },
+  {
+    "word": "Travel agent",
+    "antonyms": []
+  },
+  {
+    "word": "Vacation",
+    "antonyms": []
+  },
+  {
+    "word": "Flight",
+    "antonyms": []
+  },
+  {
+    "word": "Voyage",
+    "antonyms": []
+  },
+  {
+    "word": "Relax",
+    "antonyms": [
+      {
+        "word": "excite",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪkˈsaɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stress",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɹɛs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cancel",
+    "antonyms": []
+  },
+  {
+    "word": "Homestay",
+    "antonyms": []
+  },
+  {
+    "word": "Souvenir",
+    "antonyms": []
+  },
+  {
+    "word": "Travel sickness",
+    "antonyms": []
+  },
+  {
+    "word": "Journey",
+    "antonyms": []
+  },
+  {
+    "word": "Peak season",
+    "antonyms": []
+  },
+  {
+    "word": "Route",
+    "antonyms": []
+  },
+  {
+    "word": "Trip",
+    "antonyms": []
+  },
+  {
+    "word": "Excursion",
+    "antonyms": []
+  },
+  {
+    "word": "Luggage",
+    "antonyms": []
+  },
+  {
+    "word": "Tourist",
+    "antonyms": []
+  },
+  {
+    "word": "Ticket",
+    "antonyms": []
+  },
+  {
+    "word": "Eager",
+    "antonyms": []
+  },
+  {
+    "word": "Sunglasses",
+    "antonyms": []
+  },
+  {
+    "word": "Safari",
+    "antonyms": []
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "word": "Village",
+    "rootWord": "Village",
+    "members": [
+      {
+        "word": "village",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/village/",
+        "meaning": ""
+      },
+      {
+        "word": "villager",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈvɪlɪd͡ʒə/",
+        "meaning": "villager"
+      }
+    ]
+  },
+  {
+    "word": "Countryside",
+    "rootWord": "Countryside",
+    "members": [
+      {
+        "word": "countryside",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/countryside/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cottage",
+    "rootWord": "Cottage",
+    "members": [
+      {
+        "word": "cottage",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cottage/",
+        "meaning": ""
+      },
+      {
+        "word": "cottager",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cottager/",
+        "meaning": "cottager"
+      }
+    ]
+  },
+  {
+    "word": "Winding",
+    "rootWord": "Winding",
+    "members": [
+      {
+        "word": "winding",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/winding/",
+        "meaning": ""
+      },
+      {
+        "word": "wind",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wɪnd/",
+        "meaning": "Gió"
+      },
+      {
+        "word": "windy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɪndi/",
+        "meaning": "windy"
+      },
+      {
+        "word": "winder",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/winder/",
+        "meaning": "winder"
+      }
+    ]
+  },
+  {
+    "word": "Well",
+    "rootWord": "Well",
+    "members": [
+      {
+        "word": "well",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/well/",
+        "meaning": ""
+      },
+      {
+        "word": "welly",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɛli/",
+        "meaning": "welly"
+      },
+      {
+        "word": "wellness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wellness/",
+        "meaning": "wellness"
+      }
+    ]
+  },
+  {
+    "word": "Bualo",
+    "rootWord": "Bualo",
+    "members": [
+      {
+        "word": "bualo",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bualo/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Field",
+    "rootWord": "Field",
+    "members": [
+      {
+        "word": "field",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/field/",
+        "meaning": ""
+      },
+      {
+        "word": "fielder",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fielder/",
+        "meaning": "fielder"
+      }
+    ]
+  },
+  {
+    "word": "Canal",
+    "rootWord": "Canal",
+    "members": [
+      {
+        "word": "canal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/canal/",
+        "meaning": ""
+      },
+      {
+        "word": "canalize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/canalize/",
+        "meaning": "canalize"
+      }
+    ]
+  },
+  {
+    "word": "River",
+    "rootWord": "River",
+    "members": [
+      {
+        "word": "river",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/river/",
+        "meaning": ""
+      },
+      {
+        "word": "rival",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹaɪvəl/",
+        "meaning": "rival"
+      },
+      {
+        "word": "riven",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈɹɪvən/",
+        "meaning": "riven"
+      }
+    ]
+  },
+  {
+    "word": "Pond",
+    "rootWord": "Pond",
+    "members": [
+      {
+        "word": "pond",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pond/",
+        "meaning": ""
+      },
+      {
+        "word": "ponder",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɒn.də(ɹ)/",
+        "meaning": "ponder"
+      }
+    ]
+  },
+  {
+    "word": "Folk music",
+    "rootWord": "Folk music",
+    "members": [
+      {
+        "word": "folk music",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/folk music/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Farm",
+    "rootWord": "Farm",
+    "members": [
+      {
+        "word": "farm",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/farm/",
+        "meaning": ""
+      },
+      {
+        "word": "farmer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɑː.mər/",
+        "meaning": "Nông dân"
+      }
+    ]
+  },
+  {
+    "word": "Plow",
+    "rootWord": "Plow",
+    "members": [
+      {
+        "word": "plow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plow/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Agriculture",
+    "rootWord": "Agriculture",
+    "members": [
+      {
+        "word": "agriculture",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/agriculture/",
+        "meaning": ""
+      },
+      {
+        "word": "agricultural",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌæɡɹɪˈkʌltjʊəɹəl/",
+        "meaning": "agricultural"
+      }
+    ]
+  },
+  {
+    "word": "Boat",
+    "rootWord": "Boat",
+    "members": [
+      {
+        "word": "boat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/boat/",
+        "meaning": ""
+      },
+      {
+        "word": "boater",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɐʉt.ɘ/",
+        "meaning": "boater"
+      }
+    ]
+  },
+  {
+    "word": "Peaceful",
+    "rootWord": "Peaceful",
+    "members": [
+      {
+        "word": "peaceful",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/peaceful/",
+        "meaning": ""
+      },
+      {
+        "word": "peacefully",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈpiːsfəli/",
+        "meaning": "peacefully"
+      }
+    ]
+  },
+  {
+    "word": "Bay",
+    "rootWord": "Bay",
+    "members": [
+      {
+        "word": "bay",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bay/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hill",
+    "rootWord": "Hill",
+    "members": [
+      {
+        "word": "hill",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hill/",
+        "meaning": ""
+      },
+      {
+        "word": "hilly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈhɪli/",
+        "meaning": "hilly"
+      }
+    ]
+  },
+  {
+    "word": "Forest",
+    "rootWord": "Forest",
+    "members": [
+      {
+        "word": "forest",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/forest/",
+        "meaning": ""
+      },
+      {
+        "word": "forester",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/forester/",
+        "meaning": "forester"
+      }
+    ]
+  },
+  {
+    "word": "Mountain",
+    "rootWord": "Mountain",
+    "members": [
+      {
+        "word": "mountain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mountain/",
+        "meaning": ""
+      },
+      {
+        "word": "mountainous",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈmaʊntɪnəs/",
+        "meaning": "mountainous"
+      }
+    ]
+  },
+  {
+    "word": "Port",
+    "rootWord": "Port",
+    "members": [
+      {
+        "word": "port",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/port/",
+        "meaning": ""
+      },
+      {
+        "word": "portable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɔː(ɹ)təbl̩/",
+        "meaning": "portable"
+      },
+      {
+        "word": "porter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɔːtə/",
+        "meaning": "porter"
+      },
+      {
+        "word": "portal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɔːtəl/",
+        "meaning": "portal"
+      },
+      {
+        "word": "portly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpoːtliː/",
+        "meaning": "portly"
+      }
+    ]
+  },
+  {
+    "word": "Lake",
+    "rootWord": "Lake",
+    "members": [
+      {
+        "word": "lake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lake/",
+        "meaning": ""
+      },
+      {
+        "word": "laker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈleɪkə(ɹ)/",
+        "meaning": "laker"
+      }
+    ]
+  },
+  {
+    "word": "Sea",
+    "rootWord": "Sea",
+    "members": [
+      {
+        "word": "sea",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sea/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sand",
+    "rootWord": "Sand",
+    "members": [
+      {
+        "word": "sand",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sand/",
+        "meaning": ""
+      },
+      {
+        "word": "sandy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsændi/",
+        "meaning": "sandy"
+      },
+      {
+        "word": "sandal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsændəl/",
+        "meaning": "sandal"
+      },
+      {
+        "word": "sander",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsændɚ/",
+        "meaning": "sander"
+      }
+    ]
+  },
+  {
+    "word": "Valley",
+    "rootWord": "Valley",
+    "members": [
+      {
+        "word": "valley",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/valley/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Waterfall",
+    "rootWord": "Waterfall",
+    "members": [
+      {
+        "word": "waterfall",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waterfall/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Barn",
+    "rootWord": "Barn",
+    "members": [
+      {
+        "word": "barn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/barn/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Harvest",
+    "rootWord": "Harvest",
+    "members": [
+      {
+        "word": "harvest",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/harvest/",
+        "meaning": ""
+      },
+      {
+        "word": "harvester",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/harvester/",
+        "meaning": "harvester"
+      }
+    ]
+  },
+  {
+    "word": "Cattle",
+    "rootWord": "Cattle",
+    "members": [
+      {
+        "word": "cattle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cattle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rural",
+    "rootWord": "Rural",
+    "members": [
+      {
+        "word": "rural",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rural/",
+        "meaning": ""
+      },
+      {
+        "word": "ruralize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ruralize/",
+        "meaning": "ruralize"
+      }
+    ]
+  },
+  {
+    "word": "Cli",
+    "rootWord": "Cli",
+    "members": [
+      {
+        "word": "cli",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cli/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Landscape",
+    "rootWord": "Landscape",
+    "members": [
+      {
+        "word": "landscape",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/landscape/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Terraced house",
+    "rootWord": "Terraced house",
+    "members": [
+      {
+        "word": "terraced house",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/terraced house/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "View",
+    "rootWord": "View",
+    "members": [
+      {
+        "word": "view",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/view/",
+        "meaning": ""
+      },
+      {
+        "word": "viewer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/viewer/",
+        "meaning": "viewer"
+      },
+      {
+        "word": "viewless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/viewless/",
+        "meaning": "viewless"
+      },
+      {
+        "word": "viewable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/viewable/",
+        "meaning": "viewable"
+      }
+    ]
+  }
+]

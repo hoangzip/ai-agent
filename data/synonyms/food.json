@@ -1,0 +1,523 @@
+[
+  {
+    "word": "Beef",
+    "synonyms": [
+      {
+        "word": "cowflesh",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cowflesh/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "oxflesh",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oxflesh/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pork",
+    "synonyms": [
+      {
+        "word": "pigmeat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pigmeat/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "swineflesh",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swineflesh/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "the other white meat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/the other white meat/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bacon",
+    "synonyms": [
+      {
+        "word": "ham",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hæm/",
+        "meaning": "Thịt đùi, thịt xông khói"
+      },
+      {
+        "word": "pork",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɔːrk/",
+        "meaning": "Thịt heo"
+      }
+    ]
+  },
+  {
+    "word": "Ham",
+    "synonyms": []
+  },
+  {
+    "word": "Yoghurt",
+    "synonyms": []
+  },
+  {
+    "word": "Pie",
+    "synonyms": []
+  },
+  {
+    "word": "Bread",
+    "synonyms": [
+      {
+        "word": "dough",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dʌf/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "folding stuff",
+        "partOfSpeech": "noun",
+        "pronunciation": "/folding stuff/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lolly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lolly/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "paper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪ.pər/",
+        "meaning": "Giấy"
+      }
+    ]
+  },
+  {
+    "word": "Cake",
+    "synonyms": [
+      {
+        "word": "block",
+        "partOfSpeech": "noun",
+        "pronunciation": "/block/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gâteau",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gâteau/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "piece of cake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/piece of cake/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "crust",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɹʌst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chip",
+    "synonyms": [
+      {
+        "word": "pottle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɒtəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "punnet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpʌnət/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "IC",
+        "partOfSpeech": "noun",
+        "pronunciation": "/IC/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "integrated circuit",
+        "partOfSpeech": "noun",
+        "pronunciation": "/integrated circuit/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Biscuit",
+    "synonyms": [
+      {
+        "word": "dowel",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdaʊəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "finger joint",
+        "partOfSpeech": "noun",
+        "pronunciation": "/finger joint/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "glue strip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/glue strip/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "spline",
+        "partOfSpeech": "noun",
+        "pronunciation": "/splaɪn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Noodle",
+    "synonyms": [
+      {
+        "word": "guddle",
+        "partOfSpeech": "verb",
+        "pronunciation": "/guddle/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Butter",
+    "synonyms": []
+  },
+  {
+    "word": "Olive",
+    "synonyms": []
+  },
+  {
+    "word": "Soy",
+    "synonyms": [
+      {
+        "word": "soy sauce",
+        "partOfSpeech": "noun",
+        "pronunciation": "/soy sauce/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Flour",
+    "synonyms": [
+      {
+        "word": "plain flour",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plain flour/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "smeddum",
+        "partOfSpeech": "noun",
+        "pronunciation": "/smeddum/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "wheat flour",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wheat flour/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "white flour",
+        "partOfSpeech": "noun",
+        "pronunciation": "/white flour/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Lunch",
+    "synonyms": [
+      {
+        "word": "luncheon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlʌntʃ.ən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nones",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nəʊnz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Mint",
+    "synonyms": [
+      {
+        "word": "bundle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʌnd(ə)l/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pile",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paɪl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Vanilla",
+    "synonyms": [
+      {
+        "word": "imitation vanilla",
+        "partOfSpeech": "noun",
+        "pronunciation": "/imitation vanilla/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vanilla bean",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vanilla bean/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vanilla extract",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vanilla extract/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "normophilic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/normophilic/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Candy",
+    "synonyms": [
+      {
+        "word": "confectionery",
+        "partOfSpeech": "noun",
+        "pronunciation": "/confectionery/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lollies",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lollies/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sugar candy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sugar candy/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sweet",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/swiːt/",
+        "meaning": "Ngọt ngào"
+      }
+    ]
+  },
+  {
+    "word": "Popcorn",
+    "synonyms": []
+  },
+  {
+    "word": "Snack",
+    "synonyms": []
+  },
+  {
+    "word": "Barbecue",
+    "synonyms": [
+      {
+        "word": "braai",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹaɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cookout",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cookout/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "buccan",
+        "partOfSpeech": "noun",
+        "pronunciation": "/buccan/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "grill",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡrɪl/",
+        "meaning": "Vỉ nướng"
+      }
+    ]
+  },
+  {
+    "word": "Fast food",
+    "synonyms": [
+      {
+        "word": "junk food",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒʌŋk ˌfuːd/",
+        "meaning": "Đồ ăn vặt"
+      },
+      {
+        "word": "short order",
+        "partOfSpeech": "noun",
+        "pronunciation": "/short order/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Junk food",
+    "synonyms": []
+  },
+  {
+    "word": "Frozen food",
+    "synonyms": []
+  },
+  {
+    "word": "Health food",
+    "synonyms": []
+  },
+  {
+    "word": "Distinctive",
+    "synonyms": []
+  },
+  {
+    "word": "Flavor",
+    "synonyms": []
+  },
+  {
+    "word": "Balanced diet",
+    "synonyms": []
+  },
+  {
+    "word": "Stale",
+    "synonyms": []
+  },
+  {
+    "word": "Sour",
+    "synonyms": []
+  },
+  {
+    "word": "Burnt",
+    "synonyms": []
+  },
+  {
+    "word": "Overdone",
+    "synonyms": [
+      {
+        "word": "exaggerate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɛɡˈzæ.dʒə.ɹeɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "excel",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪkˈsɛl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "outdo",
+        "partOfSpeech": "verb",
+        "pronunciation": "/aʊtˈdu/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "surpass",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sɚˈpæs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Underdone",
+    "synonyms": []
+  },
+  {
+    "word": "Full",
+    "synonyms": [
+      {
+        "word": "complete",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəmˈpliːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "thorough",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈθʌɹə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "abounding",
+        "partOfSpeech": "verb",
+        "pronunciation": "/abounding/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "brimful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbɹɪmfʊl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Veal",
+    "synonyms": [
+      {
+        "word": "calfflesh",
+        "partOfSpeech": "noun",
+        "pronunciation": "/calfflesh/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cereal",
+    "synonyms": [
+      {
+        "word": "foodgrain",
+        "partOfSpeech": "noun",
+        "pronunciation": "/foodgrain/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hot dog",
+    "synonyms": [
+      {
+        "word": "show off",
+        "partOfSpeech": "verb",
+        "pronunciation": "/show off/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

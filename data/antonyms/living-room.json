@@ -1,0 +1,156 @@
+[
+  {
+    "word": "Drapes",
+    "antonyms": []
+  },
+  {
+    "word": "Cushion",
+    "antonyms": []
+  },
+  {
+    "word": "Sofa",
+    "antonyms": []
+  },
+  {
+    "word": "Rug",
+    "antonyms": []
+  },
+  {
+    "word": "Banister",
+    "antonyms": []
+  },
+  {
+    "word": "Bookcase",
+    "antonyms": []
+  },
+  {
+    "word": "Ceiling",
+    "antonyms": [
+      {
+        "word": "floor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flɔː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Clock",
+    "antonyms": []
+  },
+  {
+    "word": "Desk",
+    "antonyms": []
+  },
+  {
+    "word": "Frame",
+    "antonyms": []
+  },
+  {
+    "word": "Lampshade",
+    "antonyms": []
+  },
+  {
+    "word": "Mantelpiece",
+    "antonyms": []
+  },
+  {
+    "word": "Painting",
+    "antonyms": []
+  },
+  {
+    "word": "Remote control",
+    "antonyms": []
+  },
+  {
+    "word": "Speaker",
+    "antonyms": []
+  },
+  {
+    "word": "Step",
+    "antonyms": []
+  },
+  {
+    "word": "Stereo system",
+    "antonyms": []
+  },
+  {
+    "word": "Stereo",
+    "antonyms": [
+      {
+        "word": "monaural",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/monaural/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mono",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mono/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "monophonic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/monophonic/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Television",
+    "antonyms": []
+  },
+  {
+    "word": "Vase",
+    "antonyms": []
+  },
+  {
+    "word": "Wall unit",
+    "antonyms": []
+  },
+  {
+    "word": "Lamp",
+    "antonyms": []
+  },
+  {
+    "word": "Calendar",
+    "antonyms": []
+  },
+  {
+    "word": "Fan",
+    "antonyms": []
+  },
+  {
+    "word": "Chair",
+    "antonyms": []
+  },
+  {
+    "word": "Stool",
+    "antonyms": []
+  },
+  {
+    "word": "Ashtray",
+    "antonyms": []
+  },
+  {
+    "word": "Bookshelf",
+    "antonyms": []
+  },
+  {
+    "word": "Fuse",
+    "antonyms": []
+  },
+  {
+    "word": "Switch",
+    "antonyms": []
+  },
+  {
+    "word": "Couch",
+    "antonyms": []
+  },
+  {
+    "word": "Curtain",
+    "antonyms": []
+  }
+]

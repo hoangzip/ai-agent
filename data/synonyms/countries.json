@@ -1,0 +1,103 @@
+[
+  {
+    "word": "Denmark",
+    "synonyms": []
+  },
+  {
+    "word": "England",
+    "synonyms": []
+  },
+  {
+    "word": "Sweden",
+    "synonyms": []
+  },
+  {
+    "word": "Austria",
+    "synonyms": []
+  },
+  {
+    "word": "Australia",
+    "synonyms": []
+  },
+  {
+    "word": "France",
+    "synonyms": []
+  },
+  {
+    "word": "Germany",
+    "synonyms": []
+  },
+  {
+    "word": "Switzerland",
+    "synonyms": []
+  },
+  {
+    "word": "Greece",
+    "synonyms": []
+  },
+  {
+    "word": "Italy",
+    "synonyms": []
+  },
+  {
+    "word": "Spain",
+    "synonyms": []
+  },
+  {
+    "word": "Russia",
+    "synonyms": []
+  },
+  {
+    "word": "Canada",
+    "synonyms": []
+  },
+  {
+    "word": "Mexico",
+    "synonyms": []
+  },
+  {
+    "word": "America",
+    "synonyms": []
+  },
+  {
+    "word": "Brazil",
+    "synonyms": []
+  },
+  {
+    "word": "Japan",
+    "synonyms": []
+  },
+  {
+    "word": "Korea",
+    "synonyms": []
+  },
+  {
+    "word": "China",
+    "synonyms": [
+      {
+        "word": "china",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtʃaɪ.nə/",
+        "meaning": "Trung Quốc"
+      },
+      {
+        "word": "China rose",
+        "partOfSpeech": "noun",
+        "pronunciation": "/China rose/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "money cowrie",
+        "partOfSpeech": "noun",
+        "pronunciation": "/money cowrie/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "wampum",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɒmpəm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

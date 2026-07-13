@@ -1,0 +1,418 @@
+[
+  {
+    "word": "Sta movements",
+    "antonyms": []
+  },
+  {
+    "word": "Retire",
+    "antonyms": []
+  },
+  {
+    "word": "Dismiss",
+    "antonyms": []
+  },
+  {
+    "word": "Finance",
+    "antonyms": []
+  },
+  {
+    "word": "Appointment",
+    "antonyms": [
+      {
+        "word": "dismissal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dismissal/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Multinational",
+    "antonyms": []
+  },
+  {
+    "word": "Investor",
+    "antonyms": []
+  },
+  {
+    "word": "Inherit",
+    "antonyms": []
+  },
+  {
+    "word": "Accountant",
+    "antonyms": []
+  },
+  {
+    "word": "Lend",
+    "antonyms": []
+  },
+  {
+    "word": "Borrow",
+    "antonyms": [
+      {
+        "word": "carry",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkæ.ɹi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "give back",
+        "partOfSpeech": "noun",
+        "pronunciation": "/give back/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lend",
+        "partOfSpeech": "verb",
+        "pronunciation": "/lɛnd/",
+        "meaning": "Cho vay"
+      },
+      {
+        "word": "return",
+        "partOfSpeech": "noun",
+        "pronunciation": "/return/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rent",
+    "antonyms": []
+  },
+  {
+    "word": "Distribution",
+    "antonyms": []
+  },
+  {
+    "word": "Co-ordinate",
+    "antonyms": []
+  },
+  {
+    "word": "Purchase",
+    "antonyms": []
+  },
+  {
+    "word": "Stock exchange",
+    "antonyms": []
+  },
+  {
+    "word": "Stock market",
+    "antonyms": []
+  },
+  {
+    "word": "Opportunity",
+    "antonyms": []
+  },
+  {
+    "word": "Challenge",
+    "antonyms": []
+  },
+  {
+    "word": "Career",
+    "antonyms": []
+  },
+  {
+    "word": "Intensive course",
+    "antonyms": []
+  },
+  {
+    "word": "Commerce",
+    "antonyms": []
+  },
+  {
+    "word": "Costly",
+    "antonyms": [
+      {
+        "word": "costlessly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/costlessly/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Responsible",
+    "antonyms": [
+      {
+        "word": "irresponsible",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪrəˈspɑnsɪbəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Communicate",
+    "antonyms": []
+  },
+  {
+    "word": "Abroad",
+    "antonyms": []
+  },
+  {
+    "word": "Inheritance",
+    "antonyms": []
+  },
+  {
+    "word": "Fortune",
+    "antonyms": [
+      {
+        "word": "doom",
+        "partOfSpeech": "noun",
+        "pronunciation": "/duːm/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "misfortune",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɪsˈfɔːtʃuːn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Property",
+    "antonyms": []
+  },
+  {
+    "word": "Cash machine",
+    "antonyms": []
+  },
+  {
+    "word": "Online account",
+    "antonyms": []
+  },
+  {
+    "word": "Insurance policy",
+    "antonyms": []
+  },
+  {
+    "word": "Credit card",
+    "antonyms": []
+  },
+  {
+    "word": "Debit card",
+    "antonyms": []
+  },
+  {
+    "word": "Rental contract",
+    "antonyms": []
+  },
+  {
+    "word": "Discount",
+    "antonyms": [
+      {
+        "word": "surcharge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɜː(ɹ)t͡ʃɑː(ɹ)d͡ʒ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Credit limit",
+    "antonyms": []
+  },
+  {
+    "word": "Survey",
+    "antonyms": []
+  },
+  {
+    "word": "Possession",
+    "antonyms": [
+      {
+        "word": "absence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæb.səns/",
+        "meaning": "Sự vắng mặt"
+      }
+    ]
+  },
+  {
+    "word": "Equality",
+    "antonyms": [
+      {
+        "word": "difference",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɪfəɹən(t)s/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "inequality",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɪnɪˈkwɒlɪti/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nonequivilence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonequivilence/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "discrimination",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪskɹɪmɪˈneɪʃən/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Poverty",
+    "antonyms": []
+  },
+  {
+    "word": "Charge",
+    "antonyms": []
+  },
+  {
+    "word": "Outsource",
+    "antonyms": []
+  },
+  {
+    "word": "Grant",
+    "antonyms": []
+  },
+  {
+    "word": "Warehouse",
+    "antonyms": []
+  },
+  {
+    "word": "Lease",
+    "antonyms": []
+  },
+  {
+    "word": "In-house",
+    "antonyms": []
+  },
+  {
+    "word": "Potential",
+    "antonyms": [
+      {
+        "word": "matter",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmætə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "phenomenon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɪˈnɒmənɒn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "actual",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈak(t)ʃj(ʊ)əl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "phenomenal",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/phenomenal/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Back-oce",
+    "antonyms": []
+  },
+  {
+    "word": "Campaign",
+    "antonyms": []
+  },
+  {
+    "word": "Insecurity",
+    "antonyms": [
+      {
+        "word": "security",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sɪˈkjɔːɹəti/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "self-confidence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/self-confidence/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Insurance provider",
+    "antonyms": []
+  },
+  {
+    "word": "Compensation",
+    "antonyms": []
+  },
+  {
+    "word": "Commit",
+    "antonyms": []
+  },
+  {
+    "word": "Short-term cost",
+    "antonyms": []
+  },
+  {
+    "word": "Long-term gain",
+    "antonyms": []
+  },
+  {
+    "word": "Expense",
+    "antonyms": []
+  },
+  {
+    "word": "Invoice",
+    "antonyms": []
+  },
+  {
+    "word": "Bribery",
+    "antonyms": []
+  },
+  {
+    "word": "Corrupt",
+    "antonyms": []
+  },
+  {
+    "word": "Balance of payment",
+    "antonyms": []
+  },
+  {
+    "word": "Balance of trade",
+    "antonyms": []
+  },
+  {
+    "word": "Budget",
+    "antonyms": []
+  },
+  {
+    "word": "Cost of borrowing",
+    "antonyms": []
+  },
+  {
+    "word": "Consumer price index",
+    "antonyms": []
+  },
+  {
+    "word": "Retail banking",
+    "antonyms": []
+  },
+  {
+    "word": "Commercial bank",
+    "antonyms": []
+  },
+  {
+    "word": "Central bank",
+    "antonyms": []
+  },
+  {
+    "word": "Treasury",
+    "antonyms": []
+  },
+  {
+    "word": "Investment bank",
+    "antonyms": []
+  }
+]

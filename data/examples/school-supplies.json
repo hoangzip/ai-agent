@@ -1,0 +1,664 @@
+[
+  {
+    "word": "Watercolour",
+    "examples": [
+      {
+        "en": "Jim's aunt only uses **watercolour**s to paint her pictures.",
+        "vi": "Dì của Jim chỉ sử dụng **màu nước** để vẽ tranh."
+      },
+      {
+        "en": "Jim's aunt paints beautiful **watercolour**s.",
+        "vi": "Dì của Jim vẽ những bức tranh **màu nước** tuyệt đẹp."
+      },
+      {
+        "en": "I'm not a big fan of **watercolour**; I much prefer oil painting.",
+        "vi": "Tôi không phải là một fan hâm mộ lớn của **màu nước**; Tôi rất thích tranh sơn dầu."
+      }
+    ]
+  },
+  {
+    "word": "Thumbtack",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Thumbtack**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ về một chiếc **đinh** bấm."
+      }
+    ]
+  },
+  {
+    "word": "Textbook",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Textbook**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của **Sách giáo khoa**."
+      }
+    ]
+  },
+  {
+    "word": "Test Tube",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Test Tube**.",
+        "vi": "Ảnh này thể hiện ảnh chụp sạch của **Ống nghiệm**."
+      }
+    ]
+  },
+  {
+    "word": "Tape measure",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Tape measure**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch của **thước** đo Tape."
+      }
+    ]
+  },
+  {
+    "word": "Stencil",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Stencil**.",
+        "vi": "**Ảnh này thể hiện một bức ảnh rõ nét của một Stencil.**"
+      }
+    ]
+  },
+  {
+    "word": "Stapler",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Stapler**.",
+        "vi": "**Ảnh này thể hiện ảnh chụp máy ghim sạch sẽ.**"
+      }
+    ]
+  },
+  {
+    "word": "Staple remover",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Staple remover**.",
+        "vi": "**Ảnh này thể hiện ảnh chụp sạch của sản phẩm tẩy rửa Staple.**"
+      }
+    ]
+  },
+  {
+    "word": "Set Square",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Set Square**.",
+        "vi": "**Điều này thể hiện một bức ảnh sạch sẽ của một Set Square.**"
+      }
+    ]
+  },
+  {
+    "word": "Scotch Tape",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Scotch Tape**.",
+        "vi": "Ảnh này thể hiện ảnh sạch của **Băng** dính Scotch."
+      }
+    ]
+  },
+  {
+    "word": "Scissors",
+    "examples": [
+      {
+        "en": "The erroneous testimony was **scissored** from the record.",
+        "vi": "**Chứng ngôn sai lầm đã bị loại bỏ khỏi biên sử.**"
+      },
+      {
+        "en": "The runner **scissored** over the hurdles.",
+        "vi": "**Người chạy vượt qua các chướng ngại vật.**"
+      },
+      {
+        "en": "**Scissors** are used to cut the flowers.",
+        "vi": "**Kéo** được sử dụng để cắt hoa."
+      }
+    ]
+  },
+  {
+    "word": "Ruler",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Ruler**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một **Thước** kẻ."
+      }
+    ]
+  },
+  {
+    "word": "Ribbon",
+    "examples": [
+      {
+        "en": "a steel or magnesium **ribbon**",
+        "vi": "**một dải ruy băng bằng thép hoặc magiê**"
+      }
+    ]
+  },
+  {
+    "word": "Protractor",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Protractor**.",
+        "vi": "Ảnh này thể hiện ảnh sạch của **thước đo góc**."
+      }
+    ]
+  },
+  {
+    "word": "Post-it note",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Post-it note**.",
+        "vi": "**Ảnh này thể hiện ảnh chụp sạch sẽ của một ghi chú sau đó.**"
+      }
+    ]
+  },
+  {
+    "word": "Pin",
+    "examples": [
+      {
+        "en": "Pull the **pin** out of the grenade before throwing it at the enemy.",
+        "vi": "**Rút chốt ra khỏi lựu đạn trước khi ném vào kẻ thù.**"
+      },
+      {
+        "en": "I'm not so good on my **pin**s these days.",
+        "vi": "**Những ngày này tôi không giỏi ghim ghim ghim.**"
+      },
+      {
+        "en": "The UK standard connector for domestic mains electricity has three **pin**s.",
+        "vi": "**Đầu nối tiêu chuẩn của Anh cho điện lưới trong nước có ba chân.**"
+      }
+    ]
+  },
+  {
+    "word": "Pencil",
+    "examples": [
+      {
+        "en": "I **pencil**ed (BrE: pencilled) a brief reminder in my notebook.",
+        "vi": "**Tôi đã viết (BrE: pencilled) một lời nhắc ngắn gọn vào sổ ghi chép của mình.**"
+      }
+    ]
+  },
+  {
+    "word": "Pencil Sharpener",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Pencil Sharpener**.",
+        "vi": "**Điều này thể hiện một bức ảnh rõ nét về Dụng cụ gọt bút chì.**"
+      }
+    ]
+  },
+  {
+    "word": "Pencil Case",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Pencil Case**.",
+        "vi": "Ảnh này thể hiện ảnh chụp sạch của **Hộp** đựng bút chì."
+      }
+    ]
+  },
+  {
+    "word": "Pen",
+    "examples": [
+      {
+        "en": "There are two steers in the third **pen**.",
+        "vi": "**Bút** thứ ba có hai con bò."
+      },
+      {
+        "en": "They caught him with a stolen horse, and he wound up in the **pen** again.",
+        "vi": "**Họ bắt được anh ta với một con ngựa bị đánh cắp, và anh ta lại bị thương trong chuồng.**"
+      },
+      {
+        "en": "Two righties are up in the **pen**.",
+        "vi": "**Hai người thuận tay phải đang ở trên cây bút.**"
+      }
+    ]
+  },
+  {
+    "word": "Paper",
+    "examples": [
+      {
+        "en": "a **paper** of pins, tacks, opium, etc.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "cantharides **paper**",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "to **paper** the hallway walls",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Paper fastener",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Paper fastener**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Paper Clip",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Paper Clip**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Palette",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Palette**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Paint",
+    "examples": [
+      {
+        "en": "The Nimrods are strong on the outside, but not very good in the **paint**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "I am running low on **paint** for my marker.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "to **paint** a portrait or a landscape",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Paintbrush",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Paintbrush**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Notebook",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Notebook**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Map",
+    "examples": [
+      {
+        "en": "I don't want to play this **map** again!",
+        "vi": "**Bản** dịch đang được cập nhật."
+      }
+    ]
+  },
+  {
+    "word": "Magnifying Glass",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Magnifying Glass**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Index card",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Index card**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Highlighter",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Highlighter**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Glue",
+    "examples": [
+      {
+        "en": "I need to **glue** the chair-leg back into place.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "His eyes were **glue**d to the screen.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Globe",
+    "examples": [
+      {
+        "en": "the **globe** of the eye; the globe of a lamp",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Flash card",
+    "examples": [
+      {
+        "en": "Many people use **flashcards** to learn languages.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "File Holder",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **File Holder**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "File cabinet",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **File cabinet**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Felt pen",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Felt pen**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Rubber",
+    "examples": [
+      {
+        "en": "Jones toes the **rubber** and then fires to the plate.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "Johnny, don't forget your **rubber**s today.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "Jones enters the pits to get new **rubber**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Duster",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Duster**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Dossier",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Dossier**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Dictionary",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Dictionary**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Desk",
+    "examples": [
+      {
+        "en": "city **desk**",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Crayon",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Crayon**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Computer",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Computer**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Compass",
+    "examples": [
+      {
+        "en": "within the **compass** of an encircling wall",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Coloured Pencil",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Coloured Pencil**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Clock",
+    "examples": [
+      {
+        "en": "This car has over 300,000 miles on the **clock**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "I can't go off to lunch yet: I'm still on the **clock**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "He was **clock**ed at 155 miles per hour.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Clamp",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Clamp**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Chalk",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Chalk**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Chair",
+    "examples": [
+      {
+        "en": "All I need to weather a snowstorm is hot coffee, a warm fire, a good book and a comfortable **chair**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "My violin teacher used to play first **chair** with the Boston Pops.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "Bob will **chair** tomorrow's meeting.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Carbon paper",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Carbon paper**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Calculator",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Calculator**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Bookcase",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Bookcase**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Book",
+    "examples": [
+      {
+        "en": "He was frustrated because he couldn't find anything about dinosaurs in the **book**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "I have three copies of his first **book**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "Genesis is the first **book** of the Bible.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Board",
+    "examples": [
+      {
+        "en": "Each player starts the game with four counters on the **board**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "We have to wait to hear back from the **board**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "Room and **board**",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Blackboard",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Blackboard**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Binder",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Binder**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Beaker",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Beaker**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Ballpoint pen",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Ballpoint pen**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Bag",
+    "examples": [
+      {
+        "en": "Acid House is not my **bag**: I prefer the more traditional styles of music.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "The grounder hit the **bag** and bounced over the fielder’s head.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "He headed back to the **bag**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Backpack",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Backpack**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Funnel",
+    "examples": [
+      {
+        "en": "Expect delays where the traffic **funnel**s down to one lane.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      },
+      {
+        "en": "Our taxes are being **funnel**led into pointless government initiatives.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  }
+]

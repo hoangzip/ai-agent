@@ -1,0 +1,230 @@
+[
+  {
+    "word": "Red",
+    "antonyms": [
+      {
+        "word": "nonred",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonred/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unred",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unred/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "antired",
+        "partOfSpeech": "noun",
+        "pronunciation": "/antired/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cream",
+    "antonyms": []
+  },
+  {
+    "word": "Purple",
+    "antonyms": [
+      {
+        "word": "nonpurple",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonpurple/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Black",
+    "antonyms": [
+      {
+        "word": "white",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waɪt/",
+        "meaning": "Màu trắng"
+      },
+      {
+        "word": "nonblack",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonblack/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unblack",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unblack/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bright",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹaɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Gray",
+    "antonyms": []
+  },
+  {
+    "word": "Silver",
+    "antonyms": []
+  },
+  {
+    "word": "Gold",
+    "antonyms": []
+  },
+  {
+    "word": "Copper",
+    "antonyms": []
+  },
+  {
+    "word": "Green",
+    "antonyms": [
+      {
+        "word": "nongreen",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nongreen/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ungreen",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ungreen/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "antigreen",
+        "partOfSpeech": "noun",
+        "pronunciation": "/antigreen/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "processed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/processed/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pink",
+    "antonyms": []
+  },
+  {
+    "word": "Yellow",
+    "antonyms": [
+      {
+        "word": "green",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡriːn/",
+        "meaning": "Màu xanh lá cây"
+      },
+      {
+        "word": "red",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rɛd/",
+        "meaning": "Màu đỏ"
+      },
+      {
+        "word": "nonyellow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonyellow/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unyellow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unyellow/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Brown",
+    "antonyms": [
+      {
+        "word": "nonbrown",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonbrown/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Blue",
+    "antonyms": [
+      {
+        "word": "nonblue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonblue/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unblue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unblue/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "antiblue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/antiblue/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Chestnut",
+    "antonyms": []
+  },
+  {
+    "word": "Turquoise",
+    "antonyms": []
+  },
+  {
+    "word": "Navy blue",
+    "antonyms": []
+  },
+  {
+    "word": "Bright red",
+    "antonyms": []
+  },
+  {
+    "word": "Vivid",
+    "antonyms": []
+  },
+  {
+    "word": "White",
+    "antonyms": [
+      {
+        "word": "black",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blæk/",
+        "meaning": "Màu đen"
+      },
+      {
+        "word": "nonwhite",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonwhite/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unwhite",
+        "partOfSpeech": "noun",
+        "pronunciation": "/unwhite/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tanned",
+        "partOfSpeech": "verb",
+        "pronunciation": "/tanned/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

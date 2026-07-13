@@ -1,0 +1,441 @@
+[
+  {
+    "word": "Radiologist",
+    "rootWord": "Radiologist",
+    "members": [
+      {
+        "word": "radiologist",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/radiologist/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Emergency room",
+    "rootWord": "Emergency room",
+    "members": [
+      {
+        "word": "emergency room",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/emergency room/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Obstetrician",
+    "rootWord": "Obstetrician",
+    "members": [
+      {
+        "word": "obstetrician",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/obstetrician/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Operating room",
+    "rootWord": "Operating room",
+    "members": [
+      {
+        "word": "operating room",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/operating room/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Needle",
+    "rootWord": "Needle",
+    "members": [
+      {
+        "word": "needle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/needle/",
+        "meaning": ""
+      },
+      {
+        "word": "needleful",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/needleful/",
+        "meaning": "Nhiều chỉ như được đưa vào kim cùng một lúc."
+      }
+    ]
+  },
+  {
+    "word": "Laboratory",
+    "rootWord": "Laboratory",
+    "members": [
+      {
+        "word": "laboratory",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/laboratory/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pharmacy",
+    "rootWord": "Pharmacy",
+    "members": [
+      {
+        "word": "pharmacy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pharmacy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hospital bed",
+    "rootWord": "Hospital bed",
+    "members": [
+      {
+        "word": "hospital bed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hospital bed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Call button",
+    "rootWord": "Call button",
+    "members": [
+      {
+        "word": "call button",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/call button/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Doctor",
+    "rootWord": "Doctor",
+    "members": [
+      {
+        "word": "doctor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/doctor/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nurse",
+    "rootWord": "Nurse",
+    "members": [
+      {
+        "word": "nurse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nurse/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Gurney",
+    "rootWord": "Gurney",
+    "members": [
+      {
+        "word": "gurney",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gurney/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Waiting room",
+    "rootWord": "Waiting room",
+    "members": [
+      {
+        "word": "waiting room",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waiting room/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Surgeon",
+    "rootWord": "Surgeon",
+    "members": [
+      {
+        "word": "surgeon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/surgeon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Midwife",
+    "rootWord": "Midwife",
+    "members": [
+      {
+        "word": "midwife",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/midwife/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Injection",
+    "rootWord": "Injection",
+    "members": [
+      {
+        "word": "injection",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/injection/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Calcium",
+    "rootWord": "Calcium",
+    "members": [
+      {
+        "word": "calcium",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/calcium/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hospital",
+    "rootWord": "Hospital",
+    "members": [
+      {
+        "word": "hospital",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hospital/",
+        "meaning": ""
+      },
+      {
+        "word": "hospitality",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hɒs.pɪˈtæl.ɪ.ti/",
+        "meaning": "hospitality"
+      },
+      {
+        "word": "hospitaler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hospitaler/",
+        "meaning": "Một người đi thăm trong một tổ chức tôn giáo."
+      }
+    ]
+  },
+  {
+    "word": "Crutch",
+    "rootWord": "Crutch",
+    "members": [
+      {
+        "word": "crutch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crutch/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wheelchair",
+    "rootWord": "Wheelchair",
+    "members": [
+      {
+        "word": "wheelchair",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wheelchair/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Paramedic",
+    "rootWord": "Paramedic",
+    "members": [
+      {
+        "word": "paramedic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paramedic/",
+        "meaning": ""
+      },
+      {
+        "word": "paramedical",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paramedical/",
+        "meaning": "Một cá nhân được đào tạo để ổn định về mặt y tế cho mọi người thông qua các biện pháp can thiệp khác nhau, nạn nhân của chấn thương hoặc các sự kiện y tế bên ngoài bệnh viện và chuẩn bị đưa họ đến cơ sở y tế."
+      }
+    ]
+  },
+  {
+    "word": "Stretcher",
+    "rootWord": "Stretcher",
+    "members": [
+      {
+        "word": "stretcher",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stretcher/",
+        "meaning": ""
+      },
+      {
+        "word": "stretch",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɹɛtʃ/",
+        "meaning": "Một hành động duỗi người."
+      }
+    ]
+  },
+  {
+    "word": "Rush",
+    "rootWord": "Rush",
+    "members": [
+      {
+        "word": "rush",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rush/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Treat",
+    "rootWord": "Treat",
+    "members": [
+      {
+        "word": "treat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/treat/",
+        "meaning": ""
+      },
+      {
+        "word": "treatment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɹiːtmənt/",
+        "meaning": "Quá trình hoặc cách đối xử với ai đó hoặc một cái gì đó."
+      }
+    ]
+  },
+  {
+    "word": "Condition",
+    "rootWord": "Condition",
+    "members": [
+      {
+        "word": "condition",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/condition/",
+        "meaning": ""
+      },
+      {
+        "word": "condiment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɒn.dɪ.mənt/",
+        "meaning": "Một cái gì đó được sử dụng để tăng cường hương vị của thực phẩm; ví dụ, muối hoặc hạt tiêu."
+      }
+    ]
+  },
+  {
+    "word": "Recovery",
+    "rootWord": "Recovery",
+    "members": [
+      {
+        "word": "recovery",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/recovery/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Suer",
+    "rootWord": "Suer",
+    "members": [
+      {
+        "word": "suer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/suer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Deteriorate",
+    "rootWord": "Deteriorate",
+    "members": [
+      {
+        "word": "deteriorate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/deteriorate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coma",
+    "rootWord": "Coma",
+    "members": [
+      {
+        "word": "coma",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coma/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Common cold",
+    "rootWord": "Common cold",
+    "members": [
+      {
+        "word": "common cold",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/common cold/",
+        "meaning": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "word": "Radiologist",
+    "synonyms": [
+      {
+        "word": "shadow gazer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shadow gazer/",
+        "meaning": "cái nhìn chằm chằm vào bóng tối"
+      }
+    ]
+  },
+  {
+    "word": "Emergency room",
+    "synonyms": [
+      {
+        "word": "A&E",
+        "partOfSpeech": "noun",
+        "pronunciation": "/A&E/",
+        "meaning": "A + E"
+      },
+      {
+        "word": "accident and emergency",
+        "partOfSpeech": "noun",
+        "pronunciation": "/accident and emergency/",
+        "meaning": "tai nạn và trường hợp khẩn cấp"
+      },
+      {
+        "word": "ER",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɜː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "EW",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪʊ̯/",
+        "meaning": "- Eww!"
+      }
+    ]
+  },
+  {
+    "word": "Obstetrician",
+    "synonyms": [
+      {
+        "word": "tocologist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tocologist/",
+        "meaning": "bác sĩ chuyên khoa ung thư"
+      }
+    ]
+  },
+  {
+    "word": "Operating room",
+    "synonyms": [
+      {
+        "word": "operating theatre",
+        "partOfSpeech": "noun",
+        "pronunciation": "/operating theatre/",
+        "meaning": "Phòng mổ"
+      }
+    ]
+  },
+  {
+    "word": "Needle",
+    "synonyms": [
+      {
+        "word": "goad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡəʊd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tease",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tiːz/",
+        "meaning": "[Trêu ghẹo]"
+      }
+    ]
+  },
+  {
+    "word": "Laboratory",
+    "synonyms": []
+  },
+  {
+    "word": "Pharmacy",
+    "synonyms": []
+  },
+  {
+    "word": "Hospital bed",
+    "synonyms": []
+  },
+  {
+    "word": "Call button",
+    "synonyms": []
+  },
+  {
+    "word": "Doctor",
+    "synonyms": [
+      {
+        "word": "GP",
+        "partOfSpeech": "noun",
+        "pronunciation": "/GP/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "doc",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɒk/",
+        "meaning": "thầy thuốc"
+      },
+      {
+        "word": "family doctor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/family doctor/",
+        "meaning": "Với bác sĩ gia đình"
+      },
+      {
+        "word": "general practitioner",
+        "partOfSpeech": "noun",
+        "pronunciation": "/general practitioner/",
+        "meaning": "Bác sĩ đa khoa"
+      }
+    ]
+  },
+  {
+    "word": "Nurse",
+    "synonyms": [
+      {
+        "word": "sip",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sɪp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "husband",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhʌz.bənd/",
+        "meaning": "Chồng"
+      }
+    ]
+  },
+  {
+    "word": "Gurney",
+    "synonyms": [
+      {
+        "word": "trolley",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtrɒl.i/",
+        "meaning": "Xe đẩy"
+      }
+    ]
+  },
+  {
+    "word": "Waiting room",
+    "synonyms": []
+  },
+  {
+    "word": "Surgeon",
+    "synonyms": [
+      {
+        "word": "chirurgeon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chirurgeon/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sawbones",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sawbones/",
+        "meaning": "xương cưa"
+      }
+    ]
+  },
+  {
+    "word": "Midwife",
+    "synonyms": [
+      {
+        "word": "accoucheuse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/accoucheuse/",
+        "meaning": "bồi thường thiệt hại"
+      }
+    ]
+  },
+  {
+    "word": "Injection",
+    "synonyms": []
+  },
+  {
+    "word": "Calcium",
+    "synonyms": []
+  },
+  {
+    "word": "Hospital",
+    "synonyms": [
+      {
+        "word": "infirmary",
+        "partOfSpeech": "noun",
+        "pronunciation": "/infirmary/",
+        "meaning": "bệnh viện"
+      },
+      {
+        "word": "sickhouse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sickhouse/",
+        "meaning": "nhà thương"
+      }
+    ]
+  },
+  {
+    "word": "Crutch",
+    "synonyms": []
+  },
+  {
+    "word": "Wheelchair",
+    "synonyms": []
+  },
+  {
+    "word": "Paramedic",
+    "synonyms": []
+  },
+  {
+    "word": "Stretcher",
+    "synonyms": []
+  },
+  {
+    "word": "Rush",
+    "synonyms": []
+  },
+  {
+    "word": "Treat",
+    "synonyms": [
+      {
+        "word": "leech",
+        "partOfSpeech": "noun",
+        "pronunciation": "/liːtʃ/",
+        "meaning": "đỉa"
+      },
+      {
+        "word": "make better",
+        "partOfSpeech": "noun",
+        "pronunciation": "/make better/",
+        "meaning": "làm tốt hơn"
+      },
+      {
+        "word": "behandle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/behandle/",
+        "meaning": "hành lang"
+      }
+    ]
+  },
+  {
+    "word": "Condition",
+    "synonyms": [
+      {
+        "word": "fettle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fettle/",
+        "meaning": "cây tầm ma"
+      }
+    ]
+  },
+  {
+    "word": "Recovery",
+    "synonyms": []
+  },
+  {
+    "word": "Suer",
+    "synonyms": []
+  },
+  {
+    "word": "Deteriorate",
+    "synonyms": [
+      {
+        "word": "degenerate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/degenerate/",
+        "meaning": "Bọn suy đồi."
+      },
+      {
+        "word": "go off",
+        "partOfSpeech": "noun",
+        "pronunciation": "/go off/",
+        "meaning": "tắt"
+      },
+      {
+        "word": "nerf",
+        "partOfSpeech": "verb",
+        "pronunciation": "/nerf/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "weaken",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwikən/",
+        "meaning": "-: Suy yếu"
+      }
+    ]
+  },
+  {
+    "word": "Coma",
+    "synonyms": []
+  },
+  {
+    "word": "Common cold",
+    "synonyms": [
+      {
+        "word": "acute",
+        "partOfSpeech": "noun",
+        "pronunciation": "/acute/",
+        "meaning": "cấp"
+      },
+      {
+        "word": "nasopharyngitis",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nasopharyngitis/",
+        "meaning": "Cảm lạnh thông thường"
+      },
+      {
+        "word": "viral",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈvaɪɹəl/",
+        "meaning": "nổi tiếng"
+      },
+      {
+        "word": "coryza",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəˈɹɑɪ̯.zə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

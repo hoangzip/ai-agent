@@ -1,0 +1,389 @@
+[
+  {
+    "word": "Lamp",
+    "rootWord": "Lamp",
+    "members": [
+      {
+        "word": "lamp",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lamp/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pillowcase",
+    "rootWord": "Pillowcase",
+    "members": [
+      {
+        "word": "pillowcase",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pillowcase/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Curtain",
+    "rootWord": "Curtain",
+    "members": [
+      {
+        "word": "curtain",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/curtain/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bed",
+    "rootWord": "Bed",
+    "members": [
+      {
+        "word": "bed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mirror",
+    "rootWord": "Mirror",
+    "members": [
+      {
+        "word": "mirror",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mirror/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cushion",
+    "rootWord": "Cushion",
+    "members": [
+      {
+        "word": "cushion",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cushion/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wardrobe",
+    "rootWord": "Wardrobe",
+    "members": [
+      {
+        "word": "wardrobe",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wardrobe/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Fitted carpet",
+    "rootWord": "Fitted carpet",
+    "members": [
+      {
+        "word": "fitted carpet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fitted carpet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dressing table",
+    "rootWord": "Dressing table",
+    "members": [
+      {
+        "word": "dressing table",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dressing table/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wallpaper",
+    "rootWord": "Wallpaper",
+    "members": [
+      {
+        "word": "wallpaper",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wallpaper/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pillow",
+    "rootWord": "Pillow",
+    "members": [
+      {
+        "word": "pillow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pillow/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Carpet",
+    "rootWord": "Carpet",
+    "members": [
+      {
+        "word": "carpet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/carpet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Blind",
+    "rootWord": "Blind",
+    "members": [
+      {
+        "word": "blind",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blind/",
+        "meaning": ""
+      },
+      {
+        "word": "blindness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈblaɪndnəs/",
+        "meaning": "blindness"
+      },
+      {
+        "word": "blindly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈblaɪndli/",
+        "meaning": "blindly"
+      },
+      {
+        "word": "blinder",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/blinder/",
+        "meaning": "blinder"
+      }
+    ]
+  },
+  {
+    "word": "Mattress",
+    "rootWord": "Mattress",
+    "members": [
+      {
+        "word": "mattress",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mattress/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bedspread",
+    "rootWord": "Bedspread",
+    "members": [
+      {
+        "word": "bedspread",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bedspread/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Blanket",
+    "rootWord": "Blanket",
+    "members": [
+      {
+        "word": "blanket",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blanket/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jewelry",
+    "rootWord": "Jewelry",
+    "members": [
+      {
+        "word": "jewelry",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jewelry/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Alarm clock",
+    "rootWord": "Alarm clock",
+    "members": [
+      {
+        "word": "alarm clock",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/alarm clock/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Air conditioner",
+    "rootWord": "Air conditioner",
+    "members": [
+      {
+        "word": "air conditioner",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/air conditioner/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Box spring",
+    "rootWord": "Box spring",
+    "members": [
+      {
+        "word": "box spring",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/box spring/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Comforter",
+    "rootWord": "Comforter",
+    "members": [
+      {
+        "word": "comforter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/comforter/",
+        "meaning": ""
+      },
+      {
+        "word": "comfort",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkʊm.fət/",
+        "meaning": "comfort"
+      },
+      {
+        "word": "comfortable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkʌmftəbl/ - /ˈkʌmfətəbl/",
+        "meaning": "Thoải mái"
+      },
+      {
+        "word": "comfortless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkʌm.fət.ləs/",
+        "meaning": "comfortless"
+      }
+    ]
+  },
+  {
+    "word": "Hanger",
+    "rootWord": "Hanger",
+    "members": [
+      {
+        "word": "hanger",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hanger/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Closet",
+    "rootWord": "Closet",
+    "members": [
+      {
+        "word": "closet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/closet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Comb",
+    "rootWord": "Comb",
+    "members": [
+      {
+        "word": "comb",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/comb/",
+        "meaning": ""
+      },
+      {
+        "word": "comber",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkəʊmə/",
+        "meaning": "comber"
+      }
+    ]
+  },
+  {
+    "word": "Light switch",
+    "rootWord": "Light switch",
+    "members": [
+      {
+        "word": "light switch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/light switch/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chest of drawers",
+    "rootWord": "Chest of drawers",
+    "members": [
+      {
+        "word": "chest of drawers",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chest of drawers/",
+        "meaning": ""
+      }
+    ]
+  }
+]

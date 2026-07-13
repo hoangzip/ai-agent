@@ -1,0 +1,540 @@
+[
+  {
+    "word": "Skirt",
+    "synonyms": []
+  },
+  {
+    "word": "Leggings",
+    "synonyms": []
+  },
+  {
+    "word": "Overalls",
+    "synonyms": [
+      {
+        "word": "overslop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/overslop/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "slop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/slɒp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "boiler suit",
+        "partOfSpeech": "noun",
+        "pronunciation": "/boiler suit/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "coveralls",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coveralls/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Turtleneck",
+    "synonyms": [
+      {
+        "word": "polo neck",
+        "partOfSpeech": "noun",
+        "pronunciation": "/polo neck/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "turtleneck collar",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turtleneck collar/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "polo neck sweater",
+        "partOfSpeech": "noun",
+        "pronunciation": "/polo neck sweater/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "turtleneck sweater",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turtleneck sweater/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bow tie",
+    "synonyms": []
+  },
+  {
+    "word": "Tie",
+    "synonyms": [
+      {
+        "word": "bond",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɒnd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "draw",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɹɔː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "necktie",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnɛk.taɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sleeper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleeper/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tunic",
+    "synonyms": []
+  },
+  {
+    "word": "Vest",
+    "synonyms": [
+      {
+        "word": "waistcoat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈweɪs(t)kəʊt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "singlet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɪŋɡlɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tank top",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tank top/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "undershirt",
+        "partOfSpeech": "noun",
+        "pronunciation": "/undershirt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "T-shirt",
+    "synonyms": [
+      {
+        "word": "tee",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tiː/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Shirt",
+    "synonyms": []
+  },
+  {
+    "word": "Jeans",
+    "synonyms": []
+  },
+  {
+    "word": "Dress",
+    "synonyms": [
+      {
+        "word": "bandage",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbændɪdʒ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "clothe",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkləʊð/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "don",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɒn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "get dressed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/get dres/",
+        "meaning": "Mặc quần áo"
+      }
+    ]
+  },
+  {
+    "word": "Coat",
+    "synonyms": []
+  },
+  {
+    "word": "Jacket",
+    "synonyms": [
+      {
+        "word": "coat",
+        "partOfSpeech": "noun",
+        "pronunciation": "/koʊt/",
+        "meaning": "Áo khoác"
+      },
+      {
+        "word": "sleeve",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sliːv/",
+        "meaning": "Tay áo"
+      }
+    ]
+  },
+  {
+    "word": "Sweater",
+    "synonyms": [
+      {
+        "word": "sweatshirt",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweatshirt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cardigan",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɑːdɪɡən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "jersey",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdʒɜːzi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "jumper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jumper/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Jumpsuit",
+    "synonyms": []
+  },
+  {
+    "word": "Shorts",
+    "synonyms": []
+  },
+  {
+    "word": "Suit",
+    "synonyms": [
+      {
+        "word": "agree",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈɡɹi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "answer",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈæn.sər/",
+        "meaning": "Trả lời"
+      },
+      {
+        "word": "match",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mæt͡ʃ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Anorak",
+    "synonyms": []
+  },
+  {
+    "word": "Hat",
+    "synonyms": [
+      {
+        "word": "gold hatband",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gold hatband/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tuft",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tʌft/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cap",
+    "synonyms": []
+  },
+  {
+    "word": "Glove",
+    "synonyms": []
+  },
+  {
+    "word": "Scarf",
+    "synonyms": []
+  },
+  {
+    "word": "Sandals",
+    "synonyms": []
+  },
+  {
+    "word": "Slippers",
+    "synonyms": [
+      {
+        "word": "babouche",
+        "partOfSpeech": "noun",
+        "pronunciation": "/babouche/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pantofle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/panˈtɒfl̩/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "flip-flop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈflɪpˌflɒp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sandal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsændəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pocket",
+    "synonyms": [
+      {
+        "word": "pot",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɒt/",
+        "meaning": "Nồi"
+      },
+      {
+        "word": "trouser",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɹaʊzə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pocket-size",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/pocket-size/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pocket-sized",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/pocket-sized/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sleeve",
+    "synonyms": []
+  },
+  {
+    "word": "Collar",
+    "synonyms": []
+  },
+  {
+    "word": "Zip",
+    "synonyms": [
+      {
+        "word": "slide fastener",
+        "partOfSpeech": "noun",
+        "pronunciation": "/slide fastener/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "zip fastener",
+        "partOfSpeech": "noun",
+        "pronunciation": "/zip fastener/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "zipper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/zipper/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "whizz",
+        "partOfSpeech": "noun",
+        "pronunciation": "/whizz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Blouse",
+    "synonyms": [
+      {
+        "word": "bodice",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɒdɪs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Button",
+    "synonyms": [
+      {
+        "word": "button",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʌt.ən/",
+        "meaning": "Khuy, nút"
+      },
+      {
+        "word": "endpin",
+        "partOfSpeech": "noun",
+        "pronunciation": "/endpin/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Underwear",
+    "synonyms": [
+      {
+        "word": "shreddies",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shreddies/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "underclothes",
+        "partOfSpeech": "noun",
+        "pronunciation": "/underclothes/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "undergarment",
+        "partOfSpeech": "noun",
+        "pronunciation": "/undergarment/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "undies",
+        "partOfSpeech": "verb",
+        "pronunciation": "/undies/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bra",
+    "synonyms": [
+      {
+        "word": "bra",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brɑː/",
+        "meaning": "Áo ngực"
+      }
+    ]
+  },
+  {
+    "word": "Pants",
+    "synonyms": [
+      {
+        "word": "breeks",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹiːks/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "britches",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɹɪtʃɪz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hosen",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hosen/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "slacks",
+        "partOfSpeech": "noun",
+        "pronunciation": "/slacks/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Belt",
+    "synonyms": [
+      {
+        "word": "restraint",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈstɹeɪnt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "safety belt",
+        "partOfSpeech": "noun",
+        "pronunciation": "/safety belt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "seat belt",
+        "partOfSpeech": "noun",
+        "pronunciation": "/seat belt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "girdle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡɜːdl̩/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "High heels",
+    "synonyms": [
+      {
+        "word": "heels",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hiːlz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Try on",
+    "synonyms": []
+  },
+  {
+    "word": "Size",
+    "synonyms": []
+  }
+]

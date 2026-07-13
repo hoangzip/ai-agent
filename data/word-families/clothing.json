@@ -1,0 +1,657 @@
+[
+  {
+    "word": "Skirt",
+    "rootWord": "Skirt",
+    "members": [
+      {
+        "word": "skirt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skirt/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Leggings",
+    "rootWord": "Leggings",
+    "members": [
+      {
+        "word": "leggings",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/leggings/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Overalls",
+    "rootWord": "Overalls",
+    "members": [
+      {
+        "word": "overalls",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/overalls/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Turtleneck",
+    "rootWord": "Turtleneck",
+    "members": [
+      {
+        "word": "turtleneck",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/turtleneck/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bow tie",
+    "rootWord": "Bow tie",
+    "members": [
+      {
+        "word": "bow tie",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bow tie/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tie",
+    "rootWord": "Tie",
+    "members": [
+      {
+        "word": "tie",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tie/",
+        "meaning": ""
+      },
+      {
+        "word": "tier",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtaɪ.ə(ɹ)/",
+        "meaning": "tier"
+      }
+    ]
+  },
+  {
+    "word": "Tunic",
+    "rootWord": "Tunic",
+    "members": [
+      {
+        "word": "tunic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tunic/",
+        "meaning": ""
+      },
+      {
+        "word": "tunicate",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tunicate/",
+        "meaning": "tunicate"
+      }
+    ]
+  },
+  {
+    "word": "Vest",
+    "rootWord": "Vest",
+    "members": [
+      {
+        "word": "vest",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vest/",
+        "meaning": ""
+      },
+      {
+        "word": "vestment",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈvɛstmənt/",
+        "meaning": "vestment"
+      },
+      {
+        "word": "vestal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈvɛs.t(ə)l/",
+        "meaning": "vestal"
+      }
+    ]
+  },
+  {
+    "word": "T-shirt",
+    "rootWord": "T-shirt",
+    "members": [
+      {
+        "word": "t-shirt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/t-shirt/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shirt",
+    "rootWord": "Shirt",
+    "members": [
+      {
+        "word": "shirt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shirt/",
+        "meaning": ""
+      },
+      {
+        "word": "shirty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/shirty/",
+        "meaning": "shirty"
+      },
+      {
+        "word": "shirtless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/shirtless/",
+        "meaning": "shirtless"
+      }
+    ]
+  },
+  {
+    "word": "Jeans",
+    "rootWord": "Jeans",
+    "members": [
+      {
+        "word": "jeans",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jeans/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dress",
+    "rootWord": "Dress",
+    "members": [
+      {
+        "word": "dress",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dress/",
+        "meaning": ""
+      },
+      {
+        "word": "dressy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdɹɛsi/",
+        "meaning": "dressy"
+      },
+      {
+        "word": "dresser",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɹɛsə/",
+        "meaning": "dresser"
+      }
+    ]
+  },
+  {
+    "word": "Coat",
+    "rootWord": "Coat",
+    "members": [
+      {
+        "word": "coat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coat/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jacket",
+    "rootWord": "Jacket",
+    "members": [
+      {
+        "word": "jacket",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jacket/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sweater",
+    "rootWord": "Sweater",
+    "members": [
+      {
+        "word": "sweater",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweater/",
+        "meaning": ""
+      },
+      {
+        "word": "sweaty",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈswɛɾi]",
+        "meaning": "sweaty"
+      },
+      {
+        "word": "sweat",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swɛt/",
+        "meaning": "sweat"
+      }
+    ]
+  },
+  {
+    "word": "Jumpsuit",
+    "rootWord": "Jumpsuit",
+    "members": [
+      {
+        "word": "jumpsuit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jumpsuit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shorts",
+    "rootWord": "Shorts",
+    "members": [
+      {
+        "word": "shorts",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shorts/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Suit",
+    "rootWord": "Suit",
+    "members": [
+      {
+        "word": "suit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/suit/",
+        "meaning": ""
+      },
+      {
+        "word": "suitable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsuː.tə.bəl/",
+        "meaning": "Phù hợp, thích hợp"
+      },
+      {
+        "word": "suitor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/suitor/",
+        "meaning": "suitor"
+      }
+    ]
+  },
+  {
+    "word": "Anorak",
+    "rootWord": "Anorak",
+    "members": [
+      {
+        "word": "anorak",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/anorak/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hat",
+    "rootWord": "Hat",
+    "members": [
+      {
+        "word": "hat",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hat/",
+        "meaning": ""
+      },
+      {
+        "word": "hater",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈheɪtə(ɹ)/",
+        "meaning": "hater"
+      }
+    ]
+  },
+  {
+    "word": "Cap",
+    "rootWord": "Cap",
+    "members": [
+      {
+        "word": "cap",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cap/",
+        "meaning": ""
+      },
+      {
+        "word": "caption",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkæp.ʃən/",
+        "meaning": "caption"
+      },
+      {
+        "word": "capable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkeɪpəbl̩/",
+        "meaning": "capable"
+      },
+      {
+        "word": "caper",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkeɪpə/",
+        "meaning": "caper"
+      }
+    ]
+  },
+  {
+    "word": "Glove",
+    "rootWord": "Glove",
+    "members": [
+      {
+        "word": "glove",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/glove/",
+        "meaning": ""
+      },
+      {
+        "word": "glover",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡlʌvə/",
+        "meaning": "glover"
+      }
+    ]
+  },
+  {
+    "word": "Scarf",
+    "rootWord": "Scarf",
+    "members": [
+      {
+        "word": "scarf",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scarf/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sandals",
+    "rootWord": "Sandals",
+    "members": [
+      {
+        "word": "sandals",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sandals/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Slippers",
+    "rootWord": "Slippers",
+    "members": [
+      {
+        "word": "slippers",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/slippers/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pocket",
+    "rootWord": "Pocket",
+    "members": [
+      {
+        "word": "pocket",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pocket/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sleeve",
+    "rootWord": "Sleeve",
+    "members": [
+      {
+        "word": "sleeve",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleeve/",
+        "meaning": ""
+      },
+      {
+        "word": "sleeveen",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleeveen/",
+        "meaning": "sleeveen"
+      },
+      {
+        "word": "sleeveless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sleeveless/",
+        "meaning": "sleeveless"
+      }
+    ]
+  },
+  {
+    "word": "Collar",
+    "rootWord": "Collar",
+    "members": [
+      {
+        "word": "collar",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/collar/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Zip",
+    "rootWord": "Zip",
+    "members": [
+      {
+        "word": "zip",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/zip/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Blouse",
+    "rootWord": "Blouse",
+    "members": [
+      {
+        "word": "blouse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blouse/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Button",
+    "rootWord": "Button",
+    "members": [
+      {
+        "word": "button",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/button/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Underwear",
+    "rootWord": "Underwear",
+    "members": [
+      {
+        "word": "underwear",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/underwear/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bra",
+    "rootWord": "Bra",
+    "members": [
+      {
+        "word": "bra",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bra/",
+        "meaning": ""
+      },
+      {
+        "word": "bray",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹeɪ/",
+        "meaning": "bray"
+      }
+    ]
+  },
+  {
+    "word": "Pants",
+    "rootWord": "Pants",
+    "members": [
+      {
+        "word": "pants",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pants/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Belt",
+    "rootWord": "Belt",
+    "members": [
+      {
+        "word": "belt",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/belt/",
+        "meaning": ""
+      },
+      {
+        "word": "belter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɛltə/",
+        "meaning": "belter"
+      }
+    ]
+  },
+  {
+    "word": "High heels",
+    "rootWord": "High heels",
+    "members": [
+      {
+        "word": "high heels",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/high heels/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Try on",
+    "rootWord": "Try on",
+    "members": [
+      {
+        "word": "try on",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/try on/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Size",
+    "rootWord": "Size",
+    "members": [
+      {
+        "word": "size",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/size/",
+        "meaning": ""
+      },
+      {
+        "word": "sizable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsaɪzəbəl/",
+        "meaning": "sizable"
+      },
+      {
+        "word": "sizeable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sizeable/",
+        "meaning": "sizeable"
+      }
+    ]
+  }
+]

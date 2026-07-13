@@ -1,0 +1,945 @@
+[
+  {
+    "familyId": "music",
+    "rootWord": "music",
+    "members": [
+      {
+        "word": "music",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmjuːzɪk/",
+        "meaning": "âm nhạc",
+        "relation": "root word"
+      },
+      {
+        "word": "musician",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mjuˈzɪʃn/",
+        "meaning": "nhạc sĩ, nhạc công",
+        "relation": "person noun"
+      },
+      {
+        "word": "musical",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈmjuːzɪkl/",
+        "meaning": "thuộc về âm nhạc / có năng khiếu âm nhạc",
+        "relation": "adjective"
+      },
+      {
+        "word": "musically",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈmjuːzɪkli/",
+        "meaning": "một cách nhạc tính / về mặt âm nhạc",
+        "relation": "adverb"
+      },
+      {
+        "word": "musicianship",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mjuˈzɪʃnʃɪp/",
+        "meaning": "tài nghệ âm nhạc / tính nhạc sĩ",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "play",
+    "rootWord": "play",
+    "members": [
+      {
+        "word": "play",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pleɪ/",
+        "meaning": "chơi nhạc cụ / biểu diễn",
+        "relation": "root word"
+      },
+      {
+        "word": "play",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pleɪ/",
+        "meaning": "vở kịch / lượt chơi",
+        "relation": "noun"
+      },
+      {
+        "word": "player",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpleɪə(r)/",
+        "meaning": "người chơi, nhạc công",
+        "relation": "person noun"
+      },
+      {
+        "word": "playable",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpleɪəbl/",
+        "meaning": "có thể chơi được",
+        "relation": "adjective"
+      },
+      {
+        "word": "playlist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpleɪlɪst/",
+        "meaning": "danh sách phát nhạc",
+        "relation": "related form"
+      },
+      {
+        "word": "playful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpleɪfl/",
+        "meaning": "vui vẻ, nghịch ngợm",
+        "relation": "adjective"
+      },
+      {
+        "word": "playfully",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈpleɪfəli/",
+        "meaning": "một cách nghịch ngợm",
+        "relation": "adverb"
+      }
+    ]
+  },
+  {
+    "familyId": "perform",
+    "rootWord": "perform",
+    "members": [
+      {
+        "word": "perform",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pəˈfɔːm/",
+        "meaning": "biểu diễn, trình diễn",
+        "relation": "root word"
+      },
+      {
+        "word": "performance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pəˈfɔːməns/",
+        "meaning": "buổi biểu diễn / hiệu suất",
+        "relation": "noun"
+      },
+      {
+        "word": "performer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pəˈfɔːmə(r)/",
+        "meaning": "người biểu diễn, nghệ sĩ",
+        "relation": "person noun"
+      },
+      {
+        "word": "performing",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/pəˈfɔːmɪŋ/",
+        "meaning": "đang biểu diễn / mang tính trình diễn",
+        "relation": "adjective"
+      }
+    ]
+  },
+  {
+    "familyId": "drum",
+    "rootWord": "drum",
+    "members": [
+      {
+        "word": "drum",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drʌm/",
+        "meaning": "cái trống",
+        "relation": "root word"
+      },
+      {
+        "word": "drum",
+        "partOfSpeech": "verb",
+        "pronunciation": "/drʌm/",
+        "meaning": "đánh trống, gõ nhịp",
+        "relation": "verb"
+      },
+      {
+        "word": "drummer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdrʌmə(r)/",
+        "meaning": "tay trống, người chơi trống",
+        "relation": "person noun"
+      },
+      {
+        "word": "drumming",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdrʌmɪŋ/",
+        "meaning": "tiếng gõ trống / hoạt động chơi trống",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "sing",
+    "rootWord": "sing",
+    "members": [
+      {
+        "word": "sing",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sɪŋ/",
+        "meaning": "hát",
+        "relation": "root word"
+      },
+      {
+        "word": "song",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sɒŋ/",
+        "meaning": "bài hát",
+        "relation": "noun"
+      },
+      {
+        "word": "singer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɪŋə(r)/",
+        "meaning": "ca sĩ",
+        "relation": "person noun"
+      },
+      {
+        "word": "singing",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɪŋɪŋ/",
+        "meaning": "tiếng hát / sự ca hát",
+        "relation": "related form"
+      },
+      {
+        "word": "singable",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsɪŋəbl/",
+        "meaning": "dễ hát / có thể hát được",
+        "relation": "adjective"
+      }
+    ]
+  },
+  {
+    "familyId": "guitar",
+    "rootWord": "guitar",
+    "members": [
+      {
+        "word": "guitar",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɪˈtɑː(r)/",
+        "meaning": "đàn ghi-ta",
+        "relation": "root word"
+      },
+      {
+        "word": "guitarist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɪˈtɑːrɪst/",
+        "meaning": "người chơi đàn ghi-ta, nhạc công ghi-ta",
+        "relation": "person noun"
+      }
+    ]
+  },
+  {
+    "familyId": "piano",
+    "rootWord": "piano",
+    "members": [
+      {
+        "word": "piano",
+        "partOfSpeech": "noun",
+        "pronunciation": "/piˈænəʊ/",
+        "meaning": "đàn dương cầm / đàn piano",
+        "relation": "root word"
+      },
+      {
+        "word": "pianist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpiːənɪst/",
+        "meaning": "nghệ sĩ dương cầm, người chơi piano",
+        "relation": "person noun"
+      }
+    ]
+  },
+  {
+    "familyId": "violin",
+    "rootWord": "violin",
+    "members": [
+      {
+        "word": "violin",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌvaɪəˈlɪn/",
+        "meaning": "đàn vĩ cầm / đàn violin",
+        "relation": "root word"
+      },
+      {
+        "word": "violinist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌvaɪəˈlɪnɪst/",
+        "meaning": "nghệ sĩ vĩ cầm, người chơi violin",
+        "relation": "person noun"
+      }
+    ]
+  },
+  {
+    "familyId": "compose",
+    "rootWord": "compose",
+    "members": [
+      {
+        "word": "compose",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kəmˈpəʊz/",
+        "meaning": "sáng tác / soạn nhạc / cấu thành",
+        "relation": "root word"
+      },
+      {
+        "word": "composition",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌkɒmpəˈzɪʃn/",
+        "meaning": "tác phẩm sáng tác / bản nhạc",
+        "relation": "noun"
+      },
+      {
+        "word": "composer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəmˈpəʊzə(r)/",
+        "meaning": "nhà soạn nhạc",
+        "relation": "person noun"
+      },
+      {
+        "word": "composing",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəmˈpəʊzɪŋ/",
+        "meaning": "việc soạn nhạc / sự sáng tác",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "conduct",
+    "rootWord": "conduct",
+    "members": [
+      {
+        "word": "conduct",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kənˈdʌkt/",
+        "meaning": "chỉ huy dàn nhạc / dẫn dắt",
+        "relation": "root word"
+      },
+      {
+        "word": "conductor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈdʌktə(r)/",
+        "meaning": "người chỉ huy dàn nhạc / nhạc trưởng",
+        "relation": "person noun"
+      },
+      {
+        "word": "conductorship",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈdʌktəʃɪp/",
+        "meaning": "vai trò/vị trí người chỉ huy dàn nhạc",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "harmony",
+    "rootWord": "harmony",
+    "members": [
+      {
+        "word": "harmony",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɑːməni/",
+        "meaning": "sự hòa âm / sự hòa hợp",
+        "relation": "root word"
+      },
+      {
+        "word": "harmonize",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈhɑːmənaɪz/",
+        "meaning": "hòa âm / làm cho hài hòa",
+        "relation": "verb"
+      },
+      {
+        "word": "harmonic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/hɑːˈmɒnɪk/",
+        "meaning": "thuộc về hòa âm / du dương",
+        "relation": "adjective"
+      },
+      {
+        "word": "harmonious",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/hɑːˈməʊniəs/",
+        "meaning": "hài hòa / hòa hợp, êm tai",
+        "relation": "adjective"
+      },
+      {
+        "word": "harmoniously",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/hɑːˈməʊniəsli/",
+        "meaning": "một cách hài hòa",
+        "relation": "adverb"
+      },
+      {
+        "word": "harmonization",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌhɑːmənaɪˈzeɪʃn/",
+        "meaning": "sự hòa âm / sự hòa hợp",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "melody",
+    "rootWord": "melody",
+    "members": [
+      {
+        "word": "melody",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmelədi/",
+        "meaning": "giai điệu",
+        "relation": "root word"
+      },
+      {
+        "word": "melodic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/məˈlɒdɪk/",
+        "meaning": "thuộc về giai điệu / du dương",
+        "relation": "adjective"
+      },
+      {
+        "word": "melodious",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/məˈləʊdiəs/",
+        "meaning": "du dương, êm tai",
+        "relation": "adjective"
+      },
+      {
+        "word": "melodiously",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/məˈləʊdiəsli/",
+        "meaning": "một cách du dương, êm ái",
+        "relation": "adverb"
+      }
+    ]
+  },
+  {
+    "familyId": "rhythm",
+    "rootWord": "rhythm",
+    "members": [
+      {
+        "word": "rhythm",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈrɪðəm/",
+        "meaning": "nhịp điệu, tiết tấu",
+        "relation": "root word"
+      },
+      {
+        "word": "rhythmic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈrɪðmɪk/",
+        "meaning": "có nhịp điệu / có tiết tấu",
+        "relation": "adjective"
+      },
+      {
+        "word": "rhythmical",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈrɪðmɪkl/",
+        "meaning": "nhịp nhàng, có nhịp điệu",
+        "relation": "adjective"
+      },
+      {
+        "word": "rhythmically",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈrɪðmɪkli/",
+        "meaning": "một cách nhịp nhàng",
+        "relation": "adverb"
+      }
+    ]
+  },
+  {
+    "familyId": "dance",
+    "rootWord": "dance",
+    "members": [
+      {
+        "word": "dance",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɑːns/",
+        "meaning": "nhảy múa, khiêu vũ",
+        "relation": "root word"
+      },
+      {
+        "word": "dance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɑːns/",
+        "meaning": "điệu nhảy / buổi khiêu vũ",
+        "relation": "noun"
+      },
+      {
+        "word": "dancer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɑːnsə(r)/",
+        "meaning": "vũ công, người khiêu vũ",
+        "relation": "person noun"
+      },
+      {
+        "word": "dancing",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɑːnsɪŋ/",
+        "meaning": "hoạt động khiêu vũ, sự nhảy múa",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "listen",
+    "rootWord": "listen",
+    "members": [
+      {
+        "word": "listen",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈlɪsn/",
+        "meaning": "nghe, lắng nghe",
+        "relation": "root word"
+      },
+      {
+        "word": "listener",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɪsnə(r)/",
+        "meaning": "người nghe",
+        "relation": "person noun"
+      },
+      {
+        "word": "listening",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɪsnɪŋ/",
+        "meaning": "sự lắng nghe / kỹ năng nghe",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "instrument",
+    "rootWord": "instrument",
+    "members": [
+      {
+        "word": "instrument",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɪnstrəmənt/",
+        "meaning": "nhạc cụ, công cụ",
+        "relation": "root word"
+      },
+      {
+        "word": "instrumental",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌɪnstrəˈmentl/",
+        "meaning": "thuộc về nhạc cụ / đóng vai trò quan trọng",
+        "relation": "adjective"
+      },
+      {
+        "word": "instrumentalist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɪnstrəˈmentəlɪst/",
+        "meaning": "nhạc công chơi nhạc cụ",
+        "relation": "person noun"
+      },
+      {
+        "word": "instrumentation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌɪnstrəmenˈteɪʃn/",
+        "meaning": "sự phối dàn nhạc / hệ thống nhạc cụ",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "symphony",
+    "rootWord": "symphony",
+    "members": [
+      {
+        "word": "symphony",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɪmfəni/",
+        "meaning": "bản nhạc giao hưởng / dàn nhạc giao hưởng",
+        "relation": "root word"
+      },
+      {
+        "word": "symphonic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sɪmˈfɒnɪk/",
+        "meaning": "thuộc về giao hưởng / hòa âm",
+        "relation": "adjective"
+      }
+    ]
+  },
+  {
+    "familyId": "opera",
+    "rootWord": "opera",
+    "members": [
+      {
+        "word": "opera",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɒprə/",
+        "meaning": "vở nhạc kịch, opera",
+        "relation": "root word"
+      },
+      {
+        "word": "operatic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌɒpəˈrætɪk/",
+        "meaning": "thuộc về nhạc kịch / mang tính nhạc kịch",
+        "relation": "adjective"
+      }
+    ]
+  },
+  {
+    "familyId": "chorus",
+    "rootWord": "chorus",
+    "members": [
+      {
+        "word": "chorus",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɔːrəs/",
+        "meaning": "điệp khúc / dàn đồng ca, hợp xướng",
+        "relation": "root word"
+      },
+      {
+        "word": "choral",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɔːrəl/",
+        "meaning": "thuộc về dàn đồng ca, hợp xướng",
+        "relation": "adjective"
+      },
+      {
+        "word": "choir",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkwaɪə(r)/",
+        "meaning": "dàn hợp xướng",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "solo",
+    "rootWord": "solo",
+    "members": [
+      {
+        "word": "solo",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsəʊləʊ/",
+        "meaning": "sự biểu diễn đơn ca, đơn diễn",
+        "relation": "root word"
+      },
+      {
+        "word": "soloist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsəʊləʊɪst/",
+        "meaning": "người biểu diễn solo, diễn viên đơn ca",
+        "relation": "person noun"
+      },
+      {
+        "word": "solo",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsəʊləʊ/",
+        "meaning": "đơn độc, một mình",
+        "relation": "adjective"
+      },
+      {
+        "word": "solo",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈsəʊləʊ/",
+        "meaning": "đơn lẻ, một mình",
+        "relation": "adverb"
+      }
+    ]
+  },
+  {
+    "familyId": "voice",
+    "rootWord": "voice",
+    "members": [
+      {
+        "word": "voice",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vɔɪs/",
+        "meaning": "giọng nói, giọng hát",
+        "relation": "root word"
+      },
+      {
+        "word": "voice",
+        "partOfSpeech": "verb",
+        "pronunciation": "/vɔɪs/",
+        "meaning": "bày tỏ ý kiến / phát âm hữu thanh",
+        "relation": "verb"
+      },
+      {
+        "word": "vocal",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈvəʊkl/",
+        "meaning": "thuộc về giọng hát / hữu thanh",
+        "relation": "adjective"
+      },
+      {
+        "word": "vocalist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈvəʊkəlɪst/",
+        "meaning": "ca sĩ, người hát chính",
+        "relation": "person noun"
+      },
+      {
+        "word": "vocally",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈvəʊkəli/",
+        "meaning": "bằng lời nói / bằng giọng hát",
+        "relation": "adverb"
+      }
+    ]
+  },
+  {
+    "familyId": "lyric",
+    "rootWord": "lyric",
+    "members": [
+      {
+        "word": "lyrics",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɪrɪks/",
+        "meaning": "lời bài hát",
+        "relation": "root word"
+      },
+      {
+        "word": "lyric",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈlɪrɪk/",
+        "meaning": "mang tính trữ tình",
+        "relation": "adjective"
+      },
+      {
+        "word": "lyrical",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈlɪrɪkl/",
+        "meaning": "trữ tình, dạt dào cảm xúc",
+        "relation": "adjective"
+      },
+      {
+        "word": "lyrically",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈlɪrɪkli/",
+        "meaning": "một cách trữ tình",
+        "relation": "adverb"
+      },
+      {
+        "word": "lyricist",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɪrɪsɪst/",
+        "meaning": "người viết lời bài hát",
+        "relation": "person noun"
+      }
+    ]
+  },
+  {
+    "familyId": "tune",
+    "rootWord": "tune",
+    "members": [
+      {
+        "word": "tune",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tjuːn/",
+        "meaning": "giai điệu, tông giọng",
+        "relation": "root word"
+      },
+      {
+        "word": "tune",
+        "partOfSpeech": "verb",
+        "pronunciation": "/tjuːn/",
+        "meaning": "lên dây đàn / chỉnh tông nhạc cụ",
+        "relation": "verb"
+      },
+      {
+        "word": "tuneful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈtjuːnfl/",
+        "meaning": "êm tai, du dương",
+        "relation": "adjective"
+      },
+      {
+        "word": "tunefully",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈtjuːnfəli/",
+        "meaning": "một cách du dương",
+        "relation": "adverb"
+      },
+      {
+        "word": "tuneless",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈtjuːnləs/",
+        "meaning": "không có giai điệu, chói tai",
+        "relation": "adjective"
+      },
+      {
+        "word": "tuner",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtjuːnə(r)/",
+        "meaning": "máy lên dây / bộ phận dò đài",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "string",
+    "rootWord": "string",
+    "members": [
+      {
+        "word": "string",
+        "partOfSpeech": "noun",
+        "pronunciation": "/strɪŋ/",
+        "meaning": "dây đàn, sợi dây",
+        "relation": "root word"
+      },
+      {
+        "word": "string",
+        "partOfSpeech": "verb",
+        "pronunciation": "/strɪŋ/",
+        "meaning": "lên dây / xâu chuỗi",
+        "relation": "verb"
+      },
+      {
+        "word": "stringed",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/strɪŋd/",
+        "meaning": "có dây (ví dụ: nhạc cụ có dây)",
+        "relation": "adjective"
+      },
+      {
+        "word": "stringy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈstrɪŋi/",
+        "meaning": "nhiều xơ, nhiều sợi",
+        "relation": "adjective"
+      }
+    ]
+  },
+  {
+    "familyId": "volume",
+    "rootWord": "volume",
+    "members": [
+      {
+        "word": "volume",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈvɒljuːm/",
+        "meaning": "âm lượng / thể tích / cuốn sách",
+        "relation": "root word"
+      },
+      {
+        "word": "voluminous",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/vəˈluːmɪnəs/",
+        "meaning": "đồ sộ, nhiều tập",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "note",
+    "rootWord": "note",
+    "members": [
+      {
+        "word": "note",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nəʊt/",
+        "meaning": "nốt nhạc / ghi chú / lời nhắn",
+        "relation": "root word"
+      },
+      {
+        "word": "note",
+        "partOfSpeech": "verb",
+        "pronunciation": "/nəʊt/",
+        "meaning": "ghi chú / chú ý",
+        "relation": "verb"
+      },
+      {
+        "word": "noteworthy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈnəʊtwɜːði/",
+        "meaning": "đáng chú ý, nổi bật",
+        "relation": "adjective"
+      },
+      {
+        "word": "notebook",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnəʊtbʊk/",
+        "meaning": "cuốn sổ tay",
+        "relation": "related form"
+      },
+      {
+        "word": "notation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nəʊˈteɪʃn/",
+        "meaning": "hệ thống ký hiệu âm nhạc",
+        "relation": "related form"
+      }
+    ]
+  },
+  {
+    "familyId": "band",
+    "rootWord": "band",
+    "members": [
+      {
+        "word": "band",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bænd/",
+        "meaning": "ban nhạc / băng nhóm / đai",
+        "relation": "root word"
+      },
+      {
+        "word": "band",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bænd/",
+        "meaning": "tập hợp lại / quấn đai",
+        "relation": "verb"
+      },
+      {
+        "word": "bandleader",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbændˌliːdər/",
+        "meaning": "trưởng ban nhạc",
+        "relation": "person noun"
+      }
+    ]
+  },
+  {
+    "familyId": "album",
+    "rootWord": "album",
+    "members": [
+      {
+        "word": "album",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈælbəm/",
+        "meaning": "album nhạc / cuốn trưng bày ảnh",
+        "relation": "root word"
+      }
+    ]
+  },
+  {
+    "familyId": "overture",
+    "rootWord": "overture",
+    "members": [
+      {
+        "word": "overture",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈəʊvətjʊə(r)/",
+        "meaning": "khúc dạo đầu, nhạc mở màn",
+        "relation": "root word"
+      }
+    ]
+  },
+  {
+    "familyId": "brass",
+    "rootWord": "brass",
+    "members": [
+      {
+        "word": "brass",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brɑːs/",
+        "meaning": "đồng thau / kèn đồng",
+        "relation": "root word"
+      },
+      {
+        "word": "brassy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbrɑːsi/",
+        "meaning": "chói tai / giống đồng thau",
+        "relation": "adjective"
+      },
+      {
+        "word": "brassware",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbrɑːsweə(r)/",
+        "meaning": "đồ làm từ đồng thau",
+        "relation": "related form"
+      }
+    ]
+  }
+]

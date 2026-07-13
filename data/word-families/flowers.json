@@ -1,0 +1,263 @@
+[
+  {
+    "word": "Lotus",
+    "rootWord": "Lotus",
+    "members": [
+      {
+        "word": "lotus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lotus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lily",
+    "rootWord": "Lily",
+    "members": [
+      {
+        "word": "lily",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lily/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Poppy",
+    "rootWord": "Poppy",
+    "members": [
+      {
+        "word": "poppy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/poppy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bougainvillea",
+    "rootWord": "Bougainvillea",
+    "members": [
+      {
+        "word": "bougainvillea",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bougainvillea/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Gerbera flower",
+    "rootWord": "Gerbera flower",
+    "members": [
+      {
+        "word": "gerbera flower",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gerbera flower/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tuberose",
+    "rootWord": "Tuberose",
+    "members": [
+      {
+        "word": "tuberose",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tuberose/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Apricot blossom",
+    "rootWord": "Apricot blossom",
+    "members": [
+      {
+        "word": "apricot blossom",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/apricot blossom/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dahlia",
+    "rootWord": "Dahlia",
+    "members": [
+      {
+        "word": "dahlia",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dahlia/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jasmine",
+    "rootWord": "Jasmine",
+    "members": [
+      {
+        "word": "jasmine",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jasmine/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sunflower",
+    "rootWord": "Sunflower",
+    "members": [
+      {
+        "word": "sunflower",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sunflower/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Marigold",
+    "rootWord": "Marigold",
+    "members": [
+      {
+        "word": "marigold",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/marigold/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Orchid",
+    "rootWord": "Orchid",
+    "members": [
+      {
+        "word": "orchid",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/orchid/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rose",
+    "rootWord": "Rose",
+    "members": [
+      {
+        "word": "rose",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rose/",
+        "meaning": ""
+      },
+      {
+        "word": "rosy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/rosy/",
+        "meaning": "rosy"
+      },
+      {
+        "word": "roseate",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹəʊzɪət/",
+        "meaning": "roseate"
+      }
+    ]
+  },
+  {
+    "word": "Carnation",
+    "rootWord": "Carnation",
+    "members": [
+      {
+        "word": "carnation",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/carnation/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cherry blossom",
+    "rootWord": "Cherry blossom",
+    "members": [
+      {
+        "word": "cherry blossom",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cherry blossom/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Poinsettia",
+    "rootWord": "Poinsettia",
+    "members": [
+      {
+        "word": "poinsettia",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/poinsettia/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Flamboyant",
+    "rootWord": "Flamboyant",
+    "members": [
+      {
+        "word": "flamboyant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flamboyant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hibiscus",
+    "rootWord": "Hibiscus",
+    "members": [
+      {
+        "word": "hibiscus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hibiscus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Peach blossom",
+    "rootWord": "Peach blossom",
+    "members": [
+      {
+        "word": "peach blossom",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/peach blossom/",
+        "meaning": ""
+      }
+    ]
+  }
+]

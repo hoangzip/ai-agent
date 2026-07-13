@@ -1,0 +1,325 @@
+[
+  {
+    "word": "Second",
+    "synonyms": [
+      {
+        "word": "seconder",
+        "partOfSpeech": "noun",
+        "pronunciation": "/seconder/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "twoth",
+        "partOfSpeech": "noun",
+        "pronunciation": "/twoth/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "other",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɐðə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Minute",
+    "synonyms": [
+      {
+        "word": "instant",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɪnstənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "jiffy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jiffy/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mo",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/mo/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "moment",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈməʊmənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hour",
+    "synonyms": [
+      {
+        "word": "stound",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stound/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hr",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hr/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hrs",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hrs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Week",
+    "synonyms": [
+      {
+        "word": "hebdomad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hebdomad/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sennight",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɛnɑɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Decade",
+    "synonyms": []
+  },
+  {
+    "word": "Century",
+    "synonyms": [
+      {
+        "word": "centuria",
+        "partOfSpeech": "noun",
+        "pronunciation": "/centuria/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "yearhundred",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yearhundred/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Weekend",
+    "synonyms": []
+  },
+  {
+    "word": "Month",
+    "synonyms": []
+  },
+  {
+    "word": "Year",
+    "synonyms": [
+      {
+        "word": "twelvemonth",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtwɛlvmʌnθ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "calendar year",
+        "partOfSpeech": "noun",
+        "pronunciation": "/calendar year/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "civil year",
+        "partOfSpeech": "noun",
+        "pronunciation": "/civil year/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "legal year",
+        "partOfSpeech": "noun",
+        "pronunciation": "/legal year/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Millennium",
+    "synonyms": [
+      {
+        "word": "ka",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɑː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "kiloannum",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kiloannum/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "kiloyear",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kiloyear/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "kyr",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kyr/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Morning",
+    "synonyms": [
+      {
+        "word": "forenoon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/forenoon/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "yeender",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yeender/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "a.m.",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/a.m./",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Afternoon",
+    "synonyms": [
+      {
+        "word": "aft",
+        "partOfSpeech": "noun",
+        "pronunciation": "/æft/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "arvo",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɐː.vəʉ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "undern",
+        "partOfSpeech": "noun",
+        "pronunciation": "/undern/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Evening",
+    "synonyms": [
+      {
+        "word": "eve",
+        "partOfSpeech": "noun",
+        "pronunciation": "/iːv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "eventide",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eventide/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "undern",
+        "partOfSpeech": "noun",
+        "pronunciation": "/undern/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Midnight",
+    "synonyms": [
+      {
+        "word": "a.m.",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/a.m./",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "am",
+        "partOfSpeech": "adverb",
+        "pronunciation": "[e̞m]",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dusk",
+    "synonyms": [
+      {
+        "word": "evenfall",
+        "partOfSpeech": "noun",
+        "pronunciation": "/evenfall/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nightfall",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnaɪtfɔːl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "smokefall",
+        "partOfSpeech": "noun",
+        "pronunciation": "/smokefall/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vespers",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vespers/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dawn",
+    "synonyms": [
+      {
+        "word": "beginning",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɪˈɡɪn.ɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "onset",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɒnˌsɛt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "start",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɑːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "break of dawn",
+        "partOfSpeech": "noun",
+        "pronunciation": "/break of dawn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

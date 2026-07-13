@@ -1,0 +1,310 @@
+[
+  {
+    "word": "Brush your teeth",
+    "synonyms": []
+  },
+  {
+    "word": "Buy",
+    "synonyms": [
+      {
+        "word": "make a buy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/make a buy/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "accept",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ækˈsɛpt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "believe",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bɪˈliːv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "swallow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈswɒləʊ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Comb the hair",
+    "synonyms": []
+  },
+  {
+    "word": "Cook",
+    "synonyms": []
+  },
+  {
+    "word": "Do exercise",
+    "synonyms": []
+  },
+  {
+    "word": "Do your homework",
+    "synonyms": []
+  },
+  {
+    "word": "Eat out",
+    "synonyms": [
+      {
+        "word": "go out",
+        "partOfSpeech": "verb",
+        "pronunciation": "/go out/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Feed the dog",
+    "synonyms": []
+  },
+  {
+    "word": "Finish working",
+    "synonyms": []
+  },
+  {
+    "word": "Gardening",
+    "synonyms": [
+      {
+        "word": "farm",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɑːm/",
+        "meaning": "Trang trại"
+      },
+      {
+        "word": "make garden",
+        "partOfSpeech": "noun",
+        "pronunciation": "/make garden/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Get dressed",
+    "synonyms": []
+  },
+  {
+    "word": "Get up",
+    "synonyms": [
+      {
+        "word": "alley oop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/alley oop/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "amound",
+        "partOfSpeech": "noun",
+        "pronunciation": "/amound/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hoard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hɔːd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "berate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bɪˈɹeɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Go home",
+    "synonyms": []
+  },
+  {
+    "word": "Go shopping",
+    "synonyms": []
+  },
+  {
+    "word": "Go to bed",
+    "synonyms": []
+  },
+  {
+    "word": "Go to the movies",
+    "synonyms": []
+  },
+  {
+    "word": "Have a bath",
+    "synonyms": []
+  },
+  {
+    "word": "Have a nap",
+    "synonyms": []
+  },
+  {
+    "word": "Have breakfast",
+    "synonyms": []
+  },
+  {
+    "word": "Have dinner",
+    "synonyms": []
+  },
+  {
+    "word": "Have lunch",
+    "synonyms": []
+  },
+  {
+    "word": "Have a shower",
+    "synonyms": []
+  },
+  {
+    "word": "Listen to music",
+    "synonyms": []
+  },
+  {
+    "word": "Make breakfast",
+    "synonyms": []
+  },
+  {
+    "word": "Make up",
+    "synonyms": []
+  },
+  {
+    "word": "Meditation",
+    "synonyms": []
+  },
+  {
+    "word": "Play an instrument",
+    "synonyms": []
+  },
+  {
+    "word": "Play outside",
+    "synonyms": []
+  },
+  {
+    "word": "Play sports",
+    "synonyms": []
+  },
+  {
+    "word": "Play video games",
+    "synonyms": []
+  },
+  {
+    "word": "Read books",
+    "synonyms": []
+  },
+  {
+    "word": "Read newspapers",
+    "synonyms": []
+  },
+  {
+    "word": "Relax",
+    "synonyms": []
+  },
+  {
+    "word": "Set the alarm",
+    "synonyms": []
+  },
+  {
+    "word": "Shave",
+    "synonyms": []
+  },
+  {
+    "word": "Sleep",
+    "synonyms": []
+  },
+  {
+    "word": "Study",
+    "synonyms": [
+      {
+        "word": "con",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kɒn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "elucubrate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/elucubrate/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "research",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈsɜːtʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "revise",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈvaɪ̯z/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Surf the internet",
+    "synonyms": []
+  },
+  {
+    "word": "Take the rubbish out",
+    "synonyms": []
+  },
+  {
+    "word": "Drink",
+    "synonyms": [
+      {
+        "word": "gulp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡʌlp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "imbibe",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪmˈbaɪb/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "quaff",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kwɒf/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sip",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sɪp/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Turn o",
+    "synonyms": []
+  },
+  {
+    "word": "Visit your friend",
+    "synonyms": []
+  },
+  {
+    "word": "Wake up",
+    "synonyms": []
+  },
+  {
+    "word": "Wash your face",
+    "synonyms": []
+  },
+  {
+    "word": "Wash the dishes",
+    "synonyms": []
+  },
+  {
+    "word": "Watch television",
+    "synonyms": []
+  },
+  {
+    "word": "Work",
+    "synonyms": []
+  }
+]

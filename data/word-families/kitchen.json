@@ -1,0 +1,583 @@
+[
+  {
+    "word": "Dishwasher",
+    "rootWord": "Dishwasher",
+    "members": [
+      {
+        "word": "dishwasher",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dishwasher/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dish drainer",
+    "rootWord": "Dish drainer",
+    "members": [
+      {
+        "word": "dish drainer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dish drainer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Steamer",
+    "rootWord": "Steamer",
+    "members": [
+      {
+        "word": "steamer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/steamer/",
+        "meaning": ""
+      },
+      {
+        "word": "steamy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈstiːmi/",
+        "meaning": "steamy"
+      },
+      {
+        "word": "steam",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stiːm/",
+        "meaning": "steam"
+      }
+    ]
+  },
+  {
+    "word": "Colander",
+    "rootWord": "Colander",
+    "members": [
+      {
+        "word": "colander",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/colander/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lid",
+    "rootWord": "Lid",
+    "members": [
+      {
+        "word": "lid",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lid/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Blender",
+    "rootWord": "Blender",
+    "members": [
+      {
+        "word": "blender",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blender/",
+        "meaning": ""
+      },
+      {
+        "word": "blend",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blɛnd/",
+        "meaning": "blend"
+      }
+    ]
+  },
+  {
+    "word": "Pot",
+    "rootWord": "Pot",
+    "members": [
+      {
+        "word": "pot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pot/",
+        "meaning": ""
+      },
+      {
+        "word": "potable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɒt-/",
+        "meaning": "potable"
+      }
+    ]
+  },
+  {
+    "word": "Toaster",
+    "rootWord": "Toaster",
+    "members": [
+      {
+        "word": "toaster",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/toaster/",
+        "meaning": ""
+      },
+      {
+        "word": "toast",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/təʊst/",
+        "meaning": "toast"
+      },
+      {
+        "word": "toasty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈtoʊsti/",
+        "meaning": "toasty"
+      }
+    ]
+  },
+  {
+    "word": "Dishtowel",
+    "rootWord": "Dishtowel",
+    "members": [
+      {
+        "word": "dishtowel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dishtowel/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Refrigerator",
+    "rootWord": "Refrigerator",
+    "members": [
+      {
+        "word": "refrigerator",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/refrigerator/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Freezer",
+    "rootWord": "Freezer",
+    "members": [
+      {
+        "word": "freezer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/freezer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cabinet",
+    "rootWord": "Cabinet",
+    "members": [
+      {
+        "word": "cabinet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cabinet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Microwave",
+    "rootWord": "Microwave",
+    "members": [
+      {
+        "word": "microwave",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/microwave/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bowl",
+    "rootWord": "Bowl",
+    "members": [
+      {
+        "word": "bowl",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowl/",
+        "meaning": ""
+      },
+      {
+        "word": "bowler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowler/",
+        "meaning": "bowler"
+      }
+    ]
+  },
+  {
+    "word": "Cutting board",
+    "rootWord": "Cutting board",
+    "members": [
+      {
+        "word": "cutting board",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cutting board/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stove",
+    "rootWord": "Stove",
+    "members": [
+      {
+        "word": "stove",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stove/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coee maker",
+    "rootWord": "Coee maker",
+    "members": [
+      {
+        "word": "coee maker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coee maker/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Oven",
+    "rootWord": "Oven",
+    "members": [
+      {
+        "word": "oven",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oven/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Oven cleaner",
+    "rootWord": "Oven cleaner",
+    "members": [
+      {
+        "word": "oven cleaner",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oven cleaner/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jar",
+    "rootWord": "Jar",
+    "members": [
+      {
+        "word": "jar",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jar/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sink",
+    "rootWord": "Sink",
+    "members": [
+      {
+        "word": "sink",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sink/",
+        "meaning": ""
+      },
+      {
+        "word": "sinker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɪŋkə(ɹ)/",
+        "meaning": "sinker"
+      }
+    ]
+  },
+  {
+    "word": "Dish rack",
+    "rootWord": "Dish rack",
+    "members": [
+      {
+        "word": "dish rack",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dish rack/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sponge",
+    "rootWord": "Sponge",
+    "members": [
+      {
+        "word": "sponge",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sponge/",
+        "meaning": ""
+      },
+      {
+        "word": "sponger",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈspʌndʒɚ/",
+        "meaning": "sponger"
+      },
+      {
+        "word": "spongy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈspʌndʒi/",
+        "meaning": "spongy"
+      }
+    ]
+  },
+  {
+    "word": "Chopstick",
+    "rootWord": "Chopstick",
+    "members": [
+      {
+        "word": "chopstick",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chopstick/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pan",
+    "rootWord": "Pan",
+    "members": [
+      {
+        "word": "pan",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pan/",
+        "meaning": ""
+      },
+      {
+        "word": "panic",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpænɪk/",
+        "meaning": "panic"
+      }
+    ]
+  },
+  {
+    "word": "Cooker",
+    "rootWord": "Cooker",
+    "members": [
+      {
+        "word": "cooker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cooker/",
+        "meaning": ""
+      },
+      {
+        "word": "cook",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kuk/",
+        "meaning": "Nấu ăn"
+      }
+    ]
+  },
+  {
+    "word": "Mug",
+    "rootWord": "Mug",
+    "members": [
+      {
+        "word": "mug",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mug/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Kettle",
+    "rootWord": "Kettle",
+    "members": [
+      {
+        "word": "kettle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kettle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Glass",
+    "rootWord": "Glass",
+    "members": [
+      {
+        "word": "glass",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/glass/",
+        "meaning": ""
+      },
+      {
+        "word": "glassy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡlɑːsi/",
+        "meaning": "glassy"
+      }
+    ]
+  },
+  {
+    "word": "Teapot",
+    "rootWord": "Teapot",
+    "members": [
+      {
+        "word": "teapot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/teapot/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Grill",
+    "rootWord": "Grill",
+    "members": [
+      {
+        "word": "grill",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grill/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tray",
+    "rootWord": "Tray",
+    "members": [
+      {
+        "word": "tray",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tray/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Whisk",
+    "rootWord": "Whisk",
+    "members": [
+      {
+        "word": "whisk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/whisk/",
+        "meaning": ""
+      },
+      {
+        "word": "whisker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wɪskə(ɹ)/",
+        "meaning": "whisker"
+      },
+      {
+        "word": "whisky",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwɪski/",
+        "meaning": "whisky"
+      }
+    ]
+  },
+  {
+    "word": "Knife",
+    "rootWord": "Knife",
+    "members": [
+      {
+        "word": "knife",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/knife/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Spoon",
+    "rootWord": "Spoon",
+    "members": [
+      {
+        "word": "spoon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spoon/",
+        "meaning": ""
+      },
+      {
+        "word": "spoonful",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spoonful/",
+        "meaning": "spoonful"
+      },
+      {
+        "word": "spoony",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈspuː.ni/",
+        "meaning": "spoony"
+      },
+      {
+        "word": "spooner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈspuːnəɹ/",
+        "meaning": "spooner"
+      }
+    ]
+  }
+]

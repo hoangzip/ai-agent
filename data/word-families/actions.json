@@ -1,0 +1,879 @@
+[
+  {
+    "word": "Pack",
+    "rootWord": "Pack",
+    "members": [
+      {
+        "word": "pack",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pack/",
+        "meaning": ""
+      },
+      {
+        "word": "packer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpækə/",
+        "meaning": "packer"
+      }
+    ]
+  },
+  {
+    "word": "Paint",
+    "rootWord": "Paint",
+    "members": [
+      {
+        "word": "paint",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paint/",
+        "meaning": ""
+      },
+      {
+        "word": "painter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪntə/",
+        "meaning": "painter"
+      }
+    ]
+  },
+  {
+    "word": "Paste",
+    "rootWord": "Paste",
+    "members": [
+      {
+        "word": "paste",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paste/",
+        "meaning": ""
+      },
+      {
+        "word": "pasty",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪsti/",
+        "meaning": "pasty"
+      },
+      {
+        "word": "pastor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɑːstə/",
+        "meaning": "pastor"
+      }
+    ]
+  },
+  {
+    "word": "Pick",
+    "rootWord": "Pick",
+    "members": [
+      {
+        "word": "pick",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pick/",
+        "meaning": ""
+      },
+      {
+        "word": "picky",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɪki/",
+        "meaning": "picky"
+      },
+      {
+        "word": "picker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/picker/",
+        "meaning": "picker"
+      }
+    ]
+  },
+  {
+    "word": "Plant",
+    "rootWord": "Plant",
+    "members": [
+      {
+        "word": "plant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plant/",
+        "meaning": ""
+      },
+      {
+        "word": "planter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/planter/",
+        "meaning": "planter"
+      }
+    ]
+  },
+  {
+    "word": "Play",
+    "rootWord": "Play",
+    "members": [
+      {
+        "word": "play",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/play/",
+        "meaning": ""
+      },
+      {
+        "word": "playful",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpleɪfəl/",
+        "meaning": "playful"
+      },
+      {
+        "word": "playable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/playable/",
+        "meaning": "playable"
+      },
+      {
+        "word": "player",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpleɪə(ɹ)/",
+        "meaning": "player"
+      }
+    ]
+  },
+  {
+    "word": "Point",
+    "rootWord": "Point",
+    "members": [
+      {
+        "word": "point",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/point/",
+        "meaning": ""
+      },
+      {
+        "word": "pointless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpɔɪntləs/",
+        "meaning": "pointless"
+      },
+      {
+        "word": "pointer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɔɪntə/",
+        "meaning": "pointer"
+      },
+      {
+        "word": "pointy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pointy/",
+        "meaning": "pointy"
+      }
+    ]
+  },
+  {
+    "word": "Pour",
+    "rootWord": "Pour",
+    "members": [
+      {
+        "word": "pour",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pour/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pull",
+    "rootWord": "Pull",
+    "members": [
+      {
+        "word": "pull",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pull/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Push",
+    "rootWord": "Push",
+    "members": [
+      {
+        "word": "push",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/push/",
+        "meaning": ""
+      },
+      {
+        "word": "pusher",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpʊʃə/",
+        "meaning": "pusher"
+      },
+      {
+        "word": "pushful",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpʊʃfʊl/",
+        "meaning": "pushful"
+      }
+    ]
+  },
+  {
+    "word": "Rake",
+    "rootWord": "Rake",
+    "members": [
+      {
+        "word": "rake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rake/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Read",
+    "rootWord": "Read",
+    "members": [
+      {
+        "word": "read",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/read/",
+        "meaning": ""
+      },
+      {
+        "word": "readable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹiːdəbl̩/",
+        "meaning": "readable"
+      },
+      {
+        "word": "ready",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹɛdi/",
+        "meaning": "ready"
+      },
+      {
+        "word": "reader",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹiːdə/",
+        "meaning": "reader"
+      }
+    ]
+  },
+  {
+    "word": "Ride",
+    "rootWord": "Ride",
+    "members": [
+      {
+        "word": "ride",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ride/",
+        "meaning": ""
+      },
+      {
+        "word": "rider",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹaɪ.də(ɹ)/",
+        "meaning": "rider"
+      }
+    ]
+  },
+  {
+    "word": "Row",
+    "rootWord": "Row",
+    "members": [
+      {
+        "word": "row",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/row/",
+        "meaning": ""
+      },
+      {
+        "word": "rower",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹəʊ.ə(ɹ)/",
+        "meaning": "rower"
+      },
+      {
+        "word": "rowen",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rowen/",
+        "meaning": "rowen"
+      }
+    ]
+  },
+  {
+    "word": "Run",
+    "rootWord": "Run",
+    "members": [
+      {
+        "word": "run",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/run/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sail",
+    "rootWord": "Sail",
+    "members": [
+      {
+        "word": "sail",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sail/",
+        "meaning": ""
+      },
+      {
+        "word": "sailor",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈseɪ.lər/",
+        "meaning": "Thủy thủ"
+      },
+      {
+        "word": "sailer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sailer/",
+        "meaning": "sailer"
+      }
+    ]
+  },
+  {
+    "word": "Scrub",
+    "rootWord": "Scrub",
+    "members": [
+      {
+        "word": "scrub",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scrub/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "See",
+    "rootWord": "See",
+    "members": [
+      {
+        "word": "see",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/see/",
+        "meaning": ""
+      },
+      {
+        "word": "seize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/siːz/",
+        "meaning": "seize"
+      },
+      {
+        "word": "seance",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈseɪˌɑns/",
+        "meaning": "seance"
+      },
+      {
+        "word": "seen",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈsiːn/",
+        "meaning": "seen"
+      },
+      {
+        "word": "seer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/siː.əɹ/",
+        "meaning": "seer"
+      },
+      {
+        "word": "seal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/siːl/",
+        "meaning": "Hải cẩu"
+      }
+    ]
+  },
+  {
+    "word": "Set",
+    "rootWord": "Set",
+    "members": [
+      {
+        "word": "set",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/set/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sew",
+    "rootWord": "Sew",
+    "members": [
+      {
+        "word": "sew",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sew/",
+        "meaning": ""
+      },
+      {
+        "word": "sewer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sewer/",
+        "meaning": "sewer"
+      },
+      {
+        "word": "sewen",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sewen/",
+        "meaning": "sewen"
+      }
+    ]
+  },
+  {
+    "word": "Shout",
+    "rootWord": "Shout",
+    "members": [
+      {
+        "word": "shout",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shout/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Show",
+    "rootWord": "Show",
+    "members": [
+      {
+        "word": "show",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/show/",
+        "meaning": ""
+      },
+      {
+        "word": "shower",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shower/",
+        "meaning": "shower"
+      },
+      {
+        "word": "showy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈʃəʊ.i/",
+        "meaning": "showy"
+      }
+    ]
+  },
+  {
+    "word": "Sing",
+    "rootWord": "Sing",
+    "members": [
+      {
+        "word": "sing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sing/",
+        "meaning": ""
+      },
+      {
+        "word": "singer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɪŋə/",
+        "meaning": "singer"
+      },
+      {
+        "word": "singly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/singly/",
+        "meaning": "singly"
+      }
+    ]
+  },
+  {
+    "word": "Sit",
+    "rootWord": "Sit",
+    "members": [
+      {
+        "word": "sit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Skate",
+    "rootWord": "Skate",
+    "members": [
+      {
+        "word": "skate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skate/",
+        "meaning": ""
+      },
+      {
+        "word": "skater",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈskeɪ.tə(ɹ)/",
+        "meaning": "skater"
+      }
+    ]
+  },
+  {
+    "word": "Skip",
+    "rootWord": "Skip",
+    "members": [
+      {
+        "word": "skip",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skip/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sleep",
+    "rootWord": "Sleep",
+    "members": [
+      {
+        "word": "sleep",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleep/",
+        "meaning": ""
+      },
+      {
+        "word": "sleeper",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleeper/",
+        "meaning": "sleeper"
+      },
+      {
+        "word": "sleepless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sleepless/",
+        "meaning": "sleepless"
+      },
+      {
+        "word": "sleepy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsliːpi/",
+        "meaning": "Buồn ngủ"
+      }
+    ]
+  },
+  {
+    "word": "Slide",
+    "rootWord": "Slide",
+    "members": [
+      {
+        "word": "slide",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/slide/",
+        "meaning": ""
+      },
+      {
+        "word": "slider",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/slider/",
+        "meaning": "slider"
+      }
+    ]
+  },
+  {
+    "word": "Sneeze",
+    "rootWord": "Sneeze",
+    "members": [
+      {
+        "word": "sneeze",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sneeze/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Spin",
+    "rootWord": "Spin",
+    "members": [
+      {
+        "word": "spin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spin/",
+        "meaning": ""
+      },
+      {
+        "word": "spinal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spaɪnəl/",
+        "meaning": "spinal"
+      },
+      {
+        "word": "spinous",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/spaɪnəs/",
+        "meaning": "spinous"
+      }
+    ]
+  },
+  {
+    "word": "Stand",
+    "rootWord": "Stand",
+    "members": [
+      {
+        "word": "stand",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stand/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stop",
+    "rootWord": "Stop",
+    "members": [
+      {
+        "word": "stop",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stop/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sweep",
+    "rootWord": "Sweep",
+    "members": [
+      {
+        "word": "sweep",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweep/",
+        "meaning": ""
+      },
+      {
+        "word": "sweeper",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweeper/",
+        "meaning": "sweeper"
+      }
+    ]
+  },
+  {
+    "word": "Swim",
+    "rootWord": "Swim",
+    "members": [
+      {
+        "word": "swim",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swim/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Swing",
+    "rootWord": "Swing",
+    "members": [
+      {
+        "word": "swing",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swing/",
+        "meaning": ""
+      },
+      {
+        "word": "swinger",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/swinger/",
+        "meaning": "swinger"
+      },
+      {
+        "word": "swingy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/swingy/",
+        "meaning": "swingy"
+      }
+    ]
+  },
+  {
+    "word": "Take",
+    "rootWord": "Take",
+    "members": [
+      {
+        "word": "take",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/take/",
+        "meaning": ""
+      },
+      {
+        "word": "taken",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈteɪkən/",
+        "meaning": "taken"
+      },
+      {
+        "word": "taker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈteɪkɚ/",
+        "meaning": "taker"
+      }
+    ]
+  },
+  {
+    "word": "Talk",
+    "rootWord": "Talk",
+    "members": [
+      {
+        "word": "talk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/talk/",
+        "meaning": ""
+      },
+      {
+        "word": "talky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/talky/",
+        "meaning": "talky"
+      },
+      {
+        "word": "talker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/talker/",
+        "meaning": "talker"
+      }
+    ]
+  },
+  {
+    "word": "Tell",
+    "rootWord": "Tell",
+    "members": [
+      {
+        "word": "tell",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tell/",
+        "meaning": ""
+      },
+      {
+        "word": "teller",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɛlə/",
+        "meaning": "teller"
+      }
+    ]
+  },
+  {
+    "word": "Throw",
+    "rootWord": "Throw",
+    "members": [
+      {
+        "word": "throw",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/throw/",
+        "meaning": ""
+      },
+      {
+        "word": "thrower",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thrower/",
+        "meaning": "thrower"
+      }
+    ]
+  },
+  {
+    "word": "Tie",
+    "rootWord": "Tie",
+    "members": [
+      {
+        "word": "tie",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tie/",
+        "meaning": ""
+      },
+      {
+        "word": "tier",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtaɪ.ə(ɹ)/",
+        "meaning": "tier"
+      }
+    ]
+  }
+]

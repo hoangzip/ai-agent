@@ -1,0 +1,323 @@
+[
+  {
+    "word": "Advanced",
+    "synonyms": [
+      {
+        "word": "accelerate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/æk.ˈsɛl.ə.ˌɹeɪt/",
+        "meaning": "kề sát; chung biên"
+      },
+      {
+        "word": "adduce",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈdjuːs/",
+        "meaning": "thêm"
+      },
+      {
+        "word": "aggrandize",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈɡɹændaɪ̯z/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "allege",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈlɛdʒ/",
+        "meaning": "cáo buộc"
+      }
+    ]
+  },
+  {
+    "word": "Equip",
+    "synonyms": [
+      {
+        "word": "apparel",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈpæ.ɹəl/",
+        "meaning": "Quần áo"
+      },
+      {
+        "word": "dight",
+        "partOfSpeech": "noun",
+        "pronunciation": "[dʌɪt]",
+        "meaning": "tối"
+      },
+      {
+        "word": "fit out",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fit out/",
+        "meaning": "vừa vặn"
+      },
+      {
+        "word": "kit out",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kit out/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Express mail",
+    "synonyms": []
+  },
+  {
+    "word": "Graphic",
+    "synonyms": []
+  },
+  {
+    "word": "Messenger Call Service",
+    "synonyms": []
+  },
+  {
+    "word": "Notify",
+    "synonyms": [
+      {
+        "word": "apprise",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈpɹaɪ̯z/",
+        "meaning": "thông báo"
+      },
+      {
+        "word": "inform",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪnˈfɔːm/",
+        "meaning": "cung cấp tin tức"
+      }
+    ]
+  },
+  {
+    "word": "Parcel",
+    "synonyms": [
+      {
+        "word": "package",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpækɪdʒ/",
+        "meaning": "hành lý"
+      },
+      {
+        "word": "plot",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plɒt/",
+        "meaning": "sơ đồ, đồ thị, đồ án"
+      }
+    ]
+  },
+  {
+    "word": "Press",
+    "synonyms": [
+      {
+        "word": "closet",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈklɒz.ɪt/",
+        "meaning": "Tủ đóng trong tường"
+      },
+      {
+        "word": "cupboard",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cupboard/",
+        "meaning": "tủ có ngăn"
+      },
+      {
+        "word": "pantry",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpantɹi/",
+        "meaning": "Tủ đựng thức ăn"
+      },
+      {
+        "word": "press-gang",
+        "partOfSpeech": "noun",
+        "pronunciation": "/press-gang/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Receive",
+    "synonyms": []
+  },
+  {
+    "word": "Recipient",
+    "synonyms": []
+  },
+  {
+    "word": "Secure",
+    "synonyms": []
+  },
+  {
+    "word": "Service",
+    "synonyms": [
+      {
+        "word": "be with",
+        "partOfSpeech": "noun",
+        "pronunciation": "/be with/",
+        "meaning": "ở bên cạnh"
+      },
+      {
+        "word": "go to bed with",
+        "partOfSpeech": "noun",
+        "pronunciation": "/go to bed with/",
+        "meaning": "đi ngủ với"
+      },
+      {
+        "word": "sleep with",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sleep with/",
+        "meaning": "ngủ với"
+      },
+      {
+        "word": "attend",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈtɛnd/",
+        "meaning": "tham dự"
+      }
+    ]
+  },
+  {
+    "word": "Spacious",
+    "synonyms": []
+  },
+  {
+    "word": "Speedy",
+    "synonyms": [
+      {
+        "word": "speed up",
+        "partOfSpeech": "noun",
+        "pronunciation": "/speed up/",
+        "meaning": "tăng tiến độ"
+      },
+      {
+        "word": "speedy delete",
+        "partOfSpeech": "noun",
+        "pronunciation": "/speedy delete/",
+        "meaning": "xóa nhanh"
+      },
+      {
+        "word": "fast",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɑːst/",
+        "meaning": "nhanh"
+      },
+      {
+        "word": "quick",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kwɪk/",
+        "meaning": "nhanh"
+      }
+    ]
+  },
+  {
+    "word": "Sta",
+    "synonyms": [
+      {
+        "word": "channel",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtʃænəl/",
+        "meaning": "kênh (TV, radio), eo biến"
+      },
+      {
+        "word": "sta",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stæf/",
+        "meaning": "Nhân viên"
+      },
+      {
+        "word": "stn",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stn/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "farm",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɑːm/",
+        "meaning": "Trang trại"
+      }
+    ]
+  },
+  {
+    "word": "Subscribe",
+    "synonyms": []
+  },
+  {
+    "word": "Surface mail",
+    "synonyms": []
+  },
+  {
+    "word": "Technology",
+    "synonyms": []
+  },
+  {
+    "word": "Thoughtful",
+    "synonyms": [
+      {
+        "word": "attentive",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈtɛntɪv/",
+        "meaning": "chu đáo"
+      },
+      {
+        "word": "caring",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɛə.ɹɪŋ/",
+        "meaning": "QUAN TÂM"
+      },
+      {
+        "word": "considerate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈsɪdəɹət/",
+        "meaning": "chu đáo"
+      },
+      {
+        "word": "thoughty",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thoughty/",
+        "meaning": "mặc dù"
+      }
+    ]
+  },
+  {
+    "word": "Transfer",
+    "synonyms": [
+      {
+        "word": "transferal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/transferal/",
+        "meaning": "chuyển nhượng"
+      },
+      {
+        "word": "transference",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɹansf(ə)ɹ(ə)ns/",
+        "meaning": "sự di chuyển"
+      },
+      {
+        "word": "transfer student",
+        "partOfSpeech": "noun",
+        "pronunciation": "/transfer student/",
+        "meaning": "Học sinh mới à?"
+      },
+      {
+        "word": "copy",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɒp.i/",
+        "meaning": "Sao chép"
+      }
+    ]
+  },
+  {
+    "word": "Transmit",
+    "synonyms": [
+      {
+        "word": "oversend",
+        "partOfSpeech": "noun",
+        "pronunciation": "/oversend/",
+        "meaning": "giám sát quá mức"
+      }
+    ]
+  },
+  {
+    "word": "Well-trained",
+    "synonyms": []
+  }
+]

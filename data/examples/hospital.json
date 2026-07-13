@@ -1,0 +1,320 @@
+[
+  {
+    "word": "Radiologist",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Radiologist**.",
+        "vi": "Ảnh này thể hiện một bức ảnh chụp sạch sẽ của một **Bác** sĩ X quang."
+      }
+    ]
+  },
+  {
+    "word": "Emergency room",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Emergency room**.",
+        "vi": "Ảnh này thể hiện ảnh chụp **phòng Cấp cứu** sạch sẽ."
+      }
+    ]
+  },
+  {
+    "word": "Obstetrician",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Obstetrician**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ của một **bác sĩ sản khoa**."
+      }
+    ]
+  },
+  {
+    "word": "Operating room",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Operating room**.",
+        "vi": "**Bản dịch đang được cập nhật.**"
+      }
+    ]
+  },
+  {
+    "word": "Needle",
+    "examples": [
+      {
+        "en": "The seamstress threaded the **needle** to sew on a button.",
+        "vi": "Người thợ may xâu **kim** để khâu vào một cái nút."
+      },
+      {
+        "en": "The **needle** on the fuel gauge pointed to empty.",
+        "vi": "**Kim** trên đồng hồ đo nhiên liệu chỉ vào khoảng trống."
+      },
+      {
+        "en": "Ziggy bought some diamond **needle**s for his hi-fi phonograph.",
+        "vi": "Ziggy đã mua một số **kim** cương cho máy quay đĩa hi-fi của mình."
+      }
+    ]
+  },
+  {
+    "word": "Laboratory",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Laboratory**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của **Phòng thí nghiệm**."
+      }
+    ]
+  },
+  {
+    "word": "Pharmacy",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Pharmacy**.",
+        "vi": "**Ảnh này thể hiện ảnh chụp nhà thuốc sạch sẽ.**"
+      }
+    ]
+  },
+  {
+    "word": "Hospital bed",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Hospital bed**.",
+        "vi": "Ảnh này thể hiện một bức ảnh **giường bệnh** viện sạch sẽ."
+      }
+    ]
+  },
+  {
+    "word": "Call button",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Call button**.",
+        "vi": "**Ảnh này thể hiện ảnh chụp rõ nút Gọi.**"
+      }
+    ]
+  },
+  {
+    "word": "Doctor",
+    "examples": [
+      {
+        "en": "If you still feel unwell tomorrow, see your **doctor**.",
+        "vi": "Nếu ngày mai quý vị vẫn cảm thấy không khỏe, hãy đi khám **bác sĩ**."
+      },
+      {
+        "en": "the **doctor** of a calico-printing machine, which is a knife to remove superfluous colouring matter",
+        "vi": "**bác sĩ** của một máy in calico, là một con dao để loại bỏ chất màu không cần thiết"
+      },
+      {
+        "en": "Her children **doctor**ed her back to health.",
+        "vi": "**Các con của cô ấy đã chữa cho cô ấy khỏe mạnh trở lại.**"
+      }
+    ]
+  },
+  {
+    "word": "Nurse",
+    "examples": [
+      {
+        "en": "They hired a **nurse** to care for their young boy.",
+        "vi": "Họ đã thuê một **y tá** để chăm sóc cho cậu bé của họ."
+      },
+      {
+        "en": "The **nurse** made her rounds through the hospital ward.",
+        "vi": "Cô **y tá** đi vòng qua khu bệnh viện"
+      },
+      {
+        "en": "Eton College has been called \"the chief **nurse** of England's statesmen\".",
+        "vi": "Eton College đã được gọi là \"**y tá** trưởng của các chính khách Anh\"."
+      }
+    ]
+  },
+  {
+    "word": "Gurney",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Gurney**.",
+        "vi": "**Ảnh này thể hiện một bức ảnh sạch sẽ của một chiếc Gurney.**"
+      }
+    ]
+  },
+  {
+    "word": "Waiting room",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Waiting room**.",
+        "vi": "Ảnh này thể hiện ảnh chụp **phòng chờ** sạch sẽ."
+      }
+    ]
+  },
+  {
+    "word": "Surgeon",
+    "examples": [
+      {
+        "en": "The **surgeon** refused to operate because the patient was her son.",
+        "vi": "**Bác sĩ phẫu thuật** từ chối phẫu thuật vì bệnh nhân là con trai của bà."
+      }
+    ]
+  },
+  {
+    "word": "Midwife",
+    "examples": [
+      {
+        "en": "A hundred years ago, a **midwife** would bring the baby into the world - going to a hospital to deliver a baby was either impossible or unheard of.",
+        "vi": "**Một trăm năm trước, một nữ hộ sinh sẽ đưa em bé ra thế giới - đến bệnh viện để sinh em bé là điều không thể hoặc chưa từng nghe thấy.**"
+      }
+    ]
+  },
+  {
+    "word": "Injection",
+    "examples": [
+      {
+        "en": "The troubled business received a much-needed cash **injection**.",
+        "vi": "**Doanh nghiệp gặp khó khăn đã nhận được một khoản tiền mặt rất cần thiết.**"
+      },
+      {
+        "en": "a SQL **injection** exploit allowing a malicious user to modify a database query",
+        "vi": "**khai thác SQL injection cho phép người dùng độc hại sửa đổi truy vấn cơ sở dữ liệu**"
+      }
+    ]
+  },
+  {
+    "word": "Calcium",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Calcium**.",
+        "vi": "Điều này thể hiện một bức ảnh sạch sẽ về **Canxi**."
+      }
+    ]
+  },
+  {
+    "word": "Hospital",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Hospital**.",
+        "vi": "Ảnh này thể hiện một bức ảnh sạch sẽ của một **Bệnh viện**."
+      }
+    ]
+  },
+  {
+    "word": "Crutch",
+    "examples": [
+      {
+        "en": "He walked on **crutch**es for a month until the cast was removed from his leg.",
+        "vi": "**Anh ấy đi bằng nạng trong một tháng cho đến khi chiếc nạng được lấy ra khỏi chân.**"
+      },
+      {
+        "en": "Alcohol became a **crutch** to help him through the long nights; eventually it killed him.",
+        "vi": "Rượu đã trở thành một **cái nạng** để giúp anh ta vượt qua những đêm dài; cuối cùng nó đã giết chết anh ta."
+      }
+    ]
+  },
+  {
+    "word": "Wheelchair",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Wheelchair**.",
+        "vi": "Ảnh này thể hiện ảnh chụp **xe lăn** sạch sẽ."
+      }
+    ]
+  },
+  {
+    "word": "Paramedic",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Paramedic**.",
+        "vi": "Ảnh này thể hiện ảnh chụp sạch sẽ của một **Nhân viên y tế**."
+      }
+    ]
+  },
+  {
+    "word": "Stretcher",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Stretcher**.",
+        "vi": "Ảnh này thể hiện ảnh **cáng** sạch sẽ."
+      }
+    ]
+  },
+  {
+    "word": "Rush",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Rush**.",
+        "vi": "**Ảnh này thể hiện một bức ảnh chụp Rush sạch sẽ.**"
+      }
+    ]
+  },
+  {
+    "word": "Treat",
+    "examples": [
+      {
+        "en": "Here are some healthy Halloween **treat**s for ghouls and witches of all ages.",
+        "vi": "**Dưới đây là một số món ăn Halloween lành mạnh dành cho ma cà rồng và phù thủy ở mọi lứa tuổi.**"
+      },
+      {
+        "en": "It was such a **treat** to see her back in action on the London stage.",
+        "vi": "**Thật tuyệt vời khi thấy cô ấy trở lại sân khấu London.**"
+      },
+      {
+        "en": "I lured the cat into her carrier by throwing a couple of **treat**s in there.",
+        "vi": "**Tôi dụ con mèo vào người mang mầm bệnh của nó bằng cách ném một vài món ăn vào đó.**"
+      }
+    ]
+  },
+  {
+    "word": "Condition",
+    "examples": [
+      {
+        "en": "Environmental protection is a **condition** for sustainability.   What other planets might have the right conditions for life?   The union had a dispute over sick time and other conditions of employment.",
+        "vi": "**Bảo vệ môi trường là một điều kiện để phát triển bền vững.   Những hành tinh nào khác có thể có điều kiện phù hợp cho sự sống?   Công đoàn đã có tranh chấp về thời gian nghỉ ốm và các điều kiện làm việc khác.**"
+      },
+      {
+        "en": "My aunt couldn't walk up the stairs in her **condition**.",
+        "vi": "Dì tôi không thể đi lên cầu thang trong **tình trạng** của mình."
+      },
+      {
+        "en": "National reports on the **condition** of public education are dismal.   The condition of man can be classified as civilized or uncivilized.",
+        "vi": "Các báo cáo quốc gia về tình hình giáo dục công lập còn ảm đạm.   **Tình trạng** của con người có thể được phân loại là văn minh hoặc không văn minh."
+      }
+    ]
+  },
+  {
+    "word": "Recovery",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Recovery**.",
+        "vi": "**Ảnh này thể hiện một bức ảnh rõ nét về quá trình Phục hồi.**"
+      }
+    ]
+  },
+  {
+    "word": "Suer",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Suer**.",
+        "vi": "**Điều này thể hiện một bức ảnh sạch sẽ của một Suer.**"
+      }
+    ]
+  },
+  {
+    "word": "Deteriorate",
+    "examples": [
+      {
+        "en": "to **deteriorate** the mind",
+        "vi": "làm **xấu** đi tâm trí"
+      }
+    ]
+  },
+  {
+    "word": "Coma",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Coma**.",
+        "vi": "**Ảnh này thể hiện một bức ảnh sạch sẽ về tình trạng hôn mê.**"
+      }
+    ]
+  },
+  {
+    "word": "Common cold",
+    "examples": [
+      {
+        "en": "This represents a clean photo of a **Common cold**.",
+        "vi": "**Điều này thể hiện một bức ảnh sạch sẽ về cảm lạnh thông thường.**"
+      }
+    ]
+  }
+]

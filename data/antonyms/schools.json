@@ -1,0 +1,215 @@
+[
+  {
+    "word": "Nursery school",
+    "antonyms": []
+  },
+  {
+    "word": "Teacher",
+    "antonyms": []
+  },
+  {
+    "word": "Classmate",
+    "antonyms": []
+  },
+  {
+    "word": "Library",
+    "antonyms": []
+  },
+  {
+    "word": "Pen",
+    "antonyms": []
+  },
+  {
+    "word": "Pencil",
+    "antonyms": []
+  },
+  {
+    "word": "Ruler",
+    "antonyms": []
+  },
+  {
+    "word": "Calculator",
+    "antonyms": []
+  },
+  {
+    "word": "Chalk",
+    "antonyms": []
+  },
+  {
+    "word": "Student",
+    "antonyms": [
+      {
+        "word": "teacher",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtiː.tʃər/",
+        "meaning": "Giáo viên"
+      }
+    ]
+  },
+  {
+    "word": "Classroom",
+    "antonyms": []
+  },
+  {
+    "word": "Primary school",
+    "antonyms": []
+  },
+  {
+    "word": "Secondary school",
+    "antonyms": []
+  },
+  {
+    "word": "High school",
+    "antonyms": []
+  },
+  {
+    "word": "Vocational school",
+    "antonyms": []
+  },
+  {
+    "word": "College",
+    "antonyms": []
+  },
+  {
+    "word": "University",
+    "antonyms": []
+  },
+  {
+    "word": "Principal",
+    "antonyms": []
+  },
+  {
+    "word": "Blackboard",
+    "antonyms": []
+  },
+  {
+    "word": "Compass",
+    "antonyms": []
+  },
+  {
+    "word": "History",
+    "antonyms": []
+  },
+  {
+    "word": "Economics",
+    "antonyms": []
+  },
+  {
+    "word": "Chemistry",
+    "antonyms": []
+  },
+  {
+    "word": "Biology",
+    "antonyms": []
+  },
+  {
+    "word": "IT",
+    "antonyms": []
+  },
+  {
+    "word": "Geography",
+    "antonyms": []
+  },
+  {
+    "word": "Art",
+    "antonyms": [
+      {
+        "word": "mundacity",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mundacity/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nature",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnæɪ̯tʃə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "subsistence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/səbˈsɪstəns/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Fail",
+    "antonyms": [
+      {
+        "word": "succeed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/səkˈsiːd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pass",
+    "antonyms": []
+  },
+  {
+    "word": "Graduate",
+    "antonyms": [
+      {
+        "word": "drop-out",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drop-out/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "student",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈstjuː.dənt/",
+        "meaning": "Sinh viên, học sinh"
+      }
+    ]
+  },
+  {
+    "word": "Degree",
+    "antonyms": []
+  },
+  {
+    "word": "Playground",
+    "antonyms": []
+  },
+  {
+    "word": "Uniform",
+    "antonyms": [
+      {
+        "word": "nonuniform",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/nonuniform/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Grade",
+    "antonyms": []
+  },
+  {
+    "word": "Form teacher",
+    "antonyms": []
+  },
+  {
+    "word": "Proctor",
+    "antonyms": []
+  },
+  {
+    "word": "School bag",
+    "antonyms": []
+  },
+  {
+    "word": "Dean",
+    "antonyms": []
+  },
+  {
+    "word": "Lesson",
+    "antonyms": []
+  },
+  {
+    "word": "Course",
+    "antonyms": []
+  }
+]

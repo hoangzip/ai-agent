@@ -1,0 +1,134 @@
+[
+  {
+    "word": "Movie",
+    "antonyms": []
+  },
+  {
+    "word": "Famous",
+    "antonyms": []
+  },
+  {
+    "word": "Comedy",
+    "antonyms": [
+      {
+        "word": "drama",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdrɑː.mə/",
+        "meaning": "Vở kịch"
+      },
+      {
+        "word": "tragedy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɹæd͡ʒɪdi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Audience",
+    "antonyms": []
+  },
+  {
+    "word": "Film Festival",
+    "antonyms": []
+  },
+  {
+    "word": "Trailer",
+    "antonyms": [
+      {
+        "word": "header",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɛdə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Movie star",
+    "antonyms": []
+  },
+  {
+    "word": "Soundtrack",
+    "antonyms": []
+  },
+  {
+    "word": "Cartoon",
+    "antonyms": []
+  },
+  {
+    "word": "Drama",
+    "antonyms": []
+  },
+  {
+    "word": "Action lm",
+    "antonyms": []
+  },
+  {
+    "word": "Celebrity",
+    "antonyms": []
+  },
+  {
+    "word": "Script",
+    "antonyms": []
+  },
+  {
+    "word": "Theater",
+    "antonyms": []
+  },
+  {
+    "word": "Actor",
+    "antonyms": [
+      {
+        "word": "undergoer",
+        "partOfSpeech": "noun",
+        "pronunciation": "/undergoer/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Actress",
+    "antonyms": []
+  },
+  {
+    "word": "Director",
+    "antonyms": []
+  },
+  {
+    "word": "Romantic",
+    "antonyms": [
+      {
+        "word": "antiromantic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/antiromantic/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "aromantic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌeɪ.ɹəʊˈman.tɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nonromantic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonromantic/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unromantic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/unromantic/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Silent lm",
+    "antonyms": []
+  },
+  {
+    "word": "Movie ticket",
+    "antonyms": []
+  }
+]

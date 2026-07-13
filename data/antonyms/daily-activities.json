@@ -1,0 +1,241 @@
+[
+  {
+    "word": "Brush your teeth",
+    "antonyms": []
+  },
+  {
+    "word": "Buy",
+    "antonyms": [
+      {
+        "word": "sale",
+        "partOfSpeech": "noun",
+        "pronunciation": "/seɪl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disbelieve",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪsbɪˈliːv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pitch",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɪʧ/",
+        "meaning": "Sân"
+      },
+      {
+        "word": "reject",
+        "partOfSpeech": "noun",
+        "pronunciation": "/reject/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Comb the hair",
+    "antonyms": []
+  },
+  {
+    "word": "Cook",
+    "antonyms": []
+  },
+  {
+    "word": "Do exercise",
+    "antonyms": []
+  },
+  {
+    "word": "Do your homework",
+    "antonyms": []
+  },
+  {
+    "word": "Eat out",
+    "antonyms": []
+  },
+  {
+    "word": "Feed the dog",
+    "antonyms": []
+  },
+  {
+    "word": "Finish working",
+    "antonyms": []
+  },
+  {
+    "word": "Gardening",
+    "antonyms": []
+  },
+  {
+    "word": "Get dressed",
+    "antonyms": []
+  },
+  {
+    "word": "Get up",
+    "antonyms": [
+      {
+        "word": "go to bed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/gou tə bed/",
+        "meaning": "Đi ngủ"
+      },
+      {
+        "word": "sit down",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sit down/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Go home",
+    "antonyms": []
+  },
+  {
+    "word": "Go shopping",
+    "antonyms": []
+  },
+  {
+    "word": "Go to bed",
+    "antonyms": []
+  },
+  {
+    "word": "Go to the movies",
+    "antonyms": []
+  },
+  {
+    "word": "Have a bath",
+    "antonyms": []
+  },
+  {
+    "word": "Have a nap",
+    "antonyms": []
+  },
+  {
+    "word": "Have breakfast",
+    "antonyms": []
+  },
+  {
+    "word": "Have dinner",
+    "antonyms": []
+  },
+  {
+    "word": "Have lunch",
+    "antonyms": []
+  },
+  {
+    "word": "Have a shower",
+    "antonyms": []
+  },
+  {
+    "word": "Listen to music",
+    "antonyms": []
+  },
+  {
+    "word": "Make breakfast",
+    "antonyms": []
+  },
+  {
+    "word": "Make up",
+    "antonyms": []
+  },
+  {
+    "word": "Meditation",
+    "antonyms": []
+  },
+  {
+    "word": "Play an instrument",
+    "antonyms": []
+  },
+  {
+    "word": "Play outside",
+    "antonyms": []
+  },
+  {
+    "word": "Play sports",
+    "antonyms": []
+  },
+  {
+    "word": "Play video games",
+    "antonyms": []
+  },
+  {
+    "word": "Read books",
+    "antonyms": []
+  },
+  {
+    "word": "Read newspapers",
+    "antonyms": []
+  },
+  {
+    "word": "Relax",
+    "antonyms": [
+      {
+        "word": "excite",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪkˈsaɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stress",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɹɛs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Set the alarm",
+    "antonyms": []
+  },
+  {
+    "word": "Shave",
+    "antonyms": []
+  },
+  {
+    "word": "Sleep",
+    "antonyms": []
+  },
+  {
+    "word": "Study",
+    "antonyms": []
+  },
+  {
+    "word": "Surf the internet",
+    "antonyms": []
+  },
+  {
+    "word": "Take the rubbish out",
+    "antonyms": []
+  },
+  {
+    "word": "Drink",
+    "antonyms": []
+  },
+  {
+    "word": "Turn o",
+    "antonyms": []
+  },
+  {
+    "word": "Visit your friend",
+    "antonyms": []
+  },
+  {
+    "word": "Wake up",
+    "antonyms": []
+  },
+  {
+    "word": "Wash your face",
+    "antonyms": []
+  },
+  {
+    "word": "Wash the dishes",
+    "antonyms": []
+  },
+  {
+    "word": "Watch television",
+    "antonyms": []
+  },
+  {
+    "word": "Work",
+    "antonyms": []
+  }
+]

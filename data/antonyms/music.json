@@ -1,0 +1,120 @@
+[
+  {
+    "word": "Music",
+    "antonyms": [
+      { "word": "noise", "partOfSpeech": "noun", "pronunciation": "/nɔɪz/", "meaning": "tiếng ồn, tiếng tạp âm" },
+      { "word": "silence", "partOfSpeech": "noun", "pronunciation": "/ˈsaɪləns/", "meaning": "sự im lặng, sự tĩnh lặng" },
+      { "word": "cacophony", "partOfSpeech": "noun", "pronunciation": "/kəˈkɒfəni/", "meaning": "âm thanh hỗn loạn, chói tai" }
+    ]
+  },
+  {
+    "word": "Play",
+    "antonyms": [
+      { "word": "work", "partOfSpeech": "verb", "pronunciation": "/wɜːk/", "meaning": "làm việc, lao động" },
+      { "word": "rest", "partOfSpeech": "verb", "pronunciation": "/rest/", "meaning": "nghỉ ngơi" },
+      { "word": "stop", "partOfSpeech": "verb", "pronunciation": "/stɒp/", "meaning": "dừng lại, ngưng chơi" }
+    ]
+  },
+  {
+    "word": "Perform",
+    "antonyms": [
+      { "word": "neglect", "partOfSpeech": "verb", "pronunciation": "/nɪˈɡlekt/", "meaning": "bỏ bê, thờ ơ" },
+      { "word": "fail", "partOfSpeech": "verb", "pronunciation": "/feɪl/", "meaning": "thất bại, không thực hiện được" },
+      { "word": "idle", "partOfSpeech": "verb", "pronunciation": "/ˈaɪdl/", "meaning": "thất nghiệp, nhàn rỗi" }
+    ]
+  },
+  {
+    "word": "Rhythm",
+    "antonyms": [
+      { "word": "disorder", "partOfSpeech": "noun", "pronunciation": "/dɪsˈɔːdə(r)/", "meaning": "sự rối loạn, mất trật tự" },
+      { "word": "irregularity", "partOfSpeech": "noun", "pronunciation": "/ɪˌreɡjəˈlærəti/", "meaning": "sự bất thường, không đều đặn" },
+      { "word": "chaos", "partOfSpeech": "noun", "pronunciation": "/ˈkeɪɒs/", "meaning": "sự hỗn loạn, vô trật tự" }
+    ]
+  },
+  {
+    "word": "Dance",
+    "antonyms": [
+      { "word": "stand still", "partOfSpeech": "verb", "pronunciation": "/stænd stɪl/", "meaning": "đứng yên, đứng tại chỗ" },
+      { "word": "remain", "partOfSpeech": "verb", "pronunciation": "/rɪˈmeɪn/", "meaning": "vẫn ở nguyên vị trí" }
+    ]
+  },
+  {
+    "word": "Listen",
+    "antonyms": [
+      { "word": "ignore", "partOfSpeech": "verb", "pronunciation": "/ɪɡˈnɔː(r)/", "meaning": "phớt lờ, lờ đi" },
+      { "word": "disregard", "partOfSpeech": "verb", "pronunciation": "/ˌdɪsrɪˈɡɑːd/", "meaning": "coi thường, ngó lơ" },
+      { "word": "neglect", "partOfSpeech": "verb", "pronunciation": "/nɪˈɡlekt/", "meaning": "bỏ lơ, sao nhãng" }
+    ]
+  },
+  {
+    "word": "Volume",
+    "antonyms": [
+      { "word": "silence", "partOfSpeech": "noun", "pronunciation": "/ˈsaɪləns/", "meaning": "sự im lặng, sự tĩnh lặng" },
+      { "word": "softness", "partOfSpeech": "noun", "pronunciation": "/ˈsɒftnəs/", "meaning": "sự nhỏ nhẹ, êm dịu" }
+    ]
+  },
+  {
+    "word": "Sing",
+    "antonyms": [
+      { "word": "be quiet", "partOfSpeech": "verb", "pronunciation": "/bi ˈkwaɪət/", "meaning": "giữ im lặng" },
+      { "word": "silence", "partOfSpeech": "verb", "pronunciation": "/ˈsaɪləns/", "meaning": "im lặng, nín lặng" }
+    ]
+  },
+  {
+    "word": "Harmony",
+    "antonyms": [
+      { "word": "discord", "partOfSpeech": "noun", "pronunciation": "/ˈdɪskɔːd/", "meaning": "sự bất hòa, âm thanh nghịch tai" },
+      { "word": "conflict", "partOfSpeech": "noun", "pronunciation": "/ˈkɒnflɪkt/", "meaning": "sự xung đột, mâu thuẫn" },
+      { "word": "clash", "partOfSpeech": "noun", "pronunciation": "/klæʃ/", "meaning": "sự xung đột, va chạm" },
+      { "word": "dissonance", "partOfSpeech": "noun", "pronunciation": "/ˈdɪsənəns/", "meaning": "sự nghịch tai, sự bất hòa" }
+    ]
+  },
+  {
+    "word": "Melody",
+    "antonyms": [
+      { "word": "discordance", "partOfSpeech": "noun", "pronunciation": "/dɪˈskɔːdns/", "meaning": "sự không hòa hợp, sự chói tai" },
+      { "word": "cacophony", "partOfSpeech": "noun", "pronunciation": "/kəˈkɒfəni/", "meaning": "âm thanh hỗn loạn, chói tai" }
+    ]
+  },
+  {
+    "word": "Conductor",
+    "antonyms": [
+      { "word": "follower", "partOfSpeech": "noun", "pronunciation": "/ˈfɒləʊə(r)/", "meaning": "người đi theo, thành viên dàn nhạc" },
+      { "word": "member", "partOfSpeech": "noun", "pronunciation": "/ˈmembə(r)/", "meaning": "thành viên" }
+    ]
+  },
+  {
+    "word": "Voice",
+    "antonyms": [
+      { "word": "silence", "partOfSpeech": "noun", "pronunciation": "/ˈsaɪləns/", "meaning": "sự câm nín, im lặng" },
+      { "word": "quietness", "partOfSpeech": "noun", "pronunciation": "/ˈkwaɪətnəs/", "meaning": "sự yên tĩnh, tĩnh lặng" }
+    ]
+  },
+  {
+    "word": "Solo",
+    "antonyms": [
+      { "word": "duet", "partOfSpeech": "noun", "pronunciation": "/djuˈet/", "meaning": "màn song ca, song tấu" },
+      { "word": "ensemble", "partOfSpeech": "noun", "pronunciation": "/ɒnˈsɒmbl/", "meaning": "hợp xướng, cả nhóm" }
+    ]
+  },
+  {
+    "word": "Chorus",
+    "antonyms": [
+      { "word": "solo", "partOfSpeech": "noun", "pronunciation": "/ˈsəʊləʊ/", "meaning": "màn đơn ca, biểu diễn solo" }
+    ]
+  },
+  {
+    "word": "Tune",
+    "antonyms": [
+      { "word": "discord", "partOfSpeech": "noun", "pronunciation": "/ˈdɪskɔːd/", "meaning": "sự chênh tông, sự lạc lõng" },
+      { "word": "cacophony", "partOfSpeech": "noun", "pronunciation": "/kəˈkɒfəni/", "meaning": "âm thanh hỗn loạn, chói tai" }
+    ]
+  },
+  {
+    "word": "Classical music",
+    "antonyms": [
+      { "word": "modern music", "partOfSpeech": "noun", "pronunciation": "/ˈmɒdn ˈmjuːzɪk/", "meaning": "nhạc hiện đại" },
+      { "word": "pop music", "partOfSpeech": "noun", "pronunciation": "/pɒp ˈmjuːzɪk/", "meaning": "nhạc pop" }
+    ]
+  }
+]

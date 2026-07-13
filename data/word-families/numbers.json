@@ -1,0 +1,318 @@
+[
+  {
+    "word": "Cardinal number",
+    "rootWord": "Cardinal number",
+    "members": [
+      {
+        "word": "cardinal number",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cardinal number/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ordinal number",
+    "rootWord": "Ordinal number",
+    "members": [
+      {
+        "word": "ordinal number",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ordinal number/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Decimal",
+    "rootWord": "Decimal",
+    "members": [
+      {
+        "word": "decimal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/decimal/",
+        "meaning": ""
+      },
+      {
+        "word": "decimalize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈdɛsɪməlaɪz/",
+        "meaning": "decimalize"
+      }
+    ]
+  },
+  {
+    "word": "Fraction",
+    "rootWord": "Fraction",
+    "members": [
+      {
+        "word": "fraction",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fraction/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Percentage",
+    "rootWord": "Percentage",
+    "members": [
+      {
+        "word": "percentage",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/percentage/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Arithmetic",
+    "rootWord": "Arithmetic",
+    "members": [
+      {
+        "word": "arithmetic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/arithmetic/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Divide",
+    "rootWord": "Divide",
+    "members": [
+      {
+        "word": "divide",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/divide/",
+        "meaning": ""
+      },
+      {
+        "word": "divider",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈvaɪdə(ɹ)/",
+        "meaning": "divider"
+      }
+    ]
+  },
+  {
+    "word": "Plus",
+    "rootWord": "Plus",
+    "members": [
+      {
+        "word": "plus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Minus",
+    "rootWord": "Minus",
+    "members": [
+      {
+        "word": "minus",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/minus/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Multiply",
+    "rootWord": "Multiply",
+    "members": [
+      {
+        "word": "multiply",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/multiply/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Equal",
+    "rootWord": "Equal",
+    "members": [
+      {
+        "word": "equal",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/equal/",
+        "meaning": ""
+      },
+      {
+        "word": "equality",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈkwɒlɪti/",
+        "meaning": "Sự ngang bằng nhau"
+      },
+      {
+        "word": "equalize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈiːkwəlaɪz/",
+        "meaning": "equalize"
+      },
+      {
+        "word": "equally",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈiːkwəli/",
+        "meaning": "equally"
+      }
+    ]
+  },
+  {
+    "word": "Total",
+    "rootWord": "Total",
+    "members": [
+      {
+        "word": "total",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/total/",
+        "meaning": ""
+      },
+      {
+        "word": "totally",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈtoʊt.əl.i/",
+        "meaning": "totally"
+      },
+      {
+        "word": "totality",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/totality/",
+        "meaning": "totality"
+      },
+      {
+        "word": "totalize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/totalize/",
+        "meaning": "totalize"
+      }
+    ]
+  },
+  {
+    "word": "Dozen",
+    "rootWord": "Dozen",
+    "members": [
+      {
+        "word": "dozen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dozen/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Around",
+    "rootWord": "Around",
+    "members": [
+      {
+        "word": "around",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/around/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Zero",
+    "rootWord": "Zero",
+    "members": [
+      {
+        "word": "zero",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/zero/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hundred",
+    "rootWord": "Hundred",
+    "members": [
+      {
+        "word": "hundred",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hundred/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Thousand",
+    "rootWord": "Thousand",
+    "members": [
+      {
+        "word": "thousand",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thousand/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Million",
+    "rootWord": "Million",
+    "members": [
+      {
+        "word": "million",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/million/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Billion",
+    "rootWord": "Billion",
+    "members": [
+      {
+        "word": "billion",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/billion/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Half",
+    "rootWord": "Half",
+    "members": [
+      {
+        "word": "half",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/half/",
+        "meaning": ""
+      }
+    ]
+  }
+]

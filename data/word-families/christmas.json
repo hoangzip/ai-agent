@@ -1,0 +1,257 @@
+[
+  {
+    "word": "Winter",
+    "rootWord": "Winter",
+    "members": [
+      {
+        "word": "winter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/winter/",
+        "meaning": "mùa đông"
+      }
+    ]
+  },
+  {
+    "word": "Candle",
+    "rootWord": "Candle",
+    "members": [
+      {
+        "word": "candle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/candle/",
+        "meaning": "nến"
+      }
+    ]
+  },
+  {
+    "word": "Snow",
+    "rootWord": "Snow",
+    "members": [
+      {
+        "word": "snow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snow/",
+        "meaning": "tuyết; tuyết rơi"
+      },
+      {
+        "word": "snowy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/snəʊi/",
+        "meaning": "Được đánh dấu bằng tuyết, đặc trưng là tuyết."
+      }
+    ]
+  },
+  {
+    "word": "Sack",
+    "rootWord": "Sack",
+    "members": [
+      {
+        "word": "sack",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sack/",
+        "meaning": "bao tải; đóng bao, bỏ vào bao"
+      },
+      {
+        "word": "sackful",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sackful/",
+        "meaning": "Số tiền mà một bao tải sẽ chứa."
+      }
+    ]
+  },
+  {
+    "word": "Card",
+    "rootWord": "Card",
+    "members": [
+      {
+        "word": "card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/card/",
+        "meaning": "thẻ, thiếp"
+      }
+    ]
+  },
+  {
+    "word": "Fireplace",
+    "rootWord": "Fireplace",
+    "members": [
+      {
+        "word": "fireplace",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fireplace/",
+        "meaning": "lò sưởi"
+      }
+    ]
+  },
+  {
+    "word": "Chimney",
+    "rootWord": "Chimney",
+    "members": [
+      {
+        "word": "chimney",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chimney/",
+        "meaning": "///"
+      }
+    ]
+  },
+  {
+    "word": "Gift",
+    "rootWord": "Gift",
+    "members": [
+      {
+        "word": "gift",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gift/",
+        "meaning": "quà tặng"
+      }
+    ]
+  },
+  {
+    "word": "Christmas",
+    "rootWord": "Christmas",
+    "members": [
+      {
+        "word": "christmas",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/christmas/",
+        "meaning": "Giáng sinh"
+      }
+    ]
+  },
+  {
+    "word": "Ornament",
+    "rootWord": "Ornament",
+    "members": [
+      {
+        "word": "ornament",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ornament/",
+        "meaning": "đồ trang trí loè loẹt"
+      }
+    ]
+  },
+  {
+    "word": "Pine tree",
+    "rootWord": "Pine tree",
+    "members": [
+      {
+        "word": "pine tree",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pine tree/",
+        "meaning": "Cây Thông"
+      }
+    ]
+  },
+  {
+    "word": "Sled",
+    "rootWord": "Sled",
+    "members": [
+      {
+        "word": "sled",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sled/",
+        "meaning": "xe trượt tuyết"
+      }
+    ]
+  },
+  {
+    "word": "Bell",
+    "rootWord": "Bell",
+    "members": [
+      {
+        "word": "bell",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bell/",
+        "meaning": "cái chuông, tiếng chuông"
+      },
+      {
+        "word": "belly",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɛli/",
+        "meaning": "Bụng, đặc biệt là bụng mập."
+      }
+    ]
+  },
+  {
+    "word": "Snowflake",
+    "rootWord": "Snowflake",
+    "members": [
+      {
+        "word": "snowflake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/snowflake/",
+        "meaning": "Hoa tuyết"
+      }
+    ]
+  },
+  {
+    "word": "Wreath",
+    "rootWord": "Wreath",
+    "members": [
+      {
+        "word": "wreath",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wreath/",
+        "meaning": "tay vịn cầu thang cuốn, tay vịn cầu thang ở chỗ quành"
+      }
+    ]
+  },
+  {
+    "word": "Scarf",
+    "rootWord": "Scarf",
+    "members": [
+      {
+        "word": "scarf",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scarf/",
+        "meaning": "khăn quàng cổ"
+      }
+    ]
+  },
+  {
+    "word": "Christmas tree",
+    "rootWord": "Christmas tree",
+    "members": [
+      {
+        "word": "christmas tree",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/christmas tree/",
+        "meaning": "cây Noel"
+      }
+    ]
+  },
+  {
+    "word": "Christmas card",
+    "rootWord": "Christmas card",
+    "members": [
+      {
+        "word": "christmas card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/christmas card/",
+        "meaning": "Thiệp giáng sinh sao?"
+      }
+    ]
+  }
+]

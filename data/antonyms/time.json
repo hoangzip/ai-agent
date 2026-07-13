@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Second",
+    "antonyms": []
+  },
+  {
+    "word": "Minute",
+    "antonyms": []
+  },
+  {
+    "word": "Hour",
+    "antonyms": []
+  },
+  {
+    "word": "Week",
+    "antonyms": []
+  },
+  {
+    "word": "Decade",
+    "antonyms": []
+  },
+  {
+    "word": "Century",
+    "antonyms": []
+  },
+  {
+    "word": "Weekend",
+    "antonyms": []
+  },
+  {
+    "word": "Month",
+    "antonyms": []
+  },
+  {
+    "word": "Year",
+    "antonyms": []
+  },
+  {
+    "word": "Millennium",
+    "antonyms": []
+  },
+  {
+    "word": "Morning",
+    "antonyms": []
+  },
+  {
+    "word": "Afternoon",
+    "antonyms": []
+  },
+  {
+    "word": "Evening",
+    "antonyms": []
+  },
+  {
+    "word": "Midnight",
+    "antonyms": [
+      {
+        "word": "midday",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɪdˈdeɪ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "noon",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nuːn/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dusk",
+    "antonyms": [
+      {
+        "word": "dawn",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɑːn/",
+        "meaning": "Bình minh"
+      },
+      {
+        "word": "daybreak",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdeɪbɹeɪk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dawn",
+    "antonyms": [
+      {
+        "word": "dusk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dʌsk/",
+        "meaning": "Hoàng hôn"
+      }
+    ]
+  }
+]

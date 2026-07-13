@@ -1,0 +1,298 @@
+[
+  {
+    "word": "Earring",
+    "rootWord": "Earring",
+    "members": [
+      {
+        "word": "earring",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/earring/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Necklace",
+    "rootWord": "Necklace",
+    "members": [
+      {
+        "word": "necklace",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/necklace/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bracelet",
+    "rootWord": "Bracelet",
+    "members": [
+      {
+        "word": "bracelet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bracelet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Brooch",
+    "rootWord": "Brooch",
+    "members": [
+      {
+        "word": "brooch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/brooch/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hair clip",
+    "rootWord": "Hair clip",
+    "members": [
+      {
+        "word": "hair clip",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hair clip/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wedding ring",
+    "rootWord": "Wedding ring",
+    "members": [
+      {
+        "word": "wedding ring",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wedding ring/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Jeweler",
+    "rootWord": "Jeweler",
+    "members": [
+      {
+        "word": "jeweler",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jeweler/",
+        "meaning": ""
+      },
+      {
+        "word": "jewel",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dʒul/",
+        "meaning": "jewel"
+      }
+    ]
+  },
+  {
+    "word": "Jewelry store",
+    "rootWord": "Jewelry store",
+    "members": [
+      {
+        "word": "jewelry store",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/jewelry store/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Anklet",
+    "rootWord": "Anklet",
+    "members": [
+      {
+        "word": "anklet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/anklet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Noble",
+    "rootWord": "Noble",
+    "members": [
+      {
+        "word": "noble",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/noble/",
+        "meaning": ""
+      },
+      {
+        "word": "nobly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈnəʊbli/",
+        "meaning": "nobly"
+      }
+    ]
+  },
+  {
+    "word": "Luxurious",
+    "rootWord": "Luxurious",
+    "members": [
+      {
+        "word": "luxurious",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/luxurious/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Modern",
+    "rootWord": "Modern",
+    "members": [
+      {
+        "word": "modern",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/modern/",
+        "meaning": ""
+      },
+      {
+        "word": "modernize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈmɒdənaɪz/",
+        "meaning": "modernize"
+      },
+      {
+        "word": "modernist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/modernist/",
+        "meaning": "modernist"
+      },
+      {
+        "word": "modernity",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/məˈdɜː(ɹ)n.ɪ.ti/",
+        "meaning": "modernity"
+      }
+    ]
+  },
+  {
+    "word": "Suitable",
+    "rootWord": "Suitable",
+    "members": [
+      {
+        "word": "suitable",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/suitable/",
+        "meaning": ""
+      },
+      {
+        "word": "suitably",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/suitably/",
+        "meaning": "suitably"
+      }
+    ]
+  },
+  {
+    "word": "Twinkle",
+    "rootWord": "Twinkle",
+    "members": [
+      {
+        "word": "twinkle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/twinkle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bead",
+    "rootWord": "Bead",
+    "members": [
+      {
+        "word": "bead",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bead/",
+        "meaning": ""
+      },
+      {
+        "word": "beady",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbiːdi/",
+        "meaning": "beady"
+      }
+    ]
+  },
+  {
+    "word": "Hair tie",
+    "rootWord": "Hair tie",
+    "members": [
+      {
+        "word": "hair tie",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hair tie/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pocket watch",
+    "rootWord": "Pocket watch",
+    "members": [
+      {
+        "word": "pocket watch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pocket watch/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tiepin",
+    "rootWord": "Tiepin",
+    "members": [
+      {
+        "word": "tiepin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tiepin/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Precious stone",
+    "rootWord": "Precious stone",
+    "members": [
+      {
+        "word": "precious stone",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/precious stone/",
+        "meaning": ""
+      }
+    ]
+  }
+]

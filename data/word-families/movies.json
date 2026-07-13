@@ -1,0 +1,346 @@
+[
+  {
+    "word": "Movie",
+    "rootWord": "Movie",
+    "members": [
+      {
+        "word": "movie",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/movie/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Famous",
+    "rootWord": "Famous",
+    "members": [
+      {
+        "word": "famous",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/famous/",
+        "meaning": ""
+      },
+      {
+        "word": "famously",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/famously/",
+        "meaning": "famously"
+      }
+    ]
+  },
+  {
+    "word": "Comedy",
+    "rootWord": "Comedy",
+    "members": [
+      {
+        "word": "comedy",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/comedy/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Audience",
+    "rootWord": "Audience",
+    "members": [
+      {
+        "word": "audience",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/audience/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Film Festival",
+    "rootWord": "Film Festival",
+    "members": [
+      {
+        "word": "film festival",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/film festival/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Trailer",
+    "rootWord": "Trailer",
+    "members": [
+      {
+        "word": "trailer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/trailer/",
+        "meaning": ""
+      },
+      {
+        "word": "trail",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɹeɪl/",
+        "meaning": "trail"
+      }
+    ]
+  },
+  {
+    "word": "Movie star",
+    "rootWord": "Movie star",
+    "members": [
+      {
+        "word": "movie star",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/movie star/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Soundtrack",
+    "rootWord": "Soundtrack",
+    "members": [
+      {
+        "word": "soundtrack",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/soundtrack/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Cartoon",
+    "rootWord": "Cartoon",
+    "members": [
+      {
+        "word": "cartoon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cartoon/",
+        "meaning": ""
+      },
+      {
+        "word": "cartoonist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cartoonist/",
+        "meaning": "cartoonist"
+      }
+    ]
+  },
+  {
+    "word": "Drama",
+    "rootWord": "Drama",
+    "members": [
+      {
+        "word": "drama",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/drama/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Action lm",
+    "rootWord": "Action lm",
+    "members": [
+      {
+        "word": "action lm",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/action lm/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Celebrity",
+    "rootWord": "Celebrity",
+    "members": [
+      {
+        "word": "celebrity",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/celebrity/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Script",
+    "rootWord": "Script",
+    "members": [
+      {
+        "word": "script",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/script/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Theater",
+    "rootWord": "Theater",
+    "members": [
+      {
+        "word": "theater",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/theater/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Actor",
+    "rootWord": "Actor",
+    "members": [
+      {
+        "word": "actor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/actor/",
+        "meaning": ""
+      },
+      {
+        "word": "active",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæk.tɪv/",
+        "meaning": "active"
+      },
+      {
+        "word": "actable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/actable/",
+        "meaning": "actable"
+      },
+      {
+        "word": "act",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/æk/",
+        "meaning": "act"
+      }
+    ]
+  },
+  {
+    "word": "Actress",
+    "rootWord": "Actress",
+    "members": [
+      {
+        "word": "actress",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/actress/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Director",
+    "rootWord": "Director",
+    "members": [
+      {
+        "word": "director",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/director/",
+        "meaning": ""
+      },
+      {
+        "word": "directive",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/daɪˈɹɛk.tɪv/",
+        "meaning": "directive"
+      },
+      {
+        "word": "direct",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/d(a)ɪˈɹɛkt/",
+        "meaning": "direct"
+      },
+      {
+        "word": "directness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/directness/",
+        "meaning": "directness"
+      },
+      {
+        "word": "directly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/daɪˈɹɛk(t)li/",
+        "meaning": "directly"
+      }
+    ]
+  },
+  {
+    "word": "Romantic",
+    "rootWord": "Romantic",
+    "members": [
+      {
+        "word": "romantic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/romantic/",
+        "meaning": ""
+      },
+      {
+        "word": "romanticist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/romanticist/",
+        "meaning": "romanticist"
+      },
+      {
+        "word": "romanticize",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/romanticize/",
+        "meaning": "romanticize"
+      }
+    ]
+  },
+  {
+    "word": "Silent lm",
+    "rootWord": "Silent lm",
+    "members": [
+      {
+        "word": "silent lm",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/silent lm/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Movie ticket",
+    "rootWord": "Movie ticket",
+    "members": [
+      {
+        "word": "movie ticket",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/movie ticket/",
+        "meaning": ""
+      }
+    ]
+  }
+]

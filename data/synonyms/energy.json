@@ -1,0 +1,157 @@
+[
+  {
+    "word": "Charcoal",
+    "synonyms": []
+  },
+  {
+    "word": "Battery",
+    "synonyms": []
+  },
+  {
+    "word": "Gasoline",
+    "synonyms": [
+      {
+        "word": "gas",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡæs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "petrol",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpetrəl/",
+        "meaning": "Xăng"
+      }
+    ]
+  },
+  {
+    "word": "Turbine",
+    "synonyms": []
+  },
+  {
+    "word": "Sun",
+    "synonyms": [
+      {
+        "word": "apricate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/apricate/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wind",
+    "synonyms": [
+      {
+        "word": "gas",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡæs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "breeze",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹiːz/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "draft",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɹæft/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gale",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɡeɪl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Waterfall",
+    "synonyms": [
+      {
+        "word": "cascade",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kæsˈkeɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cataract",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkætəɹækt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sault",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sault/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Renery",
+    "synonyms": []
+  },
+  {
+    "word": "Nuclear reactor",
+    "synonyms": [
+      {
+        "word": "atomic pile",
+        "partOfSpeech": "noun",
+        "pronunciation": "/atomic pile/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Dam",
+    "synonyms": []
+  },
+  {
+    "word": "Power plant",
+    "synonyms": [
+      {
+        "word": "power station",
+        "partOfSpeech": "noun",
+        "pronunciation": "/power station/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Transformer",
+    "synonyms": []
+  },
+  {
+    "word": "Heat",
+    "synonyms": [
+      {
+        "word": "passion",
+        "partOfSpeech": "noun",
+        "pronunciation": "[ˈpʰæʃən]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vehemence",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈviːhəmən(t)s/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Natural gas",
+    "synonyms": []
+  },
+  {
+    "word": "Diesel",
+    "synonyms": []
+  },
+  {
+    "word": "Solar power",
+    "synonyms": []
+  }
+]

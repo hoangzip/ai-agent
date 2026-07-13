@@ -1,0 +1,688 @@
+[
+  {
+    "word": "Dancer",
+    "rootWord": "Dancer",
+    "members": [
+      {
+        "word": "dancer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dancer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Designer",
+    "rootWord": "Designer",
+    "members": [
+      {
+        "word": "designer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/designer/",
+        "meaning": ""
+      },
+      {
+        "word": "designate",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈdɛzɪɡ.neɪt/",
+        "meaning": "designate"
+      },
+      {
+        "word": "design",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈzaɪn/",
+        "meaning": "design"
+      }
+    ]
+  },
+  {
+    "word": "Magician",
+    "rootWord": "Magician",
+    "members": [
+      {
+        "word": "magician",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/magician/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tour guide",
+    "rootWord": "Tour guide",
+    "members": [
+      {
+        "word": "tour guide",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tour guide/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sailor",
+    "rootWord": "Sailor",
+    "members": [
+      {
+        "word": "sailor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sailor/",
+        "meaning": ""
+      },
+      {
+        "word": "sail",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/seil/",
+        "meaning": "Lái (thuyền buồm)"
+      },
+      {
+        "word": "sailer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sailer/",
+        "meaning": "sailer"
+      }
+    ]
+  },
+  {
+    "word": "Commentator",
+    "rootWord": "Commentator",
+    "members": [
+      {
+        "word": "commentator",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/commentator/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dentist",
+    "rootWord": "Dentist",
+    "members": [
+      {
+        "word": "dentist",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dentist/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Postman",
+    "rootWord": "Postman",
+    "members": [
+      {
+        "word": "postman",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/postman/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Writer",
+    "rootWord": "Writer",
+    "members": [
+      {
+        "word": "writer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/writer/",
+        "meaning": ""
+      },
+      {
+        "word": "writ",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪt/",
+        "meaning": "writ"
+      }
+    ]
+  },
+  {
+    "word": "Pilot",
+    "rootWord": "Pilot",
+    "members": [
+      {
+        "word": "pilot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pilot/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Plumber",
+    "rootWord": "Plumber",
+    "members": [
+      {
+        "word": "plumber",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plumber/",
+        "meaning": ""
+      },
+      {
+        "word": "plumbic",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈplʌmbɪk/",
+        "meaning": "plumbic"
+      },
+      {
+        "word": "plumbate",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plumbate/",
+        "meaning": "plumbate"
+      },
+      {
+        "word": "plumb",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plʌm/",
+        "meaning": "plumb"
+      },
+      {
+        "word": "plumbless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/plumbless/",
+        "meaning": "plumbless"
+      },
+      {
+        "word": "plumbous",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/plumbous/",
+        "meaning": "plumbous"
+      }
+    ]
+  },
+  {
+    "word": "Tailor",
+    "rootWord": "Tailor",
+    "members": [
+      {
+        "word": "tailor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tailor/",
+        "meaning": ""
+      },
+      {
+        "word": "tail",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/teɪl/",
+        "meaning": "tail"
+      }
+    ]
+  },
+  {
+    "word": "Copywriter",
+    "rootWord": "Copywriter",
+    "members": [
+      {
+        "word": "copywriter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/copywriter/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Journalist",
+    "rootWord": "Journalist",
+    "members": [
+      {
+        "word": "journalist",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/journalist/",
+        "meaning": ""
+      },
+      {
+        "word": "journalistic",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌd͡ʒɜː(ɹ)nəˈlɪstɪk/",
+        "meaning": "journalistic"
+      }
+    ]
+  },
+  {
+    "word": "Grocer",
+    "rootWord": "Grocer",
+    "members": [
+      {
+        "word": "grocer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grocer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Clerk",
+    "rootWord": "Clerk",
+    "members": [
+      {
+        "word": "clerk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clerk/",
+        "meaning": ""
+      },
+      {
+        "word": "clerkly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/clerkly/",
+        "meaning": "clerkly"
+      }
+    ]
+  },
+  {
+    "word": "Assistant",
+    "rootWord": "Assistant",
+    "members": [
+      {
+        "word": "assistant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/assistant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Model",
+    "rootWord": "Model",
+    "members": [
+      {
+        "word": "model",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/model/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Freelancer",
+    "rootWord": "Freelancer",
+    "members": [
+      {
+        "word": "freelancer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/freelancer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Consultant",
+    "rootWord": "Consultant",
+    "members": [
+      {
+        "word": "consultant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/consultant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Self-employed",
+    "rootWord": "Self-employed",
+    "members": [
+      {
+        "word": "self-employed",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/self-employed/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Supervisor",
+    "rootWord": "Supervisor",
+    "members": [
+      {
+        "word": "supervisor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/supervisor/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Sales manager",
+    "rootWord": "Sales manager",
+    "members": [
+      {
+        "word": "sales manager",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sales manager/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Production manager",
+    "rootWord": "Production manager",
+    "members": [
+      {
+        "word": "production manager",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/production manager/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mechanic",
+    "rootWord": "Mechanic",
+    "members": [
+      {
+        "word": "mechanic",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mechanic/",
+        "meaning": ""
+      },
+      {
+        "word": "mechanical",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɪˈkanɪk(ə)l/",
+        "meaning": "mechanical"
+      }
+    ]
+  },
+  {
+    "word": "Managing director",
+    "rootWord": "Managing director",
+    "members": [
+      {
+        "word": "managing director",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/managing director/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Personal assistant",
+    "rootWord": "Personal assistant",
+    "members": [
+      {
+        "word": "personal assistant",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/personal assistant/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hairdresser",
+    "rootWord": "Hairdresser",
+    "members": [
+      {
+        "word": "hairdresser",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hairdresser/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Architect",
+    "rootWord": "Architect",
+    "members": [
+      {
+        "word": "architect",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/architect/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Engineer",
+    "rootWord": "Engineer",
+    "members": [
+      {
+        "word": "engineer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/engineer/",
+        "meaning": ""
+      },
+      {
+        "word": "engine",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/end͡ʒən/",
+        "meaning": "engine"
+      }
+    ]
+  },
+  {
+    "word": "Vet",
+    "rootWord": "Vet",
+    "members": [
+      {
+        "word": "vet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Shoemaker",
+    "rootWord": "Shoemaker",
+    "members": [
+      {
+        "word": "shoemaker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shoemaker/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Translator",
+    "rootWord": "Translator",
+    "members": [
+      {
+        "word": "translator",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/translator/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Interpreter",
+    "rootWord": "Interpreter",
+    "members": [
+      {
+        "word": "interpreter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/interpreter/",
+        "meaning": ""
+      },
+      {
+        "word": "interpretive",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/interpretive/",
+        "meaning": "interpretive"
+      },
+      {
+        "word": "interpret",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪnˈtɜː.pɹɪt/",
+        "meaning": "interpret"
+      }
+    ]
+  },
+  {
+    "word": "Sanitation worker",
+    "rootWord": "Sanitation worker",
+    "members": [
+      {
+        "word": "sanitation worker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sanitation worker/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Business manager",
+    "rootWord": "Business manager",
+    "members": [
+      {
+        "word": "business manager",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/business manager/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Police ocer",
+    "rootWord": "Police ocer",
+    "members": [
+      {
+        "word": "police ocer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/police ocer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Personnel manager",
+    "rootWord": "Personnel manager",
+    "members": [
+      {
+        "word": "personnel manager",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/personnel manager/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Teacher",
+    "rootWord": "Teacher",
+    "members": [
+      {
+        "word": "teacher",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/teacher/",
+        "meaning": ""
+      },
+      {
+        "word": "teachable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/teachable/",
+        "meaning": "teachable"
+      },
+      {
+        "word": "teach",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/tiːt͡ʃ/",
+        "meaning": "teach"
+      }
+    ]
+  },
+  {
+    "word": "Doctor",
+    "rootWord": "Doctor",
+    "members": [
+      {
+        "word": "doctor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/doctor/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nurse",
+    "rootWord": "Nurse",
+    "members": [
+      {
+        "word": "nurse",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nurse/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Farmer",
+    "rootWord": "Farmer",
+    "members": [
+      {
+        "word": "farmer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/farmer/",
+        "meaning": ""
+      },
+      {
+        "word": "farm",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɑːm/",
+        "meaning": "Trang trại"
+      }
+    ]
+  }
+]

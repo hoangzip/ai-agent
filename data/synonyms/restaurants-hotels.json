@@ -1,0 +1,345 @@
+[
+  {
+    "word": "Restaurant",
+    "synonyms": []
+  },
+  {
+    "word": "Main course",
+    "synonyms": [
+      {
+        "word": "main",
+        "partOfSpeech": "verb",
+        "pronunciation": "/main/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "main dish",
+        "partOfSpeech": "noun",
+        "pronunciation": "/main dish/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Napkin",
+    "synonyms": []
+  },
+  {
+    "word": "Wine",
+    "synonyms": []
+  },
+  {
+    "word": "Cutlery",
+    "synonyms": [
+      {
+        "word": "flatware",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flatware/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "silverware",
+        "partOfSpeech": "noun",
+        "pronunciation": "/silverware/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Drink",
+    "synonyms": [
+      {
+        "word": "gulp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡʌlp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "imbibe",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪmˈbaɪb/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "quaff",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kwɒf/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sip",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sɪp/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Combo",
+    "synonyms": []
+  },
+  {
+    "word": "Side dish",
+    "synonyms": []
+  },
+  {
+    "word": "Meal",
+    "synonyms": []
+  },
+  {
+    "word": "Order",
+    "synonyms": [
+      {
+        "word": "rank",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɹæŋk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sort",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sort/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "command",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəˈmɑːnd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Speciality",
+    "synonyms": []
+  },
+  {
+    "word": "Dessert",
+    "synonyms": [
+      {
+        "word": "afters",
+        "partOfSpeech": "noun",
+        "pronunciation": "/afters/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pudding",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpʊd.ɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sweet",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/swiːt/",
+        "meaning": "Ngọt ngào"
+      }
+    ]
+  },
+  {
+    "word": "Salad",
+    "synonyms": []
+  },
+  {
+    "word": "Menu",
+    "synonyms": []
+  },
+  {
+    "word": "Waiter",
+    "synonyms": []
+  },
+  {
+    "word": "Guest",
+    "synonyms": []
+  },
+  {
+    "word": "Coupon",
+    "synonyms": [
+      {
+        "word": "voucher",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈvaʊtʃə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Neat",
+    "synonyms": []
+  },
+  {
+    "word": "Animated",
+    "synonyms": [
+      {
+        "word": "enliven",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɛnˈlaɪvən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vitalise",
+        "partOfSpeech": "verb",
+        "pronunciation": "/vitalise/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "claymated",
+        "partOfSpeech": "noun",
+        "pronunciation": "/claymated/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "animate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈæ.nə.meɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hotel",
+    "synonyms": []
+  },
+  {
+    "word": "Hotel receptionist",
+    "synonyms": []
+  },
+  {
+    "word": "Housekeeper",
+    "synonyms": []
+  },
+  {
+    "word": "Hall",
+    "synonyms": []
+  },
+  {
+    "word": "Vacancy",
+    "synonyms": []
+  },
+  {
+    "word": "Lobby",
+    "synonyms": []
+  },
+  {
+    "word": "Concierge",
+    "synonyms": [
+      {
+        "word": "caretaker",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɛəˌteɪ.kə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "custodian",
+        "partOfSpeech": "noun",
+        "pronunciation": "/custodian/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "janitor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈd͡ʒænɪtə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Check-in",
+    "synonyms": []
+  },
+  {
+    "word": "Desk clerk",
+    "synonyms": []
+  },
+  {
+    "word": "Double bed",
+    "synonyms": []
+  },
+  {
+    "word": "Single bed",
+    "synonyms": []
+  },
+  {
+    "word": "Doorman",
+    "synonyms": [
+      {
+        "word": "doorkeeper",
+        "partOfSpeech": "noun",
+        "pronunciation": "/doorkeeper/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Reception",
+    "synonyms": [
+      {
+        "word": "front desk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/front desk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Elevator",
+    "synonyms": [
+      {
+        "word": "lift",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lɪft/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Reservation",
+    "synonyms": [
+      {
+        "word": "res",
+        "partOfSpeech": "noun",
+        "pronunciation": "/res/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "reserve",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈzɜːv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "rez",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rez/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "booking",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈbʊkɪŋ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bellboy",
+    "synonyms": [
+      {
+        "word": "bellhop",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bellhop/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "bellman",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bellman/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Check out",
+    "synonyms": []
+  }
+]

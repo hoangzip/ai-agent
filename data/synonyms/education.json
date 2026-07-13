@@ -1,0 +1,714 @@
+[
+  {
+    "word": "Boarding school",
+    "synonyms": []
+  },
+  {
+    "word": "Public school",
+    "synonyms": [
+      {
+        "word": "boarding school",
+        "partOfSpeech": "noun",
+        "pronunciation": "ˈbɔːrd.ɪŋ skuːl/",
+        "meaning": "Trường nội trú"
+      },
+      {
+        "word": "private school",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpraɪ.vɪt skuːl/",
+        "meaning": "Trường tư thục"
+      },
+      {
+        "word": "free school",
+        "partOfSpeech": "noun",
+        "pronunciation": "/free school/",
+        "meaning": "trường học miễn phí"
+      },
+      {
+        "word": "state school",
+        "partOfSpeech": "noun",
+        "pronunciation": "/state school/",
+        "meaning": "Một trường học do chính phủ tài trợ, được trả bằng thuế."
+      }
+    ]
+  },
+  {
+    "word": "Private school",
+    "synonyms": []
+  },
+  {
+    "word": "Secondary school",
+    "synonyms": []
+  },
+  {
+    "word": "High school",
+    "synonyms": []
+  },
+  {
+    "word": "Primary school",
+    "synonyms": [
+      {
+        "word": "elementary school",
+        "partOfSpeech": "noun",
+        "pronunciation": "/elementary school/",
+        "meaning": "Trường học dành cho trẻ em, thường lớn hơn trẻ mới biết đi và nhỏ hơn thanh thiếu niên. Ở Hoa Kỳ, các trường tiểu học bao gồm các lớp từ 1 đến 5 và độ tuổi của trẻ em thường là 6-11 tuổi. Tối thiểu, các trường tiểu học sẽ dạy đọc, viết, số học và lịch sử cơ bản. Trong lịch sử cũng được sử dụng ở Anh."
+      },
+      {
+        "word": "grade school",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grade school/",
+        "meaning": "(hiếm khi ở Canada) Một trường tiểu học hoặc tiểu học"
+      }
+    ]
+  },
+  {
+    "word": "Nursery school",
+    "synonyms": [
+      {
+        "word": "kindergarten",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɪndəɹˌɡɑːɹd(ə)n/",
+        "meaning": "Một cơ sở giáo dục cho trẻ nhỏ, thường từ 4 đến 6 tuổi; trường mẫu giáo."
+      },
+      {
+        "word": "preschool",
+        "partOfSpeech": "noun",
+        "pronunciation": "/preschool/",
+        "meaning": "mầm non"
+      }
+    ]
+  },
+  {
+    "word": "School",
+    "synonyms": [
+      {
+        "word": "shoal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃɒʊl/",
+        "meaning": "Một bãi cát hoặc dải cát tạo ra một vùng nông."
+      }
+    ]
+  },
+  {
+    "word": "College",
+    "synonyms": [
+      {
+        "word": "department",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈpɑːtm(ə)nt/",
+        "meaning": "Một bộ phận, phần hoặc phân khu."
+      },
+      {
+        "word": "faculty",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfæ.kəl.ti/",
+        "meaning": "Nhân viên giảng dạy tại các trường học, cao đẳng, đại học hoặc viện nghiên cứu phi lợi nhuận, trái ngược với sinh viên hoặc nhân viên hỗ trợ."
+      },
+      {
+        "word": "school",
+        "partOfSpeech": "noun",
+        "pronunciation": "/skuːl/",
+        "meaning": "Trường học"
+      }
+    ]
+  },
+  {
+    "word": "University",
+    "synonyms": [
+      {
+        "word": "academy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈkæd.ə.mi/",
+        "meaning": "(thường viết hoa) Khu vườn nơi Plato dạy học."
+      },
+      {
+        "word": "college",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɒl.ɪdʒ/",
+        "meaning": "Trường đại học, cao đẳng"
+      },
+      {
+        "word": "institute",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɪnstɪt(j)uːt/",
+        "meaning": "Một tổ chức được thành lập để thúc đẩy sự nghiệp"
+      },
+      {
+        "word": "uni",
+        "partOfSpeech": "noun",
+        "pronunciation": "/uni/",
+        "meaning": "Trường Đại học"
+      }
+    ]
+  },
+  {
+    "word": "Professor",
+    "synonyms": [
+      {
+        "word": "prof",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pɹɑf/",
+        "meaning": "Cấp bậc cao nhất đối với một học giả tại một trường đại học hoặc tổ chức tương tự, còn được gọi một cách không chính thức là \"giáo sư chính thức\"."
+      }
+    ]
+  },
+  {
+    "word": "Lecturer",
+    "synonyms": []
+  },
+  {
+    "word": "Researcher",
+    "synonyms": []
+  },
+  {
+    "word": "Graduate",
+    "synonyms": []
+  },
+  {
+    "word": "Degree",
+    "synonyms": [
+      {
+        "word": "arcdegree",
+        "partOfSpeech": "noun",
+        "pronunciation": "/arcdegree/",
+        "meaning": "độ hồ quang"
+      }
+    ]
+  },
+  {
+    "word": "Thesis",
+    "synonyms": []
+  },
+  {
+    "word": "Lecture",
+    "synonyms": []
+  },
+  {
+    "word": "Debate",
+    "synonyms": []
+  },
+  {
+    "word": "Higher education",
+    "synonyms": [
+      {
+        "word": "further education",
+        "partOfSpeech": "noun",
+        "pronunciation": "/further education/",
+        "meaning": "Giáo dục ngoài giáo dục bắt buộc, không bao gồm giáo dục đại học."
+      },
+      {
+        "word": "higher learning",
+        "partOfSpeech": "noun",
+        "pronunciation": "/higher learning/",
+        "meaning": "học cao hơn"
+      },
+      {
+        "word": "tertiary-level education",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tertiary-level education/",
+        "meaning": "giáo dục bậc đại học"
+      }
+    ]
+  },
+  {
+    "word": "Semester",
+    "synonyms": []
+  },
+  {
+    "word": "Student",
+    "synonyms": [
+      {
+        "word": "candlewaster",
+        "partOfSpeech": "noun",
+        "pronunciation": "/candlewaster/",
+        "meaning": "nến"
+      },
+      {
+        "word": "devotee",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌdɛvəˈtiː/",
+        "meaning": "Một người đam mê hoặc ngưỡng mộ nhiệt tình."
+      },
+      {
+        "word": "disciple",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈsaɪpl̩/",
+        "meaning": "Một người học hỏi từ người khác, đặc biệt là một người sau đó dạy người khác."
+      },
+      {
+        "word": "scholar",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈskɒlə/",
+        "meaning": "Một sinh viên; một người học ở trường hoặc đại học, thường có học bổng."
+      }
+    ]
+  },
+  {
+    "word": "Student union",
+    "synonyms": []
+  },
+  {
+    "word": "Tuition fee",
+    "synonyms": []
+  },
+  {
+    "word": "Exam",
+    "synonyms": [
+      {
+        "word": "pore over",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pore over/",
+        "meaning": "lỗ rỗng"
+      },
+      {
+        "word": "undersee",
+        "partOfSpeech": "noun",
+        "pronunciation": "/undersee/",
+        "meaning": "bên dưới"
+      }
+    ]
+  },
+  {
+    "word": "Fail",
+    "synonyms": [
+      {
+        "word": "fall on one's face",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fall on one's face/",
+        "meaning": "ngã sấp mặt xuống đất"
+      },
+      {
+        "word": "flunk",
+        "partOfSpeech": "verb",
+        "pronunciation": "/flʌŋk/",
+        "meaning": "Của một học sinh, để trượt một lớp học; để không vượt qua."
+      }
+    ]
+  },
+  {
+    "word": "Pass",
+    "synonyms": [
+      {
+        "word": "spend",
+        "partOfSpeech": "noun",
+        "pronunciation": "/spɛnd/",
+        "meaning": "Số tiền chi tiêu (trong một khoảng thời gian); chi tiêu."
+      },
+      {
+        "word": "pledge",
+        "partOfSpeech": "noun",
+        "pronunciation": "/plɛdʒ/",
+        "meaning": "Một lời hứa long trọng để làm điều gì đó."
+      },
+      {
+        "word": "promise",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹɒmɪs/",
+        "meaning": "Một lời thề hoặc lời khẳng định; một lời thề"
+      },
+      {
+        "word": "vow",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vaʊ/",
+        "meaning": "Lời thề"
+      }
+    ]
+  },
+  {
+    "word": "Study",
+    "synonyms": [
+      {
+        "word": "con",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kɒn/",
+        "meaning": "Nghiên cứu hoặc kiểm tra cẩn thận, đặc biệt là để có được kiến thức về; học hỏi, hoặc học thuộc lòng."
+      },
+      {
+        "word": "elucubrate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/elucubrate/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "research",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈsɜːtʃ/",
+        "meaning": "Siêng năng tìm tòi hoặc kiểm tra để tìm kiếm hoặc sửa đổi các sự kiện, nguyên tắc, lý thuyết, ứng dụng, v.v.; mất thời gian hoặc tiếp tục tìm kiếm lẽ thật."
+      },
+      {
+        "word": "revise",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈvaɪ̯z/",
+        "meaning": "Đánh giá hoặc sửa đổi."
+      }
+    ]
+  },
+  {
+    "word": "Learn",
+    "synonyms": [
+      {
+        "word": "study",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈstʌd.i/",
+        "meaning": "Học tập, nghiên cứu"
+      }
+    ]
+  },
+  {
+    "word": "Curriculum",
+    "synonyms": []
+  },
+  {
+    "word": "Course",
+    "synonyms": []
+  },
+  {
+    "word": "Subject",
+    "synonyms": []
+  },
+  {
+    "word": "Grade",
+    "synonyms": [
+      {
+        "word": "group",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡɹuːp/",
+        "meaning": "Một số sự vật hoặc người có mối quan hệ với nhau."
+      },
+      {
+        "word": "paraphyletic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/paraphyletic/",
+        "meaning": "Của một nhóm phân loại được xác định, không bao gồm tất cả các hậu duệ của tổ tiên chung gần đây nhất của tất cả các thành viên."
+      },
+      {
+        "word": "mark",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɑːrk/",
+        "meaning": "Điểm số"
+      }
+    ]
+  },
+  {
+    "word": "Mark",
+    "synonyms": [
+      {
+        "word": "Mk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Mk/",
+        "meaning": "Được sử dụng để biểu thị sự thừa nhận hoặc chấp nhận."
+      },
+      {
+        "word": "Mk.",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Mk./",
+        "meaning": "mk"
+      },
+      {
+        "word": "heed",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hiːd/",
+        "meaning": "Chú ý cẩn thận."
+      },
+      {
+        "word": "observance",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əbˈzɜːvəns/",
+        "meaning": "Thực hành tuân thủ pháp luật, phong tục, mệnh lệnh hoặc quy tắc."
+      }
+    ]
+  },
+  {
+    "word": "Qualication",
+    "synonyms": []
+  },
+  {
+    "word": "Attendance",
+    "synonyms": []
+  },
+  {
+    "word": "Absence",
+    "synonyms": [
+      {
+        "word": "missingness",
+        "partOfSpeech": "noun",
+        "pronunciation": "/missingness/",
+        "meaning": "mất tích"
+      }
+    ]
+  },
+  {
+    "word": "Projector",
+    "synonyms": []
+  },
+  {
+    "word": "Textbook",
+    "synonyms": []
+  },
+  {
+    "word": "Question",
+    "synonyms": [
+      {
+        "word": "doubt",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dʌʊt/",
+        "meaning": "Sự hoài nghi hoặc không chắc chắn (về điều gì đó); một trường hợp cụ thể của sự hoài nghi hoặc không chắc chắn như vậy."
+      },
+      {
+        "word": "issue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɪsjuː/",
+        "meaning": "Hành động hoặc trường hợp chảy hoặc chảy ra, một dòng chảy ra, cụ thể:"
+      },
+      {
+        "word": "enquiry",
+        "partOfSpeech": "noun",
+        "pronunciation": "/enquiry/",
+        "meaning": "Em hỏi một câu."
+      },
+      {
+        "word": "inquiry",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪnˈkwaɪəɹi/",
+        "meaning": "Hành động tìm hiểu; tìm kiếm thông tin bằng cách đặt câu hỏi; thẩm vấn; một câu hỏi hoặc đặt câu hỏi."
+      }
+    ]
+  },
+  {
+    "word": "Answer",
+    "synonyms": []
+  },
+  {
+    "word": "Mistake",
+    "synonyms": []
+  },
+  {
+    "word": "Right",
+    "synonyms": [
+      {
+        "word": "correct",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kəˈɹɛkt/",
+        "meaning": "Không có lỗi; đúng; chính xác."
+      },
+      {
+        "word": "just",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/d͡ʒʌst/",
+        "meaning": "Thực tế đúng, chính xác; thực tế."
+      },
+      {
+        "word": "conservative",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈsɜːvətɪv/",
+        "meaning": "Một người ủng hộ việc duy trì hiện trạng."
+      },
+      {
+        "word": "right-wing",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/right-wing/",
+        "meaning": "Về tư tưởng chính trị: phản đối bình đẳng chính trị và xã hội; đặc biệt là chính trị bảo thủ, truyền thống và/hoặc phản động."
+      }
+    ]
+  },
+  {
+    "word": "Wrong",
+    "synonyms": [
+      {
+        "word": "wrength",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wrength/",
+        "meaning": "sức mạnh"
+      },
+      {
+        "word": "detrimental",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌdɛtɹɪˈmɛntəl/",
+        "meaning": "Gây thiệt hại hoặc tổn hại."
+      },
+      {
+        "word": "false",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɒls/",
+        "meaning": "Một trong hai lựa chọn cho bài kiểm tra đúng hoặc sai."
+      },
+      {
+        "word": "faulty",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfɔːlti/",
+        "meaning": "Có hoặc hiển thị lỗi; không hoàn hảo; không đầy đủ hoặc không thể chấp nhận được."
+      }
+    ]
+  },
+  {
+    "word": "Register",
+    "synonyms": [
+      {
+        "word": "till",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɪl/",
+        "meaning": "Until; to, up to; as late as (a given time)."
+      },
+      {
+        "word": "enroll",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪnˈɹəʊl/",
+        "meaning": "Để nhập (tên, v.v.) vào sổ đăng ký, danh sách hoặc danh sách"
+      },
+      {
+        "word": "put down",
+        "partOfSpeech": "verb",
+        "pronunciation": "/put down/",
+        "meaning": "Xúc phạm, coi thường hoặc hạ thấp."
+      }
+    ]
+  },
+  {
+    "word": "Assembly",
+    "synonyms": [
+      {
+        "word": "foregathering",
+        "partOfSpeech": "noun",
+        "pronunciation": "/foregathering/",
+        "meaning": "Một cuộc tụ họp với nhau; một cuộc hội họp."
+      },
+      {
+        "word": "assembler",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈsɛmb(ə)lɚ/",
+        "meaning": "Một chương trình đọc mã nguồn được viết bằng hợp ngữ và tạo mã máy thực thi, có thể cùng với thông tin cần thiết bởi các trình liên kết, trình gỡ lỗi và các công cụ khác."
+      }
+    ]
+  },
+  {
+    "word": "Holiday",
+    "synonyms": [
+      {
+        "word": "bank holiday",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bank holiday/",
+        "meaning": "Một ngày trong tuần, thường là thứ Hai, mà hầu hết các doanh nghiệp đóng cửa và cấp cho người lao động như một ngày lễ quốc gia."
+      },
+      {
+        "word": "national holiday",
+        "partOfSpeech": "noun",
+        "pronunciation": "/national holiday/",
+        "meaning": "Một ngày lễ theo luật định được ban hành bởi một quốc gia để kỷ niệm chính quốc gia đó."
+      },
+      {
+        "word": "feast day",
+        "partOfSpeech": "noun",
+        "pronunciation": "/feast day/",
+        "meaning": "Một lễ hội tôn giáo cho một vị thánh hoặc sự kiện tôn giáo cụ thể."
+      },
+      {
+        "word": "lacuna",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ləˈkjuː.nə/",
+        "meaning": "Một lỗ nhỏ; một hố nhỏ hoặc chỗ lõm."
+      }
+    ]
+  },
+  {
+    "word": "Teacher",
+    "synonyms": [
+      {
+        "word": "preceptor",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɹiːˌsɛptəɹ/",
+        "meaning": "Giáo viên hoặc gia sư."
+      }
+    ]
+  },
+  {
+    "word": "Pupil",
+    "synonyms": []
+  },
+  {
+    "word": "Playground",
+    "synonyms": []
+  },
+  {
+    "word": "Library",
+    "synonyms": [
+      {
+        "word": "bookhouse",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bookhouse/",
+        "meaning": "nhà sách"
+      }
+    ]
+  },
+  {
+    "word": "Hall",
+    "synonyms": []
+  },
+  {
+    "word": "Dormitory",
+    "synonyms": [
+      {
+        "word": "dorm",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɔːm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Locker",
+    "synonyms": [
+      {
+        "word": "footlocker",
+        "partOfSpeech": "noun",
+        "pronunciation": "/footlocker/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Classroom",
+    "synonyms": []
+  },
+  {
+    "word": "Chalk",
+    "synonyms": []
+  },
+  {
+    "word": "Lesson",
+    "synonyms": [
+      {
+        "word": "lection",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɛkʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lear",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lear/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Homework",
+    "synonyms": []
+  },
+  {
+    "word": "Test",
+    "synonyms": [
+      {
+        "word": "examination",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪɡˌzæmɪˈneɪʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "quiz",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kwɪz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

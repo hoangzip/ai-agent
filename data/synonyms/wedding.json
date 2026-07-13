@@ -1,0 +1,363 @@
+[
+  {
+    "word": "Bride",
+    "synonyms": []
+  },
+  {
+    "word": "Vow",
+    "synonyms": []
+  },
+  {
+    "word": "Groomsman",
+    "synonyms": []
+  },
+  {
+    "word": "Groom",
+    "synonyms": [
+      {
+        "word": "bridegroom",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɹaɪdˌɡɹuːm/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tuxedo",
+    "synonyms": [
+      {
+        "word": "dinner jacket",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dinner jacket/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "black tie",
+        "partOfSpeech": "noun",
+        "pronunciation": "/black tie/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "penguin suit",
+        "partOfSpeech": "noun",
+        "pronunciation": "/penguin suit/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tux",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tʌks/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Party",
+    "synonyms": [
+      {
+        "word": "bash",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bæʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "do",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dʉː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "rave",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹeɪv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wedding",
+    "synonyms": [
+      {
+        "word": "marry",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈmæɹɪ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wedding card",
+    "synonyms": []
+  },
+  {
+    "word": "Reception",
+    "synonyms": [
+      {
+        "word": "front desk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/front desk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Champagne",
+    "synonyms": [
+      {
+        "word": "bubbly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʌbli/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "champ",
+        "partOfSpeech": "noun",
+        "pronunciation": "/t͡ʃæmp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "champers",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʃæmpə(ɹ)z/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fizz",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɪz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bouquet",
+    "synonyms": []
+  },
+  {
+    "word": "Married",
+    "synonyms": [
+      {
+        "word": "autem",
+        "partOfSpeech": "noun",
+        "pronunciation": "/autem/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "wed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈwɛd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "wedded",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈwɛdəd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Newlywed",
+    "synonyms": [
+      {
+        "word": "newlywedded",
+        "partOfSpeech": "noun",
+        "pronunciation": "/newlywedded/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cake",
+    "synonyms": [
+      {
+        "word": "block",
+        "partOfSpeech": "noun",
+        "pronunciation": "/block/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gâteau",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gâteau/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "piece of cake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/piece of cake/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "crust",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kɹʌst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Ring",
+    "synonyms": []
+  },
+  {
+    "word": "Emblem",
+    "synonyms": [
+      {
+        "word": "betoken",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bɪˈtoʊ.kən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "token",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtəʊkən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "symbol",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɪmbəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Band",
+    "synonyms": []
+  },
+  {
+    "word": "Congratulation",
+    "synonyms": []
+  },
+  {
+    "word": "Jewelry",
+    "synonyms": [
+      {
+        "word": "tom",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɒm/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tomfoolery",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌtɒmˈfuːl.ə.ɹi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Wine",
+    "synonyms": []
+  },
+  {
+    "word": "Dowry",
+    "synonyms": []
+  },
+  {
+    "word": "Honeymoon",
+    "synonyms": []
+  },
+  {
+    "word": "Anniversary",
+    "synonyms": [
+      {
+        "word": "yearday",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yearday/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "yeartide",
+        "partOfSpeech": "noun",
+        "pronunciation": "/yeartide/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Brother-in-law",
+    "synonyms": []
+  },
+  {
+    "word": "Sister-in-law",
+    "synonyms": []
+  },
+  {
+    "word": "Engaged",
+    "synonyms": [
+      {
+        "word": "busy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɪzi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Couple",
+    "synonyms": [
+      {
+        "word": "few",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fjuː/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "handful",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhæn(d)fəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "brace",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bɹeɪs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "pair",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pair/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Husband",
+    "synonyms": []
+  },
+  {
+    "word": "Wife",
+    "synonyms": [
+      {
+        "word": "little woman",
+        "partOfSpeech": "noun",
+        "pronunciation": "/little woman/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "female",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfiː.meɪl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "lady",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈleɪdi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Ceremony",
+    "synonyms": []
+  },
+  {
+    "word": "Betroth",
+    "synonyms": []
+  }
+]

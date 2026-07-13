@@ -1,0 +1,148 @@
+[
+  {
+    "word": "Earring",
+    "antonyms": []
+  },
+  {
+    "word": "Necklace",
+    "antonyms": []
+  },
+  {
+    "word": "Bracelet",
+    "antonyms": []
+  },
+  {
+    "word": "Brooch",
+    "antonyms": []
+  },
+  {
+    "word": "Hair clip",
+    "antonyms": []
+  },
+  {
+    "word": "Wedding ring",
+    "antonyms": []
+  },
+  {
+    "word": "Jeweler",
+    "antonyms": []
+  },
+  {
+    "word": "Jewelry store",
+    "antonyms": []
+  },
+  {
+    "word": "Anklet",
+    "antonyms": []
+  },
+  {
+    "word": "Noble",
+    "antonyms": [
+      {
+        "word": "commoner",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɒmənə(ɹ)/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "plebeian",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pliˈbiːən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "despicable",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈspɪkəbəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "ignoble",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪɡˈnəʊbəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Luxurious",
+    "antonyms": [
+      {
+        "word": "abstemious",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/æbˈstiː.mɪ.əs/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "impoverished",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪmˈpɒv(ə)ɹɪʃt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Modern",
+    "antonyms": [
+      {
+        "word": "ancient",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈeɪn.ʃənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dated",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈdeɪtɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "former",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈfɔːmə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "historical",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hɪˈstɒɹɪkəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Suitable",
+    "antonyms": [
+      {
+        "word": "unsuitable",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/unsuitable/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Twinkle",
+    "antonyms": []
+  },
+  {
+    "word": "Bead",
+    "antonyms": []
+  },
+  {
+    "word": "Hair tie",
+    "antonyms": []
+  },
+  {
+    "word": "Pocket watch",
+    "antonyms": []
+  },
+  {
+    "word": "Tiepin",
+    "antonyms": []
+  },
+  {
+    "word": "Precious stone",
+    "antonyms": []
+  }
+]

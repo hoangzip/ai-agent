@@ -1,0 +1,546 @@
+[
+  {
+    "word": "Head",
+    "rootWord": "Head",
+    "members": [
+      {
+        "word": "head",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/head/",
+        "meaning": ""
+      },
+      {
+        "word": "headless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈhɛdləs/",
+        "meaning": "Không có đầu; bị chặt đầu."
+      },
+      {
+        "word": "header",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɛdə/",
+        "meaning": "Phần trên của bố cục trang (hoặc bố cục khác)."
+      }
+    ]
+  },
+  {
+    "word": "Face",
+    "rootWord": "Face",
+    "members": [
+      {
+        "word": "face",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/face/",
+        "meaning": ""
+      },
+      {
+        "word": "faction",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfæk.ʃn̩/",
+        "meaning": "Một nhóm người, đặc biệt là trong một tổ chức chính trị, thể hiện niềm tin hoặc ý kiến chung khác với những người không thuộc nhóm."
+      }
+    ]
+  },
+  {
+    "word": "Hair",
+    "rootWord": "Hair",
+    "members": [
+      {
+        "word": "hair",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hair/",
+        "meaning": ""
+      },
+      {
+        "word": "hairless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/hairless/",
+        "meaning": "Khiếm khuyết của tóc."
+      },
+      {
+        "word": "hairy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈhɛəɹi/",
+        "meaning": "Của một người, có rất nhiều lông trên cơ thể"
+      }
+    ]
+  },
+  {
+    "word": "Ear",
+    "rootWord": "Ear",
+    "members": [
+      {
+        "word": "ear",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ear/",
+        "meaning": ""
+      },
+      {
+        "word": "earful",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/earful/",
+        "meaning": "Một lời khiển trách giận dữ, thiến hoặc mắng chửi"
+      },
+      {
+        "word": "early",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɜː.li/",
+        "meaning": "Một ca (thời gian làm việc theo lịch trình) diễn ra sớm trong ngày."
+      }
+    ]
+  },
+  {
+    "word": "Neck",
+    "rootWord": "Neck",
+    "members": [
+      {
+        "word": "neck",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/neck/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Forehead",
+    "rootWord": "Forehead",
+    "members": [
+      {
+        "word": "forehead",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/forehead/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Beard",
+    "rootWord": "Beard",
+    "members": [
+      {
+        "word": "beard",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beard/",
+        "meaning": ""
+      },
+      {
+        "word": "beardy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbɪədi/",
+        "meaning": "Râu"
+      }
+    ]
+  },
+  {
+    "word": "Eye",
+    "rootWord": "Eye",
+    "members": [
+      {
+        "word": "eye",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eye/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nose",
+    "rootWord": "Nose",
+    "members": [
+      {
+        "word": "nose",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nose/",
+        "meaning": ""
+      },
+      {
+        "word": "nosy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈnəʊziː/",
+        "meaning": "Một cái nhìn vào một cái gì đó để thỏa mãn sự tò mò của một người."
+      }
+    ]
+  },
+  {
+    "word": "Mouth",
+    "rootWord": "Mouth",
+    "members": [
+      {
+        "word": "mouth",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mouth/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chin",
+    "rootWord": "Chin",
+    "members": [
+      {
+        "word": "chin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chin/",
+        "meaning": ""
+      },
+      {
+        "word": "chinless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/chinless/",
+        "meaning": "Không có cằm (phát âm)."
+      }
+    ]
+  },
+  {
+    "word": "Shoulder",
+    "rootWord": "Shoulder",
+    "members": [
+      {
+        "word": "shoulder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/shoulder/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Elbow",
+    "rootWord": "Elbow",
+    "members": [
+      {
+        "word": "elbow",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/elbow/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Arm",
+    "rootWord": "Arm",
+    "members": [
+      {
+        "word": "arm",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/arm/",
+        "meaning": ""
+      },
+      {
+        "word": "army",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɑː.miː/",
+        "meaning": "Một lực lượng quân sự lớn, có tổ chức cao, chủ yếu liên quan đến các hoạt động trên bộ (chứ không phải trên không hoặc trên biển)."
+      },
+      {
+        "word": "armful",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɑːmfʊl/",
+        "meaning": "Số tiền mà một cánh tay hoặc cánh tay có thể giữ."
+      }
+    ]
+  },
+  {
+    "word": "Chest",
+    "rootWord": "Chest",
+    "members": [
+      {
+        "word": "chest",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chest/",
+        "meaning": ""
+      },
+      {
+        "word": "chesty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈtʃɛsti/",
+        "meaning": "(của một người phụ nữ) Có bộ ngực lớn; busty."
+      }
+    ]
+  },
+  {
+    "word": "Armpit",
+    "rootWord": "Armpit",
+    "members": [
+      {
+        "word": "armpit",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/armpit/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Wrist",
+    "rootWord": "Wrist",
+    "members": [
+      {
+        "word": "wrist",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wrist/",
+        "meaning": ""
+      },
+      {
+        "word": "wristy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹɪsti/",
+        "meaning": "Đặc trưng bởi chuyển động được đánh dấu hoặc phóng đại của cổ tay; liên quan đến chuyển động cổ tay khéo léo."
+      }
+    ]
+  },
+  {
+    "word": "Navel",
+    "rootWord": "Navel",
+    "members": [
+      {
+        "word": "navel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/navel/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ankle",
+    "rootWord": "Ankle",
+    "members": [
+      {
+        "word": "ankle",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ankle/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Waist",
+    "rootWord": "Waist",
+    "members": [
+      {
+        "word": "waist",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waist/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Abdomen",
+    "rootWord": "Abdomen",
+    "members": [
+      {
+        "word": "abdomen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/abdomen/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Leg",
+    "rootWord": "Leg",
+    "members": [
+      {
+        "word": "leg",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/leg/",
+        "meaning": ""
+      },
+      {
+        "word": "legate",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɛɡət/",
+        "meaning": "legate"
+      },
+      {
+        "word": "legless",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/legless/",
+        "meaning": "legless"
+      },
+      {
+        "word": "legal",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈliː.ɡəl/",
+        "meaning": "legal"
+      }
+    ]
+  },
+  {
+    "word": "Thigh",
+    "rootWord": "Thigh",
+    "members": [
+      {
+        "word": "thigh",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thigh/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Knee",
+    "rootWord": "Knee",
+    "members": [
+      {
+        "word": "knee",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/knee/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hand",
+    "rootWord": "Hand",
+    "members": [
+      {
+        "word": "hand",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hand/",
+        "meaning": ""
+      },
+      {
+        "word": "handy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈhæn.di/",
+        "meaning": "handy"
+      }
+    ]
+  },
+  {
+    "word": "Thumb",
+    "rootWord": "Thumb",
+    "members": [
+      {
+        "word": "thumb",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thumb/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Back",
+    "rootWord": "Back",
+    "members": [
+      {
+        "word": "back",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/back/",
+        "meaning": ""
+      },
+      {
+        "word": "backer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbækə(ɹ)/",
+        "meaning": "backer"
+      }
+    ]
+  },
+  {
+    "word": "Foot",
+    "rootWord": "Foot",
+    "members": [
+      {
+        "word": "foot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/foot/",
+        "meaning": ""
+      },
+      {
+        "word": "footy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/footy/",
+        "meaning": "footy"
+      },
+      {
+        "word": "footer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfʊtə/",
+        "meaning": "footer"
+      }
+    ]
+  },
+  {
+    "word": "Finger",
+    "rootWord": "Finger",
+    "members": [
+      {
+        "word": "finger",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/finger/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Toe",
+    "rootWord": "Toe",
+    "members": [
+      {
+        "word": "toe",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/toe/",
+        "meaning": ""
+      },
+      {
+        "word": "toey",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/toey/",
+        "meaning": "toey"
+      }
+    ]
+  }
+]

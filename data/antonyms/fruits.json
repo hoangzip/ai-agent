@@ -1,0 +1,197 @@
+[
+  {
+    "word": "Orange",
+    "antonyms": [
+      {
+        "word": "nonorange",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nonorange/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Lemon",
+    "antonyms": []
+  },
+  {
+    "word": "Mango",
+    "antonyms": []
+  },
+  {
+    "word": "Apple",
+    "antonyms": []
+  },
+  {
+    "word": "Tangerine",
+    "antonyms": []
+  },
+  {
+    "word": "Grape",
+    "antonyms": []
+  },
+  {
+    "word": "Strawberry",
+    "antonyms": []
+  },
+  {
+    "word": "Melon",
+    "antonyms": []
+  },
+  {
+    "word": "Passion fruit",
+    "antonyms": []
+  },
+  {
+    "word": "Grapefruit",
+    "antonyms": []
+  },
+  {
+    "word": "Watermelon",
+    "antonyms": []
+  },
+  {
+    "word": "Peach",
+    "antonyms": [
+      {
+        "word": "disagreeable",
+        "partOfSpeech": "noun",
+        "pronunciation": "[dɪsəˈɡɹi.əbəɫ]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "foul",
+        "partOfSpeech": "noun",
+        "pronunciation": "/faʊl/",
+        "meaning": "Lỗi, pha phạm lỗi"
+      },
+      {
+        "word": "ugly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʌɡli/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unpleasant",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʌnˈplezənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Pear",
+    "antonyms": []
+  },
+  {
+    "word": "Banana",
+    "antonyms": [
+      {
+        "word": "egg",
+        "partOfSpeech": "noun",
+        "pronunciation": "/eɪɡ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Plum",
+    "antonyms": []
+  },
+  {
+    "word": "Papaya",
+    "antonyms": []
+  },
+  {
+    "word": "Avocado",
+    "antonyms": []
+  },
+  {
+    "word": "Starfruit",
+    "antonyms": []
+  },
+  {
+    "word": "Pineapple",
+    "antonyms": []
+  },
+  {
+    "word": "Coconut",
+    "antonyms": []
+  },
+  {
+    "word": "Raspberry",
+    "antonyms": []
+  },
+  {
+    "word": "Nectarine",
+    "antonyms": []
+  },
+  {
+    "word": "Mulberry",
+    "antonyms": []
+  },
+  {
+    "word": "Raisin",
+    "antonyms": []
+  },
+  {
+    "word": "Jackfruit",
+    "antonyms": []
+  },
+  {
+    "word": "Persimmon",
+    "antonyms": []
+  },
+  {
+    "word": "Dragon fruit",
+    "antonyms": []
+  },
+  {
+    "word": "Custard apple",
+    "antonyms": []
+  },
+  {
+    "word": "Quince",
+    "antonyms": []
+  },
+  {
+    "word": "Cherry",
+    "antonyms": []
+  },
+  {
+    "word": "Kiwi",
+    "antonyms": []
+  },
+  {
+    "word": "Pomegranate",
+    "antonyms": []
+  },
+  {
+    "word": "Guava",
+    "antonyms": []
+  },
+  {
+    "word": "Apricot",
+    "antonyms": []
+  },
+  {
+    "word": "Blueberry",
+    "antonyms": []
+  },
+  {
+    "word": "Durian",
+    "antonyms": []
+  },
+  {
+    "word": "Lychee",
+    "antonyms": []
+  },
+  {
+    "word": "Tamarind",
+    "antonyms": []
+  },
+  {
+    "word": "Kumquat",
+    "antonyms": []
+  }
+]

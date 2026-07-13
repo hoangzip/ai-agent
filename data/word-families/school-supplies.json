@@ -1,0 +1,962 @@
+[
+  {
+    "word": "Watercolour",
+    "rootWord": "Watercolour",
+    "members": [
+      {
+        "word": "watercolour",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/watercolour/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Thumbtack",
+    "rootWord": "Thumbtack",
+    "members": [
+      {
+        "word": "thumbtack",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thumbtack/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Textbook",
+    "rootWord": "Textbook",
+    "members": [
+      {
+        "word": "textbook",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/textbook/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Test Tube",
+    "rootWord": "Test Tube",
+    "members": [
+      {
+        "word": "test tube",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/test tube/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tape measure",
+    "rootWord": "Tape measure",
+    "members": [
+      {
+        "word": "tape measure",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tape measure/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stencil",
+    "rootWord": "Stencil",
+    "members": [
+      {
+        "word": "stencil",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stencil/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Stapler",
+    "rootWord": "Stapler",
+    "members": [
+      {
+        "word": "stapler",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stapler/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Staple remover",
+    "rootWord": "Staple remover",
+    "members": [
+      {
+        "word": "staple remover",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/staple remover/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Set Square",
+    "rootWord": "Set Square",
+    "members": [
+      {
+        "word": "set square",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/set square/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Scotch Tape",
+    "rootWord": "Scotch Tape",
+    "members": [
+      {
+        "word": "scotch tape",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scotch tape/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Scissors",
+    "rootWord": "Scissors",
+    "members": [
+      {
+        "word": "scissors",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scissors/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Ruler",
+    "rootWord": "Ruler",
+    "members": [
+      {
+        "word": "ruler",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ruler/",
+        "meaning": ""
+      },
+      {
+        "word": "ruly",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹuːli/",
+        "meaning": "Đáng thương; khốn khổ."
+      }
+    ]
+  },
+  {
+    "word": "Ribbon",
+    "rootWord": "Ribbon",
+    "members": [
+      {
+        "word": "ribbon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ribbon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Protractor",
+    "rootWord": "Protractor",
+    "members": [
+      {
+        "word": "protractor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/protractor/",
+        "meaning": ""
+      },
+      {
+        "word": "protract",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pɹəˈtɹakt/",
+        "meaning": "Rút ra; mở rộng, đặc biệt là về thời lượng."
+      }
+    ]
+  },
+  {
+    "word": "Post-it note",
+    "rootWord": "Post-it note",
+    "members": [
+      {
+        "word": "post-it note",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/post-it note/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pin",
+    "rootWord": "Pin",
+    "members": [
+      {
+        "word": "pin",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pin/",
+        "meaning": ""
+      },
+      {
+        "word": "piny",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/piny/",
+        "meaning": "Của, liên quan đến, hoặc có nhiều cây thông"
+      }
+    ]
+  },
+  {
+    "word": "Pencil",
+    "rootWord": "Pencil",
+    "members": [
+      {
+        "word": "pencil",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pencil Sharpener",
+    "rootWord": "Pencil Sharpener",
+    "members": [
+      {
+        "word": "pencil sharpener",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil sharpener/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pencil Case",
+    "rootWord": "Pencil Case",
+    "members": [
+      {
+        "word": "pencil case",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pencil case/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pen",
+    "rootWord": "Pen",
+    "members": [
+      {
+        "word": "pen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pen/",
+        "meaning": ""
+      },
+      {
+        "word": "penance",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɛn.əns/",
+        "meaning": "Một hình phạt tự nguyện áp dụng cho một hành động tội lỗi hoặc hành vi sai trái. Nó có thể được dùng để phục vụ như là sự đền bù cho hành động."
+      },
+      {
+        "word": "penal",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpiːnəl/",
+        "meaning": "Về hoặc liên quan đến hình phạt."
+      }
+    ]
+  },
+  {
+    "word": "Paper",
+    "rootWord": "Paper",
+    "members": [
+      {
+        "word": "paper",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paper/",
+        "meaning": ""
+      },
+      {
+        "word": "pap",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pæp/",
+        "meaning": "pap"
+      },
+      {
+        "word": "papist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪp.ɪst/",
+        "meaning": "papist"
+      },
+      {
+        "word": "papal",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpeɪpəl/",
+        "meaning": "papal"
+      }
+    ]
+  },
+  {
+    "word": "Paper fastener",
+    "rootWord": "Paper fastener",
+    "members": [
+      {
+        "word": "paper fastener",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paper fastener/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Paper Clip",
+    "rootWord": "Paper Clip",
+    "members": [
+      {
+        "word": "paper clip",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paper clip/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Palette",
+    "rootWord": "Palette",
+    "members": [
+      {
+        "word": "palette",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/palette/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Paint",
+    "rootWord": "Paint",
+    "members": [
+      {
+        "word": "paint",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paint/",
+        "meaning": ""
+      },
+      {
+        "word": "painter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpeɪntə/",
+        "meaning": "painter"
+      }
+    ]
+  },
+  {
+    "word": "Paintbrush",
+    "rootWord": "Paintbrush",
+    "members": [
+      {
+        "word": "paintbrush",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/paintbrush/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Notebook",
+    "rootWord": "Notebook",
+    "members": [
+      {
+        "word": "notebook",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/notebook/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Map",
+    "rootWord": "Map",
+    "members": [
+      {
+        "word": "map",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/map/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Magnifying Glass",
+    "rootWord": "Magnifying Glass",
+    "members": [
+      {
+        "word": "magnifying glass",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/magnifying glass/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Index card",
+    "rootWord": "Index card",
+    "members": [
+      {
+        "word": "index card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/index card/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Highlighter",
+    "rootWord": "Highlighter",
+    "members": [
+      {
+        "word": "highlighter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/highlighter/",
+        "meaning": ""
+      },
+      {
+        "word": "highlight",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhaɪ.ˌlaɪt/",
+        "meaning": "highlight"
+      }
+    ]
+  },
+  {
+    "word": "Glue",
+    "rootWord": "Glue",
+    "members": [
+      {
+        "word": "glue",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/glue/",
+        "meaning": ""
+      },
+      {
+        "word": "gluey",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/gluey/",
+        "meaning": "gluey"
+      }
+    ]
+  },
+  {
+    "word": "Globe",
+    "rootWord": "Globe",
+    "members": [
+      {
+        "word": "globe",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/globe/",
+        "meaning": ""
+      },
+      {
+        "word": "global",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡləʊbəl/",
+        "meaning": "global"
+      }
+    ]
+  },
+  {
+    "word": "Flash card",
+    "rootWord": "Flash card",
+    "members": [
+      {
+        "word": "flash card",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/flash card/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "File Holder",
+    "rootWord": "File Holder",
+    "members": [
+      {
+        "word": "file holder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/file holder/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "File cabinet",
+    "rootWord": "File cabinet",
+    "members": [
+      {
+        "word": "file cabinet",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/file cabinet/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Felt pen",
+    "rootWord": "Felt pen",
+    "members": [
+      {
+        "word": "felt pen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/felt pen/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Rubber",
+    "rootWord": "Rubber",
+    "members": [
+      {
+        "word": "rubber",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rubber/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Duster",
+    "rootWord": "Duster",
+    "members": [
+      {
+        "word": "duster",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/duster/",
+        "meaning": ""
+      },
+      {
+        "word": "dusty",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdʌsti/",
+        "meaning": "dusty"
+      },
+      {
+        "word": "dust",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dʌst/",
+        "meaning": "dust"
+      }
+    ]
+  },
+  {
+    "word": "Dossier",
+    "rootWord": "Dossier",
+    "members": [
+      {
+        "word": "dossier",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dossier/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dictionary",
+    "rootWord": "Dictionary",
+    "members": [
+      {
+        "word": "dictionary",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dictionary/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Desk",
+    "rootWord": "Desk",
+    "members": [
+      {
+        "word": "desk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/desk/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Crayon",
+    "rootWord": "Crayon",
+    "members": [
+      {
+        "word": "crayon",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/crayon/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Computer",
+    "rootWord": "Computer",
+    "members": [
+      {
+        "word": "computer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/computer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Compass",
+    "rootWord": "Compass",
+    "members": [
+      {
+        "word": "compass",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/compass/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Coloured Pencil",
+    "rootWord": "Coloured Pencil",
+    "members": [
+      {
+        "word": "coloured pencil",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coloured pencil/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Clock",
+    "rootWord": "Clock",
+    "members": [
+      {
+        "word": "clock",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clock/",
+        "meaning": ""
+      },
+      {
+        "word": "clocker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clocker/",
+        "meaning": "clocker"
+      }
+    ]
+  },
+  {
+    "word": "Clamp",
+    "rootWord": "Clamp",
+    "members": [
+      {
+        "word": "clamp",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/clamp/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chalk",
+    "rootWord": "Chalk",
+    "members": [
+      {
+        "word": "chalk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chalk/",
+        "meaning": ""
+      },
+      {
+        "word": "chalky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/chalky/",
+        "meaning": "chalky"
+      }
+    ]
+  },
+  {
+    "word": "Chair",
+    "rootWord": "Chair",
+    "members": [
+      {
+        "word": "chair",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chair/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Carbon paper",
+    "rootWord": "Carbon paper",
+    "members": [
+      {
+        "word": "carbon paper",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/carbon paper/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Calculator",
+    "rootWord": "Calculator",
+    "members": [
+      {
+        "word": "calculator",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/calculator/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bookcase",
+    "rootWord": "Bookcase",
+    "members": [
+      {
+        "word": "bookcase",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bookcase/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Book",
+    "rootWord": "Book",
+    "members": [
+      {
+        "word": "book",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/book/",
+        "meaning": ""
+      },
+      {
+        "word": "booker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/booker/",
+        "meaning": "booker"
+      },
+      {
+        "word": "bookable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/bookable/",
+        "meaning": "bookable"
+      }
+    ]
+  },
+  {
+    "word": "Board",
+    "rootWord": "Board",
+    "members": [
+      {
+        "word": "board",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/board/",
+        "meaning": ""
+      },
+      {
+        "word": "boarder",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbɔədə/",
+        "meaning": "boarder"
+      }
+    ]
+  },
+  {
+    "word": "Blackboard",
+    "rootWord": "Blackboard",
+    "members": [
+      {
+        "word": "blackboard",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blackboard/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Binder",
+    "rootWord": "Binder",
+    "members": [
+      {
+        "word": "binder",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/binder/",
+        "meaning": ""
+      },
+      {
+        "word": "bind",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/baɪnd/",
+        "meaning": "bind"
+      }
+    ]
+  },
+  {
+    "word": "Beaker",
+    "rootWord": "Beaker",
+    "members": [
+      {
+        "word": "beaker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beaker/",
+        "meaning": ""
+      },
+      {
+        "word": "beak",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/biːk/",
+        "meaning": "beak"
+      },
+      {
+        "word": "beaky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbiːki/",
+        "meaning": "beaky"
+      }
+    ]
+  },
+  {
+    "word": "Ballpoint pen",
+    "rootWord": "Ballpoint pen",
+    "members": [
+      {
+        "word": "ballpoint pen",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ballpoint pen/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bag",
+    "rootWord": "Bag",
+    "members": [
+      {
+        "word": "bag",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bag/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Backpack",
+    "rootWord": "Backpack",
+    "members": [
+      {
+        "word": "backpack",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/backpack/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Funnel",
+    "rootWord": "Funnel",
+    "members": [
+      {
+        "word": "funnel",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/funnel/",
+        "meaning": ""
+      }
+    ]
+  }
+]

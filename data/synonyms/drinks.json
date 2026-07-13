@@ -1,0 +1,254 @@
+[
+  {
+    "word": "Juice",
+    "synonyms": [
+      {
+        "word": "cut",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kʌt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "take",
+        "partOfSpeech": "verb",
+        "pronunciation": "/teik/",
+        "meaning": "Cầm, nắm, lấy"
+      },
+      {
+        "word": "vig",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vɪɡ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "vigorish",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vigorish/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Lemonade",
+    "synonyms": [
+      {
+        "word": "lemon soda",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lemon soda/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Beer",
+    "synonyms": []
+  },
+  {
+    "word": "Soda",
+    "synonyms": [
+      {
+        "word": "carbonated",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɑː(ɹ)bɒneɪtəd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "coke",
+        "partOfSpeech": "noun",
+        "pronunciation": "/coke/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "drink",
+        "partOfSpeech": "verb",
+        "pronunciation": "/driɳk/",
+        "meaning": "Uống"
+      },
+      {
+        "word": "fizz",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɪz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Cider",
+    "synonyms": [
+      {
+        "word": "sweet cider",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sweet cider/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hard cider",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hard cider/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rum",
+    "synonyms": []
+  },
+  {
+    "word": "Ginger ale",
+    "synonyms": []
+  },
+  {
+    "word": "Champagne",
+    "synonyms": [
+      {
+        "word": "bubbly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbʌbli/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "champ",
+        "partOfSpeech": "noun",
+        "pronunciation": "/t͡ʃæmp/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "champers",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈʃæmpə(ɹ)z/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fizz",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɪz/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bitter",
+    "synonyms": [
+      {
+        "word": "EPA",
+        "partOfSpeech": "noun",
+        "pronunciation": "/EPA/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "English pale ale",
+        "partOfSpeech": "noun",
+        "pronunciation": "/English pale ale/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "jaded",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈdʒeɪdɪd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Malt",
+    "synonyms": [
+      {
+        "word": "malted",
+        "partOfSpeech": "verb",
+        "pronunciation": "/malted/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Barley",
+    "synonyms": []
+  },
+  {
+    "word": "Distillery",
+    "synonyms": []
+  },
+  {
+    "word": "Coee",
+    "synonyms": []
+  },
+  {
+    "word": "Milk",
+    "synonyms": [
+      {
+        "word": "cow milk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cow milk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cow's milk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cow's milk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cowmilk",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cowmilk/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tea",
+    "synonyms": [
+      {
+        "word": "dinner",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdɪn.ər/",
+        "meaning": "Bữa ăn tối"
+      },
+      {
+        "word": "evening meal",
+        "partOfSpeech": "noun",
+        "pronunciation": "/evening meal/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "afternoon tea",
+        "partOfSpeech": "noun",
+        "pronunciation": "/afternoon tea/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "herb tea",
+        "partOfSpeech": "noun",
+        "pronunciation": "/herb tea/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Red wine",
+    "synonyms": []
+  },
+  {
+    "word": "Non-alcoholic",
+    "synonyms": [
+      {
+        "word": "alcohol-free",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/alcohol-free/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Full-cream",
+    "synonyms": []
+  },
+  {
+    "word": "Herbal",
+    "synonyms": []
+  },
+  {
+    "word": "Mineral water",
+    "synonyms": []
+  }
+]

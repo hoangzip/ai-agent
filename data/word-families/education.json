@@ -1,0 +1,1036 @@
+[
+  {
+    "word": "Boarding school",
+    "rootWord": "Boarding school",
+    "members": [
+      {
+        "word": "boarding school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/boarding school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Public school",
+    "rootWord": "Public school",
+    "members": [
+      {
+        "word": "public school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/public school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Private school",
+    "rootWord": "Private school",
+    "members": [
+      {
+        "word": "private school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/private school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Secondary school",
+    "rootWord": "Secondary school",
+    "members": [
+      {
+        "word": "secondary school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/secondary school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "High school",
+    "rootWord": "High school",
+    "members": [
+      {
+        "word": "high school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/high school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Primary school",
+    "rootWord": "Primary school",
+    "members": [
+      {
+        "word": "primary school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/primary school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Nursery school",
+    "rootWord": "Nursery school",
+    "members": [
+      {
+        "word": "nursery school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nursery school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "School",
+    "rootWord": "School",
+    "members": [
+      {
+        "word": "school",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/school/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "College",
+    "rootWord": "College",
+    "members": [
+      {
+        "word": "college",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/college/",
+        "meaning": ""
+      },
+      {
+        "word": "colleger",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/colleger/",
+        "meaning": "Một thành viên của một trường cao đẳng (theo bất kỳ nghĩa nào)"
+      }
+    ]
+  },
+  {
+    "word": "University",
+    "rootWord": "University",
+    "members": [
+      {
+        "word": "university",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/university/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Professor",
+    "rootWord": "Professor",
+    "members": [
+      {
+        "word": "professor",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/professor/",
+        "meaning": ""
+      },
+      {
+        "word": "profess",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pɹəˈfɛs/",
+        "meaning": "Quản lý các lời thề của một dòng tu đối với (ai đó); thừa nhận một dòng tu. (Chủ yếu ở dạng bị động.)"
+      }
+    ]
+  },
+  {
+    "word": "Lecturer",
+    "rootWord": "Lecturer",
+    "members": [
+      {
+        "word": "lecturer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lecturer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Researcher",
+    "rootWord": "Researcher",
+    "members": [
+      {
+        "word": "researcher",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/researcher/",
+        "meaning": ""
+      },
+      {
+        "word": "research",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɹɪˈsɜːtʃ/",
+        "meaning": "Siêng năng tìm tòi hoặc kiểm tra để tìm kiếm hoặc sửa đổi các sự kiện, nguyên tắc, lý thuyết, ứng dụng, v.v.; mất thời gian hoặc tiếp tục tìm kiếm lẽ thật."
+      }
+    ]
+  },
+  {
+    "word": "Graduate",
+    "rootWord": "Graduate",
+    "members": [
+      {
+        "word": "graduate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/graduate/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Degree",
+    "rootWord": "Degree",
+    "members": [
+      {
+        "word": "degree",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/degree/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Thesis",
+    "rootWord": "Thesis",
+    "members": [
+      {
+        "word": "thesis",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thesis/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lecture",
+    "rootWord": "Lecture",
+    "members": [
+      {
+        "word": "lecture",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lecture/",
+        "meaning": ""
+      },
+      {
+        "word": "lecturer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɛk.tʃər.ər/",
+        "meaning": "Giảng viên"
+      }
+    ]
+  },
+  {
+    "word": "Debate",
+    "rootWord": "Debate",
+    "members": [
+      {
+        "word": "debate",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/debate/",
+        "meaning": ""
+      },
+      {
+        "word": "debater",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈbeɪtə(ɹ)/",
+        "meaning": "Một người tranh luận hoặc tham gia vào một cuộc tranh luận; một người tranh luận."
+      },
+      {
+        "word": "debatable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "[dɪˈbeɪtəbəɫ]",
+        "meaning": "Một chủ đề mở để tranh luận."
+      }
+    ]
+  },
+  {
+    "word": "Higher education",
+    "rootWord": "Higher education",
+    "members": [
+      {
+        "word": "higher education",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/higher education/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Semester",
+    "rootWord": "Semester",
+    "members": [
+      {
+        "word": "semester",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/semester/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Student",
+    "rootWord": "Student",
+    "members": [
+      {
+        "word": "student",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/student/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Student union",
+    "rootWord": "Student union",
+    "members": [
+      {
+        "word": "student union",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/student union/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Tuition fee",
+    "rootWord": "Tuition fee",
+    "members": [
+      {
+        "word": "tuition fee",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tuition fee/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Exam",
+    "rootWord": "Exam",
+    "members": [
+      {
+        "word": "exam",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/exam/",
+        "meaning": ""
+      },
+      {
+        "word": "examen",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪɡˈzeɪ.mən/",
+        "meaning": "Thăm khám; vấn tin"
+      }
+    ]
+  },
+  {
+    "word": "Fail",
+    "rootWord": "Fail",
+    "members": [
+      {
+        "word": "fail",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fail/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Pass",
+    "rootWord": "Pass",
+    "members": [
+      {
+        "word": "pass",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pass/",
+        "meaning": ""
+      },
+      {
+        "word": "passer",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɑːsə(ɹ)/",
+        "meaning": "Một người thành công trong việc vượt qua một bài kiểm tra, v.v."
+      },
+      {
+        "word": "passable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/passable/",
+        "meaning": "Điều đó có thể được thông qua hoặc đi qua."
+      },
+      {
+        "word": "passive",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpæs.ɪv/",
+        "meaning": "(ngữ pháp) Tiếng nói thụ động của động từ."
+      }
+    ]
+  },
+  {
+    "word": "Study",
+    "rootWord": "Study",
+    "members": [
+      {
+        "word": "study",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/study/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Learn",
+    "rootWord": "Learn",
+    "members": [
+      {
+        "word": "learn",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/learn/",
+        "meaning": ""
+      },
+      {
+        "word": "learner",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈlɜɹnəɹ/",
+        "meaning": "Một người đang học hỏi."
+      }
+    ]
+  },
+  {
+    "word": "Curriculum",
+    "rootWord": "Curriculum",
+    "members": [
+      {
+        "word": "curriculum",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/curriculum/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Course",
+    "rootWord": "Course",
+    "members": [
+      {
+        "word": "course",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/course/",
+        "meaning": ""
+      },
+      {
+        "word": "courser",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɜːsɜ/",
+        "meaning": "Một con chó được sử dụng để tán tỉnh."
+      }
+    ]
+  },
+  {
+    "word": "Subject",
+    "rootWord": "Subject",
+    "members": [
+      {
+        "word": "subject",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/subject/",
+        "meaning": ""
+      },
+      {
+        "word": "subjective",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/səbˈdʒɛktɪv/",
+        "meaning": "Được hình thành, như trong các ý kiến, dựa trên cảm xúc hoặc trực giác của một người, không phải dựa trên quan sát hoặc lý luận; đến từ bên trong người quan sát nhiều hơn là từ các quan sát về môi trường bên ngoài."
+      }
+    ]
+  },
+  {
+    "word": "Grade",
+    "rootWord": "Grade",
+    "members": [
+      {
+        "word": "grade",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/grade/",
+        "meaning": ""
+      },
+      {
+        "word": "gradely",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɡɹeɪdlɪ/",
+        "meaning": "Của một người; đàng hoàng, có thiện ý, đáng kính"
+      },
+      {
+        "word": "grader",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɡɹeɪdə/",
+        "meaning": "Một máy được sử dụng trong bảo trì và xây dựng đường bộ để san lấp các bề mặt lớn."
+      },
+      {
+        "word": "gradable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gradable/",
+        "meaning": "Một từ có thể được biến tố để chỉ định mức độ hoặc cấp độ của một cái gì đó."
+      },
+      {
+        "word": "gradate",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/gradate/",
+        "meaning": "Để thay đổi không thể nhận thấy từ giai điệu này sang giai điệu khác."
+      }
+    ]
+  },
+  {
+    "word": "Mark",
+    "rootWord": "Mark",
+    "members": [
+      {
+        "word": "mark",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mark/",
+        "meaning": ""
+      },
+      {
+        "word": "marker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/marker/",
+        "meaning": "Một đối tượng được sử dụng để đánh dấu một vị trí."
+      }
+    ]
+  },
+  {
+    "word": "Qualication",
+    "rootWord": "Qualication",
+    "members": [
+      {
+        "word": "qualication",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/qualication/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Attendance",
+    "rootWord": "Attendance",
+    "members": [
+      {
+        "word": "attendance",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/attendance/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Absence",
+    "rootWord": "Absence",
+    "members": [
+      {
+        "word": "absence",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/absence/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Projector",
+    "rootWord": "Projector",
+    "members": [
+      {
+        "word": "projector",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/projector/",
+        "meaning": ""
+      },
+      {
+        "word": "projective",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/projective/",
+        "meaning": "Một bài kiểm tra đánh giá trình bày cho các đối tượng một số loại kích thích mà họ phản ứng bằng cách chiếu hoặc tưởng tượng các chi tiết."
+      },
+      {
+        "word": "project",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/project/",
+        "meaning": "Một nỗ lực có kế hoạch, thường là với một mục tiêu cụ thể và được hoàn thành trong một số bước hoặc giai đoạn."
+      }
+    ]
+  },
+  {
+    "word": "Textbook",
+    "rootWord": "Textbook",
+    "members": [
+      {
+        "word": "textbook",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/textbook/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Question",
+    "rootWord": "Question",
+    "members": [
+      {
+        "word": "question",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/question/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Answer",
+    "rootWord": "Answer",
+    "members": [
+      {
+        "word": "answer",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/answer/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Mistake",
+    "rootWord": "Mistake",
+    "members": [
+      {
+        "word": "mistake",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mistake/",
+        "meaning": ""
+      },
+      {
+        "word": "mistaken",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/mɪsˈteɪkən/",
+        "meaning": "Để hiểu sai, hãy lấy một thứ hoặc người này cho một thứ hoặc người khác."
+      }
+    ]
+  },
+  {
+    "word": "Right",
+    "rootWord": "Right",
+    "members": [
+      {
+        "word": "right",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/right/",
+        "meaning": ""
+      },
+      {
+        "word": "rightly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈɹaɪtli/",
+        "meaning": "Một cách đúng đắn, chính xác, hợp lý."
+      },
+      {
+        "word": "righten",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/righten/",
+        "meaning": "Để làm cho đúng; chính xác."
+      },
+      {
+        "word": "rightist",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɹaɪtɪst/",
+        "meaning": "Một người tin vào chính trị hoặc các chính sách của quyền chính trị."
+      },
+      {
+        "word": "righter",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/righter/",
+        "meaning": "Người đặt ra lẽ phải; người thực hiện công lý hoặc sửa chữa sai lầm."
+      },
+      {
+        "word": "rightful",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/rightful/",
+        "meaning": "Theo quyền hạn; theo pháp luật."
+      },
+      {
+        "word": "righty",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/righty/",
+        "meaning": "Một người thuận tay phải."
+      },
+      {
+        "word": "rightness",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rightness/",
+        "meaning": "Đặc điểm của sự đúng đắn; tính đúng đắn."
+      }
+    ]
+  },
+  {
+    "word": "Wrong",
+    "rootWord": "Wrong",
+    "members": [
+      {
+        "word": "wrong",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/wrong/",
+        "meaning": ""
+      },
+      {
+        "word": "wrongly",
+        "relation": "adverb",
+        "partOfSpeech": "adverb",
+        "pronunciation": "/ˈɹɒŋli/",
+        "meaning": "Một cách không công bằng hoặc vô đạo đức; một cách bất công."
+      },
+      {
+        "word": "wrongful",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɹɒŋfəl/",
+        "meaning": "Sai hoặc bất công"
+      }
+    ]
+  },
+  {
+    "word": "Register",
+    "rootWord": "Register",
+    "members": [
+      {
+        "word": "register",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/register/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Assembly",
+    "rootWord": "Assembly",
+    "members": [
+      {
+        "word": "assembly",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/assembly/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Holiday",
+    "rootWord": "Holiday",
+    "members": [
+      {
+        "word": "holiday",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/holiday/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Teacher",
+    "rootWord": "Teacher",
+    "members": [
+      {
+        "word": "teacher",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/teacher/",
+        "meaning": ""
+      },
+      {
+        "word": "teachable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/teachable/",
+        "meaning": "Có khả năng được dạy; có khả năng học hỏi."
+      },
+      {
+        "word": "teach",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/tiːt͡ʃ/",
+        "meaning": "Chỉ đường cho (ai đó); hướng dẫn, chỉ đường; chỉ dẫn, chỉ dẫn."
+      }
+    ]
+  },
+  {
+    "word": "Pupil",
+    "rootWord": "Pupil",
+    "members": [
+      {
+        "word": "pupil",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/pupil/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Playground",
+    "rootWord": "Playground",
+    "members": [
+      {
+        "word": "playground",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/playground/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Library",
+    "rootWord": "Library",
+    "members": [
+      {
+        "word": "library",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/library/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Hall",
+    "rootWord": "Hall",
+    "members": [
+      {
+        "word": "hall",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hall/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dormitory",
+    "rootWord": "Dormitory",
+    "members": [
+      {
+        "word": "dormitory",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dormitory/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Locker",
+    "rootWord": "Locker",
+    "members": [
+      {
+        "word": "locker",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/locker/",
+        "meaning": ""
+      },
+      {
+        "word": "lock",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lɒk/",
+        "meaning": "lock"
+      }
+    ]
+  },
+  {
+    "word": "Classroom",
+    "rootWord": "Classroom",
+    "members": [
+      {
+        "word": "classroom",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/classroom/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Chalk",
+    "rootWord": "Chalk",
+    "members": [
+      {
+        "word": "chalk",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chalk/",
+        "meaning": ""
+      },
+      {
+        "word": "chalky",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/chalky/",
+        "meaning": "chalky"
+      }
+    ]
+  },
+  {
+    "word": "Lesson",
+    "rootWord": "Lesson",
+    "members": [
+      {
+        "word": "lesson",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lesson/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Homework",
+    "rootWord": "Homework",
+    "members": [
+      {
+        "word": "homework",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/homework/",
+        "meaning": ""
+      },
+      {
+        "word": "homeworker",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/homeworker/",
+        "meaning": "homeworker"
+      }
+    ]
+  },
+  {
+    "word": "Test",
+    "rootWord": "Test",
+    "members": [
+      {
+        "word": "test",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/test/",
+        "meaning": ""
+      },
+      {
+        "word": "testy",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈtɛsti/",
+        "meaning": "testy"
+      },
+      {
+        "word": "testate",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/testate/",
+        "meaning": "testate"
+      },
+      {
+        "word": "testable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/testable/",
+        "meaning": "testable"
+      },
+      {
+        "word": "tester",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tester/",
+        "meaning": "tester"
+      },
+      {
+        "word": "testify",
+        "relation": "verb",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈtɛstɪfaɪ/",
+        "meaning": "testify"
+      }
+    ]
+  }
+]

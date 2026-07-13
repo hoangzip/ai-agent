@@ -1,0 +1,305 @@
+[
+  {
+    "word": "Bar",
+    "rootWord": "Bar",
+    "members": [
+      {
+        "word": "bar",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bar/",
+        "meaning": ""
+      },
+      {
+        "word": "barer",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/barer/",
+        "meaning": "barer"
+      }
+    ]
+  },
+  {
+    "word": "Chef",
+    "rootWord": "Chef",
+    "members": [
+      {
+        "word": "chef",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/chef/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Waiter",
+    "rootWord": "Waiter",
+    "members": [
+      {
+        "word": "waiter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waiter/",
+        "meaning": ""
+      },
+      {
+        "word": "wait",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/weɪt/",
+        "meaning": "wait"
+      }
+    ]
+  },
+  {
+    "word": "Waitress",
+    "rootWord": "Waitress",
+    "members": [
+      {
+        "word": "waitress",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/waitress/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bill",
+    "rootWord": "Bill",
+    "members": [
+      {
+        "word": "bill",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bill/",
+        "meaning": ""
+      },
+      {
+        "word": "billy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/billy/",
+        "meaning": "billy"
+      },
+      {
+        "word": "billable",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/billable/",
+        "meaning": "billable"
+      }
+    ]
+  },
+  {
+    "word": "Service",
+    "rootWord": "Service",
+    "members": [
+      {
+        "word": "service",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/service/",
+        "meaning": ""
+      },
+      {
+        "word": "serviceable",
+        "relation": "adjective",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsɜː(ɹ)vɪsəbəl/",
+        "meaning": "serviceable"
+      }
+    ]
+  },
+  {
+    "word": "Tip",
+    "rootWord": "Tip",
+    "members": [
+      {
+        "word": "tip",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tip/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Knife",
+    "rootWord": "Knife",
+    "members": [
+      {
+        "word": "knife",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/knife/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Bowl",
+    "rootWord": "Bowl",
+    "members": [
+      {
+        "word": "bowl",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowl/",
+        "meaning": ""
+      },
+      {
+        "word": "bowler",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bowler/",
+        "meaning": "bowler"
+      }
+    ]
+  },
+  {
+    "word": "Teapot",
+    "rootWord": "Teapot",
+    "members": [
+      {
+        "word": "teapot",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/teapot/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Glass",
+    "rootWord": "Glass",
+    "members": [
+      {
+        "word": "glass",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/glass/",
+        "meaning": ""
+      },
+      {
+        "word": "glassy",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɡlɑːsi/",
+        "meaning": "glassy"
+      }
+    ]
+  },
+  {
+    "word": "Breakfast",
+    "rootWord": "Breakfast",
+    "members": [
+      {
+        "word": "breakfast",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/breakfast/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dinner",
+    "rootWord": "Dinner",
+    "members": [
+      {
+        "word": "dinner",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dinner/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Lunch",
+    "rootWord": "Lunch",
+    "members": [
+      {
+        "word": "lunch",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/lunch/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Booking oce",
+    "rootWord": "Booking oce",
+    "members": [
+      {
+        "word": "booking oce",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/booking oce/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Menu",
+    "rootWord": "Menu",
+    "members": [
+      {
+        "word": "menu",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/menu/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Starter",
+    "rootWord": "Starter",
+    "members": [
+      {
+        "word": "starter",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/starter/",
+        "meaning": ""
+      },
+      {
+        "word": "start",
+        "relation": "noun",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stɑːt/",
+        "meaning": "start"
+      }
+    ]
+  },
+  {
+    "word": "Main course",
+    "rootWord": "Main course",
+    "members": [
+      {
+        "word": "main course",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/main course/",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "word": "Dessert",
+    "rootWord": "Dessert",
+    "members": [
+      {
+        "word": "dessert",
+        "relation": "root word",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dessert/",
+        "meaning": ""
+      }
+    ]
+  }
+]

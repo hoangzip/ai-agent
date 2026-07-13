@@ -1,0 +1,38 @@
+SUCCESS: Music (Âm nhạc) -> Downloaded from https://img.freepik.com/premium-photo/music-dance-realistic-photo_1115474-24442.jpg
+SUCCESS: Band (Nhóm nhạc, ban nhạc) -> Downloaded from https://img.freepik.com/premium-photo/music-band-group-perform-concert-stage_912787-1828.jpg
+SUCCESS: Play (Chơi (nhạc cụ)) -> Downloaded from https://img.freepik.com/free-photo/close-up-hands-playing-piano_1232-354.jpg
+SUCCESS: Note (Nốt nhạc) -> Downloaded from https://www.pngplay.com/wp-content/uploads/1/Single-Music-Note-Transparent-Background.png
+SUCCESS: Drum (Trống) -> Downloaded from https://png.pngtree.com/background/20230410/original/pngtree-drums-on-stage-before-a-music-concert-photo-picture-image_2377921.jpg
+SUCCESS: Playlist (Danh sách bài hát) -> Downloaded from https://st.quantrimang.com/photos/image/2021/01/04/hop-nhat-cac-playlist-tren-spotify1.jpg
+SUCCESS: Musician (Nhạc sĩ) -> Downloaded from https://img.freepik.com/premium-photo/music-dance-realistic-photo_1115474-24442.jpg
+SUCCESS: Perform (Trình diễn, biểu diễn) -> Downloaded from https://promice.vn/storage/uploads/20220420-hinh-anh-bai-viet-blog-112-1.png
+SUCCESS: Rhythm (Nhịp điệu) -> Downloaded from https://as2.ftcdn.net/jpg/12/45/48/79/1000_F_1245487980_cGj8eaQuVbTedxFfCGcpsmbMSdGVOCcY.jpg
+SUCCESS: Dance (Nhảy, khiêu vũ) -> Downloaded from https://images.elipsport.vn/anh-seo-tin-tuc/2021/3/30/ten-cac-dieu-nhay-khieu-vu-1.jpg
+SUCCESS: Listen (Lắng nghe) -> Downloaded from https://images.pexels.com/photos/374760/pexels-photo-374760.jpeg?cs=srgb&dl=light-man-person-374760.jpg&fm=jpg
+SUCCESS: Volume (Âm lượng) -> Downloaded from https://c8.alamy.com/comp/PY0PKN/dial-knob-realistic-button-with-circular-processing-volume-settings-sound-control-PY0PKN.jpg
+SUCCESS: Song (Bài hát) -> Downloaded from https://img.freepik.com/premium-photo/music-dance-realistic-photo_1115474-24442.jpg
+SUCCESS: Sing (Hát, ca hát) -> Downloaded from https://png.pngtree.com/thumb_back/fw800/background/20220805/pngtree-jazz-singer-on-stage-portrait-singing-night-holding-photo-image_33091222.jpg
+SUCCESS: Piano (Đàn piano) -> Downloaded from https://www.yamaha.com/us/pianos/images/homepageStill.jpg
+SUCCESS: Guitar (Đàn ghi-ta) -> Downloaded from https://get.pxhere.com/photo/hand-music-black-and-white-white-photography-guitar-acoustic-guitar-instrument-musician-black-monochrome-musical-instrument-stringed-instrument-photograph-guitarist-entertainment-play-guitar-monochrome-photography-film-noir-plucked-string-instruments-735821.jpg
+SUCCESS: Instrument (Nhạc cụ) -> Downloaded from https://static.vecteezy.com/system/resources/thumbnails/047/508/015/small_2x/musical-instruments-on-stage-before-performance-photo.jpg
+SUCCESS: Harmony (Hoà âm) -> Downloaded from https://media.vov.vn/sites/default/files/styles/large/public/2022-11/dscf1885.jpg
+SUCCESS: Melody (Giai điệu) -> Downloaded from https://ampedstudio.com/wp-content/uploads/2024/03/melody-and-harmony.jpg
+SUCCESS: String (Dây đàn) -> Downloaded from https://c8.alamy.com/comp/CRNFN1/violin-strings-close-up-CRNFN1.jpg
+SUCCESS: The brass (Dàn kèn đồng) -> Downloaded from https://eastbaycenter.org/wp-content/uploads/2022/03/Beginning-Brass-Trumpet-Trombone-Tuba-French-Horn-scaled.jpg
+SUCCESS: Symphony (Bản giao hưởng) -> Downloaded from https://marvel-b1-cdn.bc0a.com/f00000000277771/www.bsu.edu/-/media/www/departmentalcontent/musicschool/images/ensembles/bsso-2024-robbins.jpeg?sc_lang=en&hash=C7E16D07856C1F3790F2A59C29DA4985B16976A1
+SUCCESS: Overture (Khúc dạo đầu) -> Downloaded from https://i.ytimg.com/vi/r2B-1UHYucU/maxresdefault.jpg
+SUCCESS: Conductor (Nhạc trưởng) -> Downloaded from https://img.freepik.com/premium-photo/conductor-leading-orchestra-with-dramatic-flair-against-black-backdrop-highlighted-by-stage-lights_95891-23799.jpg
+SUCCESS: Composer (Nhà soạn nhạc) -> Downloaded from https://nhaccodien.vn/wp-content/uploads/2018/04/music-composer.jpg
+SUCCESS: Voice (Giọng nói, giọng hát) -> Downloaded from https://img.freepik.com/premium-photo/close-up-singer-singing-with-microphone_1024307-1715.jpg?w=2000
+SUCCESS: Solo (Bài đơn ca) -> Downloaded from https://thumbs.dreamstime.com/b/man-plays-piano-close-up-hands-top-down-concert-pianist-man-plays-piano-close-up-hands-top-down-concert-pianist-189238150.jpg
+SUCCESS: Lead singer (Ca sĩ hát chính) -> Downloaded from https://nld.mediacdn.vn/291774122806476800/2022/9/13/298063154-2157600807783992-8793796436718936650-n-501-1663024619530672219836.jpg
+SUCCESS: Guitarist (Nghệ sĩ ghi-ta) -> Downloaded from https://image.lexica.art/full_jpg/0996f6d3-ee53-45d6-8ef7-41da5a4d8d02
+SUCCESS: Drummer (Người đánh trống) -> Downloaded from https://img.freepik.com/premium-photo/male-drummer-performing-drum-kit-studio-with-dark-background-concept-music-photography-drummer-portrait-studio-setting-dark-background-drum-kit-performance_918839-99015.jpg?w=2000
+SUCCESS: Lyrics (Lời bài hát) -> Downloaded from https://loibaihat.biz/images/loi-bai-hat/q/qnpdb.jpg
+SUCCESS: Chorus (Điệp khúc) -> Downloaded from https://necmusic.edu/wp-content/uploads/2024/06/Dept-Photo-Choruses.jpg
+SUCCESS: Opera (Nhạc kịch, ô-pê-ra) -> Downloaded from https://as1.ftcdn.net/v2/jpg/07/98/95/50/1000_F_798955051_RlzvJtZktysxO7H9H3k4RDL9epP6Oexr.jpg
+SUCCESS: Folk music (Nhạc dân gian) -> Downloaded from https://media.dolenglish.vn/directus-upload/ba6c9831-e9eb-11ef-8b92-537d78c44579.jpg
+SUCCESS: Album (Tuyển tập ca khúc) -> Downloaded from https://i.ytimg.com/vi/xJycNCxBikE/maxresdefault.jpg
+SUCCESS: Tune (Giai điệu) -> Downloaded from https://img.freepik.com/premium-photo/music-tuning-fork-isolated-white_470606-691.jpg
+SUCCESS: Violin (Đàn vi-ô-lông) -> Downloaded from https://hocflstudio.com/wp-content/uploads/2022/01/violin.jpg
+SUCCESS: Classical music (Nhạc cổ điển) -> Downloaded from https://vietthuong.edu.vn/wp-content/uploads/2020/11/48.jpg

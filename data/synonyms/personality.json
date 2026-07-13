@@ -1,0 +1,600 @@
+[
+  {
+    "word": "Reliable",
+    "synonyms": [
+      {
+        "word": "dependable",
+        "partOfSpeech": "noun",
+        "pronunciation": "[dɪˈpɛndəbəɫ]",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "secure",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/sɪˈkjʊr/",
+        "meaning": "(cảm giác) yên tâm, an toàn"
+      },
+      {
+        "word": "trustworthy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈtɹʌst.wɜɹ.ði/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "trusty",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtɹʌsti/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rude",
+    "synonyms": [
+      {
+        "word": "ill-mannered",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ill-mannered/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "uncouth",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʌnˈkuːθ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "adult",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈdʌlt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "blue",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bluː/",
+        "meaning": "Màu xanh da trời"
+      }
+    ]
+  },
+  {
+    "word": "Selsh",
+    "synonyms": []
+  },
+  {
+    "word": "Sensitive",
+    "synonyms": [
+      {
+        "word": "aware",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əˈweːɹ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "caring",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɛə.ɹɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "classified",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/classified/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "compassionate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kəmˈpæʃənət/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Stubborn",
+    "synonyms": [
+      {
+        "word": "adamant",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæ.də.mænt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "contrary",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkɒntɹəɹi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disobedient",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪs.əˈbiː.dɪənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "headstrong",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/headstrong/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Patient",
+    "synonyms": [
+      {
+        "word": "composed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kəmˈpəʊzd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Humorous",
+    "synonyms": []
+  },
+  {
+    "word": "Sincere",
+    "synonyms": [
+      {
+        "word": "earnest",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈɜːnɪst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Generous",
+    "synonyms": []
+  },
+  {
+    "word": "Honest",
+    "synonyms": []
+  },
+  {
+    "word": "Kind",
+    "synonyms": [
+      {
+        "word": "child",
+        "partOfSpeech": "noun",
+        "pronunciation": "/t͡ʃaɪld/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "derivative",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈɹɪvətɪv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "generation",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌdʒɛn.əˈreɪ.ʃən/",
+        "meaning": "Thế hệ"
+      },
+      {
+        "word": "genre",
+        "partOfSpeech": "noun",
+        "pronunciation": "/(d)ʒɒn.ɹə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Loyal",
+    "synonyms": []
+  },
+  {
+    "word": "Modest",
+    "synonyms": []
+  },
+  {
+    "word": "Nasty",
+    "synonyms": []
+  },
+  {
+    "word": "Shy",
+    "synonyms": []
+  },
+  {
+    "word": "Sociable",
+    "synonyms": [
+      {
+        "word": "congenial",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/congenial/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "friendly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɹɛndli/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "inviting",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪnˈvaɪtɪŋ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Reserved",
+    "synonyms": []
+  },
+  {
+    "word": "Condent",
+    "synonyms": []
+  },
+  {
+    "word": "Pleasant",
+    "synonyms": [
+      {
+        "word": "agreeable",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈɡɹiːəbl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nice",
+        "partOfSpeech": "noun",
+        "pronunciation": "/naɪs/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Clever",
+    "synonyms": [
+      {
+        "word": "adroit",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əˈdɹɔɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "talented",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/talented/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "magical",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈmædʒɪkəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cunning",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkʌnɪŋ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Thoughtful",
+    "synonyms": [
+      {
+        "word": "attentive",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əˈtɛntɪv/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "caring",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɛə.ɹɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "considerate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kənˈsɪdəɹət/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "thoughty",
+        "partOfSpeech": "noun",
+        "pronunciation": "/thoughty/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Proud",
+    "synonyms": []
+  },
+  {
+    "word": "Lazy",
+    "synonyms": [
+      {
+        "word": "bone-idle",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/bone-idle/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "idle",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈaɪd(ə)l/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "indolent",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɪn.dəl.ənt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "slothful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/slothful/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Crazy",
+    "synonyms": [
+      {
+        "word": "lunatic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈluːnətɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mad man",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mad man/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nut ball",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nut ball/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "nut case",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nut case/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Silly",
+    "synonyms": [
+      {
+        "word": "charming",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈtʃɑː(ɹ).mɪŋ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Bossy",
+    "synonyms": [
+      {
+        "word": "authoritarian",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɔːˌθɒrɪˈtɛːrɪən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "commanding",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kəˈmɑːndɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "demanding",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈmɑːndɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "dictatorial",
+        "partOfSpeech": "adjective",
+        "pronunciation": "[dɪktəˈtɔːɹɪəɫ]",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Gossip",
+    "synonyms": [
+      {
+        "word": "busybody",
+        "partOfSpeech": "noun",
+        "pronunciation": "/busybody/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "gossipmonger",
+        "partOfSpeech": "noun",
+        "pronunciation": "/gossipmonger/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "meddler",
+        "partOfSpeech": "noun",
+        "pronunciation": "/meddler/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "rumormonger",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rumormonger/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Extrovert",
+    "synonyms": []
+  },
+  {
+    "word": "Coward",
+    "synonyms": [
+      {
+        "word": "chicken",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈtʃɪk.ɪn/",
+        "meaning": "Gà"
+      },
+      {
+        "word": "scaredy pants",
+        "partOfSpeech": "noun",
+        "pronunciation": "/scaredy pants/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "yellowbelly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈjɛləʊbɛli/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Big-head",
+    "synonyms": []
+  },
+  {
+    "word": "Snob",
+    "synonyms": [
+      {
+        "word": "cad",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kæd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Liar",
+    "synonyms": []
+  },
+  {
+    "word": "Ambitious",
+    "synonyms": [
+      {
+        "word": "aspiring",
+        "partOfSpeech": "verb",
+        "pronunciation": "/aspiring/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "showy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈʃəʊ.i/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Introvert",
+    "synonyms": []
+  },
+  {
+    "word": "Stingy",
+    "synonyms": []
+  },
+  {
+    "word": "Arrogant",
+    "synonyms": [
+      {
+        "word": "authoritarian",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɔːˌθɒrɪˈtɛːrɪən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cocky",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɔki/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "conceited",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/conceited/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "condescending",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɔn.dɪ.sɛnd.ɪŋ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Vain",
+    "synonyms": [
+      {
+        "word": "conceited",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/conceited/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "inflated",
+        "partOfSpeech": "verb",
+        "pronunciation": "/inflated/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "puffed up",
+        "partOfSpeech": "noun",
+        "pronunciation": "/puffed up/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fruitless",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/fruitless/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Absent-minded",
+    "synonyms": []
+  },
+  {
+    "word": "Hostile",
+    "synonyms": [
+      {
+        "word": "antagonistic",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/æn.tæ.ɡə.ˈnɪs.tɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "hateful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈheɪtfəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "inimical",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪˈnɪmɪkəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "unfriendly",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʌnˈfɹɛn(d)li/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

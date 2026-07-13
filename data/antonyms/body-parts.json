@@ -1,0 +1,206 @@
+[
+  {
+    "word": "Head",
+    "antonyms": [
+      {
+        "word": "point",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pɔint/",
+        "meaning": "Chỉ"
+      },
+      {
+        "word": "sharp",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ʃɑːp/",
+        "meaning": "sắc, nhọn, bén"
+      },
+      {
+        "word": "tip",
+        "partOfSpeech": "noun",
+        "pronunciation": "/tɪp/",
+        "meaning": "Tiền boa"
+      },
+      {
+        "word": "subordinate",
+        "partOfSpeech": "noun",
+        "pronunciation": "/subordinate/",
+        "meaning": "thuộc viên"
+      }
+    ]
+  },
+  {
+    "word": "Face",
+    "antonyms": [
+      {
+        "word": "heel",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hiːl/",
+        "meaning": "châm cứu"
+      }
+    ]
+  },
+  {
+    "word": "Hair",
+    "antonyms": []
+  },
+  {
+    "word": "Ear",
+    "antonyms": []
+  },
+  {
+    "word": "Neck",
+    "antonyms": []
+  },
+  {
+    "word": "Forehead",
+    "antonyms": []
+  },
+  {
+    "word": "Beard",
+    "antonyms": []
+  },
+  {
+    "word": "Eye",
+    "antonyms": []
+  },
+  {
+    "word": "Nose",
+    "antonyms": []
+  },
+  {
+    "word": "Mouth",
+    "antonyms": []
+  },
+  {
+    "word": "Chin",
+    "antonyms": [
+      {
+        "word": "glass jaw",
+        "partOfSpeech": "noun",
+        "pronunciation": "/glass jaw/",
+        "meaning": "hàm thủy tinh"
+      }
+    ]
+  },
+  {
+    "word": "Shoulder",
+    "antonyms": []
+  },
+  {
+    "word": "Elbow",
+    "antonyms": []
+  },
+  {
+    "word": "Arm",
+    "antonyms": []
+  },
+  {
+    "word": "Chest",
+    "antonyms": []
+  },
+  {
+    "word": "Armpit",
+    "antonyms": []
+  },
+  {
+    "word": "Wrist",
+    "antonyms": []
+  },
+  {
+    "word": "Navel",
+    "antonyms": []
+  },
+  {
+    "word": "Ankle",
+    "antonyms": []
+  },
+  {
+    "word": "Waist",
+    "antonyms": []
+  },
+  {
+    "word": "Abdomen",
+    "antonyms": []
+  },
+  {
+    "word": "Leg",
+    "antonyms": [
+      {
+        "word": "off",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɔːf/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Thigh",
+    "antonyms": []
+  },
+  {
+    "word": "Knee",
+    "antonyms": []
+  },
+  {
+    "word": "Hand",
+    "antonyms": []
+  },
+  {
+    "word": "Thumb",
+    "antonyms": []
+  },
+  {
+    "word": "Back",
+    "antonyms": [
+      {
+        "word": "front",
+        "partOfSpeech": "noun",
+        "pronunciation": "/fɹʌnt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "veer",
+        "partOfSpeech": "verb",
+        "pronunciation": "/vɪə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "main",
+        "partOfSpeech": "verb",
+        "pronunciation": "/main/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "current",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkʌɹənt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Foot",
+    "antonyms": []
+  },
+  {
+    "word": "Finger",
+    "antonyms": []
+  },
+  {
+    "word": "Toe",
+    "antonyms": [
+      {
+        "word": "heel",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hiːl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "tail",
+        "partOfSpeech": "noun",
+        "pronunciation": "/teɪl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "word": "Fever",
+    "antonyms": []
+  },
+  {
+    "word": "Cough",
+    "antonyms": []
+  },
+  {
+    "word": "Hurt",
+    "antonyms": []
+  },
+  {
+    "word": "Swollen",
+    "antonyms": []
+  },
+  {
+    "word": "Pus",
+    "antonyms": []
+  },
+  {
+    "word": "Graze",
+    "antonyms": []
+  },
+  {
+    "word": "Headache",
+    "antonyms": []
+  },
+  {
+    "word": "Insomnia",
+    "antonyms": [
+      {
+        "word": "hypersomnia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hypersomnia/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Rash",
+    "antonyms": []
+  },
+  {
+    "word": "Black eye",
+    "antonyms": []
+  },
+  {
+    "word": "Bruise",
+    "antonyms": []
+  },
+  {
+    "word": "Constipation",
+    "antonyms": []
+  },
+  {
+    "word": "Diarrhea",
+    "antonyms": []
+  },
+  {
+    "word": "Sore eyes",
+    "antonyms": []
+  },
+  {
+    "word": "Runny nose",
+    "antonyms": []
+  },
+  {
+    "word": "Snile",
+    "antonyms": []
+  },
+  {
+    "word": "Sneeze",
+    "antonyms": []
+  },
+  {
+    "word": "Bad breath",
+    "antonyms": [
+      {
+        "word": "good breath",
+        "partOfSpeech": "noun",
+        "pronunciation": "/good breath/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Earache",
+    "antonyms": []
+  },
+  {
+    "word": "Nausea",
+    "antonyms": []
+  },
+  {
+    "word": "Eating disorder",
+    "antonyms": []
+  },
+  {
+    "word": "Asthma",
+    "antonyms": []
+  },
+  {
+    "word": "Backache",
+    "antonyms": []
+  },
+  {
+    "word": "Chill",
+    "antonyms": []
+  },
+  {
+    "word": "Fever virus",
+    "antonyms": []
+  },
+  {
+    "word": "Allergy",
+    "antonyms": []
+  },
+  {
+    "word": "Paralyse",
+    "antonyms": []
+  },
+  {
+    "word": "Infected",
+    "antonyms": [
+      {
+        "word": "disinfect",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪs.ɪnˈfɛkt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Inflamed",
+    "antonyms": []
+  },
+  {
+    "word": "Gout",
+    "antonyms": []
+  },
+  {
+    "word": "Hepatitis",
+    "antonyms": []
+  },
+  {
+    "word": "Lump",
+    "antonyms": []
+  },
+  {
+    "word": "Insect bite",
+    "antonyms": []
+  },
+  {
+    "word": "Stomachache",
+    "antonyms": []
+  },
+  {
+    "word": "Toothache",
+    "antonyms": []
+  },
+  {
+    "word": "High blood pressure",
+    "antonyms": []
+  },
+  {
+    "word": "Sore throat",
+    "antonyms": []
+  },
+  {
+    "word": "Sprain",
+    "antonyms": []
+  },
+  {
+    "word": "Burn",
+    "antonyms": []
+  },
+  {
+    "word": "Malaria",
+    "antonyms": []
+  },
+  {
+    "word": "Scabies",
+    "antonyms": []
+  },
+  {
+    "word": "Smallpox",
+    "antonyms": []
+  },
+  {
+    "word": "Heart attack",
+    "antonyms": []
+  },
+  {
+    "word": "Tuberculosis",
+    "antonyms": []
+  },
+  {
+    "word": "Diabetes",
+    "antonyms": []
+  },
+  {
+    "word": "Cancer",
+    "antonyms": []
+  },
+  {
+    "word": "Pneumonia",
+    "antonyms": []
+  },
+  {
+    "word": "Chicken pox",
+    "antonyms": []
+  },
+  {
+    "word": "Depression",
+    "antonyms": []
+  },
+  {
+    "word": "Low blood pressure",
+    "antonyms": []
+  },
+  {
+    "word": "Hypertension",
+    "antonyms": [
+      {
+        "word": "hypotension",
+        "partOfSpeech": "noun",
+        "pronunciation": "/hypotension/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Measles",
+    "antonyms": []
+  },
+  {
+    "word": "Migraine",
+    "antonyms": []
+  },
+  {
+    "word": "Mumps",
+    "antonyms": []
+  },
+  {
+    "word": "Rheumatism",
+    "antonyms": []
+  }
+]

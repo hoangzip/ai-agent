@@ -1,0 +1,351 @@
+[
+  {
+    "word": "Angry",
+    "synonyms": [
+      {
+        "word": "annoyed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈnɔɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "apoplectic",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌæpəˈplɛktɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cheesed off",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cheesed off/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "enraged",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪnˈɹeɪd͡ʒd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sleepy",
+    "synonyms": [
+      {
+        "word": "sleep",
+        "partOfSpeech": "verb",
+        "pronunciation": "/sli:p/",
+        "meaning": "Ngủ"
+      },
+      {
+        "word": "tired",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈtaɪəd/ - /ˈtaɪərd/",
+        "meaning": "Mệt mỏi"
+      }
+    ]
+  },
+  {
+    "word": "Surprised",
+    "synonyms": [
+      {
+        "word": "overtake",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈəʊvə(ɹ).teɪk/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "astonished",
+        "partOfSpeech": "verb",
+        "pronunciation": "/astonished/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Grateful",
+    "synonyms": [
+      {
+        "word": "appreciative",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/appreciative/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "thankful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈθæŋkfəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Scared",
+    "synonyms": []
+  },
+  {
+    "word": "Embarrassed",
+    "synonyms": [
+      {
+        "word": "abash",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈbæʃ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "discomfit",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪsˈkʌmfɪt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "disconcert",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌdɪskənˈsɜːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "humiliate",
+        "partOfSpeech": "verb",
+        "pronunciation": "/hjuːˈmɪliˌeɪt/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Confused",
+    "synonyms": [
+      {
+        "word": "flummox",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈflʌməks/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "mistake",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɪˈsteɪk/",
+        "meaning": "Sai lầm, lỗi"
+      },
+      {
+        "word": "dazed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/deɪzd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "perplexed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pəˈplɛkst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Sad",
+    "synonyms": [
+      {
+        "word": "lamentable",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ləˈmɛn.tə.bəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "discomforted",
+        "partOfSpeech": "verb",
+        "pronunciation": "/discomforted/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "distressed",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈstɹɛst/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "uncomfortable",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ʌnˈkʌm.fə.tə.bəl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Hungry",
+    "synonyms": [
+      {
+        "word": "famished",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈfæmɪʃt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "peckish",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/peckish/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "starving",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈstɑːvɪŋ/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Full",
+    "synonyms": [
+      {
+        "word": "complete",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəmˈpliːt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "thorough",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈθʌɹə/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "abounding",
+        "partOfSpeech": "verb",
+        "pronunciation": "/abounding/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "brimful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbɹɪmfʊl/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Happy",
+    "synonyms": [
+      {
+        "word": "happify",
+        "partOfSpeech": "noun",
+        "pronunciation": "/happify/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cheerful",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈt͡ʃɪəfəl/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "content",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈtɛnt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "delighted",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈlaɪtəd/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Jealous",
+    "synonyms": []
+  },
+  {
+    "word": "Nervous",
+    "synonyms": []
+  },
+  {
+    "word": "Thirsty",
+    "synonyms": [
+      {
+        "word": "horny",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/horny/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "parched",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pɑːtʃt/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "athirst",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əˈθəːst/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Comfortable",
+    "synonyms": [
+      {
+        "word": "comforting",
+        "partOfSpeech": "verb",
+        "pronunciation": "/comforting/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "comfy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkʌm.fi/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cozy",
+        "partOfSpeech": "noun",
+        "pronunciation": "/cozy/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "cushy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkʊ.ʃi/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Tense",
+    "synonyms": []
+  },
+  {
+    "word": "Tired",
+    "synonyms": [
+      {
+        "word": "exhausted",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪɡˈzɑstɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "fatigued",
+        "partOfSpeech": "verb",
+        "pronunciation": "/fatigued/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "languid",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈlæŋ.ɡwɪd/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "sleepy",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈsliːpi/",
+        "meaning": "Buồn ngủ"
+      }
+    ]
+  },
+  {
+    "word": "Bored",
+    "synonyms": []
+  }
+]

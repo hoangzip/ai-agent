@@ -1,0 +1,148 @@
+[
+  {
+    "word": "Play",
+    "synonyms": [
+      {
+        "word": "drama",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdrɑː.mə/",
+        "meaning": "Vở kịch"
+      },
+      {
+        "word": "listen",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈlɪs.ən/",
+        "meaning": "Lắng nghe"
+      },
+      {
+        "word": "view",
+        "partOfSpeech": "noun",
+        "pronunciation": "/vjuː/",
+        "meaning": "Khung cảnh, quang cảnh"
+      },
+      {
+        "word": "move",
+        "partOfSpeech": "noun",
+        "pronunciation": "/muːv/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Circus",
+    "synonyms": []
+  },
+  {
+    "word": "Stadium",
+    "synonyms": [
+      {
+        "word": "Olympic stadium",
+        "partOfSpeech": "noun",
+        "pronunciation": "/Olympic stadium/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stadia",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stadia/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "stadia rod",
+        "partOfSpeech": "noun",
+        "pronunciation": "/stadia rod/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "arena",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈɹiːnə/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Orchestra",
+    "synonyms": []
+  },
+  {
+    "word": "Scene",
+    "synonyms": []
+  },
+  {
+    "word": "Opera",
+    "synonyms": []
+  },
+  {
+    "word": "Theater",
+    "synonyms": []
+  },
+  {
+    "word": "Applaud",
+    "synonyms": [
+      {
+        "word": "beclap",
+        "partOfSpeech": "noun",
+        "pronunciation": "/beclap/",
+        "meaning": "Đang cập nhật"
+      }
+    ]
+  },
+  {
+    "word": "Perform",
+    "synonyms": []
+  },
+  {
+    "word": "Exhibit",
+    "synonyms": [
+      {
+        "word": "showing",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈʃəʊɪŋ/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "exhibition",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɛksɪˈbɪʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "exposition",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɛkspəˈzɪʃən/",
+        "meaning": "Đang cập nhật"
+      },
+      {
+        "word": "show",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ʃou/",
+        "meaning": "Cho xem, cho thấy, trưng bày"
+      }
+    ]
+  },
+  {
+    "word": "Art gallery",
+    "synonyms": []
+  },
+  {
+    "word": "Comedy",
+    "synonyms": []
+  },
+  {
+    "word": "Chamber music",
+    "synonyms": []
+  },
+  {
+    "word": "Casino",
+    "synonyms": []
+  },
+  {
+    "word": "Pub",
+    "synonyms": []
+  },
+  {
+    "word": "Concert hall",
+    "synonyms": []
+  }
+]
