@@ -1,0 +1,26 @@
+{
+  "id": "7e5d7985-7a1b-4677-997d-5f0b21affd4e",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-3.xx.fbcdn.net/v/t39.30808-6/733993339_1523544726135804_7336227792316701364_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH7uIwNGqJIyGRqXW8r0y-moJc6BHKwR36glzoEcrBHfuIsfGejwCdDD6A-LN4rMUtxLuNg3O-PA3H7eKi6QczE&_nc_ohc=bRk4QYqTRBYQ7kNvwHdwYmv&_nc_oc=AdrEYbiGn_N0JtN7pBfjJT3UQtDGfXas2duEWGx1boq6K5kdFiJZan6ueUAHKbG_LFk&_nc_zt=23&_nc_ht=scontent-sin2-3.xx&_nc_gid=ilivkHTra4x1NlR89ccvXw&_nc_ss=7b2a8&oh=00_AQKWt4OAO15cAW4C_xbG_pzWYsB2xbdSlZkntXYwrOVxTg&oe=6ABBDDD3",
+  "owner_type": "post",
+  "owner_id": "9dd992e3-0f5d-4e70-b6e8-f369a4a08a80",
+  "photo_fbid": "1523544722802471",
+  "position": 0,
+  "storage_uri": "media/assets/78/f7/78f765ca5679c1529cc5dce2e113cfaa16e215e48670e8f9c4383b082700aaf9.jpg",
+  "sha256": "78f765ca5679c1529cc5dce2e113cfaa16e215e48670e8f9c4383b082700aaf9",
+  "mime_type": "image/jpeg",
+  "file_size": 115871,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "07:56\n< Kiểm tra Điểm tín dụng CIC\n600\n99\n400\n200\n0\n2/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 28/02/2026, bạn\ncó khoản nợ xấu và nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n0 VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù...\nKhoản dự phòng\nSẵn sàng khi gấp\nMẹo cải thiện điểm\nHành vi tốt\nVí Trả Sau\nDùng mỗi tháng\n>\nMẹo cải tr\nTrả khi\nĐúng hệ\nTăng uy tí",
+  "cic_data": {
+    "is_cic": true,
+    "score": 600,
+    "tier": 4,
+    "scoring_date": "28/02/2026",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "07:56\n< Kiểm tra Điểm tín dụng CIC\n600\n99\n400\n200\n0\n2/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 28/02/2026, bạn\ncó khoản nợ xấu và nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n0 VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù...\nKhoản dự phòng\nSẵn sàng khi gấp\nMẹo cải thiện điểm\nHành vi tốt\nVí Trả Sau\nDùng mỗi tháng\n>\nMẹo cải tr\nTrả khi\nĐúng hệ\nTăng uy tí"
+  }
+}

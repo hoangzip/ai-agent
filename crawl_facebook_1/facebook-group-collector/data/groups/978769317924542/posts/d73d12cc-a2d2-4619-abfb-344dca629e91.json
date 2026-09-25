@@ -1,0 +1,27 @@
+{
+  "id": "d73d12cc-a2d2-4619-abfb-344dca629e91",
+  "facebook_post_id": "122167097348971013",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "f901ca7a-8330-4c1a-9fe9-4130a6cf1443",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=122167097348971013&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-25T02:27:58.087816+00:00",
+  "updated_at": "2026-09-25T04:40:42.849655+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "36a659a5-0e99-4933-93f7-06e104085ef7"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "2.108.000đ",
+    "provider": "CIC",
+    "raw_text": "8:52 O\n80\nChi tiết khoản vay\n®\nThanh toán kỳ này\n2.108.000đ\nNgày thanh toán kỳ này\nKỳ thanh toán hiện tại\n21/07/2026\n6/9\nMã hợp đồng\nTổng tiền vay\nKỳ hạn vay\nNgày giải ngân\nDư nợ gốc còn lại\nVM01218820690\n15.000.000đ\n9 tháng\n21/01/2026\n7.465.000đ\nB Xem hợp đồng\nXác nhận"
+  }
+}

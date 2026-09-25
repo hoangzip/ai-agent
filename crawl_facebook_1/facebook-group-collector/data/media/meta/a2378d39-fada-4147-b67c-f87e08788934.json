@@ -1,0 +1,25 @@
+{
+  "id": "a2378d39-fada-4147-b67c-f87e08788934",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-2.fna.fbcdn.net/v/t39.30808-6/774401287_1886231745670707_5128504492832482745_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1152x2048&ctp=s1152x2048&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHTpjpfpmdJ1WT6t1CjmtK36qsk_0wvjMXqqyT_TC-MxQfbXUBJG5grIAELLBeG6XeQuAFiEaSCPiD0XCS4Dq3e&_nc_ohc=Q4Q2qtEnBwoQ7kNvwFZqRHu&_nc_oc=AdoZNIsT7w0YBbMHcaeqEiOG8Ba2g1esr7G-pvsuxOIhpI1t1Tbb-ZAxVHg1fHwyLq4&_nc_zt=23&_nc_ht=scontent.fsgn5-2.fna&_nc_gid=d3VzbNTRB06_ey5tID84tA&_nc_ss=7b2a8&oh=00_AQIMrQul71_CS8m99E5mHO3SOWJ983m-XgTDsk5WmdHJHQ&oe=6ABB6D4E",
+  "owner_type": "post",
+  "owner_id": "38b04720-a46b-47e0-ba43-8e124d6c3a78",
+  "photo_fbid": "1886231742337374",
+  "position": 0,
+  "storage_uri": "media/assets/9a/1c/9a1cdaedbcffe3b9234127bf78a2c42c3ce9fff0b94b28dd7cd8e10f11bd0073.jpg",
+  "sha256": "9a1cdaedbcffe3b9234127bf78a2c42c3ce9fff0b94b28dd7cd8e10f11bd0073",
+  "mime_type": "image/jpeg",
+  "file_size": 139639,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Viettel\n23:05\nKiểm tra Điểm tín dụng CIC\n550\nHạng 6 O\nNgày chấm: 22/07/2026\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n15% M\nA Hôm nay có gì mới\nƯu đãi vay cho bạn\nCơ hội được 0% lãi khi ứng tiền đến\n3 triệu\nX\nKểm tra\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\n• Theo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDưỉ na thả tin dung\nKhông có dư nợ tại CIC\n--",
+  "cic_data": {
+    "is_cic": true,
+    "score": 550,
+    "tier": 6,
+    "scoring_date": "22/07/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "Viettel\n23:05\nKiểm tra Điểm tín dụng CIC\n550\nHạng 6 O\nNgày chấm: 22/07/2026\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n15% M\nA Hôm nay có gì mới\nƯu đãi vay cho bạn\nCơ hội được 0% lãi khi ứng tiền đến\n3 triệu\nX\nKểm tra\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\n• Theo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDưỉ na thả tin dung\nKhông có dư nợ tại CIC\n--"
+  }
+}

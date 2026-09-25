@@ -1,0 +1,28 @@
+{
+  "id": "1685a924-02bf-4bce-855e-457c3b175c8c",
+  "facebook_post_id": "10225586842737892",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "4fb16e09-d425-4143-b40a-376cefbc9505",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=10225586842737892&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-25T06:03:29.655005+00:00",
+  "updated_at": "2026-09-25T06:03:29.655005+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "317e2052-2e9e-4eef-8275-02dc34d451c5"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "16/06/2026",
+    "has_bad_debt": true,
+    "provider": "TPBank",
+    "raw_text": "2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nTên tổ chức/chi nhánh TCTD\nLoại dư nợ\n1. Ngân hàng Thương mại cổ phần Sài Gòn Hà Nội -Chi nhánh\nQuảng Trị\nNgày báo cáo dư nợ vay gần nhất: 16/06/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xấu\n2. Ngân hàng TMCP Tiên Phong\nNgày báo cáo dư nợ vay gần nhất: 08/06/2026\nNgày báo cáo dư nợ thẻ gần nhất: 08/06/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\nNợ vay\nVND\nĐơn vị tính: triệu đồng, USD\nNợ thẻ\nUSD\nVND\n45\n45\n0\n0\n2\n2\n0\n3\n3\nTổng cộng\n47\n0\n3\nLưu ý:\n- Tổng dư nợ bao gồm cả khoản nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam hoặc được quy đổi từ số ngày chậm thanh toán từ 10 -90\nngày đối với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phú Ngân hàng nhà\nnước Việt Nam)."
+  }
+}

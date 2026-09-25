@@ -1,0 +1,24 @@
+{
+  "id": "fded73d5-3f80-45b3-b6c7-7b2bbaf5eef9",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-2.fna.fbcdn.net/v/t39.30808-6/762600731_1398718138777959_4234337932624478088_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1080x2340&ctp=s1080x2340&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG4R0dJeusHzXyHSfhMPi4Ak0Bkklzbb3OTQGSSXNtvc-u916mGNRrM_CxAhWexy6XzqI17E8CdMYJp3tIG7EJL&_nc_ohc=VBrsxzgpNH8Q7kNvwEmH9UR&_nc_oc=AdppcShuZbtIVxss_wyS3JcXDiJ-b2BollUacqT6NMqUNocErGmjBGbMHLHcAvh70JE&_nc_zt=23&_nc_ht=scontent.fsgn5-2.fna&_nc_gid=xcJ6vOtx4pycULsrMNOqeA&_nc_ss=7b2a8&oh=00_AQJz6xo9DZCqeCQwgKoasjgO8iEOxDBz4mS6Wpot5dLrTg&oe=6ABB6FC9",
+  "owner_type": "post",
+  "owner_id": "86a6a32f-d01c-4156-8d6c-8a36bff3dbb9",
+  "photo_fbid": "1398718135444626",
+  "position": 0,
+  "storage_uri": "media/assets/80/17/80170107354968f18dff59d476220172c2647abba28aa9d7936194af0269ca14.jpg",
+  "sha256": "80170107354968f18dff59d476220172c2647abba28aa9d7936194af0269ca14",
+  "mime_type": "image/jpeg",
+  "file_size": 140251,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "18:11 POF Q C •\nKiểm tra Điểm tín dụng CIC\nFo ill 28\nCreditinFo\n550\nHạng 6 0\nNgày chấm: 22/07/2026\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nCiCB Thử công cụ mô phỏng\nXu hướng Điểm tín dụng như nào\nkhi hành vi thay đổi\nKhám phá >\n2/2\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n550\n570\n380\n190\nO",
+  "cic_data": {
+    "is_cic": true,
+    "score": 550,
+    "tier": 6,
+    "scoring_date": "22/07/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "18:11 POF Q C •\nKiểm tra Điểm tín dụng CIC\nFo ill 28\nCreditinFo\n550\nHạng 6 0\nNgày chấm: 22/07/2026\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nCiCB Thử công cụ mô phỏng\nXu hướng Điểm tín dụng như nào\nkhi hành vi thay đổi\nKhám phá >\n2/2\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n550\n570\n380\n190\nO"
+  }
+}

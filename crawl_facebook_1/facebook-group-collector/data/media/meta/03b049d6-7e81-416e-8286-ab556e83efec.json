@@ -1,0 +1,24 @@
+{
+  "id": "03b049d6-7e81-416e-8286-ab556e83efec",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-1.fna.fbcdn.net/v/t39.30808-6/774284043_2093216501552723_4136172416525639494_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHLm6DsPsW7sprqZw5ZBZjwYaXC1TXNPxNhpcLVNc0_E3AWGC-dlkwAauoQshTI8zqMVydoZ0bwhYCxznGH7-ux&_nc_ohc=fnVMrkyRBq4Q7kNvwEsh2EM&_nc_oc=Ado-UNtTFLvQp9NY_Vuv_Mmqf-WgDAmS8ZAHC3Uft2a3LabG0NuF98MDNVanu4Vmm5s&_nc_zt=23&_nc_ht=scontent.fsgn5-1.fna&_nc_gid=txsCx1U4JO5Pzetz__3RQg&_nc_ss=7b2a8&oh=00_AQJDVUdBeFeYHy5NK3q8grBsZn7bcUa2CDj6PqYq7q26sw&oe=6ABB694E",
+  "owner_type": "post",
+  "owner_id": "61fed8d6-d9dd-461e-8923-7a2c985929ea",
+  "photo_fbid": "2093216498219390",
+  "position": 0,
+  "storage_uri": "media/assets/da/f8/daf87f18e58827acfe203914e3d70c3f4cc51bd04cbae91d5b1150ab98701f39.jpg",
+  "sha256": "daf87f18e58827acfe203914e3d70c3f4cc51bd04cbae91d5b1150ab98701f39",
+  "mime_type": "image/jpeg",
+  "file_size": 145802,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "20:46\nKiểm tra Điểm tín dụng CIC\n18\nCCB\nCreditinFo\n589\nHạng 4 O\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 53% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền\nlợi dành cho bạn.\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 4,
+    "scoring_date": "22/03/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "20:46\nKiểm tra Điểm tín dụng CIC\n18\nCCB\nCreditinFo\n589\nHạng 4 O\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 53% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền\nlợi dành cho bạn.\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

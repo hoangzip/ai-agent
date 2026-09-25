@@ -1,0 +1,25 @@
+{
+  "id": "504c3e2e-b87c-4ac8-b305-db267b9f7c20",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/799346817_122101870545467609_860894162996066353_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x2048&ctp=s1152x2048&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFPkyABa7YXaxlnOJjo7nkJB6BC-wcJ2KMHoEL7BwnYo56LfWyJ_QQjnejMQvxfUyX4h2kuMMjhu927QJVN0IjA&_nc_ohc=Qb73IcVa_dAQ7kNvwHg1VVk&_nc_oc=AdpjC6RtsuTjQFFazPZKH5zFnw-3vruiaF9fz9GlOa9-5UpRCrNAaGGZu0OCq_aLxZ8&_nc_zt=23&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=Mmn6qGY_Ub06NVZv4hdtAg&_nc_ss=7b2a8&oh=00_AQILGbl93hnzj7o1WgxCKOCjmg1Xw8HugdU1viRurf9BCg&oe=6ABB63AD",
+  "owner_type": "post",
+  "owner_id": "e8131f61-65c6-4a60-9b58-4f381df0900f",
+  "photo_fbid": "122101870257467609",
+  "position": 0,
+  "storage_uri": "media/assets/33/b3/33b36e34de8bed7eb6f6bfe55203c53b8120623f9c0837255b06f23ef79e05aa.jpg",
+  "sha256": "33b36e34de8bed7eb6f6bfe55203c53b8120623f9c0837255b06f23ef79e05aa",
+  "mime_type": "image/jpeg",
+  "file_size": 114984,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "1 Safari •il\n14:55\nKiểm tra Điểm tín dụng CIC\n@ 47% (\nCiCB\nCreditinFo\n593\nHạng 4\nNgày chấm: 21/08/2026\nĐiểm cao hơn 55% khách hàng cá nhân khác\nChia sé\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẨn thông tin\n10 Triệu VNĐ\n10 Triệu VNĐ\n0 VNĐ\nVị thế tài chính thá...\nKhám phá toàn cảnh",
+  "cic_data": {
+    "is_cic": true,
+    "score": 593,
+    "tier": 4,
+    "scoring_date": "21/08/2026",
+    "total_debt": "10 Triệu VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "1 Safari •il\n14:55\nKiểm tra Điểm tín dụng CIC\n@ 47% (\nCiCB\nCreditinFo\n593\nHạng 4\nNgày chấm: 21/08/2026\nĐiểm cao hơn 55% khách hàng cá nhân khác\nChia sé\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẨn thông tin\n10 Triệu VNĐ\n10 Triệu VNĐ\n0 VNĐ\nVị thế tài chính thá...\nKhám phá toàn cảnh"
+  }
+}

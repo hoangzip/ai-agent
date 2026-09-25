@@ -1,0 +1,24 @@
+{
+  "id": "567ca89d-2bb4-47b9-9c55-b1f91932998c",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/767222377_1783928099300988_7397664579161844693_n.jpg?stp=dst-jpg_tt6&cstp=mx1216x2688&ctp=s1216x2688&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHycsVDfY4jjBYtvAMw9LWntFxuHmIJPOC0XG4eYgk84K4DytmnkzwOoYVfIlyvVStElZqSLcqg8p4h89Qjlnjg&_nc_ohc=6igSb4pbXKYQ7kNvwFB28hu&_nc_oc=Adrhj6qGAeB7FwZfYdnIso4P2E-U3hwgAMfKuu3FsD-f7edGi1_C4Ww2z5t347LoMmI&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=AjGy1fGDrG3LODXYBRlLtg&_nc_ss=7b2a8&oh=00_AQKoLb8L_2RCjOWbuHmsQunl4-fVgua2cH_I7w_HmuMxsA&oe=6ABB5A5A",
+  "owner_type": "post",
+  "owner_id": "54cd8b7b-4af2-45a3-a749-e15c712885ba",
+  "photo_fbid": "1783928089300989",
+  "position": 0,
+  "storage_uri": "media/assets/5e/5b/5e5b8b7939ec5c95537436af4367a6ed072cb9595c79be704a768acadc61b529.jpg",
+  "sha256": "5e5b8b7939ec5c95537436af4367a6ed072cb9595c79be704a768acadc61b529",
+  "mime_type": "image/jpeg",
+  "file_size": 189301,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\n015\nHạng 3 O\nNgày chấm: 22/07/2026\nCao hơn 72% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\n?, Đầu tư thử, không lo rủi ro\nTrải nghiệm đầu tư chứng khoán cùng\n100 triệu vốn ảo trên MoMo\nThử ngay\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổna dư nơ\n898 Triều VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 3,
+    "scoring_date": "22/07/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\n015\nHạng 3 O\nNgày chấm: 22/07/2026\nCao hơn 72% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\n?, Đầu tư thử, không lo rủi ro\nTrải nghiệm đầu tư chứng khoán cùng\n100 triệu vốn ảo trên MoMo\nThử ngay\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổna dư nơ\n898 Triều VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

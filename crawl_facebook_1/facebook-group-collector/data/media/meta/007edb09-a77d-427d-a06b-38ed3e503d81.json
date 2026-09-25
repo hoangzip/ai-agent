@@ -1,0 +1,26 @@
+{
+  "id": "007edb09-a77d-427d-a06b-38ed3e503d81",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-6/789594909_1391229013102441_905221398513229420_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFlMODJ_fgE4uQo9KHsEEQVtXuCp67eQSG1e4Knrt5BIaHhfEB1PJYQWCaQ4fVIpz7j4mEn-8Jvzgmv6qRpB8c6&_nc_ohc=QNQa5WJ1o-cQ7kNvwEr1leB&_nc_oc=Adrm6N57PhRmlAHr5HvvCMyk3_aILBBg_tb0qwZGOcJYPYlSxy3FgzEs55SheedyAig&_nc_zt=23&_nc_ht=scontent.fsgn5-13.fna&_nc_gid=OBOngO87CT0cLlc6w86frQ&_nc_ss=7b2a8&oh=00_AQLu_i8hf4XvUumrVC7RpnNH1PaugJeSScttCYwIdh3YyA&oe=6ABB5634",
+  "owner_type": "post",
+  "owner_id": "b244b4e6-de55-47dd-b1ce-e67e811a1e6f",
+  "photo_fbid": "1391229006435775",
+  "position": 0,
+  "storage_uri": "media/assets/e0/73/e073f7900063f92e2a3382ffc386859d00b3dbd025d3b63329c9063b630ed510.jpg",
+  "sha256": "e073f7900063f92e2a3382ffc386859d00b3dbd025d3b63329c9063b630ed510",
+  "mime_type": "image/jpeg",
+  "file_size": 140746,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "17:12\nKiểm tra Điểm tín dụng CIC\nCreditinec\n625\nHạng 2 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 84% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n244 Triệu VNĐ\nDư nợ khoản vay\n8\nDu nợ thé tín dụng\n8\nĐông bộ dữ liệu CIC\nCreditinFo\nĐể xem các thôna tin bi khóa (&). ban cần\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 625,
+    "tier": 2,
+    "scoring_date": "21/08/2026",
+    "total_debt": "244 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "17:12\nKiểm tra Điểm tín dụng CIC\nCreditinec\n625\nHạng 2 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 84% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n244 Triệu VNĐ\nDư nợ khoản vay\n8\nDu nợ thé tín dụng\n8\nĐông bộ dữ liệu CIC\nCreditinFo\nĐể xem các thôna tin bi khóa (&). ban cần\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d63beccb-1dad-4965-91d4-19f084a2d671",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/794484835_122121180261311108_4645478625534769279_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1640&ctp=s720x1640&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG1Z3jjw-wUjPkgPLMgNl-DqDWYBakO0hGoNZgFqQ7SEebdQZ2k42TWhN0Luu_WFcSPC67wMs2H7vBZIWkO3z49&_nc_ohc=LJgrsI8JGF0Q7kNvwHRCD0g&_nc_oc=AdqJiTza2emCOKPZX25gPrW5tTyyiMZ9aqKicUCflg8kSq1U6wzYOSyQf_peLBdlork&_nc_zt=23&_nc_ht=scontent.fsgn5-8.fna&_nc_gid=qXLDBSKaWfsh-lt0iqRU7Q&_nc_ss=7b2a8&oh=00_AQILodgT70_OVWD0orWb03dve-SNVl8KekM4CGMmWr5boQ&oe=6ABB48CE",
+  "owner_type": "post",
+  "owner_id": "1f91cc2f-0998-4738-81b8-0607ebdc1cbb",
+  "photo_fbid": "122121180255311108",
+  "position": 0,
+  "storage_uri": "media/assets/60/e9/60e94c5dededbe723c694684e6895f92545c6c9747b26ac43b1877da3e4de818.jpg",
+  "sha256": "60e94c5dededbe723c694684e6895f92545c6c9747b26ac43b1877da3e4de818",
+  "mime_type": "image/jpeg",
+  "file_size": 106506,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiếm tra Điếm tín dụng CIC\nЦИВ\nCreditinFo\n523\nHạng 7 O\nNgày chấm: 22/07/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 13% khách hàng cá nhân\nkhác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí Bảo\nhiểm Sức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨN thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nCập nhật Điểm tháng mới\nE Miễn phí 1 lượt cập nhật mỗi năm\n0 VNĐ\n0 VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 523,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "< Kiếm tra Điếm tín dụng CIC\nЦИВ\nCreditinFo\n523\nHạng 7 O\nNgày chấm: 22/07/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 13% khách hàng cá nhân\nkhác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí Bảo\nhiểm Sức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨN thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nCập nhật Điểm tháng mới\nE Miễn phí 1 lượt cập nhật mỗi năm\n0 VNĐ\n0 VNĐ"
+  }
+}

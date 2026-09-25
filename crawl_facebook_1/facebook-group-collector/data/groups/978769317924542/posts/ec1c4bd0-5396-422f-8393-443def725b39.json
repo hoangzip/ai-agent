@@ -1,0 +1,30 @@
+{
+  "id": "ec1c4bd0-5396-422f-8393-443def725b39",
+  "facebook_post_id": "1117565084044964",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "67ed74e3-4d16-4737-acf3-7b1ceb476e38",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://web.facebook.com/groups/978769317924542/posts/1117565084044964",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-24T18:59:53.046290+00:00",
+  "updated_at": "2026-09-24T18:59:53.046290+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "9f040d32-0b9c-4fdd-a611-358b289f6c3c"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 611,
+    "tier": 3,
+    "total_debt": "1412 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "13:02\n< Kết quả điểm tín dụng từ CIC\n34\nSI Pay |\nChào LY VAN MINH, điểm tín dụng của bạn là\nTốt\n611\nĐiểm của bạn cao hơn 71% tổng khách hàng cá nhân được chấm\ntại CIC\nĐiểm tín dụng được chấm vào ngày 23-06-2026 và hiển thị\ntrên ShopeePay\nThông tin tín dụng\nQuan hệ tín dụng\nTổng dư nợ •\nTổng dư nợ khoản vay\nTổng dư nợ thẻ\nTổng nợ cần chú ý\nTổng nợ xấu\n1412 Triệu VNĐ\n1411 Triệu VNĐ\n1 Triệu VNĐ\nTổng số TCTD đang có quan hệ tín dụng\n4"
+  }
+}

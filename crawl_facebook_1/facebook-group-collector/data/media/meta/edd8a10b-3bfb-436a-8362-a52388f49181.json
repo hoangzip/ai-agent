@@ -1,0 +1,24 @@
+{
+  "id": "edd8a10b-3bfb-436a-8362-a52388f49181",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-3.xx.fbcdn.net/v/t39.30808-6/724362592_2210570549755835_6126119644388403893_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeESD6-iF467ekGXLmsLAwuOScMWOTZm6NVJwxY5Nmbo1ShkmfEicJprbfK3ao6xYa_XZts07gAxqwvg_Yf9T3S4&_nc_ohc=v8QGkKtCzdkQ7kNvwGj40NM&_nc_oc=Adr8Xj9KmYOKr9u_UI0aZ0ty8o12PPR6rMVPaOUYqxforVgAsGPvlcCTixL_X6w0ZHs&_nc_zt=23&_nc_ht=scontent-sin2-3.xx&_nc_gid=XHDsVjku55ZdatmU_5n6JA&_nc_ss=7b2a8&oh=00_AQJQtoUhZW6yolr3r3SAo7mc48KUAgO2ZDX7S4DyvMgtbg&oe=6ABBF82A",
+  "owner_type": "post",
+  "owner_id": "a496441d-c56b-4a09-88a9-20af4bd7a88f",
+  "photo_fbid": "2210570546422502",
+  "position": 0,
+  "storage_uri": "media/assets/ca/8c/ca8c3c5f35ef531a24c95953046c27b92dc67af823068c2da491f73ae6b4ea5a.jpg",
+  "sha256": "ca8c3c5f35ef531a24c95953046c27b92dc67af823068c2da491f73ae6b4ea5a",
+  "mime_type": "image/jpeg",
+  "file_size": 128052,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "07:02\n91\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n590\nHạng 4 0\nNgày chấm: 02/02/2026\nCao hơn 53% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHồ sơ tốt, bạn thuộc nhóm khách hàng uy tín\nCơ hội vay đến 100 triệu\nKiểm tra ngay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n590\n800\n600\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 590,
+    "tier": 4,
+    "scoring_date": "02/02/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "07:02\n91\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n590\nHạng 4 0\nNgày chấm: 02/02/2026\nCao hơn 53% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHồ sơ tốt, bạn thuộc nhóm khách hàng uy tín\nCơ hội vay đến 100 triệu\nKiểm tra ngay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n590\n800\n600\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

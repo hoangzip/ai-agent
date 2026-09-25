@@ -1,0 +1,22 @@
+{
+  "id": "ca5e03bf-c33b-4006-b9a1-959c518c4a11",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-2.xx.fbcdn.net/v/t39.30808-6/753924938_2470664970103964_1262068914266754836_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=XjJSWNu_-O4Q7kNvwFjA0Zc&_nc_oc=Adrcz3a7jx5xeiI6nD48khUgdfyXT3vFygpV78-1maJouVMBLSd8BAhf7PViD7yExpo&_nc_zt=23&_nc_ht=scontent-sin11-2.xx&_nc_gid=m0kxToA20poJNeeMhLB5JQ&_nc_ss=7b289&oh=00_AQKp3P_k9AlndMo2CjWIFYFNLun0Xc32QpwK0mxiTnra7A&oe=6ABBB38A",
+  "owner_type": "post",
+  "owner_id": "6c55db59-c689-469b-a046-babbc01ec965",
+  "photo_fbid": "2470664966770631",
+  "position": 0,
+  "storage_uri": "media/assets/48/dd/48ddd345b3ede7ece68ecacc043bab63ee3c5a181571ff2391c4e1380dea6285.jpg",
+  "sha256": "48ddd345b3ede7ece68ecacc043bab63ee3c5a181571ff2391c4e1380dea6285",
+  "mime_type": "image/jpeg",
+  "file_size": 102800,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Thông tin dư nợ\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n0 VNĐ\n0 VNĐ\n0 VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan\nhệ\nNợ cần chú ý O\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh tại\n0 VNĐ\nNợ xấu\nTổng nợ xấu\nNợ xấu gần nhất\nNhày nhát cinh\n0 VNĐ\n--\nO\n<",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "0 VNĐ",
+    "provider": "CIC",
+    "raw_text": "< Thông tin dư nợ\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n0 VNĐ\n0 VNĐ\n0 VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan\nhệ\nNợ cần chú ý O\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh tại\n0 VNĐ\nNợ xấu\nTổng nợ xấu\nNợ xấu gần nhất\nNhày nhát cinh\n0 VNĐ\n--\nO\n<"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5648dded-f31d-4ac3-b647-9be0aa544e32",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-2.xx.fbcdn.net/v/t39.30808-6/748597268_4318882805108442_1491831689652788313_n.jpg?stp=dst-jpg_tt6&cstp=mx442x960&ctp=s442x960&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=7OfWx04HorgQ7kNvwEPJThd&_nc_oc=AdoGRIlG1CqBjuhd6iO8nR0Mw46MrAVdkjhjEKYzBSHErhKDKBtq4hXOJCTot_e_i-8&_nc_zt=23&_nc_ht=scontent-sin11-2.xx&_nc_gid=9SAPGUlxxIEMQS47pXXbSw&_nc_ss=7b289&oh=00_AQJ9tjG-JG5esILN3xO5mKn5ynT7-44ukC90n9DGqQAWfw&oe=6ABBBBC9",
+  "owner_type": "post",
+  "owner_id": "12a5f344-5b5d-413e-b5bb-c34290f5ac93",
+  "photo_fbid": "4318882798441776",
+  "position": 0,
+  "storage_uri": "media/assets/99/06/9906cd759d8bf962c4a81785fe780b8fdd34a924c325d45b0bf37666d3ed6eb8.jpg",
+  "sha256": "9906cd759d8bf962c4a81785fe780b8fdd34a924c325d45b0bf37666d3ed6eb8",
+  "mime_type": "image/jpeg",
+  "file_size": 48289,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "16:24 41\nal 5\nKiểm tra Điểm tín dụng CIC\n491\nHạng 7 ®\nNgày chấm: 22/03/2026\nCao hơn 10% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\n& Hôm nay có gì mới\nQuyền lợi Điểm MoMo đã có\nBạn có tài chính Hạng Cơ Bàn\nVào nhận quyền lợi ngay nhé\nNhận ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n491\n800\n600\n400\nĐề xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 491,
+    "tier": 7,
+    "scoring_date": "22/03/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "16:24 41\nal 5\nKiểm tra Điểm tín dụng CIC\n491\nHạng 7 ®\nNgày chấm: 22/03/2026\nCao hơn 10% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\n& Hôm nay có gì mới\nQuyền lợi Điểm MoMo đã có\nBạn có tài chính Hạng Cơ Bàn\nVào nhận quyền lợi ngay nhé\nNhận ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n491\n800\n600\n400\nĐề xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

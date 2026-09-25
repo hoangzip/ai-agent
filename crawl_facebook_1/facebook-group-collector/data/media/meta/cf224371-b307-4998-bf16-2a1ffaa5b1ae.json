@@ -1,0 +1,23 @@
+{
+  "id": "cf224371-b307-4998-bf16-2a1ffaa5b1ae",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/749330506_122118500043212401_7299358996182382671_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx602x960&ctp=s602x960&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=0akRUQS4escQ7kNvwFhfzpG&_nc_oc=Adq8rtjHo7zpwmGqx2huvWmqyPXtzM6ZLHHfVwPKhRZ0VIyWrOI_Ec14WEOA8E54Puk&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=Usca4ajv09p6fSNGALfUmQ&_nc_ss=7b289&oh=00_AQIjvTGtWGsiUaT64K7U_Pi5GsaCCn2Ma_l2i7SDo1tMmg&oe=6ABB9069",
+  "owner_type": "post",
+  "owner_id": "8a01ad94-f658-4d78-88a4-21a496800356",
+  "photo_fbid": "122118500031212401",
+  "position": 0,
+  "storage_uri": "media/assets/31/1b/311b1cddfcb6bfb04966df4ab0b02d4352db1bd30bc07ae14f5c9f20e3d5d01d.jpg",
+  "sha256": "311b1cddfcb6bfb04966df4ab0b02d4352db1bd30bc07ae14f5c9f20e3d5d01d",
+  "mime_type": "image/jpeg",
+  "file_size": 61992,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\n1nl\n6/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n2 Hiện thông tin\nTheo dữ liệu tính đến ngày chấm 23/06/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCiCB\nCroditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC sang\ntài khoản MoMo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "23/06/2026",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\n1nl\n6/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n2 Hiện thông tin\nTheo dữ liệu tính đến ngày chấm 23/06/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCiCB\nCroditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC sang\ntài khoản MoMo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo."
+  }
+}

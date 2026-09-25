@@ -1,0 +1,23 @@
+{
+  "id": "1fe6322b-ffb3-4ba8-b8fe-3e28e6c438dd",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/740769964_1748173046314129_6659549695345853161_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1640&ctp=s720x1640&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=0ipPoJkNm_cQ7kNvwFVcwKG&_nc_oc=AdqPDZb9Pe-gaBr4ng3VrmhzVFrxjzsReDsr_Nnz39clxMgwkFvGuCusGd6LyJ-87s4&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=xgRzxMtBzhu9tmYN-ZxN5Q&_nc_ss=7b289&oh=00_AQKqAx6dt5w-DgGlrxDW1EA6xN5Js-v8pCdxYKvjfLpBXA&oe=6ABB9D4E",
+  "owner_type": "post",
+  "owner_id": "ac1085a0-cd54-48e2-9657-b80bf324c707",
+  "photo_fbid": "1748173042980796",
+  "position": 0,
+  "storage_uri": "media/assets/61/db/61dbf0cc592ed9c77b90e9ca07fde846b5905dd12da61f85eab9006a968e4482.jpg",
+  "sha256": "61dbf0cc592ed9c77b90e9ca07fde846b5905dd12da61f85eab9006a968e4482",
+  "mime_type": "image/jpeg",
+  "file_size": 90409,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\nbạn không có nợ xâu hoặc nợ cân chú ý. Tiêp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\n31 Triệu VNĐ\nDư nợ khoản vay\n8\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn\ncần thực hiện đồng bộ dữ liệu tín dụng từ\nCIC sang tài khoản MoMo\nĐồng bộ dữ liệu CIC\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trả Sau\nDùng mỗi tháng\nĐể xem các thông tin bị khóa (B), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "31 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\nbạn không có nợ xâu hoặc nợ cân chú ý. Tiêp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\n31 Triệu VNĐ\nDư nợ khoản vay\n8\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn\ncần thực hiện đồng bộ dữ liệu tín dụng từ\nCIC sang tài khoản MoMo\nĐồng bộ dữ liệu CIC\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trả Sau\nDùng mỗi tháng\nĐể xem các thông tin bị khóa (B), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2d472b76-b419-4c1e-8010-345ee228e939",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/773995589_1398555855572837_667173129306396402_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGff9wKKrgkEajj8zbIVFQ2GsrxaQRjh7wayvFpBGOHvM-fOJhl8wWzhgta_7iLlz3l5zqsqCTBPaZeiwvDVm5J&_nc_ohc=LaYHympb5xIQ7kNvwH72fFD&_nc_oc=AdoMJBPyJr0JOve4bnk_ngR6x7Xk9jEs5UMV43HpIn1XetP2K0Q4pIivALiAyGX0o7s&_nc_zt=23&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=1IsXiduUn2Y844KN8CceQQ&_nc_ss=7b2a8&oh=00_AQIMdKSd1N30KgzRTh4NrpkpYdlxVzuQRcpQtpY0sH8gLQ&oe=6ABB7736",
+  "owner_type": "post",
+  "owner_id": "4d182d32-ef4a-4215-b709-678f081fd972",
+  "photo_fbid": "1398555848906171",
+  "position": 0,
+  "storage_uri": "media/assets/cc/b3/ccb3cfd49b605c4d5fd220c9d0704338663e418532bfea3f588d0b6e9f4e1162.jpg",
+  "sha256": "ccb3cfd49b605c4d5fd220c9d0704338663e418532bfea3f588d0b6e9f4e1162",
+  "mime_type": "image/jpeg",
+  "file_size": 120784,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "20:18\n14G |44\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n588\nHạng 4 Đ\nNgày chấm: 22/07/2026\nCao hơn 48% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n--\n--\nVị thế tài chính tháng này\nKhám phá toàn cảnh",
+  "cic_data": {
+    "is_cic": true,
+    "score": 588,
+    "tier": 4,
+    "scoring_date": "22/07/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "20:18\n14G |44\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n588\nHạng 4 Đ\nNgày chấm: 22/07/2026\nCao hơn 48% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n--\n--\nVị thế tài chính tháng này\nKhám phá toàn cảnh"
+  }
+}

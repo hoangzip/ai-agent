@@ -1,0 +1,24 @@
+{
+  "id": "c8305dc3-3666-46f5-bd61-5a9862acc7a5",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/751294744_1788915389208310_2480631164030370622_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=iVVUrOKZr-wQ7kNvwEYxPul&_nc_oc=AdrFdxWtwKy6K6sxaWWVqGFqNCQ4_gikyATZGxEYK3luvmidSFb7O4R6vZhSM_mveZw&_nc_zt=23&_nc_ht=scontent-sin6-2.xx&_nc_gid=be8llSK6ZmWYwfEPdby4og&_nc_ss=7b289&oh=00_AQKemYOfx3eLr9BgvFKnBmSODO39VK1FmZzAnVTNAG2AIw&oe=6ABBC039",
+  "owner_type": "post",
+  "owner_id": "3dcabb34-2004-4668-ba91-210cc36922d4",
+  "photo_fbid": "1788915385874977",
+  "position": 0,
+  "storage_uri": "media/assets/b9/43/b943ca71a4d7c7a5247c2f9103a8bbfbdd675336d9366c071ac46f5a6fdaf881.jpg",
+  "sha256": "b943ca71a4d7c7a5247c2f9103a8bbfbdd675336d9366c071ac46f5a6fdaf881",
+  "mime_type": "image/jpeg",
+  "file_size": 171850,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "14:04\nKiểm tra Điểm tín dụng CIC\nVo 0\n* LEa nI mill 75\nCreditinFo\n622\nHạng 2 0\nNgày chấm: 26/01/2026\nCao hơn 82% khách hàng cá nhân khác\nChia sẻ &>\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nNhận ngay >\n4\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n622\n900\nĐể xem các thông tin bị khóa (&), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 622,
+    "tier": 2,
+    "scoring_date": "26/01/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "14:04\nKiểm tra Điểm tín dụng CIC\nVo 0\n* LEa nI mill 75\nCreditinFo\n622\nHạng 2 0\nNgày chấm: 26/01/2026\nCao hơn 82% khách hàng cá nhân khác\nChia sẻ &>\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nNhận ngay >\n4\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n622\n900\nĐể xem các thông tin bị khóa (&), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

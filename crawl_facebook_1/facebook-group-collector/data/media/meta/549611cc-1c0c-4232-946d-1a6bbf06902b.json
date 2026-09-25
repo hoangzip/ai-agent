@@ -1,0 +1,26 @@
+{
+  "id": "549611cc-1c0c-4232-946d-1a6bbf06902b",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/802243812_2388107248662524_7217197572916673539_n.jpg?stp=dst-jpg_tt6&cstp=mx944x2046&ctp=s944x2046&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEPja9ITZY3oYTqpi6Cn-P2UopmAP76-klSimYA_vr6SaCd6j0HaUBX5f6oqIiSF4wWvf6hd806Z2X3IPrz5bY7&_nc_ohc=FxcH9hzTVPEQ7kNvwGve08g&_nc_oc=AdrUIlhozCbLKEI7WAgqWZKNjnF7lnAWN1fW1VSWgBfzhIUJKw2TJBsHwhH24230UbE&_nc_zt=23&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=qEh8-kziBdsL6KrLy2zlKA&_nc_ss=7b2a8&oh=00_AQIeS8TcbZqsWXFLpM-UCmMZMM9iLK4xP1p5vz-xCqpS4Q&oe=6ABB45D5",
+  "owner_type": "post",
+  "owner_id": "e789f1d7-3a78-4fa2-8fb3-50cad382ebe5",
+  "photo_fbid": "2388107245329191",
+  "position": 0,
+  "storage_uri": "media/assets/ea/43/ea4353c3486746fcc86951c786c4b8a3413edddaf697fce0a76555b76a709e17.jpg",
+  "sha256": "ea4353c3486746fcc86951c786c4b8a3413edddaf697fce0a76555b76a709e17",
+  "mime_type": "image/jpeg",
+  "file_size": 111579,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "12:30\nKiểm tra Điểm tín dụng CIC\n93\nCiCB\nCreditinFo\n538\nHạng 7 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 15% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nL Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n89 Triệu VNĐ\nDư nợ khoản vay\n--\nDư nợ thẻ tín dụng\n--\nVi thế tài chính thá...",
+  "cic_data": {
+    "is_cic": true,
+    "score": 538,
+    "tier": 7,
+    "scoring_date": "21/08/2026",
+    "total_debt": "89 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "12:30\nKiểm tra Điểm tín dụng CIC\n93\nCiCB\nCreditinFo\n538\nHạng 7 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 15% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nL Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n89 Triệu VNĐ\nDư nợ khoản vay\n--\nDư nợ thẻ tín dụng\n--\nVi thế tài chính thá..."
+  }
+}

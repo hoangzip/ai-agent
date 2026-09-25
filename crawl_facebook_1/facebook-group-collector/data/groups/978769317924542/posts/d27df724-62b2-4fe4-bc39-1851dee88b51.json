@@ -1,0 +1,29 @@
+{
+  "id": "d27df724-62b2-4fe4-bc39-1851dee88b51",
+  "facebook_post_id": "1056843466783793",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "4cff8298-4435-4e7d-bd09-6394df0fba02",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/groups/978769317924542/permalink/1056843466783793",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-25T02:36:34.421169+00:00",
+  "updated_at": "2026-09-25T04:39:44.313869+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "b9ef8919-023b-4d37-b4ad-72c2efb0d200"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "22/03/2026",
+    "total_debt": "49 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "10:10\n< Thông tin dư nợ\n® Ân thông tin\nThông tin dư\nTheo dữ liệu tính đến ngày chấm 22/03/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTông dư nợ\n49 Triệu VNĐ\nDư nợ khoản vay\n48 Triệu VNĐ\nDư nợ thẻ tín dụng\n1 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ 3\nNợ cần chú ý O\nTổng nợ cần chú ý\n0 VNĐ\nNợ cần chú ý gần nhất\nNgày phát sinh\n--\nPhát sinh tại\n--\nNợ xấu (\nTổng nợ xấu\n0 VNĐ"
+  }
+}

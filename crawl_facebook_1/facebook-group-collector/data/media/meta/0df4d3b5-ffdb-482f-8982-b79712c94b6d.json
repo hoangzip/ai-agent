@@ -1,0 +1,25 @@
+{
+  "id": "0df4d3b5-ffdb-482f-8982-b79712c94b6d",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-7.fna.fbcdn.net/v/t39.30808-6/790457636_122275821620082286_2164240321259613207_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEsERWyNbph_Z1bqjOzeKC0u_N7GEH4NcK783sYQfg1wntQAYtxutqeekg-TtRoeTgp3Z5gVWoUTCpLloXfmDDI&_nc_ohc=SbVVcHLsL-QQ7kNvwGY2ZzY&_nc_oc=AdpI0d915nE4VqeNeCiXYpqZNE5ShtuCyfwUSrTnwursa_FzhCQkIQfQwjwvgaVlECs&_nc_zt=23&_nc_ht=scontent.fsgn5-7.fna&_nc_gid=V3RbKecYW7yvij19cYB-nQ&_nc_ss=7b2a8&oh=00_AQLyLkSBPFy6ZobSe7-2Fax_pbTysYamyj_im6IFM0361w&oe=6ABB530C",
+  "owner_type": "post",
+  "owner_id": "b2fee2ed-17c8-411e-86ad-53878d67c3b1",
+  "photo_fbid": "122275821614082286",
+  "position": 0,
+  "storage_uri": "media/assets/00/fa/00fac458b0006de12aaefd31fdad2b41ed740397ce38ed4901a2b1f51fa12ef8.jpg",
+  "sha256": "00fac458b0006de12aaefd31fdad2b41ed740397ce38ed4901a2b1f51fa12ef8",
+  "mime_type": "image/jpeg",
+  "file_size": 140455,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "23:26\n< Kiểm tra Điểm tín dụng CIC\nJ4J\nHạng 6 O\nNgày chấm: 17/06/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 18% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 17/06/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n11 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực\nhiện đồng bộ dữ liệu tín dụng từ CIC sang tài\nkhoản MoMo\nĐồng bộ dữ liệu CIC\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 6,
+    "scoring_date": "17/06/2026",
+    "total_debt": "11 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "23:26\n< Kiểm tra Điểm tín dụng CIC\nJ4J\nHạng 6 O\nNgày chấm: 17/06/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 18% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 17/06/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n11 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực\nhiện đồng bộ dữ liệu tín dụng từ CIC sang tài\nkhoản MoMo\nĐồng bộ dữ liệu CIC\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

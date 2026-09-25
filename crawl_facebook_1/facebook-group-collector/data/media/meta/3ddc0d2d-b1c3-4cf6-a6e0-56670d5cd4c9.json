@@ -1,0 +1,23 @@
+{
+  "id": "3ddc0d2d-b1c3-4cf6-a6e0-56670d5cd4c9",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-2.xx.fbcdn.net/v/t39.30808-6/733955943_2495531227616070_8431598084418184567_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx443x960&ctp=s443x960&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHhKx11W2oQIuWy4852KDxKy75MssSSFhLLvkyyxJIWEgKhtIVxH67M5T-hKQWN629cZuHBDG4oyfft0vUhkb_Z&_nc_ohc=oMKF6MwGaekQ7kNvwFBycuJ&_nc_oc=Adq7Sn2WwVYk6zSwbJQNQOfxFwcFS8_d0Y4Xi6bV_jd1DvAwH4QWve_gpfpphapa4iU&_nc_zt=23&_nc_ht=scontent-sin2-2.xx&_nc_gid=muocqod5YmWZYtaobva-3Q&_nc_ss=7b2a8&oh=00_AQJy8UBAWmdEVPN2vXYzQz5L2FcqsMZNoPLu7hvts2bjIw&oe=6ABBC148",
+  "owner_type": "post",
+  "owner_id": "2400d1d6-0667-45e9-9244-c5a319f38fe8",
+  "photo_fbid": "2495531224282737",
+  "position": 0,
+  "storage_uri": "media/assets/62/69/626936ebbe715202db465c7d55aa6ad1daf7c6655ad2be9fe8551b269f12c8d5.jpg",
+  "sha256": "626936ebbe715202db465c7d55aa6ad1daf7c6655ad2be9fe8551b269f12c8d5",
+  "mime_type": "image/jpeg",
+  "file_size": 48795,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "07:28\n< Kiểm tra Điểm tín dụng CIC\n••l LTE 48\n12/2025\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ẩn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCICB\nĐồng bộ dữ liệu CIC\nCreditinFo\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC\nsang tài khoản MoMo\nĐồng bộ dữ liệu CIC\n0 VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "31/12/2025",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "07:28\n< Kiểm tra Điểm tín dụng CIC\n••l LTE 48\n12/2025\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ẩn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCICB\nĐồng bộ dữ liệu CIC\nCreditinFo\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC\nsang tài khoản MoMo\nĐồng bộ dữ liệu CIC\n0 VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

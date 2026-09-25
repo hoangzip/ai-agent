@@ -1,0 +1,26 @@
+{
+  "id": "b16990b5-70a6-4428-8a87-32cf49829aa1",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/788640047_1112376351456045_2970784161261610786_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEIzOI0F6fCZ1MSel5844bnsxq-bMdh_AmzGr5sx2H8CdyxusPoKlUk-6eRoRtYMr_mhuufccnZ6g26W5wAUOF-&_nc_ohc=Gc_k3ic1wDAQ7kNvwE7_7YB&_nc_oc=Adr8GyMwNWLyiUcTqWjP3XQBNayBfm6CLg69iHBWG-TuX7V463fTsqVGCJqAd0ReIuw&_nc_zt=23&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=wWECo4qcGTSQcEQNTHQGgg&_nc_ss=7b2a8&oh=00_AQJSEdqv17mQB3skrTlrRW9AG_2H4yDepsJuvxSwvGAaUw&oe=6ABB47AE",
+  "owner_type": "post",
+  "owner_id": "bafb3f56-143a-4915-92b4-174dca74b5fb",
+  "photo_fbid": "1112376344789379",
+  "position": 0,
+  "storage_uri": "media/assets/bc/d2/bcd2b019dcf756ba127d41c9cef713a29c5e3d691ca36c20dcc515cca380d34b.jpg",
+  "sha256": "bcd2b019dcf756ba127d41c9cef713a29c5e3d691ca36c20dcc515cca380d34b",
+  "mime_type": "image/jpeg",
+  "file_size": 138479,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "22:12\nKiểm tra Điểm tín dụng CIC\n6Pg\nCiCB\nCreditinFo\n444\nHạng 9 O\nNgày chấm: 26/01/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 1% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n43 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐổ vam rán thông tin hi khóa (A) han rần\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 444,
+    "tier": 9,
+    "scoring_date": "26/01/2026",
+    "total_debt": "43 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "22:12\nKiểm tra Điểm tín dụng CIC\n6Pg\nCiCB\nCreditinFo\n444\nHạng 9 O\nNgày chấm: 26/01/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 1% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n43 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐổ vam rán thông tin hi khóa (A) han rần\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

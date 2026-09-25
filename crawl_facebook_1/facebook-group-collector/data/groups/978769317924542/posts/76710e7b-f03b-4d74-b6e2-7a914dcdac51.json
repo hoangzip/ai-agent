@@ -1,0 +1,29 @@
+{
+  "id": "76710e7b-f03b-4d74-b6e2-7a914dcdac51",
+  "facebook_post_id": "1057001676767972",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "0cbc4b84-d96d-4867-89fc-a2fb24dd739c",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/groups/978769317924542/posts/1057001676767972",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-08T00:00:00+00:00",
+  "created_at": "2026-09-25T02:35:18.432330+00:00",
+  "updated_at": "2026-09-25T04:04:59.638581+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "ae38c670-f78c-45e2-ba47-e3a842eaf564"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 550,
+    "tier": 6,
+    "scoring_date": "08/07/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "14:31\n•I14G\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n550\nHạng 6 C\nNgày chấm: 08/07/2026\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n550\n850\n680\n510\n340"
+  }
+}

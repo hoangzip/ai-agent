@@ -1,0 +1,23 @@
+{
+  "id": "07d6ae5d-0a1b-43ca-981e-921863ab5489",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/738668020_920547514391532_3402110419066523953_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1640&ctp=s720x1640&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ZxEFhcwunhsQ7kNvwFUa5xS&_nc_oc=Adon--LJEaN9RpVPZFbe1DVGRbKNNUipSOqXM6-f636aPosZw9IINhpx8xpfJGcF88w&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=j7_b4K68m-aeV0iaCf3LEQ&_nc_ss=7b289&oh=00_AQKSsPj1qisnxwriia6XEixr2fC8q4nMxS_EErMiRHb85g&oe=6ABB9FD1",
+  "owner_type": "post",
+  "owner_id": "84ef6397-ddeb-4017-b28b-089ccd7a727e",
+  "photo_fbid": "920547511058199",
+  "position": 0,
+  "storage_uri": "media/assets/ff/b4/ffb41b3b5d2267a85b0d27aa5d478dbe6c7ad5a3d69cdbce9c301820af6e10be.jpg",
+  "sha256": "ffb41b3b5d2267a85b0d27aa5d478dbe6c7ad5a3d69cdbce9c301820af6e10be",
+  "mime_type": "image/jpeg",
+  "file_size": 66374,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Thông tin dư nợ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan\nhệ\nNợ cần chú ý O\nTổng nợ cần chú ý\n0 1\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh tại\nNợ xấu\nTổng nợ xấu\n5 Triệu \\\n•..\nNợ xấu gần nhất\nNgày phát sinh\nPhát sinh\ntại\n31/01/2026\nNgân hàng TMCP Việt Nam\nThịnh Vượng\nTài sản đảm bảo",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "5 Triệu",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "< Thông tin dư nợ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan\nhệ\nNợ cần chú ý O\nTổng nợ cần chú ý\n0 1\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh tại\nNợ xấu\nTổng nợ xấu\n5 Triệu \\\n•..\nNợ xấu gần nhất\nNgày phát sinh\nPhát sinh\ntại\n31/01/2026\nNgân hàng TMCP Việt Nam\nThịnh Vượng\nTài sản đảm bảo"
+  }
+}

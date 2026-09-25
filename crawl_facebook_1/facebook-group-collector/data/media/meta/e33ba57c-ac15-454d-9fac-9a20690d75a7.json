@@ -1,0 +1,26 @@
+{
+  "id": "e33ba57c-ac15-454d-9fac-9a20690d75a7",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-21.fna.fbcdn.net/v/t39.30808-6/805752579_1791201808746739_2569072617238496302_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEcCh8Uiz1-CppU5voxqgM-T2eLO4V2k05PZ4s7hXaTTrJjdnXEQqAZEryz1KH09Yppx7wOY87TwdQytXkC_YD5&_nc_ohc=hEmQxO0LTEgQ7kNvwEB1ltp&_nc_oc=AdqrJmlN-QRhHcGa2Ye7uh8__CRV9fNAS1MrysExHtwXYEL62Lq67OvSqmWP1aixI5k&_nc_zt=23&_nc_ht=scontent.fsgn5-21.fna&_nc_gid=YBb6Hoo7Zx-Yjflcx1wsmQ&_nc_ss=7b2a8&oh=00_AQJ8rOlIp8y1hI4Ya-iNfFDNB09xh0VPBKFWMylZxHhFbQ&oe=6ABB50B8",
+  "owner_type": "post",
+  "owner_id": "c0967123-c66a-43b3-8f4f-91ff934a3004",
+  "photo_fbid": "1791201805413406",
+  "position": 0,
+  "storage_uri": "media/assets/b4/78/b47835767f8a5b6ed11f0cc248a906b5c340080d506a46d5740f0295dfc6ac39.jpg",
+  "sha256": "b47835767f8a5b6ed11f0cc248a906b5c340080d506a46d5740f0295dfc6ac39",
+  "mime_type": "image/jpeg",
+  "file_size": 147072,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "17:11\n•l =\n98\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n607\nHạng 4 O\nNgày chấm: 29/05/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 68% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí Bảo hiểm\nSức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 29/05/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n76 Triệu VNĐ\nCập nhật Điểm tháng mới\n- Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 607,
+    "tier": 4,
+    "scoring_date": "29/05/2026",
+    "total_debt": "76 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "17:11\n•l =\n98\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n607\nHạng 4 O\nNgày chấm: 29/05/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 68% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí Bảo hiểm\nSức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 29/05/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n76 Triệu VNĐ\nCập nhật Điểm tháng mới\n- Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

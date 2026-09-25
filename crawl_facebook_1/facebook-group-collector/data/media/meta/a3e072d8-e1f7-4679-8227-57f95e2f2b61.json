@@ -1,0 +1,25 @@
+{
+  "id": "a3e072d8-e1f7-4679-8227-57f95e2f2b61",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/743699930_122156890328988406_8543804049905278708_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_dZLhLzOIiAQ7kNvwFsXMBB&_nc_oc=AdrrY_RhlHiIqdrY0K2x-7PLnn_Gv-9GOl4lEvQ0k4ZwCeIMdIZMnLWhSqOHBdl1Q0g&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=UqUYKKD3HOSyaApl0w5OIg&_nc_ss=7b289&oh=00_AQJSahsdruxl0rJsvMymzQxMEmTAEqp98ofbDk7GLGb9-w&oe=6ABBC269",
+  "owner_type": "post",
+  "owner_id": "4714176a-45c1-4d5f-8c31-5d69afd4468a",
+  "photo_fbid": "122156890322988406",
+  "position": 0,
+  "storage_uri": "media/assets/9b/9b/9b9bccfd6210c8bc9052216c704d293d45c08fe7ba8609cc834dcfedf2c7d527.jpg",
+  "sha256": "9b9bccfd6210c8bc9052216c704d293d45c08fe7ba8609cc834dcfedf2c7d527",
+  "mime_type": "image/jpeg",
+  "file_size": 107834,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "01:38\n184\nKiểm tra Điểm tín dụng CIC\nCreditinF\n624\nHạng 2 O\nNgày chấm: 23/04/2026\nCao hơn 82% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC của bạn đang tốt\nBạn có thể tiếp cận khoản vay đến\n100 triệu trên MoMo đấy\nKiểm tra >\n1/3\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n624\n900\n600\n300\n0\n4/2026",
+  "cic_data": {
+    "is_cic": true,
+    "score": 624,
+    "tier": 2,
+    "scoring_date": "23/04/2026",
+    "total_debt": "100 triệu",
+    "provider": "MoMo / CIC",
+    "raw_text": "01:38\n184\nKiểm tra Điểm tín dụng CIC\nCreditinF\n624\nHạng 2 O\nNgày chấm: 23/04/2026\nCao hơn 82% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC của bạn đang tốt\nBạn có thể tiếp cận khoản vay đến\n100 triệu trên MoMo đấy\nKiểm tra >\n1/3\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n624\n900\n600\n300\n0\n4/2026"
+  }
+}

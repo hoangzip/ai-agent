@@ -1,0 +1,24 @@
+{
+  "id": "6a3cf327-1b75-4b89-a79e-89416942d2c5",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/727884431_122137389855127322_6741047340022735337_n.jpg?stp=dst-jpg_tt6&cstp=mx442x960&ctp=s442x960&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHcp1ycxTVD9V9Lxyx-Uv8FhdIevwUIcHuF0h6_BQhwe--XznAwM5pGmwmPgEzof42MXuZ_AgunRo6ppTD6-leu&_nc_ohc=aQcMQm9kqVEQ7kNvwEpYy67&_nc_oc=Adru2xJtqYVQHEd9OcXU0O3yQwHo9XwSo0eNSBIAtcdqRzRSD0kUO8UylyTuXqFiA2g&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=O8ZjVNDYKrBgsXoMeRJa3g&_nc_ss=7b2a8&oh=00_AQLgftm7GpY8h65pwAVWGp-QIltJ5F6UgTdE-wd32HOAqA&oe=6ABBE549",
+  "owner_type": "post",
+  "owner_id": "2702e4d3-c9db-443b-b105-2e53917ba0d9",
+  "photo_fbid": "122137389849127322",
+  "position": 0,
+  "storage_uri": "media/assets/6c/fd/6cfd61b928889d69672ed7843a86432391db331a513285da47b4347670b1721f.jpg",
+  "sha256": "6cfd61b928889d69672ed7843a86432391db331a513285da47b4347670b1721f",
+  "mime_type": "image/jpeg",
+  "file_size": 39398,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "12:424\nKiểm tra Điểm tín dụng CIC\nI Gr\n577\nHạng 5 0\nNgày chấm: 29/05/2026\n• Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 40% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nTOOR\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay •\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n577\n800\n600\n400\n200",
+  "cic_data": {
+    "is_cic": true,
+    "score": 577,
+    "tier": 5,
+    "scoring_date": "29/05/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "12:424\nKiểm tra Điểm tín dụng CIC\nI Gr\n577\nHạng 5 0\nNgày chấm: 29/05/2026\n• Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 40% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nTOOR\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay •\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n577\n800\n600\n400\n200"
+  }
+}

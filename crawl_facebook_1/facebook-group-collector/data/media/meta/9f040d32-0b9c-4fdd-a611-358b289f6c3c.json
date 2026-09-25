@@ -1,0 +1,25 @@
+{
+  "id": "9f040d32-0b9c-4fdd-a611-358b289f6c3c",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/805831604_1763808164862716_4023954024673498519_n.jpg?stp=dst-jpg_tt6&cstp=mx943x2048&ctp=s943x2048&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFuv8JgO_MLVpZx7L5SGU0N34guAmddT8zfiC4CZ11PzAwYFa1-wcVB9A4MgEExJnyCEn_nrK_k7Z-AM8srbLrz&_nc_ohc=CPvOpq1Ypa4Q7kNvwHSI2kj&_nc_oc=Adp5ZvfdSakXsn6t0lzFlNgIWRFftbENFg9v9-Uixq7S5bPAO15_rHTre73Li5jqq1o&_nc_zt=23&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=KqrGjL3OV-dH2pW5B8gSrA&_nc_ss=7b2a8&oh=00_AQI29Slsc32JBmrayX-ddKWBiri24_8E1Vya0b0ZHvv_Dw&oe=6ABB591A",
+  "owner_type": "post",
+  "owner_id": "ec1c4bd0-5396-422f-8393-443def725b39",
+  "photo_fbid": "1763808154862717",
+  "position": 0,
+  "storage_uri": "media/assets/43/ca/43ca62eb99a43a40f6393b89845b86bfcae8706dbe21c7621d1584d07a70622e.jpg",
+  "sha256": "43ca62eb99a43a40f6393b89845b86bfcae8706dbe21c7621d1584d07a70622e",
+  "mime_type": "image/jpeg",
+  "file_size": 114964,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "13:02\n< Kết quả điểm tín dụng từ CIC\n34\nSI Pay |\nChào LY VAN MINH, điểm tín dụng của bạn là\nTốt\n611\nĐiểm của bạn cao hơn 71% tổng khách hàng cá nhân được chấm\ntại CIC\nĐiểm tín dụng được chấm vào ngày 23-06-2026 và hiển thị\ntrên ShopeePay\nThông tin tín dụng\nQuan hệ tín dụng\nTổng dư nợ •\nTổng dư nợ khoản vay\nTổng dư nợ thẻ\nTổng nợ cần chú ý\nTổng nợ xấu\n1412 Triệu VNĐ\n1411 Triệu VNĐ\n1 Triệu VNĐ\nTổng số TCTD đang có quan hệ tín dụng\n4",
+  "cic_data": {
+    "is_cic": true,
+    "score": 611,
+    "tier": 3,
+    "total_debt": "1412 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "13:02\n< Kết quả điểm tín dụng từ CIC\n34\nSI Pay |\nChào LY VAN MINH, điểm tín dụng của bạn là\nTốt\n611\nĐiểm của bạn cao hơn 71% tổng khách hàng cá nhân được chấm\ntại CIC\nĐiểm tín dụng được chấm vào ngày 23-06-2026 và hiển thị\ntrên ShopeePay\nThông tin tín dụng\nQuan hệ tín dụng\nTổng dư nợ •\nTổng dư nợ khoản vay\nTổng dư nợ thẻ\nTổng nợ cần chú ý\nTổng nợ xấu\n1412 Triệu VNĐ\n1411 Triệu VNĐ\n1 Triệu VNĐ\nTổng số TCTD đang có quan hệ tín dụng\n4"
+  }
+}

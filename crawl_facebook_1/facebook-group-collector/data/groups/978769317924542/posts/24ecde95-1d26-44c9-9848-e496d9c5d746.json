@@ -1,0 +1,29 @@
+{
+  "id": "24ecde95-1d26-44c9-9848-e496d9c5d746",
+  "facebook_post_id": "2073351230222802",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "6afbeae1-2b7d-4de2-ae81-e1fdfd559518",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2073351230222802&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-25T05:59:46.864608+00:00",
+  "updated_at": "2026-09-25T05:59:46.864608+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "b23185a1-0ffc-416b-be91-fbdb84ab41b7"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 598,
+    "tier": 4,
+    "scoring_date": "23/04/2026",
+    "provider": "CIC",
+    "raw_text": "Điểm tín dụng:\n598\nHạng:\n4\nNgày chấm điểm:\n23/04/2026\nXếp hạng của\nkhách hàng\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiểm tín dụng của khách hàng ca\nhơn điểm tín dụng của 59% tồn\n50%\nkhách hàng cá nhân được chấm điển\ntại kho dữ liệu CIC.\n0%"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c798cad7-84ff-48e7-9a3a-78403c9acb24",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-1.xx.fbcdn.net/v/t39.30808-6/738368177_2103149180605929_1168182778518750929_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1152x2048&ctp=s1152x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=kunBmriykvMQ7kNvwGzVzT0&_nc_oc=Adqi25d7QSVy45Yug392aI90qRRVIwHcxiRFLRQvKP6u7WjotbGU4HaLPhPjo-ccpWs&_nc_zt=23&_nc_ht=scontent-sin11-1.xx&_nc_gid=5SbnR34Uxw5-ogPIinvfTQ&_nc_ss=7b289&oh=00_AQLI0X-oEOIT2BZAfIuGaTUxWubxqCU8pSCIFeLX08rKzQ&oe=6ABBBC4A",
+  "owner_type": "post",
+  "owner_id": "bd244c1e-72b0-4b65-82d0-1888e935a8b1",
+  "photo_fbid": "2103149177272596",
+  "position": 0,
+  "storage_uri": "media/assets/60/90/609034e19fed650f5a693328072a837f4483ea47bdd0470d7e086e0d328c6db6.jpg",
+  "sha256": "609034e19fed650f5a693328072a837f4483ea47bdd0470d7e086e0d328c6db6",
+  "mime_type": "image/jpeg",
+  "file_size": 114360,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "MobiFone 4G\n09:27\nKiểm tra Điểm tín dụng CIC\n@\nAü 72%-\nCiCB\nCreditinFo\n572\nHạng 5\nNgày chấm: 23/04/2026\nCao hơn 18% khách hàng cá nhân khác\nChia sé\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n800\n600\n400\n200",
+  "cic_data": {
+    "is_cic": true,
+    "score": 572,
+    "tier": 5,
+    "scoring_date": "23/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "MobiFone 4G\n09:27\nKiểm tra Điểm tín dụng CIC\n@\nAü 72%-\nCiCB\nCreditinFo\n572\nHạng 5\nNgày chấm: 23/04/2026\nCao hơn 18% khách hàng cá nhân khác\nChia sé\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n800\n600\n400\n200"
+  }
+}

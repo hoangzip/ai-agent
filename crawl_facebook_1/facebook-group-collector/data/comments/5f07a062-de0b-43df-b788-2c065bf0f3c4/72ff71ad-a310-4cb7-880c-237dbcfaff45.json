@@ -1,0 +1,29 @@
+{
+  "id": "72ff71ad-a310-4cb7-880c-237dbcfaff45",
+  "facebook_comment_id": null,
+  "post_id": "5f07a062-de0b-43df-b788-2c065bf0f3c4",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": null,
+  "author_display_name": null,
+  "author_profile_url": null,
+  "author_is_anonymous": false,
+  "comment_url": null,
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo/?fbid=122137265043153469&set=gm.1070604865407653&idorvanity=978769317924542&__cft__[0]=AZihNqbQR9v2OItPlxwcSlfBy1lpCEGVLB8oSG7e-Z_8dCveeqtJwJNVRAv2YC2VyC4lrAsmSnS6Yb57tpuKhFnzsm1LigynubTjp-6VjL0qiq5lJiq4FfD7yzb-Xa89hyxQFEjngsSNxrFsBwEPWfHISw6nqcRHN2qeTidud0Llgvj9XX91A43T_BFJgdPQ&__tn__=EH-R"
+  ],
+  "media_ids": [
+    "eaa48f8e-a1e1-48ac-aa53-cbeadc8d25c3"
+  ],
+  "dedupe_key": "9b5db8b40f5ce839e48a964f428ffec6",
+  "first_seen_at": "2026-09-25T03:56:11.661076+00:00",
+  "last_seen_at": "2026-09-25T03:56:11.661086+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-25T03:56:11.661087+00:00",
+  "updated_at": "2026-09-25T03:56:11.661087+00:00"
+}

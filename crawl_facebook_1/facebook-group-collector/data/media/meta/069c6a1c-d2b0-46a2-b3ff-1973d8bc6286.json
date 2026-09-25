@@ -1,0 +1,25 @@
+{
+  "id": "069c6a1c-d2b0-46a2-b3ff-1973d8bc6286",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/732908687_1733194044790237_4524025147526071027_n.jpg?stp=dst-jpg_tt6&cstp=mx1110x2280&ctp=s1110x2280&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeECQBeOKHqOfzcjATGtfAzUjIqullD6edCMiq6WUPp50EY1r6XNjombs9-vuUqcpBfvJiVSGHYMdqU_PrSQzafl&_nc_ohc=40UncYDUYyIQ7kNvwE-_zb5&_nc_oc=Adr1itxDyw5uekrxRAqn32yVoHFpHF1gmUZrOrpovjbqz_TiWCBlpf8aAAkj77ePLjc&_nc_zt=23&_nc_ht=scontent-sin6-2.xx&_nc_gid=NZC04K5qkzE-gHe5l0HAKA&_nc_ss=7b2a8&oh=00_AQIFsQt6i_Mce3zrvTzZz7npa9mpqnAUyuWwOouhuK_R6Q&oe=6ABBB8FD",
+  "owner_type": "post",
+  "owner_id": "7c6e8fa7-54cd-4cc9-a035-2395aedcce87",
+  "photo_fbid": "1733194038123571",
+  "position": 0,
+  "storage_uri": "media/assets/61/3f/613f30e5ed5154ad4a3f373c1fc2a4a20c42942a6cb8a3534c4d86ac8f009920.jpg",
+  "sha256": "613f30e5ed5154ad4a3f373c1fc2a4a20c42942a6cb8a3534c4d86ac8f009920",
+  "mime_type": "image/jpeg",
+  "file_size": 130290,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nHạng 7 C\nNgày chấm: 23/06/2026\nCao hơn 12% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n497\n520\n390\n260\n130\n4/2026\n5/2026\nThông tin ci tit V\n6/2026\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\n• Theo dữ liệu tính đến ngày chấm 23/06/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n95 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 7,
+    "scoring_date": "23/06/2026",
+    "total_debt": "95 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nHạng 7 C\nNgày chấm: 23/06/2026\nCao hơn 12% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n497\n520\n390\n260\n130\n4/2026\n5/2026\nThông tin ci tit V\n6/2026\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\n• Theo dữ liệu tính đến ngày chấm 23/06/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n95 Triệu VNĐ"
+  }
+}

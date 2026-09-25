@@ -1,0 +1,24 @@
+{
+  "id": "d3cf7bf5-64af-47c0-8197-e31499805b12",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/741777791_1336170508724377_7757836900238977498_n.jpg?stp=dst-jpg_tt6&cstp=mx1350x1800&ctp=s1350x1800&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=hcOcjH42wvYQ7kNvwEJCKpL&_nc_oc=AdoYh1a03CQXZyXEiygbcjOvAPTIiHdmDBvHqP8yEIHWHCToP_C5iqE3H3O41z89i0A&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=Wg0FTPZOAw5_jzoNS9xYJg&_nc_ss=7b289&oh=00_AQJMPfVBf3ykpp2sZBzwOsb6WPx8KGGMUZPtZVPWm3AJmw&oe=6ABBA31F",
+  "owner_type": "post",
+  "owner_id": "925c13ab-2851-449f-a659-c0f8eead23c4",
+  "photo_fbid": "1336170505391044",
+  "position": 0,
+  "storage_uri": "media/assets/59/ad/59ad5db3d035cb16dbbdac4f0b376041327f903ede1d7887e222a5d3fafed874.jpg",
+  "sha256": "59ad5db3d035cb16dbbdac4f0b376041327f903ede1d7887e222a5d3fafed874",
+  "mime_type": "image/jpeg",
+  "file_size": 99258,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "14:31\nBTI 4G\nKiểm tra Điểm tín dụng CIC\nCCB\nCredifinFo\n550\nHạng 6 C\nNgày chấm: 08/07/2026\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n550\n850\n680\n510\n340",
+  "cic_data": {
+    "is_cic": true,
+    "score": 550,
+    "tier": 6,
+    "scoring_date": "08/07/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "14:31\nBTI 4G\nKiểm tra Điểm tín dụng CIC\nCCB\nCredifinFo\n550\nHạng 6 C\nNgày chấm: 08/07/2026\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n550\n850\n680\n510\n340"
+  }
+}

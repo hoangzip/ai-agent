@@ -1,0 +1,29 @@
+{
+  "id": "22cf3915-ad29-4d9c-bfe1-ba146a8bd2e5",
+  "facebook_post_id": "3656876681155284",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "ec830bdc-03da-4ad1-b4cd-30a82a596c09",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=3656876681155284&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-25T05:07:35.139889+00:00",
+  "updated_at": "2026-09-25T05:07:35.139889+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "300a55f7-8e48-41ac-9d38-adbca9286c7d"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 604,
+    "tier": 4,
+    "scoring_date": "23/04/2026",
+    "provider": "CreditInfo / CIC",
+    "raw_text": "16:15\n38\nBáo cáo\n<\nCiCB\nCreditinFo\nSố: 2026/K11.1\nTH\nNgày hỏi tin: 01\nI. THÔNG TI\n1. Thông tin\nTên khách hàn\nNgày tháng năm\nMã số CIC:\nĐịa chỉ:\nĐiện thoại:\nSố CCCD/CMND:\n2. Thông tin quan hệ tín dụn\n2.1. Thông tin dư nợ hiện thời\nHiện tại khách hàng không còn dư nợ tại các TCTD\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nKhách hàng không có lịch sử nợ xấu, nợ cần chú ý tại các TCTD\nCIA VIỆT Nº\n1\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChi tiêu\nBảo đảm tiền vay bằng tài sản\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐiêm tín dụng:\n604\nHạng:\nXếp hạng của\nkhách hàng\nNgày chấm điểm:\n23/04/2026\nGiá trị\nKhông có\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\n64\nĐiểm tín dụng của khách hàng cao\nhơn điểm tín dụng của 64% tổng\n50%\nkhách hàng cá nhân được chấm điểm\ntại kho dữ liệu CIC.\n0%\nXấu\nHạng\n10\n09\nCHI TIẾT ĐIỂM VÀ HẠNG\nDưới trung bình\nTrung bình\n07 06\n05\nTốt\n04\n03\nRất tốt\n02 01\nĐiểm 403-434 435-454 455-479 480-544 545-566 567-587 588-608 609-622 623-644 645-706"
+  }
+}

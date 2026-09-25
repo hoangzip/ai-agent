@@ -1,0 +1,24 @@
+{
+  "id": "6c6d3054-3463-485d-b6b9-f0254bda71c1",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/735393852_122189233520773551_620204326448533329_n.jpg?stp=dst-jpg_tt6&cstp=mx828x1792&ctp=s828x1792&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHfzqZ22j4_JkMWcUdxeB4et9w_EVvONF233D8RW840XaK5x6yvfUoz_fZeaCSWx8wTgO881ulcPnP_DJ5B1DIF&_nc_ohc=zixJZnwonz4Q7kNvwF5bsSe&_nc_oc=AdqrbAq5wr3cSpCsacotQWYhlHxrx-9o-xB1AqWERDkhWEE9WUmj8jJXCpEc7EIgNzw&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=heHglAKIDoOodRC-0oKuJA&_nc_ss=7b2a8&oh=00_AQI3RRh30mXINPmB5UwBzL5SYKqXYIq06DkBbo-KiSJ6qA&oe=6ABBDBB2",
+  "owner_type": "post",
+  "owner_id": "f6884e0c-cae6-498c-a007-050bb25cec53",
+  "photo_fbid": "122189233514773551",
+  "position": 0,
+  "storage_uri": "media/assets/ff/46/ff46610ddf9a72cf4eae4cc5a87c66df2b29d7c061165ecb2e81e377c7a5f339.jpg",
+  "sha256": "ff46610ddf9a72cf4eae4cc5a87c66df2b29d7c061165ecb2e81e377c7a5f339",
+  "mime_type": "image/jpeg",
+  "file_size": 91870,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "11:49\nmil 4G (19\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n573\nHạng 5 Q\nNgày chấm: 29/05/2026\nCao hơn 37% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi C/C và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n573\n800\n600\n400\n200\n3/2026\n5/2026\nThông tin chi tiết v\n5/2026\nThông tin dư nợ >\nMiễn nhí 1 lần tra cứu mỗi năm\nẨn thông tin",
+  "cic_data": {
+    "is_cic": true,
+    "score": 573,
+    "tier": 5,
+    "scoring_date": "29/05/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "11:49\nmil 4G (19\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n573\nHạng 5 Q\nNgày chấm: 29/05/2026\nCao hơn 37% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi C/C và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n573\n800\n600\n400\n200\n3/2026\n5/2026\nThông tin chi tiết v\n5/2026\nThông tin dư nợ >\nMiễn nhí 1 lần tra cứu mỗi năm\nẨn thông tin"
+  }
+}

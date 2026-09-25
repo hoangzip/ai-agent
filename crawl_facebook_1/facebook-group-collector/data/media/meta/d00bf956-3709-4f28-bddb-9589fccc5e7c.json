@@ -1,0 +1,25 @@
+{
+  "id": "d00bf956-3709-4f28-bddb-9589fccc5e7c",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-6/790146531_1377283877946235_2886777116349514215_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEjOJLcs0bCIIlB4Ok4kUPv4HN5uLfCjV_gc3m4t8KNX7KNDC0Oz2v-ssD43PdsYi_PFSzyHUeY87DIPAFHzg0Y&_nc_ohc=k1XLewZhvacQ7kNvwG4Jv0E&_nc_oc=AdoCO_BIaU-4gHpDnih5HWwFw7FDOs0pBxIpwrEzJ3TXPRL-FfwLBkMSMKcMAHPQkJQ&_nc_zt=23&_nc_ht=scontent.fsgn5-13.fna&_nc_gid=KAHGLPs74ayWkz8kQK8f-w&_nc_ss=7b2a8&oh=00_AQK5h3vWg9mXrQMKWaXi03GaYv_WlI72kuPd2GtNnTmpzA&oe=6ABB4379",
+  "owner_type": "post",
+  "owner_id": "97885bb7-dede-4708-a940-605b842108b9",
+  "photo_fbid": "1377283874612902",
+  "position": 0,
+  "storage_uri": "media/assets/66/2f/662ffcb9a487a992de588fda938d4b24976306b769810ea3c63351623ec711c5.jpg",
+  "sha256": "662ffcb9a487a992de588fda938d4b24976306b769810ea3c63351623ec711c5",
+  "mime_type": "image/jpeg",
+  "file_size": 192326,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "10:15 P &\nKiểm tra Điểm tín dụng CIC\nYiE\n76\nCCB\nCreditinFo\n544\nHạng 7 ®\nNgày chấm: 22/07/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 17% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\ng\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền lợi\ndành cho bạn.\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\n0 VNĐ\n0 VNĐ\nCập nhật Điểm tháng mới\nZ Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "10:15 P &\nKiểm tra Điểm tín dụng CIC\nYiE\n76\nCCB\nCreditinFo\n544\nHạng 7 ®\nNgày chấm: 22/07/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 17% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\ng\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền lợi\ndành cho bạn.\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\n0 VNĐ\n0 VNĐ\nCập nhật Điểm tháng mới\nZ Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

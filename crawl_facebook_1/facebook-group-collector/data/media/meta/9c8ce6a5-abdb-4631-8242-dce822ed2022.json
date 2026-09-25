@@ -1,0 +1,24 @@
+{
+  "id": "9c8ce6a5-abdb-4631-8242-dce822ed2022",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-3.xx.fbcdn.net/v/t39.30808-6/748466085_122118500037212401_1714731449396928410_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx604x960&ctp=s604x960&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=d9AHjvk1cncQ7kNvwELQUih&_nc_oc=AdpTG-pKzCsFPzT4-eOuOMpNMSq8be6dEGZpl1jU3FM3SwSW63AJeU-S5HZWBA1L6eI&_nc_zt=23&_nc_ht=scontent-sin2-3.xx&_nc_gid=fMDzdiON8b7ArNr3B5v6Tg&_nc_ss=7b289&oh=00_AQIpCLzSY_OLt0BZaHbtOcdnMHEJG5mdoAWCy_utpl2CdA&oe=6ABBAADD",
+  "owner_type": "post",
+  "owner_id": "fcde8b1d-bc78-4939-b217-44637fc7b602",
+  "photo_fbid": "122118500013212401",
+  "position": 0,
+  "storage_uri": "media/assets/51/a6/51a6d9cd08a4a0502f3d898d8a056db28c18b98b6eca2626d3011215a8fd8406.jpg",
+  "sha256": "51a6d9cd08a4a0502f3d898d8a056db28c18b98b6eca2626d3011215a8fd8406",
+  "mime_type": "image/jpeg",
+  "file_size": 53500,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n622\nHạng 3 O\nNgày chấm: 23/06/2026\nCao hơn 80% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiền thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n622\n900\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.",
+  "cic_data": {
+    "is_cic": true,
+    "score": 622,
+    "tier": 3,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n622\nHạng 3 O\nNgày chấm: 23/06/2026\nCao hơn 80% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiền thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n622\n900\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo."
+  }
+}

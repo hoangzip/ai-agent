@@ -1,0 +1,25 @@
+{
+  "id": "1ceb11df-3401-484a-b5cd-406b74729993",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-22.fna.fbcdn.net/v/t39.30808-6/774595888_3910001622641710_3670035725444392436_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1485&ctp=s1080x1485&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGln79ioj2LaoR46BH2amozcY_gaui_r_Bxj-Bq6L-v8KnHyBjZ7_0g7LT-k8m5JJbgb7JdcpOK4mxwLGBmRyuw&_nc_ohc=uIdKh0ZcIZUQ7kNvwElVRFf&_nc_oc=AdruXF0Ng1wu_xP-huIR2X9dQgF5Q5B1DSOWl1kETiqo4_09ETlv-NeaiF7YhOdGuJo&_nc_zt=23&_nc_ht=scontent.fsgn5-22.fna&_nc_gid=7X1h-7BLkoHOqD9C4xIbSA&_nc_ss=7b2a8&oh=00_AQKTzHBJfn5WjSyrR4Fj0-xDJQ-jjnPcjM4CV9bpK81pqA&oe=6ABB7CFE",
+  "owner_type": "post",
+  "owner_id": "b936a2d2-6f41-4237-9146-d604b92cc4a3",
+  "photo_fbid": "3910001619308377",
+  "position": 0,
+  "storage_uri": "media/assets/ac/2c/ac2c07c940835ca5775de87930a11b79d85aa1ca30ac6e0b28c783b18ae917f9.jpg",
+  "sha256": "ac2c07c940835ca5775de87930a11b79d85aa1ca30ac6e0b28c783b18ae917f9",
+  "mime_type": "image/jpeg",
+  "file_size": 138082,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "16:14\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n605\nHạng 4 0\nNgày chấm: 22/07/2026\nCao hơn 65% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!",
+  "cic_data": {
+    "is_cic": true,
+    "score": 605,
+    "tier": 4,
+    "scoring_date": "22/07/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "16:14\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n605\nHạng 4 0\nNgày chấm: 22/07/2026\nCao hơn 65% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!"
+  }
+}

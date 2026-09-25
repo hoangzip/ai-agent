@@ -1,0 +1,24 @@
+{
+  "id": "beb81f06-5325-4a99-b1bd-2149f5bd350e",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-22.fna.fbcdn.net/v/t39.30808-6/774600075_122233854200310338_870316415165575696_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx750x1334&ctp=s750x1334&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG1bzbcpXTQB3soAaoyxy5A0cIXkuzudgfRwheS7O52B92vRNNhJlOrYy-6RO8ReHW1-d_izZQQ1yB9ygU3OMqg&_nc_ohc=UxQp0m60QisQ7kNvwG92Ni3&_nc_oc=Ado3QxL7mLpP51MzVXzJLOh27kHuR2xoYUSifpUg4O26QUAI6V9nLXhEc-XaBIbEI64&_nc_zt=23&_nc_ht=scontent.fsgn5-22.fna&_nc_gid=cyfhGmVOiW3eJOhS9Nkk7A&_nc_ss=7b2a8&oh=00_AQJD7cz3LxW3qqTnXfta8DqYylkT9OaGBVEo1xDZzk923Q&oe=6ABB87AF",
+  "owner_type": "post",
+  "owner_id": "d93a5069-38a9-4fec-ac4a-e1d368763329",
+  "photo_fbid": "122233854194310338",
+  "position": 0,
+  "storage_uri": "media/assets/6c/b7/6cb77387548bc3d043222753a570c81cba74d22bf06b6a09a4d5ed5490384307.jpg",
+  "sha256": "6cb77387548bc3d043222753a570c81cba74d22bf06b6a09a4d5ed5490384307",
+  "mime_type": "image/jpeg",
+  "file_size": 79387,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "16:01\n< Kiểm tra Điểm tín dụng CIC\n1 84% 0\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\nbạn có khoản nợ xâu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n3 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC\nsang tài khoản MoMo\nĐồng bộ dữ liệu CIC\nVị thế tài chính tháng này\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "31/12/2025",
+    "total_debt": "3 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "16:01\n< Kiểm tra Điểm tín dụng CIC\n1 84% 0\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\nbạn có khoản nợ xâu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n3 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC\nsang tài khoản MoMo\nĐồng bộ dữ liệu CIC\nVị thế tài chính tháng này\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

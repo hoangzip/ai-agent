@@ -1,0 +1,26 @@
+{
+  "id": "b0cc9001-2aeb-4784-9716-785068634129",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-1.fna.fbcdn.net/v/t39.30808-6/799858987_1102843332570074_2435409131254291509_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGomXYYW8mIDBVkl-WdRGUUxX3nHlFbOjvFfeceUVs6OymBxZoFlGisxNAZ17Ny07lA7FfBKXeaz03frfqeDL96&_nc_ohc=5uOaAZiR43UQ7kNvwGd6PND&_nc_oc=AdoEa8n_yVgE0vLeQfjOBL_i382KVszFXkjy74Ew0hzDY9WTl1OgqDUlwBIdI8XFTcE&_nc_zt=23&_nc_ht=scontent.fsgn5-1.fna&_nc_gid=XJpcHUGf7_RbxsX2zzYJwQ&_nc_ss=7b2a8&oh=00_AQLdxxUgHbhDbQs0_qqUL3LBN2fVFrHtCQpHFWOcfw3jTA&oe=6ABB4859",
+  "owner_type": "post",
+  "owner_id": "15f8dee7-8bc6-45d0-8533-a36712a2c41d",
+  "photo_fbid": "1102843329236741",
+  "position": 0,
+  "storage_uri": "media/assets/6e/d1/6ed1c3e9eedc4ed9b181d6f3c7727fdb25515a56ddf26a74899881ac4d73d7a2.jpg",
+  "sha256": "6ed1c3e9eedc4ed9b181d6f3c7727fdb25515a56ddf26a74899881ac4d73d7a2",
+  "mime_type": "image/jpeg",
+  "file_size": 135980,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "20:47\n64\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n525\nHạng 7 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n57 Triệu VNĐ\n54 Triệu VNĐ\n3 Triệu VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nDự phòng tài chính\nĐến 100 triệu\nMẹo cải thiện điểm\nHành vi tốt\nMẹo c\nTrả I",
+  "cic_data": {
+    "is_cic": true,
+    "score": 525,
+    "tier": 7,
+    "scoring_date": "21/08/2026",
+    "total_debt": "57 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "20:47\n64\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n525\nHạng 7 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n57 Triệu VNĐ\n54 Triệu VNĐ\n3 Triệu VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nDự phòng tài chính\nĐến 100 triệu\nMẹo cải thiện điểm\nHành vi tốt\nMẹo c\nTrả I"
+  }
+}

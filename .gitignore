@@ -3,3 +3,16 @@
 .agents/
 node_modules/
 *.log
+
+# Python / Virtual Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Heavy media assets & sensitive auth state in crawler
+**/data/browser_state/
+**/data/media/assets/
+**/data/groups/*/images/
+**/data_bench/
+

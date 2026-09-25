@@ -1,0 +1,24 @@
+{
+  "id": "5baa2780-e07f-48d9-b93c-d35c49890cfc",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-7.fna.fbcdn.net/v/t39.30808-6/761462500_1580214426784112_8130919467076578898_n.jpg?stp=dst-jpg_tt6&cstp=mx870x1883&ctp=s870x1883&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF7_fODb6Yk1qiBg4XXOwAL_lnzVZzDyTn-WfNVnMPJOeCD88GuiEIIaLSvO37LCCUzG4oWS4mivV0YvNuxGUYE&_nc_ohc=VFi8h3vAlOMQ7kNvwGbEs6Z&_nc_oc=AdqYcIyq9YKXJ08wpH-NK0WO3a-xTDNggRAqqg9Ie9cOZExx1ahxArOZmVIaXfJremQ&_nc_zt=23&_nc_ht=scontent.fsgn5-7.fna&_nc_gid=_bKNv-YSM9wWEIt8bD4toA&_nc_ss=7b2a8&oh=00_AQLTivB1HHN8TlNr3Z0qQUa05yKFYtUuI8nE2h_hFURRYA&oe=6ABB739A",
+  "owner_type": "post",
+  "owner_id": "2509b2c9-d456-49d4-9d38-c8fc7064615c",
+  "photo_fbid": "1580214423450779",
+  "position": 0,
+  "storage_uri": "media/assets/e7/26/e726bd9b9b7a4f6700b469d933ea3b800911b278976263b971bbabd2eb32aa44.jpg",
+  "sha256": "e726bd9b9b7a4f6700b469d933ea3b800911b278976263b971bbabd2eb32aa44",
+  "mime_type": "image/jpeg",
+  "file_size": 92644,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "13:08\nKiểm tra Điểm tín dụng CIC\n604\nCCB\nCreditinFo\n613\nHạng 3 0\nNgày chấm: 22/03/2026\nCao hơn 72% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n• Hôm nay có gì mới\nNhờ có Điểm CIC tốt\nBạn đủ điều kiện nhận 3 tháng\nmiễn phí Bảo hiểm Sức khỏe+\nNhận ngay >\n1/2\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n613\n600\n450\n300\n150",
+  "cic_data": {
+    "is_cic": true,
+    "score": 604,
+    "tier": 3,
+    "scoring_date": "22/03/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "13:08\nKiểm tra Điểm tín dụng CIC\n604\nCCB\nCreditinFo\n613\nHạng 3 0\nNgày chấm: 22/03/2026\nCao hơn 72% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n• Hôm nay có gì mới\nNhờ có Điểm CIC tốt\nBạn đủ điều kiện nhận 3 tháng\nmiễn phí Bảo hiểm Sức khỏe+\nNhận ngay >\n1/2\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n613\n600\n450\n300\n150"
+  }
+}

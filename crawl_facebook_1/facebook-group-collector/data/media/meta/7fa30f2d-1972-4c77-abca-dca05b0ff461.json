@@ -1,0 +1,25 @@
+{
+  "id": "7fa30f2d-1972-4c77-abca-dca05b0ff461",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/775523758_122162498978729529_8052130582145065141_n.jpg?stp=dst-jpg_tt6&cstp=mx942x2048&ctp=s942x2048&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFkufJdTc1MJ3OjacJoo1JJoMoqmAcY-c2gyiqYBxj5zWWA8IISKpAk_bctOGb2wR06QV47-q7RFXmzV0m47d5U&_nc_ohc=qplEE2UzDWIQ7kNvwEzxfEw&_nc_oc=Adque1xysnIprpkfn3a1HEPvg8UagJNy0dmka0nTJxNFAHJkMnwEWqHLZPwFB9ifHN8&_nc_zt=23&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=AEnpwvCusWK2TZktEbPP5w&_nc_ss=7b2a8&oh=00_AQJqEU0bjC4H9QZVGiB56JzCkgnI-x776ewobOlYCiX3LA&oe=6ABB82B2",
+  "owner_type": "post",
+  "owner_id": "367436dd-3ab9-4b1f-8833-f0aa396ff91e",
+  "photo_fbid": "122162498966729529",
+  "position": 0,
+  "storage_uri": "media/assets/46/d1/46d1ee479398eb42dfb0c31fab9b0d17143838c37581f4e2896dc653b5aa47cd.jpg",
+  "sha256": "46d1ee479398eb42dfb0c31fab9b0d17143838c37581f4e2896dc653b5aa47cd",
+  "mime_type": "image/jpeg",
+  "file_size": 123501,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "12:32\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n570\nHạng 6 O\nNgày chấm: 22/03/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẤn thông tin\n0 VNĐ\n0 VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nDinhàna tÀi nhính\nMan nhi thiân điẩm\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm\nMnn a2",
+  "cic_data": {
+    "is_cic": true,
+    "score": 570,
+    "tier": 6,
+    "scoring_date": "22/03/2026",
+    "total_debt": "0 VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "12:32\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n570\nHạng 6 O\nNgày chấm: 22/03/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẤn thông tin\n0 VNĐ\n0 VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nDinhàna tÀi nhính\nMan nhi thiân điẩm\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm\nMnn a2"
+  }
+}

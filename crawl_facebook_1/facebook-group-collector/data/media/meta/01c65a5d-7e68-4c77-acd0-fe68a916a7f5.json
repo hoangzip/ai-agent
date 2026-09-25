@@ -1,0 +1,24 @@
+{
+  "id": "01c65a5d-7e68-4c77-acd0-fe68a916a7f5",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-1.xx.fbcdn.net/v/t39.30808-6/757921699_1551614526509331_6238069338613054947_n.jpg?stp=dst-jpg_tt6&cstp=mx443x960&ctp=s443x960&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ksFP3ql1aWAQ7kNvwH-6HaM&_nc_oc=Adrz9iQc9_tp7Ywn7rX_4TFm8gf9RC37TmIAu7mrjRu477AoEb_sayVqddqEGzaKyIA&_nc_zt=23&_nc_ht=scontent-sin11-1.xx&_nc_gid=VGGev9DcwjybzEutH6c4Cg&_nc_ss=7b289&oh=00_AQLspiuLWfpk6MLhfepRDZjd_VqxBIp6sFPNyNyAELg3UA&oe=6ABB99D3",
+  "owner_type": "post",
+  "owner_id": "5bc81e81-7c33-4d19-b121-076ed3bf6698",
+  "photo_fbid": "1551614519842665",
+  "position": 0,
+  "storage_uri": "media/assets/31/46/31467c2ce97a414446543f44160a91be9b961f236487a408f3e70a88fe9f4d1e.jpg",
+  "sha256": "31467c2ce97a414446543f44160a91be9b961f236487a408f3e70a88fe9f4d1e",
+  "mime_type": "image/jpeg",
+  "file_size": 47479,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "13:31\n< Kiểm tra Điểm tín dụng CIC\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 29/05/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n24 Triệu VNĐ\n24 Triệu VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nMe\nTi\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trà Sau\nDùng mỗi tháng\nĐi\nTă\nTiện ích\nQuản lý thông báo Đang bật\nThông báo biến động điểm hàng tháng\nCập nhật Điểm tháng mới",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "29/05/2026",
+    "total_debt": "24 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "13:31\n< Kiểm tra Điểm tín dụng CIC\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 29/05/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n24 Triệu VNĐ\n24 Triệu VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nMe\nTi\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trà Sau\nDùng mỗi tháng\nĐi\nTă\nTiện ích\nQuản lý thông báo Đang bật\nThông báo biến động điểm hàng tháng\nCập nhật Điểm tháng mới"
+  }
+}

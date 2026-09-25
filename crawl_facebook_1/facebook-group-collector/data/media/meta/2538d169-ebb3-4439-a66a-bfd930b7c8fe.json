@@ -1,0 +1,24 @@
+{
+  "id": "2538d169-ebb3-4439-a66a-bfd930b7c8fe",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-1.xx.fbcdn.net/v/t39.30808-6/728255050_992976416935249_4297018237011528852_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHT95_JIRs62ZEsHvuyeYE2uw10NaO8NUm7DXQ1o7w1SSJEthuyetz_ahPldzyfUhm2iipaxgsqlYTn0A0Pxbpf&_nc_ohc=qqyOFhXzhvMQ7kNvwHTvare&_nc_oc=AdqIOuV3aDOUhJ3jYjG4XHVgYoKXdoiwHprF-CV-3BLIAjbYpT1Tg63C10N-uWUrCqw&_nc_zt=23&_nc_ht=scontent-sin11-1.xx&_nc_gid=ytRWsRP4T9G3j0n0KaDBuA&_nc_ss=7b2a8&oh=00_AQJg3J3dIJE_FQNCJLBG-S6l0hGY2bCwW56gTpia8YfWjw&oe=6ABBF63C",
+  "owner_type": "post",
+  "owner_id": "d31e2d87-8942-407c-b4ce-68bb54caffb3",
+  "photo_fbid": "992976413601916",
+  "position": 0,
+  "storage_uri": "media/assets/19/9b/199b34e204ca1c119077ae5f366305aa24cbfabf41031331aa938cb9afa16c35.jpg",
+  "sha256": "199b34e204ca1c119077ae5f366305aa24cbfabf41031331aa938cb9afa16c35",
+  "mime_type": "image/jpeg",
+  "file_size": 145173,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "18:57\nf\nKiểm tra Điểm tín dụng CIC\nKB/S C .xl\nLE 11| 37\n6@0\nCiCB\nCreditinFo\n607\nHạng 4 Q\nNgày chấm: 29/05/2026\nCao hơn 68% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+1001R\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay •\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n607\n600\n450\n300",
+  "cic_data": {
+    "is_cic": true,
+    "score": 607,
+    "tier": 4,
+    "scoring_date": "29/05/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "18:57\nf\nKiểm tra Điểm tín dụng CIC\nKB/S C .xl\nLE 11| 37\n6@0\nCiCB\nCreditinFo\n607\nHạng 4 Q\nNgày chấm: 29/05/2026\nCao hơn 68% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+1001R\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay •\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n607\n600\n450\n300"
+  }
+}

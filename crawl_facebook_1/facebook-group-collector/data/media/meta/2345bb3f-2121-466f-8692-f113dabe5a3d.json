@@ -1,0 +1,24 @@
+{
+  "id": "2345bb3f-2121-466f-8692-f113dabe5a3d",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/736448862_863401220172968_5945113564416093477_n.jpg?stp=dst-jpg_tt6&cstp=mx444x960&ctp=s444x960&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=oE3VyXO4ywEQ7kNvwGtv1Cy&_nc_oc=AdqtC3PI5cNOFRJZqfR9iCSniOn1hb4_EUUuvxTyJ8muWsklWecWepn-6JrawAcnr14&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=gyTLahzqIxxDQsC_4N-UjQ&_nc_ss=7b289&oh=00_AQLmuGe9uM-3JCow6BV-tknKqS-4Ran2AA3LAZHjFAxarA&oe=6ABBA353",
+  "owner_type": "post",
+  "owner_id": "55d96afb-df1e-42fd-b6ed-c57aa0f3b447",
+  "photo_fbid": "863401216839635",
+  "position": 0,
+  "storage_uri": "media/assets/49/a4/49a452b80eb93b5cd4474270713604ac41051db31143606ed578def3d8fd5b9d.jpg",
+  "sha256": "49a452b80eb93b5cd4474270713604ac41051db31143606ed578def3d8fd5b9d",
+  "mime_type": "image/jpeg",
+  "file_size": 43313,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "15:37 €\n•tll 5G\n494\nKiểm tra Điểm tín dụng CIC\n634\nHạng 2 Q\nNgày chấm: 22/03/2026\nCao hơn 88% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiền thị trên MoMo\nA Hôm nay có gì mới\nBạn có sức khỏe tài chính tốt\nDuy trì từ 100K trong Túi Thần Tài\nđể gia tăng cơ hội tài chính nhé\nNạp ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n634\n600\n400\n200\n12/2025\n3/2026",
+  "cic_data": {
+    "is_cic": true,
+    "score": 494,
+    "tier": 2,
+    "scoring_date": "22/03/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "15:37 €\n•tll 5G\n494\nKiểm tra Điểm tín dụng CIC\n634\nHạng 2 Q\nNgày chấm: 22/03/2026\nCao hơn 88% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiền thị trên MoMo\nA Hôm nay có gì mới\nBạn có sức khỏe tài chính tốt\nDuy trì từ 100K trong Túi Thần Tài\nđể gia tăng cơ hội tài chính nhé\nNạp ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n634\n600\n400\n200\n12/2025\n3/2026"
+  }
+}

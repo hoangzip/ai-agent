@@ -1,0 +1,24 @@
+{
+  "id": "902dd03a-260a-4553-a998-cb18411c169b",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-6/820374453_122132523753360450_6996802873893574816_n.jpg?stp=dst-jpg_tt6&cstp=mx943x2048&ctp=s943x2048&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG4iApB1BBRqTL5hr4qFu7qK4FWP75X2rArgVY_vlfasHrwvacnHms3tn2ZdDpoywZwXXcWxRBLDUi08b8lACMw&_nc_ohc=rChezpiJdPcQ7kNvwFqMPZJ&_nc_oc=AdpodJLzgA87LkI3-dDMdJO21Rr2PW5AVjnkMb1B7gl581LzRrepUUwbg06EYFAzjq8&_nc_zt=23&_nc_ht=scontent.fsgn5-13.fna&_nc_gid=UOnSW-HmrqNBHqgABsAYlw&_nc_ss=7b2a8&oh=00_AQKXUwx8EQNe9k5ulnCzOO5kQI6_j4uxeBaCIROMiCiW_A&oe=6ABB3B5F",
+  "owner_type": "post",
+  "owner_id": "81c79cf7-cf12-4f6f-8d0c-54c39bfdfd17",
+  "position": 0,
+  "storage_uri": "media/assets/bd/04/bd04ff5f82d5a930940228f47bf65c7c11da5a902a8fa2286ba832df87e37867.jpg",
+  "sha256": "bd04ff5f82d5a930940228f47bf65c7c11da5a902a8fa2286ba832df87e37867",
+  "mime_type": "image/jpeg",
+  "file_size": 152919,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "20:42 1\nKiểm tra Điểm tín dụng CIC\n:!!! 5G\n4\nCreditinFo\n634\nHạng 2 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 90% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\n) Được chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán đúng\nhạn để cả thện Điểm CIC nhé!\nTổng dư nợ\n665 Triệu VNĐ\nN.tna lha2a .n.\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 2,
+    "scoring_date": "21/08/2026",
+    "total_debt": "665 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "20:42 1\nKiểm tra Điểm tín dụng CIC\n:!!! 5G\n4\nCreditinFo\n634\nHạng 2 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 90% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\n) Được chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán đúng\nhạn để cả thện Điểm CIC nhé!\nTổng dư nợ\n665 Triệu VNĐ\nN.tna lha2a .n.\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

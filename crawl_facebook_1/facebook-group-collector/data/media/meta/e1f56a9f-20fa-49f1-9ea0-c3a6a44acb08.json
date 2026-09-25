@@ -1,0 +1,24 @@
+{
+  "id": "e1f56a9f-20fa-49f1-9ea0-c3a6a44acb08",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/767268870_4154842121317894_4867934677523061813_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx640x1386&ctp=s640x1386&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFP5pmwX5Oje3HqQGm9sWb8T_Si6GJB6JVP9KLoYkHoldNNzSNUoZun8UiW2sXPKBv0s4cVGoeD93W2FdDV285G&_nc_ohc=_IUP-voPfoYQ7kNvwHPtNj0&_nc_oc=Adpi1jViocaCCTTKu4HTFiF8oIjwsfxzMcX_PkGj4C9lYSJUdFoYeEoYc7-BIVh6tk8&_nc_zt=23&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=XY06-gopwZR242mK91NxEA&_nc_ss=7b2a8&oh=00_AQLT_bazp6L8-FsN1RtpHG3LazU-TKyfIfTZ9G4rcx6_-Q&oe=6ABB7AFA",
+  "owner_type": "post",
+  "owner_id": "4fc5c720-d097-4b5b-b93c-4561259ecd0b",
+  "photo_fbid": "4154842117984561",
+  "position": 0,
+  "storage_uri": "media/assets/82/37/823794cdd06c1a28a7827184348bd5bd49101096daaf39e403367b7a8d06cf4f.jpg",
+  "sha256": "823794cdd06c1a28a7827184348bd5bd49101096daaf39e403367b7a8d06cf4f",
+  "mime_type": "image/jpeg",
+  "file_size": 71643,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "9:08\n5G\ns.ll 38\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n455\nHạng 8 O\nNgày chấm: 26/01/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 3% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\ng\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm\nX\nNhận ngay",
+  "cic_data": {
+    "is_cic": true,
+    "score": 455,
+    "tier": 8,
+    "scoring_date": "26/01/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "9:08\n5G\ns.ll 38\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n455\nHạng 8 O\nNgày chấm: 26/01/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 3% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\ng\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm\nX\nNhận ngay"
+  }
+}

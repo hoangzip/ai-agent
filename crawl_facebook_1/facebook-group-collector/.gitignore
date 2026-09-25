@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Auth state & heavy media assets — NEVER commit
+data/browser_state/
+data/media/assets/
+data/groups/*/images/
+data_bench/
+
+# Environment files
+.env
+.env.local
+*.env
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/

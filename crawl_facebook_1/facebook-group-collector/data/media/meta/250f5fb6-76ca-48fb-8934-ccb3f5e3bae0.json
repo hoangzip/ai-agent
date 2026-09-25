@@ -1,0 +1,24 @@
+{
+  "id": "250f5fb6-76ca-48fb-8934-ccb3f5e3bae0",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-22.fna.fbcdn.net/v/t39.30808-6/813520510_3857066591102871_7166696872178096183_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1079&ctp=s1080x1079&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGq5GOBRyxMsn9gp_sTCJxuso3P9S5Taniyjc_1LlNqeJmRQHKEjaoGgjdqVghI_q4p7ENzczEemSAtEyD31fsW&_nc_ohc=50Y8KblY0hcQ7kNvwE5KwFy&_nc_oc=AdrVawlmATFJVNZcqTxyHMNOtRt3x7SGa1DXDUhB0HTbAUsbrVfoKaidKwHPFBNMOJA&_nc_zt=23&_nc_ht=scontent.fsgn5-22.fna&_nc_gid=ue2ZEkaM37GmBYlZkhqC_g&_nc_ss=7b2a8&oh=00_AQLCLLIvkDyN0XvWnUKYKTdgxK3ynVAdmEyR9P3nMaiauQ&oe=6ABB5DF3",
+  "owner_type": "post",
+  "owner_id": "01a7aea2-fce6-45b7-8977-de6ef33fc1a3",
+  "photo_fbid": "3857066587769538",
+  "position": 0,
+  "storage_uri": "media/assets/85/28/85282b416c72b6a2e8e52d256210a8a06259839320cff86beae852048c727d1e.jpg",
+  "sha256": "85282b416c72b6a2e8e52d256210a8a06259839320cff86beae852048c727d1e",
+  "mime_type": "image/jpeg",
+  "file_size": 81235,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "1:54\nYe „Il\n(34 4\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n441\nHạng 9 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 1% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính",
+  "cic_data": {
+    "is_cic": true,
+    "score": 441,
+    "tier": 9,
+    "scoring_date": "21/08/2026",
+    "provider": "CreditInfo / CIC",
+    "raw_text": "1:54\nYe „Il\n(34 4\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n441\nHạng 9 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 1% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính"
+  }
+}

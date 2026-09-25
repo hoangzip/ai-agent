@@ -1,0 +1,23 @@
+{
+  "id": "d736c83c-03ae-4d44-bdc0-4c58208eaa65",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/732018818_122587495226000408_7900375539741389407_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_aid=0&_nc_eui2=AeG1g1D6hCk2j8l_BfrH-EkkFuHFx2BOFpYW4cXHYE4Wlos5TP06yuxhe8lokSpVb6Rts3YVGVwVd8R_uaRV9szN&_nc_ohc=4yqr-KqX9UoQ7kNvwGTOTkJ&_nc_oc=Adrno0fjRBdShXvkUuf9kG3lxFkrpWEq1ySlZ2iFjRb-GnsWvNx3Ap-6cHa-Ysmcu-k&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=zUQfYHXAV1Q44gLmql9tLQ&_nc_ss=7b2a8&oh=00_AQJItPE2t2ODA8sI6lp9OEWzXOVNAZpUwbwmk_BpHX0Ttg&oe=6ABBD612",
+  "owner_type": "post",
+  "owner_id": "2831962a-cb6f-4453-8986-8894c43f4ac4",
+  "photo_fbid": "122587495220000408",
+  "position": 0,
+  "storage_uri": "media/assets/84/0b/840b6ad3a384587b12a80876c18aad23927242c86b541512e74e9923a5866d5a.jpg",
+  "sha256": "840b6ad3a384587b12a80876c18aad23927242c86b541512e74e9923a5866d5a",
+  "mime_type": "image/jpeg",
+  "file_size": 98325,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "15:15\n.1826\n< Thông tin dư nợ\nTổng dư nợ\n1 Triệu VNĐ\nDư nợ khoản vay\n0 VNĐ\nDư nợ thẻ tín dụng\n1 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ 1\nNợ cần chú ý\nTổng nợ cần chú ý\n0 VNĐ\nNợ cần chú ý gần nhất\nNgày phát sinh\n--\nPhát sinh tại\n--\nNợ xấu O\nTổng nợ xấu\n0 VNĐ\nNợ xấu gần nhất\nNgày phát sinh\n28/02/2023\nPhát sinh Công ty Tài chính TNHH Ngân hàng\ntại\nViệt Nam Thịnh Vượng SMBC",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "1 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MB Shinsei",
+    "raw_text": "15:15\n.1826\n< Thông tin dư nợ\nTổng dư nợ\n1 Triệu VNĐ\nDư nợ khoản vay\n0 VNĐ\nDư nợ thẻ tín dụng\n1 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ 1\nNợ cần chú ý\nTổng nợ cần chú ý\n0 VNĐ\nNợ cần chú ý gần nhất\nNgày phát sinh\n--\nPhát sinh tại\n--\nNợ xấu O\nTổng nợ xấu\n0 VNĐ\nNợ xấu gần nhất\nNgày phát sinh\n28/02/2023\nPhát sinh Công ty Tài chính TNHH Ngân hàng\ntại\nViệt Nam Thịnh Vượng SMBC"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "603f4f78-2a16-4ab0-8b45-7e4bc5445954",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/779957944_1055502000624210_8438461684872476784_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1600&ctp=s720x1600&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFdDl-82YnjYC17NiAs1Y2IeJ2LTIsIVnh4nYtMiwhWeCqllM7azwsGh1bBqEhXEpUV_JW8j09lUMnW8Yv7ROoU&_nc_ohc=NtPtoLL0C9EQ7kNvwGSQqrt&_nc_oc=AdoMM_pLZXBlppgnz9FRddpR9u0Me6Isok-t1VmQdBfGSo_fj9QmdvkUDL0AY4GYWYg&_nc_zt=23&_nc_ht=scontent.fsgn5-12.fna&_nc_gid=F7OiLgy7astjEqNPpzxbwA&_nc_ss=7b2a8&oh=00_AQKYBC_UjOWsjexMb0T65UKP_4DpZEuW-aWw7maHB9Hg6Q&oe=6ABB639C",
+  "owner_type": "post",
+  "owner_id": "dedc85af-b519-40af-8dd8-acb8e746881d",
+  "photo_fbid": "1055501993957544",
+  "position": 0,
+  "storage_uri": "media/assets/c3/b5/c3b5e295e1e82e00336126a56933c63777d3f6623f5674a6f0e311d82739bba8.jpg",
+  "sha256": "c3b5e295e1e82e00336126a56933c63777d3f6623f5674a6f0e311d82739bba8",
+  "mime_type": "image/jpeg",
+  "file_size": 95448,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "7:55\n-\nZalo\nO\nKiểm tra Điểm tín dụng CIC\n\"Д»\nSo nil 665\nCCB\nCreditinFo\n543\nHạng 7 I\nNgày chấm: 22/07/2026\nCao hơn 16% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n19 Triệu VNĐ\n18 Triệu VNĐ\n1 Triệu VNĐ\n. .. ..^...\n...",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "total_debt": "19 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "7:55\n-\nZalo\nO\nKiểm tra Điểm tín dụng CIC\n\"Д»\nSo nil 665\nCCB\nCreditinFo\n543\nHạng 7 I\nNgày chấm: 22/07/2026\nCao hơn 16% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n19 Triệu VNĐ\n18 Triệu VNĐ\n1 Triệu VNĐ\n. .. ..^...\n..."
+  }
+}

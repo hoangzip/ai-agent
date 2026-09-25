@@ -1,0 +1,25 @@
+{
+  "id": "6697aad9-9e47-4aba-b630-184c1365f5d3",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/787023948_1637720661202473_4576502962682506188_n.jpg?stp=dst-jpg_tt6&cstp=mx1274x2048&ctp=s1274x2048&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEa2djXlYyO50GxP0bXBbStiZSE5Btpr46JlITkG2mvjpT5egGhe9E1cX3YT54LVuwxYyePa0tAJ4pq_r9mQRfr&_nc_ohc=Uny09fJpO48Q7kNvwE4T8qs&_nc_oc=Adr64zByzM-BDidywHTSpPQWzLJTyWOUtkm1AyfRhn5vSntC90Ar3H9Bw_65Ig97N7U&_nc_zt=23&_nc_ht=scontent.fsgn5-12.fna&_nc_gid=FuvkJ_Ks4HGI52A4vm3EVw&_nc_ss=7b2a8&oh=00_AQKUGtAjL6VTaqX3am5E4nFI1VE7IMa5Nzv1nDEIWwRP6A&oe=6ABB56DD",
+  "owner_type": "post",
+  "owner_id": "1a00969f-eb58-4f1a-bd87-00eace3e13d2",
+  "photo_fbid": "1637720657869140",
+  "position": 0,
+  "storage_uri": "media/assets/ab/82/ab82a53503fbb28d7fd2610d8cc9bed6ff0d9a777d82ab3d35ab106c16edd3b0.jpg",
+  "sha256": "ab82a53503fbb28d7fd2610d8cc9bed6ff0d9a777d82ab3d35ab106c16edd3b0",
+  "mime_type": "image/jpeg",
+  "file_size": 151793,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "11:08\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n556\nHạng 6 0\nNgày chấm: 22/07/2026\nĐiểm cao hơn 24% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐầu tư thử, không lo rủi ro\nTrải nghiệm đầu tư chứng khoán cùng\n100 triệu vốn ảo trên MoMo\nThử ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nẨn thông tin\n250 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 556,
+    "tier": 6,
+    "scoring_date": "22/07/2026",
+    "total_debt": "250 Triệu VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "11:08\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n556\nHạng 6 0\nNgày chấm: 22/07/2026\nĐiểm cao hơn 24% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐầu tư thử, không lo rủi ro\nTrải nghiệm đầu tư chứng khoán cùng\n100 triệu vốn ảo trên MoMo\nThử ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nẨn thông tin\n250 Triệu VNĐ"
+  }
+}

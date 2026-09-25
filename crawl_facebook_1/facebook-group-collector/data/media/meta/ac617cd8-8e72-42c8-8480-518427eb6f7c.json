@@ -1,0 +1,24 @@
+{
+  "id": "ac617cd8-8e72-42c8-8480-518427eb6f7c",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-2.xx.fbcdn.net/v/t39.30808-6/725690304_2255189445236079_964202010292251529_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHIzF3bEhITN7KakZSMbuVNu1ZGnTRBaAe7VkadNEFoB-3dKqJZ-nAyiCsbDTZYfc1CSZd8L4yJT-_sg680j1Iq&_nc_ohc=ct-o505jvCsQ7kNvwGH8dRA&_nc_oc=AdrnOX9cpiDCB0ZqUvoi8ttqc1kiqdsQrwUZG7e_9OAWtgcAzGlZMjJdCFxpk33CRZo&_nc_zt=23&_nc_ht=scontent-sin11-2.xx&_nc_gid=oOWMH_f5ROODDkpPkj5TFA&_nc_ss=7b2a8&oh=00_AQLWv12sywrOyJBkofm5BMMm4x92tGRqO8Vpr1JFj2Nm0g&oe=6ABBD87C",
+  "owner_type": "post",
+  "owner_id": "54e83637-3829-4cde-b39d-7af18b5f48c9",
+  "photo_fbid": "2255189431902747",
+  "position": 0,
+  "storage_uri": "media/assets/56/6d/566d797f369f265db610e4865dfd4803e34b52b0a95180a15ba63ab561731fd9.jpg",
+  "sha256": "566d797f369f265db610e4865dfd4803e34b52b0a95180a15ba63ab561731fd9",
+  "mime_type": "image/jpeg",
+  "file_size": 108425,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "18:234\n83\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n572\nHạng 5 0\nNgày chấm: 31/12/2025\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n*TOOTR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay &\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n480\n360\n240\n120",
+  "cic_data": {
+    "is_cic": true,
+    "score": 572,
+    "tier": 5,
+    "scoring_date": "31/12/2025",
+    "provider": "MoMo / CIC",
+    "raw_text": "18:234\n83\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n572\nHạng 5 0\nNgày chấm: 31/12/2025\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n*TOOTR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay &\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n480\n360\n240\n120"
+  }
+}

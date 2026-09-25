@@ -1,0 +1,25 @@
+{
+  "id": "4f88e140-4ace-494c-bac0-4d414df74cee",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-2.fna.fbcdn.net/v/t39.30808-6/808565044_2843920732642245_1305045906026765986_n.jpg?stp=dst-jpg_tt6&cstp=mx1290x1714&ctp=s1290x1714&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGTq66SILCzn_YCOE_G_pgpfjp0hMbwyA5-OnSExvDIDvkVs96rqgKZmJpZB8O5LX59amjH0C7fB3UlLLhQlbmO&_nc_ohc=P1U-soRxZ64Q7kNvwFi8JLS&_nc_oc=AdpUaS8epTBpaceTIvqsJc_j6URvg50nqypKpsWOWZh9YR-_5Bw4NlJodF6jMaNvt-s&_nc_zt=23&_nc_ht=scontent.fsgn5-2.fna&_nc_gid=BweLDtx-9RocKImgDXUoDg&_nc_ss=7b2a8&oh=00_AQLD2gAHg4eve-ISooiqJiP0n5TsDQ8miO4FSefY2VGCgg&oe=6ABB3DD4",
+  "owner_type": "post",
+  "owner_id": "5c7bc86a-9375-4694-9c32-d77d2aac62e2",
+  "photo_fbid": "2843920725975579",
+  "position": 0,
+  "storage_uri": "media/assets/e5/ad/e5ad2cc8e12fa4b8a28d712d553212eb343bb20d50cd98e7927d88737da32324.jpg",
+  "sha256": "e5ad2cc8e12fa4b8a28d712d553212eb343bb20d50cd98e7927d88737da32324",
+  "mime_type": "image/jpeg",
+  "file_size": 152243,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCLB\nCreditinFo\n470\nHạng 8 O\nNgày chấm: 23/04/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 9% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ẩn thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026, bạn\ncó khoản nợ xấu và nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!",
+  "cic_data": {
+    "is_cic": true,
+    "score": 470,
+    "tier": 8,
+    "scoring_date": "23/04/2026",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCLB\nCreditinFo\n470\nHạng 8 O\nNgày chấm: 23/04/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 9% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ẩn thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026, bạn\ncó khoản nợ xấu và nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!"
+  }
+}

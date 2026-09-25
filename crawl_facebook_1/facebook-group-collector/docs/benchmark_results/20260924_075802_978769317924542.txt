@@ -1,0 +1,59 @@
+============================================================
+ BENCHMARK REPORT — Facebook Group Collector
+============================================================
+ Target Group : 978769317924542 (https://www.facebook.com/groups/978769317924542)
+ Mode         : full
+ Crawl Date   : 2026-09-24 07:58:02 UTC
+ Hardware     : Darwin (arm), 16.0GB RAM, Python 3.11.0
+ Config       : context_count=1, comment_workers=2, media_workers=6
+
+ THROUGHPUT
+ ----------
+ Posts discovered       : 10
+ Posts new              : 7
+ Posts skipped          : 6
+ Posts/sec              : 0.2
+ Comments discovered    : 111
+ Comments new           : 61
+ Comments skipped       : 50
+ Comments/sec           : 2.3
+ Media discovered       : 9
+ Media downloaded       : 2
+ Media deduped          : 0
+ Media/sec              : 0.0
+
+ TIMING BREAKDOWN (avg per operation)
+ ------------------------------------
+ Browser: feed scroll + parse : 2,251.0 ms/post
+ Browser: post page open      : 3,317.9 ms/post
+ Browser: comment extraction  : 2,824.8 ms/post
+ Storage: flush (posts)       : 10.2 ms/batch
+ Storage: flush (comments)    : 8.2 ms/batch
+ Media: download              : 0.1 ms/file
+ Media: sha256 hashing        : 0.1 ms/file
+ Media: storage write         : 1.9 ms/file
+
+ QUEUE DEPTHS (peak)
+ -------------------
+ post_queue    : 1 / 2000 (0.1%)
+ comment_queue : 1 / 5000 (0.0%)
+ media_queue   : 6 / 5000 (0.1%)
+
+ RELIABILITY
+ -----------
+ Errors        : 28
+ Retries       : 21
+ PARTIAL posts : 0
+ FAILED posts  : 0
+
+ RESOURCES
+ ---------
+ Peak memory RSS : 39.3 MB
+ Elapsed time    : 00:00:48
+
+ BOTTLENECK ANALYSIS & DECISION
+ ------------------------------
+- Page load is bottleneck (browser.post_page_open avg 3317.9 ms > 3000 ms) — Recommended Action: enable asset/font blocking in browser context
+- DOM comment parsing is slow (browser.comment_extraction avg 2824.8 ms > 2000 ms) — Recommended Action: optimize selector queries and reduce evaluate calls
+- Error rate high (28/121 items, 23.1%) — Recommended Action: investigate network stability or DOM selector updates
+============================================================

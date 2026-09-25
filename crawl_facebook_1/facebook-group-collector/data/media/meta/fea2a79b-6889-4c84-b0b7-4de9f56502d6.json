@@ -1,0 +1,24 @@
+{
+  "id": "fea2a79b-6889-4c84-b0b7-4de9f56502d6",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-2.fna.fbcdn.net/v/t39.30808-6/763298737_2073590676871556_3486267223075360107_n.jpg?stp=dst-jpg_tt6&cstp=mx1220x2712&ctp=s1220x2712&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeE-wE9NV1QAW10jJdg2mRxX8LeFPjSgT2fwt4U-NKBPZ09ksrjA2EW8mL5FCotFUKD7AUxLC2i5_Zup8XVWrbqB&_nc_ohc=3mhXww77ibsQ7kNvwHd3vZV&_nc_oc=AdpPd_L1agL7d6plbA2WtKLtMcJ1j2caRcgCworYBrp-_wDaqZuKCa2SFpYxeZcNtgw&_nc_zt=23&_nc_ht=scontent.fsgn5-2.fna&_nc_gid=YYmZ4HhVN33Jbpo7WoEbng&_nc_ss=7b2a8&oh=00_AQLXowX3wSKIM_LMXtwCXAIewL1BcN-bWRsl82Kp6SXW5A&oe=6ABB6F89",
+  "owner_type": "post",
+  "owner_id": "c902e24e-5d56-40ca-8a10-74d9f5768b7a",
+  "photo_fbid": "2073590673538223",
+  "position": 0,
+  "storage_uri": "media/assets/59/2e/592e9e752fd6a2b7128f9e3cf8208e8b0f4cb3e09db119d63a7cec0ef02f589c.jpg",
+  "sha256": "592e9e752fd6a2b7128f9e3cf8208e8b0f4cb3e09db119d63a7cec0ef02f589c",
+  "mime_type": "image/jpeg",
+  "file_size": 200453,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "0:09\n...\n*\n4G\nLis walll\n(3)\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n588\nHạng 4 Q\nNgày chấm: 22/07/2026\nCao hơn 48% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n4 Hôm nay có gì mới\nBạn có nền tảng tài chính ổn\nTiếp tục trau dồi kỹ năng đầu tư\nchứng khoán với 100 triệu vốn ảo\nThử ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điếm)\n588\nĐể xem các thông tin bị khóa (&), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 588,
+    "tier": 4,
+    "scoring_date": "22/07/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "0:09\n...\n*\n4G\nLis walll\n(3)\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n588\nHạng 4 Q\nNgày chấm: 22/07/2026\nCao hơn 48% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n4 Hôm nay có gì mới\nBạn có nền tảng tài chính ổn\nTiếp tục trau dồi kỹ năng đầu tư\nchứng khoán với 100 triệu vốn ảo\nThử ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điếm)\n588\nĐể xem các thông tin bị khóa (&), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

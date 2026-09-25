@@ -1,0 +1,24 @@
+{
+  "id": "0c376d5d-7307-4c4f-892d-6974e3cf8235",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/779944703_3650505545102539_9141231870684567172_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEXtp_iHZYVywZV6EXlTh_w7Kfy9ATK76fsp_L0BMrvp9d8h7cXCQiiesu4gbSFmScXA6_lDuv670AW8QMoH1AI&_nc_ohc=UawDRw927FoQ7kNvwEi5h5C&_nc_oc=AdpqNaXgoJumhW-U1AAvnSi5xhY5WILUYMuKWGosI9hPHEpVjL4VwkTMwgL3W-d_dBc&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=tf951N03A08ASFeZbLAx6w&_nc_ss=7b2a8&oh=00_AQIwXby3Hhj-_prGydr8qpuFuqyogNdBhBjvzWAkV1adRQ&oe=6ABB7A77",
+  "owner_type": "post",
+  "owner_id": "a7462af5-7570-49ad-b2aa-841ce4923713",
+  "photo_fbid": "3650505541769206",
+  "position": 0,
+  "storage_uri": "media/assets/88/07/8807ea1b2cc033f548cd7c0d34f3db83e9b4adcd4d16ecc6b25dee6c19d5faba.jpg",
+  "sha256": "8807ea1b2cc033f548cd7c0d34f3db83e9b4adcd4d16ecc6b25dee6c19d5faba",
+  "mime_type": "image/jpeg",
+  "file_size": 107171,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "10:44\nThông tin dư nợ\n98\nẤn thông tin\nThông tin dư nợ\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n142 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n8\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ\nNợ cần chú ý O\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh tại\n8\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "22/07/2026",
+    "total_debt": "142 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "10:44\nThông tin dư nợ\n98\nẤn thông tin\nThông tin dư nợ\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n142 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n8\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ\nNợ cần chú ý O\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh tại\n8\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c83a70cc-c312-4ed7-9835-628ade3110fe",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/789446304_4119033784895551_1030347411074576757_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1600&ctp=s720x1600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEJFljyrRWGb4FkEKXlX76Q9-tMvxJGJhf360y_EkYmF0QYt9wO0R40mL0UiUVTwQGLwu5_MY4JiIQeaprPi2BS&_nc_ohc=_uefvm6i1T0Q7kNvwFTpqLs&_nc_oc=AdqcaDZa5EUOIs0QlDw4KpJafvRB9ofCLA3syyZT3gg2n2kDqLz8Akq5nZSNH43ldzM&_nc_zt=23&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=kRFVQPr8YXGmIfngoFKzjw&_nc_ss=7b2a8&oh=00_AQJd009Ojdrv2752VSmYR6OjKd9fqcbsWsbxJjpyx0qDdg&oe=6ABB7898",
+  "owner_type": "post",
+  "owner_id": "7878afe6-044a-4d96-aa2c-c88ea020a94a",
+  "photo_fbid": "4119033778228885",
+  "position": 0,
+  "storage_uri": "media/assets/9c/4d/9c4db55c0afdc48d8f5e3858aa81961ac03d7b7a47e2385bebe2e2379f0ee3f8.jpg",
+  "sha256": "9c4db55c0afdc48d8f5e3858aa81961ac03d7b7a47e2385bebe2e2379f0ee3f8",
+  "mime_type": "image/jpeg",
+  "file_size": 92492,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "2180 AL\nall 236\nKiếm tra Điểm tn dụng CIC\nCCB\nCreditinFo\n637\nHạng 2 O\nNgày chấm: 22/07/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 92% khách hàng cá nhân\nkhác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm\n91 Triệu VNĐ\n--\n--\n<",
+  "cic_data": {
+    "is_cic": true,
+    "score": 637,
+    "tier": 2,
+    "scoring_date": "22/07/2026",
+    "total_debt": "91 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "2180 AL\nall 236\nKiếm tra Điểm tn dụng CIC\nCCB\nCreditinFo\n637\nHạng 2 O\nNgày chấm: 22/07/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 92% khách hàng cá nhân\nkhác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm\n91 Triệu VNĐ\n--\n--\n<"
+  }
+}

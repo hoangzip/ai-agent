@@ -1,0 +1,25 @@
+{
+  "id": "542bab0f-59a7-4adc-89e4-9eeed7a21274",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/758943799_1683438103782706_8443150768789137110_n.jpg?stp=dst-jpg_tt6&cstp=mx444x960&ctp=s444x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFBZpXMeAmQ73nNgW6iG1Szt-dNHwNsyom3500fA2zKiYgyHVX2LTHAJw1L3X4g6b1uMWnYsvYmEh-M3cCldCHg&_nc_ohc=2Rmr5NLGg_wQ7kNvwG_faqP&_nc_oc=AdqSVgKUaGaoZBtKnjz5VRC3KCOPOf9LvDmsSfz0zRl_TK9rBep56gG3jBMU7BhJvcE&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=A_qHVO4PztAdmlYczxM9eA&_nc_ss=7b2a8&oh=00_AQIKYeT2EQVlWjsbI-YLGYjK8i22-mxBeI8BXeaqNmXBeA&oe=6ABB86F7",
+  "owner_type": "post",
+  "owner_id": "90399bbc-0ae2-48eb-b40c-678303b2ca05",
+  "photo_fbid": "1683438097116040",
+  "position": 0,
+  "storage_uri": "media/assets/3e/46/3e46174ab981005a2eb6e070aa9fd1ea3bf7d4b05847f768f500a34ae01caf53.jpg",
+  "sha256": "3e46174ab981005a2eb6e070aa9fd1ea3bf7d4b05847f768f500a34ae01caf53",
+  "mime_type": "image/jpeg",
+  "file_size": 42767,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "06:30 1\n< Kiểm tra Điểm tín dụng CIC\n•il 4G\n308\n480\n360\n240\n120\n6/2026\nKỳ mới\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 23/06/2026,\nbạn có khoản nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n2 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCLCB\nCreditinzo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC\nsang tài khoản MoMo\nĐồng bộ dữ liệu CIC\nCập nhật Điểm tháng mới",
+  "cic_data": {
+    "is_cic": true,
+    "score": 308,
+    "tier": 10,
+    "scoring_date": "23/06/2026",
+    "total_debt": "2 Triệu VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "06:30 1\n< Kiểm tra Điểm tín dụng CIC\n•il 4G\n308\n480\n360\n240\n120\n6/2026\nKỳ mới\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 23/06/2026,\nbạn có khoản nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n2 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCLCB\nCreditinzo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC\nsang tài khoản MoMo\nĐồng bộ dữ liệu CIC\nCập nhật Điểm tháng mới"
+  }
+}

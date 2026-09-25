@@ -1,0 +1,24 @@
+{
+  "id": "9d996dbc-1b22-4836-a7ee-668c5d722831",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-2.xx.fbcdn.net/v/t39.30808-6/732961757_122174555162623992_6296044766599840369_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEdP0GF8Eqgvn-gCYshFGnvMWOSfhgyDTMxY5J-GDINM-jIdP-tNbn33iddW-s7JYKn2jSUpRRyM5PKpFpH8YCR&_nc_ohc=2cdn4F1-wwQQ7kNvwExIlh7&_nc_oc=Adpg-bsec5ycdbWysQfIEqCru_VroL6hWhnszKkt_fFMRd0aqxl-rTlTFDKSy9LNlX0&_nc_zt=23&_nc_ht=scontent-sin2-2.xx&_nc_gid=OOcQLbe_04gkCUoYnGp9jg&_nc_ss=7b2a8&oh=00_AQKtoQerlYzX7S-x7RZPJ__8D2JHanQ0tbxj0siA9zMUxA&oe=6ABBC509",
+  "owner_type": "post",
+  "owner_id": "e2c33a76-91f4-4fa3-9aa2-218f391767b4",
+  "photo_fbid": "122174555156623992",
+  "position": 0,
+  "storage_uri": "media/assets/78/b9/78b90ae8254428b362feb7c1e83fddcf1d5d5f806fcaf9b559a37b33abca30d9.jpg",
+  "sha256": "78b90ae8254428b362feb7c1e83fddcf1d5d5f806fcaf9b559a37b33abca30d9",
+  "mime_type": "image/jpeg",
+  "file_size": 160756,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "19:30\n075 Yea 01 ml 35%\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n559\nHạng 6 0\nNgày chấm: 23/06/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 26% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n559\n850\n680\n510\nĐể xem các thông tin bị khóa (&), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 559,
+    "tier": 6,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "19:30\n075 Yea 01 ml 35%\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n559\nHạng 6 0\nNgày chấm: 23/06/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 26% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n559\n850\n680\n510\nĐể xem các thông tin bị khóa (&), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

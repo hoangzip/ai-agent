@@ -1,0 +1,26 @@
+{
+  "id": "eec4a765-5b8d-4f1e-ae38-66405a03b718",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-21.fna.fbcdn.net/v/t39.30808-6/787993123_2466914761345873_1959047818376706715_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH2WvJUb0Qb0XbF6mwZU5QtFV-WXH1JPQAVX5ZcfUk9AHjgTkx6T-xlX8iMiKQKng2o6rmBal8E5gmeDK5DIszL&_nc_ohc=FywNn-j__z0Q7kNvwFwjif7&_nc_oc=AdrdvlSYUHofcwM7yKFksZJx8IobUeg9QYUsqYwFm5ZpCgXk1WbzD9_TgyJlGYwfTiY&_nc_zt=23&_nc_ht=scontent.fsgn5-21.fna&_nc_gid=Akg66ycZVYrxS5Ta4IsShQ&_nc_ss=7b2a8&oh=00_AQInI0eIg8_rP3Dt4O0s3CxYaDEFwRCvDMZxNloLDCIaSg&oe=6ABB4639",
+  "owner_type": "post",
+  "owner_id": "673b0272-c13f-42bb-bb0b-d813d190bc43",
+  "photo_fbid": "2466914758012540",
+  "position": 0,
+  "storage_uri": "media/assets/c5/59/c55932ee9f38deb1acf9860db2dcd6ed26b998e01cf654de287a5b42c83aa0c2.jpg",
+  "sha256": "c55932ee9f38deb1acf9860db2dcd6ed26b998e01cf654de287a5b42c83aa0c2",
+  "mime_type": "image/jpeg",
+  "file_size": 141451,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "21:03\n:!! LTE 50\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n593\nHạng 4 O\nNgày chẩm: 21/08/2026\nĐiểm cao hơn 55% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiêm CIC tôt, thêm đặc quyên\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n23 Triệu VNĐ\nDư nợ khoản vay\n0 VNĐ\nDư nợ thẻ tín dụng\n23 Triệu VNĐ\nVị thế tài chính tháng này",
+  "cic_data": {
+    "is_cic": true,
+    "score": 593,
+    "tier": 4,
+    "scoring_date": "21/08/2026",
+    "total_debt": "23 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "21:03\n:!! LTE 50\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n593\nHạng 4 O\nNgày chẩm: 21/08/2026\nĐiểm cao hơn 55% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiêm CIC tôt, thêm đặc quyên\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n23 Triệu VNĐ\nDư nợ khoản vay\n0 VNĐ\nDư nợ thẻ tín dụng\n23 Triệu VNĐ\nVị thế tài chính tháng này"
+  }
+}

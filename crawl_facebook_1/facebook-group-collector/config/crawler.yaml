@@ -1,0 +1,69 @@
+# Crawler configuration
+# All values configurable here; NONE hard-coded in source.
+
+crawler:
+  mode: full  # full | incremental | deep | refresh
+
+browser:
+  context_count: 1
+  feed_pages: 1
+  comment_pages: 2
+  headless: false
+  browser_state_path: data/browser_state/default.json
+  scroll_delay_min_ms: 500
+  scroll_delay_max_ms: 2000
+  page_timeout_ms: 30000
+  navigation_timeout_ms: 60000
+  block_resources: false  # Block heavy fonts/images in comment extraction pages for speed
+  channel: chrome
+
+workers:
+  comment_workers: 2
+  media_workers: 6
+
+queues:
+  posts: 2000
+  comments: 5000
+  media: 5000
+
+# File-based JSON storage (no database required)
+storage:
+  data_dir: data              # Root data directory (gitignored)
+  pretty_json: true           # Pretty-print JSON for human readability
+  posts_batch: 50
+  comments_batch: 100
+  actors_batch: 50
+  flush_ms: 2000
+
+media:
+  workers: 6
+  storage_path: data/media/assets
+  download_timeout_sec: 60
+  max_retries: 3
+
+checkpoint:
+  every_posts: 20
+  every_seconds: 15
+
+incremental:
+  stop_after_consecutive_known_posts: 30
+
+revisit:
+  interval_under_1d_hours: 1
+  interval_1_to_3d_hours: 6
+  interval_3_to_7d_hours: 12
+  interval_7_to_30d_hours: 24
+  interval_30_to_90d_hours: 72
+  interval_over_90d_days: 7
+
+limits:
+  max_posts: null
+
+metrics:
+  emit_every_seconds: 10
+  log_level: INFO
+
+retry:
+  max_attempts: 3
+  backoff_base_seconds: 2
+  backoff_max_seconds: 30

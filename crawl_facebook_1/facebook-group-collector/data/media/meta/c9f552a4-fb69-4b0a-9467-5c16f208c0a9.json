@@ -1,0 +1,30 @@
+{
+  "id": "c9f552a4-fb69-4b0a-9467-5c16f208c0a9",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-6/823587644_958370547309346_831772928263044849_n.jpg?stp=dst-jpg_tt6&cstp=mx1055x2048&ctp=s1055x2048&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG5PeyP8FTBo8OPcD_krgcarcGo05CbsCqtwajTkJuwKsbkZZvqGZd9SJU0uW3kbeIlsO-4B_m-YwF3nGda8rYa&_nc_ohc=EyU9RgkoVycQ7kNvwGppPmT&_nc_oc=Adqp3fqvebl_5_9Y8uU_fQItwknIeAJCx6-nkjOdjgV5at1IsApT6xCFQE6UiV9Cai8&_nc_zt=23&_nc_ht=scontent.fsgn5-13.fna&_nc_gid=QF_wseBCIpO9ReaASl7cwQ&_nc_ss=7b2a8&oh=00_AQIggd3BkJJ49LwtNDlh_o3Nof2XdM4opgAYZYw6qGIBDg&oe=6ABB4072",
+  "owner_type": "post",
+  "owner_id": "0f89b372-4c6a-45b7-b10e-19ee2da54303",
+  "position": 0,
+  "storage_uri": "media/assets/fa/18/fa18c253614de26e2ee126c444d24d91f2ba89c0f76e469a5fb5478fb8175472.jpg",
+  "sha256": "fa18c253614de26e2ee126c444d24d91f2ba89c0f76e469a5fb5478fb8175472",
+  "mime_type": "image/jpeg",
+  "file_size": 203257,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Báo cáo\nNgày hỏi tin: 24/09/2026 21:16:05\n1. THÔNG TIN TÍN DỤNG CỦA KHÁCH HÀNG TẠI KHO DỮ LIỆU CIC\n1. Thông tin định danh\nTên khách hàng:\nVÙ THỊ ĐEN\nNgày tháng năm sinh:\n01/01/1981\nMã số CIC:\n8032129084\nĐịa chỉ:\nTÔ 7, XÃ LONG HẬU, HUYỆN CẦN GIUỘC, TỈNH LONG AN\nĐiện thoại:\n0774170214\n+ 091181014789\nSố CCCD/CMND:\n+ 370949805\nNgày trả lời: 24/09/2026 21:16:05\n2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\n1\nHiện tại khách hàng không còn dư nợ tại các TCTD\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgày phát sinh ng\ncần chú ý gần nhất\nNgày phát sinh n\ncấu gần nhâ\n1\nCông ty Tài chính TNHH Ngân hàng Việt Nam Thịnh\nVượng SMBC\n28/02/2023\nLưu ý: Thông tin lịch sử nợ cần chú ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại bảng và các khoai\ncấp tín dụng khác. Lịch sử nợ cần chú ý trong 12 tháng gần nhất; lịch sử nợ xấu trong vòng 05 năm gầ\nnhất.\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\n1\nBảo đăm tiền vay bằng tài sản\nKhông có\nII.",
+  "cic_data": {
+    "is_cic": true,
+    "score": 580,
+    "tier": 5,
+    "scoring_date": "21/09/2026",
+    "customer_name": "VÙ THỊ ĐEN",
+    "date_of_birth": "01/01/1981",
+    "cic_code": "8032129084",
+    "address": "TÔ 7, XÃ LONG HẬU, HUYỆN CẦN GIUỘC, TỈNH LONG AN",
+    "phone_number": "0774170214",
+    "id_card_number": "370949805",
+    "has_bad_debt": true,
+    "provider": "MB Shinsei",
+    "raw_text": "Báo cáo\nNgày hỏi tin: 24/09/2026 21:16:05\n1. THÔNG TIN TÍN DỤNG CỦA KHÁCH HÀNG TẠI KHO DỮ LIỆU CIC\n1. Thông tin định danh\nTên khách hàng:\nVÙ THỊ ĐEN\nNgày tháng năm sinh:\n01/01/1981\nMã số CIC:\n8032129084\nĐịa chỉ:\nTÔ 7, XÃ LONG HẬU, HUYỆN CẦN GIUỘC, TỈNH LONG AN\nĐiện thoại:\n0774170214\n+ 091181014789\nSố CCCD/CMND:\n+ 370949805\nNgày trả lời: 24/09/2026 21:16:05\n2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\n1\nHiện tại khách hàng không còn dư nợ tại các TCTD\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgày phát sinh ng\ncần chú ý gần nhất\nNgày phát sinh n\ncấu gần nhâ\n1\nCông ty Tài chính TNHH Ngân hàng Việt Nam Thịnh\nVượng SMBC\n28/02/2023\nLưu ý: Thông tin lịch sử nợ cần chú ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại bảng và các khoai\ncấp tín dụng khác. Lịch sử nợ cần chú ý trong 12 tháng gần nhất; lịch sử nợ xấu trong vòng 05 năm gầ\nnhất.\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\n1\nBảo đăm tiền vay bằng tài sản\nKhông có\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiêm tín dụng:\n580\nHạng:\n5\nNgày chấm điểm:\n21/09/2026\nXếp hạng của\nkhách hàng\n42\nĐiêm tín dụng của khách hàng cac\nhơn điểm tín dụng của 42% tồng\n- 50% khách hàng cá nhân được châm điêm\ntại kho dữ liệu CIC.\n0%\nCHI TIẾT ĐIỂM VÀ HẠNG\nXấu\nDưới trung bình Trung bình\nTốt\nRất tốt\nHạng\n10\n09\n08\n07\n06\n05\n04\n03\n02\n01\nĐiêm 403-434 435-454 455-479 480-544 545-566 567-587 588-608 609-622 623-644 645-706\nĐiêm hạng của khách hàng\nLưu ý:\n- Điểm tín dụng của khách hàng vay được C/C đánh giá trên toàn bộ dữ liệu quan hệ tín dụng cua\nkhách hàng vay tại thời điêm cuối tháng gần nhất so với thời điêm chấm. Điêm tín dụng được CIC chấm\ncân nht đinh l hàn thán tho bin đ tho ti t ko m kh hàn van"
+  }
+}

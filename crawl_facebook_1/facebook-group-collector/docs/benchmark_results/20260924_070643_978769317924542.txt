@@ -1,0 +1,57 @@
+============================================================
+ BENCHMARK REPORT — Facebook Group Collector
+============================================================
+ Target Group : 978769317924542 (https://www.facebook.com/groups/978769317924542)
+ Mode         : full
+ Crawl Date   : 2026-09-24 07:06:43 UTC
+ Hardware     : Darwin (arm), 16.0GB RAM, Python 3.11.0
+ Config       : context_count=1, comment_workers=2, media_workers=6
+
+ THROUGHPUT
+ ----------
+ Posts discovered       : 10
+ Posts new              : 10
+ Posts skipped          : 0
+ Posts/sec              : 0.0
+ Comments discovered    : 100
+ Comments new           : 0
+ Comments skipped       : 100
+ Comments/sec           : 0.0
+ Media discovered       : 20
+ Media downloaded       : 20
+ Media deduped          : 0
+ Media/sec              : 0.0
+
+ TIMING BREAKDOWN (avg per operation)
+ ------------------------------------
+ Browser: feed scroll + parse : 1.1 ms/post
+ Browser: post page open      : 2.1 ms/post
+ Browser: comment extraction  : 3.1 ms/post
+ Storage: flush (posts)       : 1.6 ms/batch
+ Storage: flush (comments)    : 0.7 ms/batch
+ Media: download              : 1.0 ms/file
+ Media: sha256 hashing        : 0.0 ms/file
+ Media: storage write         : 0.0 ms/file
+
+ QUEUE DEPTHS (peak)
+ -------------------
+ post_queue    : 0 / 2000 (0%)
+ comment_queue : 0 / 5000 (0%)
+ media_queue   : 0 / 5000 (0%)
+
+ RELIABILITY
+ -----------
+ Errors        : 0
+ Retries       : 0
+ PARTIAL posts : 0
+ FAILED posts  : 0
+
+ RESOURCES
+ ---------
+ Peak memory RSS : 28.5 MB
+ Elapsed time    : 00:00:00
+
+ BOTTLENECK ANALYSIS & DECISION
+ ------------------------------
+- No critical bottlenecks detected. Pipeline operating within performance thresholds.
+============================================================

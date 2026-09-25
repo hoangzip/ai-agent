@@ -1,0 +1,25 @@
+{
+  "id": "b16e29c3-7371-4027-b151-fda587cc028b",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/784506869_3211646945708660_9114837894435561320_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFqj8i_XIBXS1IngejWYRN22pxWCaxcylHanFYJrFzKUd57C5n2A5mweqYyLZgEeFi73VwjVF6oPOZi17dTCCSp&_nc_ohc=hmcrpeKGANkQ7kNvwGAJIow&_nc_oc=AdpqUD2_jHt2AidZjmtfiju5Yxq1VJvdNl-12kcsKYU4A0jNNrIsoYLTL8v1VUWr0SE&_nc_zt=23&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=L1pxBCs6H_CnAYel3R12ug&_nc_ss=7b2a8&oh=00_AQLs0xaze11O5dOLHSz74A3sQlttr0PJIK9lPsS8Oq5dCg&oe=6ABB43F6",
+  "owner_type": "post",
+  "owner_id": "e46f188e-0711-4998-be94-9291c4df756c",
+  "photo_fbid": "3211646942375327",
+  "position": 0,
+  "storage_uri": "media/assets/9a/82/9a8220b8820d77e4ce1ec00338437f23b1de53ba9d1197eceb7466f8fbc82552.jpg",
+  "sha256": "9a8220b8820d77e4ce1ec00338437f23b1de53ba9d1197eceb7466f8fbc82552",
+  "mime_type": "image/jpeg",
+  "file_size": 121325,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "11:40\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n580\nHạng 5 0\nNgày chấm: 21/08/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 42% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẤn thông tin\n14 Triệu VNĐ\n11 Triệu VNĐ\n3 Triệu VNĐ\nCập nhật Điểm tháng mới\n& Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 580,
+    "tier": 5,
+    "scoring_date": "21/08/2026",
+    "total_debt": "14 Triệu VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "11:40\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n580\nHạng 5 0\nNgày chấm: 21/08/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 42% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẤn thông tin\n14 Triệu VNĐ\n11 Triệu VNĐ\n3 Triệu VNĐ\nCập nhật Điểm tháng mới\n& Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

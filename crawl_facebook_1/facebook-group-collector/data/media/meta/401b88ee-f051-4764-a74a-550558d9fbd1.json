@@ -1,0 +1,24 @@
+{
+  "id": "401b88ee-f051-4764-a74a-550558d9fbd1",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/800066282_1114069007965911_548745581470716241_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeELoNAuIt6VXX_KDIDwz4bLQ9ev_5ltbOlD16__mW1s6TqAs7J6CRjX_hr1jth_tdGgHSCWYi_4-eSGeAtIAkOh&_nc_ohc=UYbE-AxZB1IQ7kNvwGIUU5_&_nc_oc=Adp7GIu3WDYP4ZLQpp8OW6dc8MneSkaTAwo8Zk9Qguq6TjXOm3D_2OfGDSL9GKnQfHY&_nc_zt=23&_nc_ht=scontent.fsgn5-8.fna&_nc_gid=1evHEOFefN2nKfXuD4fBcg&_nc_ss=7b2a8&oh=00_AQIOhc4AxW3aSSD5WZvLCzUnjBoXz0wnFkOPgspXi3I5cA&oe=6ABB452A",
+  "owner_type": "post",
+  "owner_id": "c22f5bd9-b880-4991-b1f1-9cb82016714b",
+  "photo_fbid": "1114069001299245",
+  "position": 0,
+  "storage_uri": "media/assets/3d/3c/3d3c617a151ba431842275445e8ae03c4c0e2d33c34a5eb23074ba66d6bbb4c9.jpg",
+  "sha256": "3d3c617a151ba431842275445e8ae03c4c0e2d33c34a5eb23074ba66d6bbb4c9",
+  "mime_type": "image/jpeg",
+  "file_size": 190197,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "23:38\n16\nBáo cáo\nTổng cộng\n15\n1\nLưu ý:\n- Tổng dư nợ bao gồm cà khoán nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phú/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ số ngày chậm thanh toán từ 10 -90\nngày đổi với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\nnước Việt Nam).\n- Nợ xấu gồm các khoản nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán trên 90 ngày\nđồi với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chính phủ/ Ngân hàng nhà\nnước Việt Nam).\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chỉ nhánh TCTD\nNgày phát sinh nợ\nNgày phát sinh nợ\ncần chú ý gần nhất\nxấu gần nhất\n1\nNgân hàng TMCP Tiên Phong (Thẻ)\n22/01/2026\ncu ý: Thông tin lịch sử nợ cân chú ý và nợ xâu bao g",
+  "cic_data": {
+    "is_cic": true,
+    "score": 594,
+    "tier": 4,
+    "scoring_date": "21/08/2026",
+    "provider": "TPBank",
+    "raw_text": "23:38\n16\nBáo cáo\nTổng cộng\n15\n1\nLưu ý:\n- Tổng dư nợ bao gồm cà khoán nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phú/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ số ngày chậm thanh toán từ 10 -90\nngày đổi với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\nnước Việt Nam).\n- Nợ xấu gồm các khoản nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán trên 90 ngày\nđồi với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chính phủ/ Ngân hàng nhà\nnước Việt Nam).\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chỉ nhánh TCTD\nNgày phát sinh nợ\nNgày phát sinh nợ\ncần chú ý gần nhất\nxấu gần nhất\n1\nNgân hàng TMCP Tiên Phong (Thẻ)\n22/01/2026\ncu ý: Thông tin lịch sử nợ cân chú ý và nợ xâu bao gồm thông tin nợ vay, cam kết ngoại bảng và các kho\np tín dụng khác. Lịch sử nợ cần chú ý trong 12 tháng gần nhất; lịch sử nợ xấu trong vòng 05 năm g\nnhất.\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\n1\nBảo đảm tiền vay bằng tài sản\nKhông có\n1\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiểm tín dụng:\n594\nHạng:\n4\nNgày chấm điểm:\n21/08/2026\nXêp hạng của\nkhách hàng\nĐiểm tín dụng của khách hàng cao\nhơn điểm tin dụng của 55% tổng\n55\n- 50%\nkhách hàng cá nhân được chấm điểm\ntại kho dữ liệu CIC\n0%\nCHI TIẾT ĐIỂM VÀ HẠNG\nXấu\nHạng\n10\n09\nDưới trung bình Trung bình\n08\n07\n06\n05\nTốt\n04\n03\nRất tốt\n02 01\nĐiêm 403-434 435-454 455-479 480-544 545-566 567-587 588-608 609-622 623-644 645-706\nĐiểm hạng của khách hàng\nLưu ý:\n- Điêm tín dụng của khách hàng vay được C/C đánh giá trên toàn bộ dữ liệu quan hệ tín dụng của\nkhách hàng vay tại thời điểm cuối tháng gần nhất so với thời điểm chẩm. Điểm tín dụng được C/C châm\ncập nhật định kỳ hàng tháng theo biến động thông tin tin dụng của khách hàng vay.\n- Mô hình châm điêm thê nhân được C/C phôi hợp với đối tác có uy tin trên thê giới xây dựng, sử dụng\ncác công thức tinh toán công băng, khách quan nhằm hồ trợ khách hàng vay kiêm soát tình trạng tín dụng\ncủa bản thân và cung câp thêm thông tin tham khảo giúp TCTD đánh giá nhanh chóng, chính xác đê nghị"
+  }
+}

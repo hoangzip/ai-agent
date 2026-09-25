@@ -1,0 +1,25 @@
+{
+  "id": "619366ed-3b27-4290-9fd7-db0c4a3762e6",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-7.fna.fbcdn.net/v/t39.30808-6/817867517_122195244464592448_2490790563143927084_n.jpg?stp=dst-jpg_tt6&cstp=mx828x1401&ctp=s828x1401&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFtrCwyKC1vJL6UwxAkqh7lm0t31FZ_gwObS3fUVn-DAxvEmKalKgSVyrrNYr2j4Q9ury05gg8ozA8UYCM1T0Fq&_nc_ohc=Zz-zBTESQ3MQ7kNvwH0aSDw&_nc_oc=AdrFgyLtL5L6WxLHrp8CkNg0_vORmsFoJEPpold3C0B1MYfabaOoKmnZgVcN7Z9Whjg&_nc_zt=23&_nc_ht=scontent.fsgn5-7.fna&_nc_gid=7I_nhGvrl0NmTvHrWdgNmA&_nc_ss=7b2a8&oh=00_AQLTcWS3yZF5gUwJC_1xEZ7p69Tp62XbhXSXpdxm-3fkGw&oe=6ABB5072",
+  "owner_type": "post",
+  "owner_id": "53fe3daa-b48d-4375-8bca-cade2f42d3b3",
+  "photo_fbid": "122195244458592448",
+  "position": 0,
+  "storage_uri": "media/assets/3b/eb/3bebd8158f0950e387875879aa1c795dea6524e22a9cd87235c8f9200ae50389.jpg",
+  "sha256": "3bebd8158f0950e387875879aa1c795dea6524e22a9cd87235c8f9200ae50389",
+  "mime_type": "image/jpeg",
+  "file_size": 91472,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "07:09 -\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n570\nHạng 5 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 34% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nơ thẻ tín duna\n*****",
+  "cic_data": {
+    "is_cic": true,
+    "score": 570,
+    "tier": 5,
+    "scoring_date": "21/08/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "07:09 -\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n570\nHạng 5 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 34% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nơ thẻ tín duna\n*****"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "870c6abf-562d-4f01-b6d7-362946cbe8bc",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-6/786313760_1093717406336214_4515586474418560400_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1150x2048&ctp=s1150x2048&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGjnuJuDzIFqlFQmhMk-1JL-xxlQe-CobT7HGVB74KhtAzhj67Fk52QvMy-R3E9PTrxYqWSJTtFHKmXwDS8RBy0&_nc_ohc=zGBD2_k4mbcQ7kNvwHugk8L&_nc_oc=Ado-_UsWhoGIFtBniju2CtyQ0_FC0aH8s9U8bTNapKtlbjOe58KECYYBuXek9kwrAgs&_nc_zt=23&_nc_ht=scontent.fsgn5-13.fna&_nc_gid=Ja_Bmj2KneS0TZKVDrIE4g&_nc_ss=7b2a8&oh=00_AQLIuAbYNL2F6jb2XUtSKTp9enuO8CjrGzdEeMA7wGdG8A&oe=6ABB6402",
+  "owner_type": "post",
+  "owner_id": "416db029-0b65-42bc-b9c9-1bcea90f919d",
+  "photo_fbid": "1093717399669548",
+  "position": 0,
+  "storage_uri": "media/assets/d3/14/d3145abc89d615fbaf2a37ec630e3ef39a7514d6606c7eab57e9e91a116e9ef1.jpg",
+  "sha256": "d3145abc89d615fbaf2a37ec630e3ef39a7514d6606c7eab57e9e91a116e9ef1",
+  "mime_type": "image/jpeg",
+  "file_size": 127304,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCreditinFo\n614\nHạng 3 0\nNgày chấm: 12/02/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 72% khách hàng cá nhân khác\nChia sẻ Gi\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\ng\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền lợi\ndành cho bạn.\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nC ẨN thông tin\n145 Triệu VNĐ\n64 Triệu VNĐ\n81 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 614,
+    "tier": 3,
+    "scoring_date": "12/02/2026",
+    "total_debt": "145 Triệu VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCreditinFo\n614\nHạng 3 0\nNgày chấm: 12/02/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 72% khách hàng cá nhân khác\nChia sẻ Gi\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\ng\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền lợi\ndành cho bạn.\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nC ẨN thông tin\n145 Triệu VNĐ\n64 Triệu VNĐ\n81 Triệu VNĐ"
+  }
+}

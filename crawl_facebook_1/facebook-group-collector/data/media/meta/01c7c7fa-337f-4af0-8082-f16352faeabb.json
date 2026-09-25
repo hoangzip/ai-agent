@@ -1,0 +1,23 @@
+{
+  "id": "01c7c7fa-337f-4af0-8082-f16352faeabb",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-6.fna.fbcdn.net/v/t39.30808-6/786352870_2474213136402085_5831790690481789204_n.jpg?stp=dst-jpg_tt6&cstp=mx828x1792&ctp=s828x1792&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFE2Xtx2TwNlmv0jByZM0ljCFm8hwWpXpkIWbyHBalemVXl745CtUqi8sX29lofJVSCFgpsp6qzbDmkSnuNQpbj&_nc_ohc=6RqLap3hTGYQ7kNvwH74zVV&_nc_oc=AdpjFb3Ltdys9H8wjH7oHRy0VvNWaTTiwb07NysiYfWlcMRuwwPBiZ1U5D368AenjIo&_nc_zt=23&_nc_ht=scontent.fsgn5-6.fna&_nc_gid=R8fVvwU8yH2fM_AqobUPfw&_nc_ss=7b2a8&oh=00_AQKikJiwaYegmmBaqyKB54-M4xhztbtQrxb7iVh41QQflw&oe=6ABB6674",
+  "owner_type": "post",
+  "owner_id": "d3ef83fd-9e43-4360-bedf-48c5f2848689",
+  "photo_fbid": "2474213133068752",
+  "position": 0,
+  "storage_uri": "media/assets/ee/c7/eec7ea6be9c91ef899dcc457797f74ac20e330bd54e51fdce19ed9a52b0c8a2d.jpg",
+  "sha256": "eec7ea6be9c91ef899dcc457797f74ac20e330bd54e51fdce19ed9a52b0c8a2d",
+  "mime_type": "image/jpeg",
+  "file_size": 96576,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "11:46\n< Thông tin dư nợ\nThông tin dư nợ\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ &\nNợ cần chú ý O\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh tại\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "21/08/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "11:46\n< Thông tin dư nợ\nThông tin dư nợ\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ &\nNợ cần chú ý O\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh tại\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

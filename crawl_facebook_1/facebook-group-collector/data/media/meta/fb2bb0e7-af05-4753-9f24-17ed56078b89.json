@@ -1,0 +1,25 @@
+{
+  "id": "fb2bb0e7-af05-4753-9f24-17ed56078b89",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/783012272_122284114586056999_732929169303929524_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG22G5ecQyp0Ksi4A6lCwZwF4dEZxLyTD0Xh0RnEvJMPWM1sWWwXgt7JM7653IeBAowouN3-_4Ocr_gWKd0ffVV&_nc_ohc=H6WkP1k9nc8Q7kNvwEwh2Qd&_nc_oc=Adod8iOnGHwZEmWtZCVEsF4IgTILeSvFRq-iNn8BskYVFLcOwd3F0puFGpnlxOtFRk0&_nc_zt=23&_nc_ht=scontent.fsgn5-8.fna&_nc_gid=n9hau0qPNvJTRIu-x9d9oQ&_nc_ss=7b2a8&oh=00_AQLawG0ePTjvdu7RojLvNNpowfMXAt9myMtdXj-PnHyr6g&oe=6ABB70CB",
+  "owner_type": "post",
+  "owner_id": "5194ed7e-22bd-4d5b-9f7f-9ac2d907e3f1",
+  "photo_fbid": "122284114580056999",
+  "position": 0,
+  "storage_uri": "media/assets/af/63/af63e549dce1ac352b902e7f564771ab679fbe95974009b61a33453f3dfa4c1c.jpg",
+  "sha256": "af63e549dce1ac352b902e7f564771ab679fbe95974009b61a33453f3dfa4c1c",
+  "mime_type": "image/jpeg",
+  "file_size": 141874,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "12:42\n.all LTE (134\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n559\nHạng 6 O\nNgày chẩm: 29/01/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 16% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 29/01/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n*****\nDư nợ khoản vay\n8\nDư nợ thẻ tín dụng\nCiCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 559,
+    "tier": 6,
+    "scoring_date": "29/01/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "12:42\n.all LTE (134\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n559\nHạng 6 O\nNgày chẩm: 29/01/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 16% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 29/01/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n*****\nDư nợ khoản vay\n8\nDư nợ thẻ tín dụng\nCiCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

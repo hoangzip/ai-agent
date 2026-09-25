@@ -1,0 +1,24 @@
+{
+  "id": "7248c2ae-9312-4d2c-861a-45afc51a7bba",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/786929210_28451028541250950_5854965879174815519_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1320x855&ctp=s1320x855&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG_Air0dVm-A1DAnN3B9ehCU1hvpXcNTwVTWG-ldw1PBYwuJKiKnDT-uWIGRY04Yama1PZ9QQdxMNI0EXh1ylyX&_nc_ohc=ZQHUsC7EZXEQ7kNvwFs2nDJ&_nc_oc=AdouSDGBCDmtAPrrNFZVAXDkHwjkrq60--UQ3R0Gh509ho25aumV_V_6bF3g5NrQzUo&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=-8b-IU-R8_TuRDajdfSn2w&_nc_ss=7b2a8&oh=00_AQLSFWg1rHEra2YE5oMQaSoIpx0-7_1FTsZxuYN6zjnc4w&oe=6ABB70A3",
+  "owner_type": "post",
+  "owner_id": "73b71338-4922-46c3-8bb3-0c3f205c7fa9",
+  "photo_fbid": "28451028497917621",
+  "position": 0,
+  "storage_uri": "media/assets/bd/b3/bdb339405c20b4ab3231715e79dd61dfec89b0c6c415eadc00c142c4470c368e.jpg",
+  "sha256": "bdb339405c20b4ab3231715e79dd61dfec89b0c6c415eadc00c142c4470c368e",
+  "mime_type": "image/jpeg",
+  "file_size": 59806,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "A Theo dữ liệu tính đến ngày chấm 21/08/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán đúng\nhạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n74 Triệu VNĐ\n33 Triệu VNĐ\n41 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "21/08/2026",
+    "total_debt": "74 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "A Theo dữ liệu tính đến ngày chấm 21/08/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán đúng\nhạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n74 Triệu VNĐ\n33 Triệu VNĐ\n41 Triệu VNĐ"
+  }
+}

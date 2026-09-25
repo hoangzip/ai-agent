@@ -1,0 +1,24 @@
+{
+  "id": "09fb1d48-d25d-472f-aa84-3ead49288af8",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-2.xx.fbcdn.net/v/t39.30808-6/731111670_1497306512137648_6811603562944993502_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHQpJXZ47YAI6jfhRVnNv332ed4HsAC2A7Z53gewALYDgqWmoz4si00sRye_m85QMYfxgSpPeX4No4OYeKnF1zA&_nc_ohc=ZZLuXjh30kYQ7kNvwG1Eb5H&_nc_oc=Adp3wOGKUDtpncpQ8yNWyrD9RCDPafI20ZVhFLtQrMiDKosJvSqfuQcph0oeRWWvMKY&_nc_zt=23&_nc_ht=scontent-sin11-2.xx&_nc_gid=hTKzRT5irlORrrqjXikFPg&_nc_ss=7b2a8&oh=00_AQK7Jzv2xoVOz0Q6p8t9VgAF_SqLeiSNwEZDg668LzdJqw&oe=6ABBCF38",
+  "owner_type": "post",
+  "owner_id": "66583b05-720f-44ca-888f-9040f868c288",
+  "photo_fbid": "1497306508804315",
+  "position": 0,
+  "storage_uri": "media/assets/d9/a9/d9a950872b7b131db190bb557a0800d47e68cc4a19a91ecb007d7b17893ea74c.jpg",
+  "sha256": "d9a950872b7b131db190bb557a0800d47e68cc4a19a91ecb007d7b17893ea74c",
+  "mime_type": "image/jpeg",
+  "file_size": 114098,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "11:35 1\nKiểm tra Điểm tín dụng CIC\nCICB\nCreditinFo\n568\nHạng 6 0\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay Đ\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n568\n480\n360\n240\n120",
+  "cic_data": {
+    "is_cic": true,
+    "score": 568,
+    "tier": 6,
+    "scoring_date": "22/03/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "11:35 1\nKiểm tra Điểm tín dụng CIC\nCICB\nCreditinFo\n568\nHạng 6 0\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay Đ\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n568\n480\n360\n240\n120"
+  }
+}

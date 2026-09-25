@@ -1,0 +1,24 @@
+{
+  "id": "dcc1d50d-d668-4cc4-9636-1db100286f36",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-3.xx.fbcdn.net/v/t39.30808-6/732763401_993017720024209_8942245454648116981_n.png?stp=dst-png&cstp=mx1063x2433&ctp=s1063x2433&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG6OX0m1Y3XPZxpTTrEiuywiS-l6ay5rwqJL6XprLmvCt8STC-pOaNvJVAIsUxE47UMaSd8AGtIP6v8Sr3MViNS&_nc_ohc=P4IvqxZVOb8Q7kNvwEfY_cK&_nc_oc=AdqMtBjFwNvZ-0F4dMGDhBb_qOa0iN4ypUfu76Y6FjR_utzPQEGHmHDD3QHZavmeLLM&_nc_zt=23&_nc_ht=scontent-sin2-3.xx&_nc_gid=wdhipqwIKSAg9iA0VQ6sxA&_nc_ss=7b2a8&oh=00_AQKJaL1cHzfwdVixdt0n5woNgQsfIWgMY4EkHhmuJoOCJQ&oe=6ABBEC1F",
+  "owner_type": "post",
+  "owner_id": "f8fe14f0-bf36-423a-9d59-68127c6c3a5b",
+  "photo_fbid": "993017706690877",
+  "position": 0,
+  "storage_uri": "media/assets/d0/f9/d0f97d915ae9ee2d632c2fd1eee868bfb12bb5003df66529757d56a2b7586b6e.png",
+  "sha256": "d0f97d915ae9ee2d632c2fd1eee868bfb12bb5003df66529757d56a2b7586b6e",
+  "mime_type": "image/png",
+  "file_size": 516382,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n66\n900\n600\n300\n12/2025\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n2 Tỷ 10\niệu VNĐ\nDư nợ khoản vay\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "31/12/2025",
+    "total_debt": "2 Tỷ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n66\n900\n600\n300\n12/2025\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n2 Tỷ 10\niệu VNĐ\nDư nợ khoản vay\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

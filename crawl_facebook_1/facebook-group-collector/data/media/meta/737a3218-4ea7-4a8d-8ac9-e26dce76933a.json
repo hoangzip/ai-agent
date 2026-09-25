@@ -1,0 +1,24 @@
+{
+  "id": "737a3218-4ea7-4a8d-8ac9-e26dce76933a",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/731438749_122102327204505404_5314491256657126190_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx750x1334&ctp=s750x1334&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHW9ri0cYMW1dHxeM4GCOmOgGMcnTW-aKSAYxydNb5opCkbgx0HcL_7wiek2tpg1zM4GeWiOdTU7jOirMy8xMT9&_nc_ohc=pxXWNvuRLBoQ7kNvwFe_zUB&_nc_oc=Adr7Dpab4ob5GWdAoBORFrgp86RBHTbiUAj6UW8Cf1txGWBhjyg13LgKDyAgqcdKQzg&_nc_zt=23&_nc_ht=scontent-sin6-2.xx&_nc_gid=EUbqnsuB-l5jJQuVZ5sKSQ&_nc_ss=7b2a8&oh=00_AQJThgb8Ip9sojJ_zPxBPhZn3cWomiGfP-A02ktroHQEsw&oe=6ABBE371",
+  "owner_type": "post",
+  "owner_id": "f2086c4c-da8d-40e7-a14c-590732470229",
+  "photo_fbid": "122102327198505404",
+  "position": 0,
+  "storage_uri": "media/assets/ce/79/ce79a679dd4223443ce0d46a7c0fcf1afe321f161ac92d232fb3e7de6817a80d.jpg",
+  "sha256": "ce79a679dd4223443ce0d46a7c0fcf1afe321f161ac92d232fb3e7de6817a80d",
+  "mime_type": "image/jpeg",
+  "file_size": 78143,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "VinaPhone S\n14:13\nKiểm tra Điểm tín dụng CIC\n1 54% (\nCCB\nCreditinFo\n527\nHạng 7\nNgày chấm: 28/02/2026\nCao hơn 13% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n527\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 527,
+    "tier": 7,
+    "scoring_date": "28/02/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "VinaPhone S\n14:13\nKiểm tra Điểm tín dụng CIC\n1 54% (\nCCB\nCreditinFo\n527\nHạng 7\nNgày chấm: 28/02/2026\nCao hơn 13% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n527\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

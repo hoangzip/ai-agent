@@ -1,0 +1,28 @@
+{
+  "id": "ad193c10-9968-4386-967d-0f4df4be213c",
+  "facebook_post_id": "3910933652541119",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "fa36fecf-0e7c-4a86-b784-84aa67577ef5",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=3910933652541119&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-25T05:01:21.962318+00:00",
+  "updated_at": "2026-09-25T05:01:21.962318+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "34f8a655-f249-4f4e-8b4a-78b6b854de0b"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "tier": 4,
+    "scoring_date": "22/03/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "22:54 D\n•\nKiểm tra Điểm tín dụng CIC\n4G\n4 86\nCreditinFo\n591\nHạng 4\nNgày chấm: 22/03/2026\nCao hơn 57% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n591\n480\n360\n240\n120\n0"
+  }
+}

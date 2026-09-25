@@ -1,0 +1,24 @@
+{
+  "id": "1f0127f7-02e2-4000-82f9-3086a26b958e",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-7.fna.fbcdn.net/v/t39.30808-6/790562685_1874254780214300_7795761290928683927_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGT6dBf1IsjxsAAS0-65gUqA9nzq0u_PNED2fOrS7880TCkN6jMRUxYTbs1EhifNfNU60aoSwrFlodFBnoPBDzW&_nc_ohc=enGh7kl9IscQ7kNvwFggQx-&_nc_oc=Ado43EgAdS7Q7aRmusKX_LlOLsXQ8YNP9WPKU-jgz_LEvCvCasY_xoyNB5NYtR2U2eA&_nc_zt=23&_nc_ht=scontent.fsgn5-7.fna&_nc_gid=zPB6At_PfADerMNcxwSdRg&_nc_ss=7b2a8&oh=00_AQIuOZKHeUfci-pw_Nrqlw7pXQfQB9kUnON0nhbltCh7_Q&oe=6ABB76D2",
+  "owner_type": "post",
+  "owner_id": "b28763d7-2d79-47ae-8c2f-35f0e3542aba",
+  "photo_fbid": "1874254776880967",
+  "position": 0,
+  "storage_uri": "media/assets/94/84/948450457e97628a8ebba2d1f579b2ff38589379b8a9b5f2b4ec9b1f484466c9.jpg",
+  "sha256": "948450457e97628a8ebba2d1f579b2ff38589379b8a9b5f2b4ec9b1f484466c9",
+  "mime_type": "image/jpeg",
+  "file_size": 179000,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "16:09\nN A SI\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n582\nHạng 5 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 43% khách hàng cá nhân\nkhác\nChia sẻ •>\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nQuyền lợi Điểm MoMo đ...\nKhám phá hạng tài chính và\nquyền lợi dành cho bạn.\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nĐể xem các thông tin bị khóa (8 ), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 582,
+    "tier": 5,
+    "scoring_date": "21/08/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "16:09\nN A SI\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n582\nHạng 5 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 43% khách hàng cá nhân\nkhác\nChia sẻ •>\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nQuyền lợi Điểm MoMo đ...\nKhám phá hạng tài chính và\nquyền lợi dành cho bạn.\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nĐể xem các thông tin bị khóa (8 ), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

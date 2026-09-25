@@ -1,0 +1,29 @@
+{
+  "id": "a7462af5-7570-49ad-b2aa-841ce4923713",
+  "facebook_post_id": "1094208203047319",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "0cde5fe5-5220-413b-9ee3-42bd9e9d14b2",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://web.facebook.com/groups/978769317924542/posts/1094208203047319",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-24T21:17:22.770820+00:00",
+  "updated_at": "2026-09-24T21:17:22.770820+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "0c376d5d-7307-4c4f-892d-6974e3cf8235"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "22/07/2026",
+    "total_debt": "142 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "10:44\nThông tin dư nợ\n98\nẤn thông tin\nThông tin dư nợ\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n142 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n8\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ\nNợ cần chú ý O\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh tại\n8\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

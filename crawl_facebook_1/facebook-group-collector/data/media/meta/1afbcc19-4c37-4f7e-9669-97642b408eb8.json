@@ -1,0 +1,29 @@
+{
+  "id": "1afbcc19-4c37-4f7e-9669-97642b408eb8",
+  "media_type": "image",
+  "owner_type": "comment",
+  "owner_id": "1afbcc19-4c37-4f7e-9669-97642b408eb8",
+  "author_id": "b924c606-d13b-4944-975d-b072261a3755",
+  "author_display_name": "Đào Duy Nghĩa",
+  "author_profile_url": "https://web.facebook.com/groups/978769317924542/user/100004016544284",
+  "author_is_anonymous": false,
+  "post_id": "ef25468b-2d66-4a0c-889a-f87cd037ab8a",
+  "facebook_post_id": "1113475811120558",
+  "facebook_comment_id": null,
+  "position": 0,
+  "storage_uri": "groups/978769317924542/images/comments/1afbcc19-4c37-4f7e-9669-97642b408eb8.jpg",
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "cic_data": {
+    "is_cic": true,
+    "score": 582,
+    "tier": 5,
+    "scoring_date": "21/08/2026",
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "total_debt": null,
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "04a1fe04-1f46-40b1-b79d-4a4ceb8504ca",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/732681344_1014709467943443_5563267842932699841_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHgll-AolmqVoZqFIvntYx0F1RAwHFX0BIXVEDAcVfQEsrxqTspWXtkmXn2KSrtjoZVFOg1D_BMN0qT01sNQeer&_nc_ohc=XuRX65Q8P_0Q7kNvwHAqreY&_nc_oc=AdqvyXtqLjKks6AUrJak9-Z-JGw2xmxReStw6rQ3x2Ljguat3bZ_IE0Z5-lZ29MU2hQ&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=133HclGo2-Nq-VLdRjjeeA&_nc_ss=7b2a8&oh=00_AQLN8bd5bqb1LRnfAtgbZFJPigrWkra8P7Lz7VtG80u4XQ&oe=6ABBEB18",
+  "owner_type": "post",
+  "owner_id": "d9bbb4e7-dc92-4318-946f-25d8e2b0aa37",
+  "photo_fbid": "1014709464610110",
+  "position": 0,
+  "storage_uri": "media/assets/97/cb/97cb07787d98439f2e75a987c6d0666f8d4319078968288337c1d07a25a8f96f.jpg",
+  "sha256": "97cb07787d98439f2e75a987c6d0666f8d4319078968288337c1d07a25a8f96f",
+  "mime_type": "image/jpeg",
+  "file_size": 112086,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "11:17\n274\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n463\nHạng 8 C\nNgày chấm: 23/06/2026\nCao hơn 9% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n463\n800\n600\n400\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 463,
+    "tier": 8,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "11:17\n274\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n463\nHạng 8 C\nNgày chấm: 23/06/2026\nCao hơn 9% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n463\n800\n600\n400\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

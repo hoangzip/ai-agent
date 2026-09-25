@@ -1,0 +1,26 @@
+{
+  "id": "f81e594e-5fc6-4902-a6c6-bacfe55ffbad",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-7.fna.fbcdn.net/v/t39.30808-6/809410198_1411970117535610_5025997107733455107_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFLZItrzSJYZ9Hxs0X6HJgwTqIZ7x39yatOohnvHf3Jq5OatEvzdaGOAwurIgmSBPtwLvTzoFEvT2NOhkGeE97-&_nc_ohc=PDKj7tPKNNEQ7kNvwHST5Bs&_nc_oc=AdoInS05t7S6Q-8diXePB7cKJJ2PX7qkVI1E4uBkYjDhy3YX6MyK_SSFxW9-XxP57Zk&_nc_zt=23&_nc_ht=scontent.fsgn5-7.fna&_nc_gid=DK9uccSV7-5WIqDY7XoUBw&_nc_ss=7b2a8&oh=00_AQIrmW2HyEMshofTRlmLXqSgsnic8zDTrgYzVa57sXZbJQ&oe=6ABB5FFD",
+  "owner_type": "post",
+  "owner_id": "890d2138-408b-4e4b-ac9c-f23b4665beaf",
+  "photo_fbid": "1411970114202277",
+  "position": 0,
+  "storage_uri": "media/assets/6d/2f/6d2f79a60c1291da549976d522bb41396990a81db42a148dc9f0ed998ac5101e.jpg",
+  "sha256": "6d2f79a60c1291da549976d522bb41396990a81db42a148dc9f0ed998ac5101e",
+  "mime_type": "image/jpeg",
+  "file_size": 139102,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "18:21 4\n184\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n577\nHạng 5 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 39% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n57 Triệu VNĐ\nDư nợ khoản vay\n56 Triệu VNĐ\nDu nợ thé tín dụng\n1 Triệu VNĐ\nVị thế tài chính thá...\nKhám phá toàn cảnh\nDự phòng tài chính\nĐến 100 triệu\nXây dựng u...\nMẹo cải thiện điểm\nHành vi tốt\nVí Trả Sau\nMẹo cải\nTrả kł\nĐúng 1",
+  "cic_data": {
+    "is_cic": true,
+    "score": 577,
+    "tier": 5,
+    "scoring_date": "21/08/2026",
+    "total_debt": "57 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "18:21 4\n184\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n577\nHạng 5 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 39% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n57 Triệu VNĐ\nDư nợ khoản vay\n56 Triệu VNĐ\nDu nợ thé tín dụng\n1 Triệu VNĐ\nVị thế tài chính thá...\nKhám phá toàn cảnh\nDự phòng tài chính\nĐến 100 triệu\nXây dựng u...\nMẹo cải thiện điểm\nHành vi tốt\nVí Trả Sau\nMẹo cải\nTrả kł\nĐúng 1"
+  }
+}

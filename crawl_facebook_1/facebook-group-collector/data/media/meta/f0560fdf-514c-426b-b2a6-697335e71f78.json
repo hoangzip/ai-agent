@@ -1,0 +1,29 @@
+{
+  "id": "f0560fdf-514c-426b-b2a6-697335e71f78",
+  "media_type": "image",
+  "owner_type": "comment",
+  "owner_id": "f0560fdf-514c-426b-b2a6-697335e71f78",
+  "author_id": "f1168eec-1250-4cab-b12a-251937e9bc8c",
+  "author_display_name": "Trần Thánh",
+  "author_profile_url": "https://web.facebook.com/groups/978769317924542/user/100036640252028",
+  "author_is_anonymous": false,
+  "post_id": "96f1f0da-9adf-4bef-bc09-e57003e739da",
+  "facebook_post_id": "1124042170063922",
+  "facebook_comment_id": "1124103926724413",
+  "position": 0,
+  "storage_uri": "groups/978769317924542/images/comments/f0560fdf-514c-426b-b2a6-697335e71f78.jpg",
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "cic_data": {
+    "is_cic": true,
+    "score": null,
+    "tier": null,
+    "scoring_date": null,
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "total_debt": "100.000.000đ",
+    "has_bad_debt": null,
+    "provider": "CIC"
+  }
+}

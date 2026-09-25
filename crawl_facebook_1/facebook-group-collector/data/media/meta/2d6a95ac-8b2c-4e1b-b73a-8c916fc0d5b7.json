@@ -1,0 +1,24 @@
+{
+  "id": "2d6a95ac-8b2c-4e1b-b73a-8c916fc0d5b7",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-1.xx.fbcdn.net/v/t39.30808-6/736261054_4324050471167630_7844475845856577126_n.jpg?stp=dst-jpg_tt6&cstp=mx871x1937&ctp=s871x1937&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFshQOlLF7UKOOVknZ4JDejANFPUwBLKFIA0U9TAEsoUlfzH9tfvlNzYD1nyXPHLSOp0GloalWVLMe24H0fI9YU&_nc_ohc=mY1DazTvlWsQ7kNvwGhQFqg&_nc_oc=Adr9qVaVepyMnHum4AVKz-k5043COCngws2HaXr1F5QSYagqWWmm8FQ0Glpq8U3djCI&_nc_zt=23&_nc_ht=scontent-sin11-1.xx&_nc_gid=x5kDkODZQ9CFiRoXyYI2yA&_nc_ss=7b2a8&oh=00_AQLlVKXrzdULAcKi9nPLGVlOpsR_G5Wq26myeiBnrPHTkw&oe=6ABBE2FD",
+  "owner_type": "post",
+  "owner_id": "2bec7c6c-89de-4a1d-8608-269ade4153d8",
+  "photo_fbid": "4324050467834297",
+  "position": 0,
+  "storage_uri": "media/assets/75/ca/75ca451c39a036989a5a6290fe47c1d815ceb4e09923e332828a79b460f7e714.jpg",
+  "sha256": "75ca451c39a036989a5a6290fe47c1d815ceb4e09923e332828a79b460f7e714",
+  "mime_type": "image/jpeg",
+  "file_size": 88423,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\n390\n260\n130\n0\n12/2025\nThông tin chi tiết\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n4/2026\n642 điểm\nHạng 2\n/04/2026\nCao hơn 92% khách hàng cá\nnhân khác\nCCB\nThông tin trên đây là bản tóm tắt sức khỏe\ntín dụng của bạn. Các dữ liệu chi tiết và đầy\nđủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n• Ấn thông tin\n2 Tỷ 79 Triệu VNĐ\n2 Tỷ 69 Triệu VNĐ\n10 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 390,
+    "tier": 2,
+    "total_debt": "2 Tỷ",
+    "provider": "CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\n390\n260\n130\n0\n12/2025\nThông tin chi tiết\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n4/2026\n642 điểm\nHạng 2\n/04/2026\nCao hơn 92% khách hàng cá\nnhân khác\nCCB\nThông tin trên đây là bản tóm tắt sức khỏe\ntín dụng của bạn. Các dữ liệu chi tiết và đầy\nđủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n• Ấn thông tin\n2 Tỷ 79 Triệu VNĐ\n2 Tỷ 69 Triệu VNĐ\n10 Triệu VNĐ"
+  }
+}

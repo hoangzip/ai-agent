@@ -1,0 +1,24 @@
+{
+  "id": "066a61f2-7527-46c2-8e66-43a68f2a902f",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-2.xx.fbcdn.net/v/t39.30808-6/758377280_1551614499842667_7271338556899442725_n.jpg?stp=dst-jpg_tt6&cstp=mx443x960&ctp=s443x960&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=NchpN7DgjQUQ7kNvwGdYdYV&_nc_oc=Adqor0p2BqI_d2aTyGk43G4ubhcpYkDvkCisSgM_nsFy2gtujnLEaFTQ0EVVxrObIBQ&_nc_zt=23&_nc_ht=scontent-sin2-2.xx&_nc_gid=ve0FZsbcdjD29FbRzGJZ6A&_nc_ss=7b289&oh=00_AQJ-yUjFWzPlq6M8aw9UY8mvVIgMZiAK21LbLne1hjfrUw&oe=6ABBA53F",
+  "owner_type": "post",
+  "owner_id": "4c8b04ed-e372-4f55-8941-f5b1aa0a72f0",
+  "photo_fbid": "1551614496509334",
+  "position": 0,
+  "storage_uri": "media/assets/c5/54/c5547ebcc34c35f7a58ce96540bf39cf8e9a07480ef7e4463420cda53953cfbf.jpg",
+  "sha256": "c5547ebcc34c35f7a58ce96540bf39cf8e9a07480ef7e4463420cda53953cfbf",
+  "mime_type": "image/jpeg",
+  "file_size": 48390,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "13:31\n:: = 59\nKiểm tra Điểm tín dụng CIC\n1 tr\nCICB\n551\nHạng 6 C\nNgày chấm: 29/05/2026\n• Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 21% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi C/C và hiển thị trên MoMo\n& Hôm nay có gì mới\nĐiểm CIC của bạn ổn định\nKiểm tra xem Tháng 7 này,\nbạn có thể vay bao nhiêu trên MoMo\nKiểm tra >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nCập nhật để xem\nCập nhật Điểm tháng mới",
+  "cic_data": {
+    "is_cic": true,
+    "score": 551,
+    "tier": 6,
+    "scoring_date": "29/05/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "13:31\n:: = 59\nKiểm tra Điểm tín dụng CIC\n1 tr\nCICB\n551\nHạng 6 C\nNgày chấm: 29/05/2026\n• Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 21% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi C/C và hiển thị trên MoMo\n& Hôm nay có gì mới\nĐiểm CIC của bạn ổn định\nKiểm tra xem Tháng 7 này,\nbạn có thể vay bao nhiêu trên MoMo\nKiểm tra >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nCập nhật để xem\nCập nhật Điểm tháng mới"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c7e22c45-6460-4c30-a2f0-14c91fe546c1",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-3.xx.fbcdn.net/v/t39.30808-6/735150122_1637585931704572_243816623762551189_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEoH6aPtOXyAjjbM1GCJ6jtRYRAxYkh_15FhEDFiSH_XsgOLnA45zk9-9IIAeCeEwo8B2JRZnOrt0UjQsLwMPNH&_nc_ohc=QoiWzndHu9MQ7kNvwGP7WRZ&_nc_oc=AdqXg1XlKm0ZrfW9QQ7ROcg5NeFVe0Anx2hCVSkdTiCRftTXIGmuvwMbOt5Lt-kVtPI&_nc_zt=23&_nc_ht=scontent-sin2-3.xx&_nc_gid=n5ltrG3DUNJnlt6LxPm6AQ&_nc_ss=7b2a8&oh=00_AQLxb_8rLWKdWnfdykULlPLJa0uhchNmTWknZCZUCm7ldw&oe=6ABBE5E2",
+  "owner_type": "post",
+  "owner_id": "d307dde3-3bcc-426c-a306-ded1ec95c0eb",
+  "photo_fbid": "1637585928371239",
+  "position": 0,
+  "storage_uri": "media/assets/b9/b4/b9b4a70f457ee7bca50b57203b4a8bac9a61ea09ef640a701b83cd71b138f67c.jpg",
+  "sha256": "b9b4a70f457ee7bca50b57203b4a8bac9a61ea09ef640a701b83cd71b138f67c",
+  "mime_type": "image/jpeg",
+  "file_size": 102951,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "19:21\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n593\nHạng 4 Đ\nNgày chấm: 23/04/2026\nCao hơn 58% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n593\n480\n360\n240\n120\n12/2025\nThông tin chi tiết\nĐiểm CIC\nHạng\n4/2026\n593 điểm\nHạng 4",
+  "cic_data": {
+    "is_cic": true,
+    "score": 593,
+    "tier": 4,
+    "scoring_date": "23/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "19:21\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n593\nHạng 4 Đ\nNgày chấm: 23/04/2026\nCao hơn 58% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n593\n480\n360\n240\n120\n12/2025\nThông tin chi tiết\nĐiểm CIC\nHạng\n4/2026\n593 điểm\nHạng 4"
+  }
+}

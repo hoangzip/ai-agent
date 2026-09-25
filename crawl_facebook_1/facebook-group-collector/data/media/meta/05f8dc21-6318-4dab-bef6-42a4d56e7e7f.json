@@ -1,0 +1,24 @@
+{
+  "id": "05f8dc21-6318-4dab-bef6-42a4d56e7e7f",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-2.xx.fbcdn.net/v/t39.30808-6/745334139_2249930622469978_8092005553319620325_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx750x1334&ctp=s750x1334&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=mpqLJsSDOVgQ7kNvwGmIJCv&_nc_oc=AdpeoMBoFDsnqPPZQmXZJnyqWlyq9cGSNUgLHk6Axj_ZsO-xcAcg7lGI5dhbW2L6cjg&_nc_zt=23&_nc_ht=scontent-sin11-2.xx&_nc_gid=ELxxXCEjDrA8msiFXiwEoQ&_nc_ss=7b289&oh=00_AQJgdHhQWyNdQNOSUQLF7oka1zm4dJRNQftgygPvyt_xZw&oe=6ABBB3E4",
+  "owner_type": "post",
+  "owner_id": "ffb00555-4b43-4110-9c69-c761b4909e91",
+  "photo_fbid": "2249930619136645",
+  "position": 0,
+  "storage_uri": "media/assets/e5/94/e594321c4cf91e46a040deaad090af9b9d80949beb90dc5b96033d86acb34e8c.jpg",
+  "sha256": "e594321c4cf91e46a040deaad090af9b9d80949beb90dc5b96033d86acb34e8c",
+  "mime_type": "image/jpeg",
+  "file_size": 76457,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Viettel -\n10:07\nKiểm tra Điểm tín dụng CIC\n92% O\nCICB\nCreditinFo\n589\nHạng 4 C\nNgày chấm: 05/06/2026\nCao hơn 51% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi C/C và hiển thị trên MoMo\nA Hôm nay có gì mới\nNhờ có Điểm CIC tốt\nBạn đủ điều kiện nhận 3 tháng\nmiễn phí Bảo hiểm Sức khỏe+\nNhận ngay ›\n1/3\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n589",
+  "cic_data": {
+    "is_cic": true,
+    "score": 589,
+    "tier": 4,
+    "scoring_date": "05/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "Viettel -\n10:07\nKiểm tra Điểm tín dụng CIC\n92% O\nCICB\nCreditinFo\n589\nHạng 4 C\nNgày chấm: 05/06/2026\nCao hơn 51% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi C/C và hiển thị trên MoMo\nA Hôm nay có gì mới\nNhờ có Điểm CIC tốt\nBạn đủ điều kiện nhận 3 tháng\nmiễn phí Bảo hiểm Sức khỏe+\nNhận ngay ›\n1/3\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n589"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "142f3761-e62f-4afd-bcd9-5451a6030046",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-3.xx.fbcdn.net/v/t39.30808-6/736715978_1462489289229842_5424362487194757366_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2340&ctp=s1080x2340&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ZGHfyrwijNEQ7kNvwH0xYZ_&_nc_oc=Ado3cM8p-Xfxxk1O6U_lUZOmyqs0CqLepXdT2mormw8YGfHweYgEC6MV43963e98-d0&_nc_zt=23&_nc_ht=scontent-sin2-3.xx&_nc_gid=eU8Lj72OncADEZcc9xhVrw&_nc_ss=7b289&oh=00_AQIlNqJ8Igu5QBe3_d9noWqzfIBS6csVa7zW4SjeMD-kmw&oe=6ABBCBA7",
+  "owner_type": "post",
+  "owner_id": "be4ce8dc-f8d2-4ab9-a1d3-a36721a05297",
+  "photo_fbid": "1462489285896509",
+  "position": 0,
+  "storage_uri": "media/assets/ad/3f/ad3f109671a2af9335f60d2aa66ec8d4016ca6f4da901ce64a15fa8e2f6b2260.jpg",
+  "sha256": "ad3f109671a2af9335f60d2aa66ec8d4016ca6f4da901ce64a15fa8e2f6b2260",
+  "mime_type": "image/jpeg",
+  "file_size": 135192,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nĐến ứng dụng CIC >\nRút gọn\n^\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/03/2026,\nbạn có khoản nợ xấu và nợ cần chú ý. Duy trì\nthói quen thanh toán đúng hạn để cải thiện\nĐiểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n0 VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trả Sau\nDùng mỗi tháng",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "22/03/2026",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nĐến ứng dụng CIC >\nRút gọn\n^\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/03/2026,\nbạn có khoản nợ xấu và nợ cần chú ý. Duy trì\nthói quen thanh toán đúng hạn để cải thiện\nĐiểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n0 VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trả Sau\nDùng mỗi tháng"
+  }
+}
