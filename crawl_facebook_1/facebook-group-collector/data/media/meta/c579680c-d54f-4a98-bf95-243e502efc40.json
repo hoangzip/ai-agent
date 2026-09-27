@@ -1,0 +1,16 @@
+{
+  "id": "c579680c-d54f-4a98-bf95-243e502efc40",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/825373363_2246748986217444_4224532229340981518_n.jpg?stp=dst-jpg_tt6&cstp=mx921x1152&ctp=s704x704&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFn5fm2P0kJWgPJNx23_miWHTuyB9W8ms4dO7IH1byaznxHCcYuxiEaOpV3MmcAZhav9GGibEaVqa3S98MEoerc&_nc_ohc=_kqVT8ve4tkQ7kNvwEWHmcT&_nc_oc=AdrJiYNs9yHDFsyJyTM0ITusxgGpa_uX4ADmXhZGnfthUMPeAkZN3geeAuEPNaozRYedO9aQGw6Fz9OkEwFBnoGF&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=Fe8Fr3YgtP9JEqwg-VyWUA&_nc_ss=7b2a8&oh=00_AQJCg8mYHQMT0qctSQM3rWQHRXU0-5gMpKajjumjZmLWWQ&oe=6ABF078A",
+  "owner_type": "post",
+  "owner_id": "68dba429-c1ed-4f67-915c-7f8f089e8ed3",
+  "photo_fbid": "122097386193494360",
+  "position": 0,
+  "storage_uri": "media/assets/bd/47/bd47cac58f9ad8c0b0a7fc6c43d830572aa44aa82ae37b4c0a9cb3cef02dce62.jpg",
+  "sha256": "bd47cac58f9ad8c0b0a7fc6c43d830572aa44aa82ae37b4c0a9cb3cef02dce62",
+  "mime_type": "image/jpeg",
+  "file_size": 93029,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "SƠ ĐỒ ĐẤU DÂY CẢM BIẾN NPN\nNâu\n+24 V DC\n(Brown):\n(V+)\nNAN\nĐen\nOutput\n(Black):\n(NPN)\nXanh\n(Blue):\n0 V DC\n(V-)\nSƠ ĐỒ ĐẤU DÂY (ĐẦU RA SINKING)\nCảm\nbiến NPN\n(NPN Sensor)\nNâu\n(V+)\nĐen\n(Output)\nXanh\n(V-)\n+24 V DC\nTai\n(Load)\n0 V DC\nMẠCH NỘI BỘ (NPN INTERNAL CIRCUIT)\n• Nâu (V+)\nMạch\ncảm biến\n• Den (Output)\nBóng bán\ndăn NPN\n(NPN Transistor)\n• Xanh (V-)\nMạch nội bộ cảm biến\nĐẤU NỐI ĐẦU VÀO PLC ĐIỀN HÌNH\n+24 V\nInput\nInput\nĐầu vào\nsỐ PLC\n(PLC Digital Input)\nOV\nCam\nbiến NPN\nSƠ ĐỒ ĐẤU DÂY CẢM BIẾN PNP\nNấu\n+24 V DC\n(Brown):\n(V+)\nPNP\nĐen\n(Black):\nOutput\n(PNP)\nXanh\n(Blue):\nO V DC\n(V-)\nSƠ ĐỒ ĐẤU DÂY (ĐẦU RA SOURCING)\nCảm\nbiến PNP\n(PNP Sensor)\nNâu\n(V+)\nDen\n(Output)\n+24 V DC\nXanh\n(V-)\nTai\n(Load)\nOV DC\nMẠCH NỘI BỘ (PNP INTERNAL CIRCUIT)\n• Nâu (V+)\nMạch\ncảm biến\n• Đen (Output)\nBóng\nbán dẫn PNP\n(PNP Transistor)\n• Xanh (V-)\nMạch nội bộ cảm biến\nĐẦU NÕI ĐÂU VÀO PLC ĐIÊN HÌNH\n+24 V\nInput\nInput\nĐầu vào\nSỐ PLC\n(PLC Digital Input)\nOV\nCam\nbiến PNP"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "faaf1122-2cac-417f-b5be-9940699b4270",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/821223775_122193425720953732_5359265037903678441_n.jpg?stp=dst-jpg_tt6&cstp=mx526x1173&ctp=s526x1173&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHgbk_KHYV41DgxBRgyu81Nj5y5vXYHssaPnLm9dgeyxtWF3M23tbLXyKJ8VVt-9J4JCXFoLOaqFuiOcNceDMV1&_nc_ohc=pmZnsYPZxg4Q7kNvwEze05L&_nc_oc=AdqdPQRxYwnw6uUKGzfvz9_JSzvdmdlnz9Yw4jzz4pjSiIHXodxpSZunTrL1sXA_FFXVoj8BYvETbpUkmQdg5Xl9&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=A0X3o2x5B9qU2mDRq59JVg&_nc_ss=7b2a8&oh=00_AQK7iElfDaiZWJoJZm6Lf2LcwYokLKafvJL4b-L5wKNZ3Q&oe=6ABDF93D",
+  "owner_type": "post",
+  "owner_id": "4f83354a-1584-48b3-ae87-036524b80bfe",
+  "photo_fbid": "122193425714953732",
+  "position": 0,
+  "storage_uri": "media/assets/7c/31/7c3118f280982772d75b7a3bb416bf95ec0f8d322295bd13dd389b623903a435.jpg",
+  "sha256": "7c3118f280982772d75b7a3bb416bf95ec0f8d322295bd13dd389b623903a435",
+  "mime_type": "image/jpeg",
+  "file_size": 70293,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "14:41\nG AT\nar esall all 8%\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinfo\n522\nHạng 7\nNgày chấm: 21/09/2026\nĐiểm cao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nMới: Cơ chế cộng Điểm Mo...\nCộng tức thì, không cần chờ tháng\nsau, nâng hạng điểm tháng hiện tại\nX\nKhám phá\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\n® Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 21/09/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\n110 Triệu VNĐ\n73 Triệu VNĐ\n<",
+  "cic_data": {
+    "is_cic": true,
+    "score": 522,
+    "tier": 7,
+    "scoring_date": "21/09/2026",
+    "total_debt": "110 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "14:41\nG AT\nar esall all 8%\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinfo\n522\nHạng 7\nNgày chấm: 21/09/2026\nĐiểm cao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nMới: Cơ chế cộng Điểm Mo...\nCộng tức thì, không cần chờ tháng\nsau, nâng hạng điểm tháng hiện tại\nX\nKhám phá\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\n® Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 21/09/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\n110 Triệu VNĐ\n73 Triệu VNĐ\n<"
+  }
+}

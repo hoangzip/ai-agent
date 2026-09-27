@@ -1,0 +1,27 @@
+{
+  "id": "0d77b40f-3483-4dce-a50b-278f18ccf51d",
+  "facebook_post_id": "2245382039648353",
+  "group_id": "1295572999197093",
+  "group_slug": "1295572999197093",
+  "author_id": "a293502f-959d-4c30-8f0e-19da05b673a7",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2245382039648353&set=g.1295572999197093",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-06-25T00:00:00+00:00",
+  "created_at": "2026-09-26T13:06:24.789573+00:00",
+  "updated_at": "2026-09-26T13:06:24.789573+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "83ffd77a-7e1d-4503-a882-fd422dc21e45"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "20 Triệu",
+    "provider": "MoMo / CIC",
+    "raw_text": "13:07\n99\nKiểm tra số tiền vay SHBFi...\nKiểm tra\nthông tin\nXem\nkết quả\nChọn\ngói vay\nBạn có thể được duyệt vay về MoMo với\nhạn mức lên đến 20.000.000đ\nChọn số tiền cần vay\nSố tiền bạn chọn:\n20.000.000đ\n18 Tr\n19 Tr\n20 Tr\n* 5 Triệu\n• Kéo sang hai bên để chọn khoản vay\n20 Triệu *\nXem gói vay"
+  }
+}

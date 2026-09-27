@@ -1,0 +1,28 @@
+{
+  "id": "86caae66-a297-4989-aaeb-c15ff4c36c1b",
+  "facebook_post_id": "1749526979395320",
+  "group_id": "580277503401606",
+  "group_slug": "580277503401606",
+  "author_id": "263ce2c3-f324-4df1-a54f-a4714727ae21",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1749526979395320&set=g.580277503401606",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-06-28T00:00:00+00:00",
+  "created_at": "2026-09-26T09:21:54.007946+00:00",
+  "updated_at": "2026-09-26T09:21:54.007946+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "80df31a9-ee4e-464b-ac9f-4469680b811c"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "23/04/2026",
+    "has_bad_debt": false,
+    "provider": "MB Shinsei",
+    "raw_text": "2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nNợ vay\nTên tổ chức/chi nhánh TCTD\nLoại dư nợ\nVND\nĐơn vị tính: triệu đồng, USD\nNợ thẻ\nUSD\nVND\n1. Ngân hàng TMCP Á Châu\nNgày báo cáo dư nợ thẻ gần nhất: 23/04/2026\nTổng nợ\n- Nợ đủ tiêu chuân\n- Nợ cần chú ý\n- Nợ xấu\n0\n0\n109\nTổng cộng\n0\n109\n109\nLưu ý:\n- Tổng dư nợ bao gồm cả khoản nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán từ 10 -90\nngày đối với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\nnước Việt Nam).\n- Nợ xâu gôm các khoan nợ được phân loại nhóm 3, 4, 5 theo các quy định phán loại nợ cô lien quan cuc\nChính phú/ Ngân hàng Nhà nước Việt Nam (hoạc được quy đối từ sô ngày chậm thanh toán trên 90 ngà)\nđôi với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chính phủ/ Ngân hàng nhà\nnước Việt Nam).\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgày phát sinh nọ\ncần chú ý gần nhất\n1\nNgân hàng TMCP Á Châu (Thẻ)\nNgày phát sinh ng\nxâu gân nhât\n23/04/2026\n2\nNgân hàng TMCP Á Châu\n27/09/2025\n3\nCông ty Tài chính TNHH Ngân hàng Việt Nam Thịnh\n31/08/2021\nVượng SMBC\nLựu ý: Thông tin lịch sử nợ cần chú ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại bảng và các khoan\ncấp tín dụng khác. Lịch sử nợ cần chú ý trong 12 tháng gần nhất; lịch sử nợ xấu trong vòng 05 năm gần\n2.3. Thông tin về đảm bảo tiền vay"
+  }
+}

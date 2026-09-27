@@ -1,0 +1,24 @@
+{
+  "id": "b349ac67-c380-4de2-be1f-c31087a565f8",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/742283986_1648069459638882_3400047883225175032_n.jpg?stp=dst-jpg_tt6&cstp=mx943x2048&ctp=s943x2048&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH20_VidLoyxbE7_XjRw0pSXl-JYLoZytteX4lguhnK298p3kp6tE94sq9wtrSxp0hls06MzH3dnYeq-xPNkzLE&_nc_ohc=iPP6HHII6lYQ7kNvwE4d2Qo&_nc_oc=Adr3TQjUSqH8kw06gq205KpYjQpxAOpBfE6un5Sttc3mm47N9MCHCa4DSLgAx40VssMIcMf6N0n--jgwOh9KxSpY&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=qs6WfK-n0DNiatISE_kKwg&_nc_ss=7b2a8&oh=00_AQIu4PPLM7FLoGrHAgWS4FDGHijL2nKWDIeCFpxJLpQX4Q&oe=6ABD2DB3",
+  "owner_type": "post",
+  "owner_id": "a95975a7-0f83-4f92-8f24-826b2f2b6d62",
+  "photo_fbid": "1648069456305549",
+  "position": 0,
+  "storage_uri": "media/assets/57/21/5721a5b0dfd36a4d0534060e62d3cbd062cc0cf90f669af0fb13c16824660cd9.jpg",
+  "sha256": "5721a5b0dfd36a4d0534060e62d3cbd062cc0cf90f669af0fb13c16824660cd9",
+  "mime_type": "image/jpeg",
+  "file_size": 102907,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "14:48\n< Kiểm tra Điểm tín dụng CIC\nBạn có tài chính Hạng Khỏe Mạnh\nVào nhận quyền lợi ngay nhé\n:!\n77\nNhận ngay ›\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n(566\n480\n360\n240\n120\n0\n2/2026\n3/2026\nThông tin chi tiết v\n6/2026\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 06/06/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n113 Triệu VNĐ\n110 Triệu VNĐ\n3 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "06/06/2026",
+    "total_debt": "113 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "14:48\n< Kiểm tra Điểm tín dụng CIC\nBạn có tài chính Hạng Khỏe Mạnh\nVào nhận quyền lợi ngay nhé\n:!\n77\nNhận ngay ›\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n(566\n480\n360\n240\n120\n0\n2/2026\n3/2026\nThông tin chi tiết v\n6/2026\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 06/06/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n113 Triệu VNĐ\n110 Triệu VNĐ\n3 Triệu VNĐ"
+  }
+}

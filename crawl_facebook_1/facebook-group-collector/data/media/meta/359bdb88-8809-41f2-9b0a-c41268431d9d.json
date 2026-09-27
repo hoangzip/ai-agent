@@ -1,0 +1,25 @@
+{
+  "id": "359bdb88-8809-41f2-9b0a-c41268431d9d",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/742684080_122156890196988406_5627965403771627678_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFBxmtP7Psd96QskYWW3Yfzxg7iUclMhWvGDuJRyUyFa5BPWXc7Vhl5vxfCjoEiYXMHsLQNl7mSWz21Og_SKEC3&_nc_ohc=of4qdUphimMQ7kNvwGE0Q8i&_nc_oc=Adp91RFnBPfcEKqy0bJg1BsgNxvTwfe5rgBqr_RVocB0p0Ist6Q8-GkijPnNm8LC02ylG0cdHyvMXvGwIcNxHaea&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=Xj_TlgimMq-cr_0TzEBo1A&_nc_ss=7b2a8&oh=00_AQILwscLMGkEwcuxlrQoYS0s5jiAzvPyGQGGKmuwPbNC5A&oe=6ABD33C9",
+  "owner_type": "post",
+  "owner_id": "c00b35e4-7f73-4731-8ee8-3f86d7bfacee",
+  "photo_fbid": "122156890190988406",
+  "position": 0,
+  "storage_uri": "media/assets/9b/9b/9b9bccfd6210c8bc9052216c704d293d45c08fe7ba8609cc834dcfedf2c7d527.jpg",
+  "sha256": "9b9bccfd6210c8bc9052216c704d293d45c08fe7ba8609cc834dcfedf2c7d527",
+  "mime_type": "image/jpeg",
+  "file_size": 107834,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "01:38\n184\nKiểm tra Điểm tín dụng CIC\nCreditinF\n624\nHạng 2 O\nNgày chấm: 23/04/2026\nCao hơn 82% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC của bạn đang tốt\nBạn có thể tiếp cận khoản vay đến\n100 triệu trên MoMo đấy\nKiểm tra >\n1/3\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n624\n900\n600\n300\n0\n4/2026",
+  "cic_data": {
+    "is_cic": true,
+    "score": 624,
+    "tier": 2,
+    "scoring_date": "23/04/2026",
+    "total_debt": "100 triệu",
+    "provider": "MoMo / CIC",
+    "raw_text": "01:38\n184\nKiểm tra Điểm tín dụng CIC\nCreditinF\n624\nHạng 2 O\nNgày chấm: 23/04/2026\nCao hơn 82% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC của bạn đang tốt\nBạn có thể tiếp cận khoản vay đến\n100 triệu trên MoMo đấy\nKiểm tra >\n1/3\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n624\n900\n600\n300\n0\n4/2026"
+  }
+}

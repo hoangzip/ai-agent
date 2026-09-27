@@ -1,0 +1,23 @@
+{
+  "id": "61831803-d69a-45db-9eb9-05bdca2db67b",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/717187352_978616621822192_8703522443515372031_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1600&ctp=s720x1600&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFX2K81iPxTLQuweOnWKStYf-CApbYTwVl_4IClthPBWVsgn4-VmqFg_lXz52b9KwIcf_l8XF70m59qNKD80Lsk&_nc_ohc=OwhefrtY-L4Q7kNvwH5ZEkx&_nc_oc=Adr8ptUb7p6V8ZUiakcqt41Yqf-U2-7zk1-rGO_jCRb9DYtH34jfuQdrH0MmtxPWZH7AR7IdQCNe7v5tvfhNJ_YR&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=8-BmYhDsVZtvNNOpCjxZgA&_nc_ss=7b2a8&oh=00_AQI2PEa9srI4DiNp5OyKx_6q1tanbcK1rcnMOKdFX8Gt-Q&oe=6ABD89AF",
+  "owner_type": "post",
+  "owner_id": "e9c20ab2-632c-41a4-be5f-a190608e1159",
+  "photo_fbid": "978616615155526",
+  "position": 0,
+  "storage_uri": "media/assets/90/61/90610a9f4f86beed803e14af3f9b4534e32bfb97e319dd8798ede906c73c45ef.jpg",
+  "sha256": "90610a9f4f86beed803e14af3f9b4534e32bfb97e319dd8798ede906c73c45ef",
+  "mime_type": "image/jpeg",
+  "file_size": 73512,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\n0\n4/2026\nThông tin chi tiết\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n589 điểm\nHạng 4\n23/04/2026\nCao hơn 53% khách hàng cá\nnhân khác\nThông tin trên đây là bản tóm tắt sức khỏe\ntín dụng của bạn. Các dữ liệu chi tiết và đầy\nđủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn ^\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẤn thông tin\n24 Triệu VNĐ\n24 Triệu VNĐ\n0 VNĐ\nO",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 4,
+    "total_debt": "24 Triệu VNĐ",
+    "provider": "CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\n0\n4/2026\nThông tin chi tiết\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n589 điểm\nHạng 4\n23/04/2026\nCao hơn 53% khách hàng cá\nnhân khác\nThông tin trên đây là bản tóm tắt sức khỏe\ntín dụng của bạn. Các dữ liệu chi tiết và đầy\nđủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn ^\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẤn thông tin\n24 Triệu VNĐ\n24 Triệu VNĐ\n0 VNĐ\nO"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1498af16-eb56-44ff-9c69-69e45aa24a3a",
+  "facebook_post_id": "2135112413801649",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "273bd57e-5b27-47c3-979b-6b397460ae18",
+  "author_display_name": "Today",
+  "author_profile_url": null,
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/photo/?fbid=2135112413801649&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "posted_at": null,
+  "created_at": "2026-09-27T01:41:10.794237+00:00",
+  "updated_at": "2026-09-27T01:41:10.794239+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "91b0f3d0-e5a9-4344-82ae-a0ddf5c8d121"
+  ],
+  "caption": null,
+  "cic_data": {
+    "is_cic": true,
+    "score": 588,
+    "credit_tier": 4,
+    "scoring_date": "21/08/2026",
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "cic_code": null,
+    "has_bad_debt": null,
+    "overdue_amount": null,
+    "provider": "TPBank",
+    "raw_text": "2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\n1\nNgân hàng TMCP Tiên Phong (Thẻ)\nNgày phát sinh nọ\ncân chú ý gân nhất\n31/07/2026\nNgày phát sinh nọ\nxâu gân nhất\nLựu ý: Thông tin lịch sử nợ cần chú ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại bảng và các khoản\ncắp tin dụng khác. Lịch si ng cần chú ý trong 12 tháng gản nhát: lịch sử nợ xáu trong vòng 05 năm gản\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\n1\nBảo đảm tiền vay bằng tài sản\nKhông có\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐiêm tín dụng:\n588\nHạng:\n4\nNgày chấm điểm:\n21/08/2026\nXêp hạng của\nkhách hàng\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\n48\nĐiểm tín dụng của khách hàng cao\nhơn điểm tín dụng của 48% tổng\n- 50% khách hàng cá nhân được chấm điểm\ntại kho dữ liệu CIC.\n0%\nCHI TIẾT ĐIỂM VÀ HẠNG\nXấu\nHạng\n10\n09\nDưới trung bình\n08\n07\nTrung bình\n06\n05\nTốt\nRất tốt\n04\n03\n02\n01\nĐiểm 403-434 435-454 455-479 480-544 545-566 567-587 588-608609-622 623-644 645-706\nĐiểm hạng của khách hàng"
+  }
+}

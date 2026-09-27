@@ -1,0 +1,26 @@
+{
+  "id": "394b45be-d2bf-4584-8b24-c0e0dc587570",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-2.xx.fbcdn.net/v/t39.30808-6/820336369_122144365959236057_7651758064034536401_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx750x1334&ctp=s750x1334&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=WAsgJCSGz3sQ7kNvwGCP4mX&_nc_oc=AdpC4cdTdlnrDMYXk7I1ob5B5s9PQe1eF8vSZxnn0H2spY1c7P24ddCti6mOyw69GN8&_nc_zt=23&_nc_ht=scontent-sin11-2.xx&_nc_gid=nV3AOMxjCJVBBcOk319z_w&_nc_ss=7b2a8&oh=00_AQL7OElD5OmlKannltu1alEPKu9u5OqyMlzEhkIxcroFsw&oe=6ABC0EF8",
+  "owner_type": "post",
+  "owner_id": "3c6bb0a1-b563-40b6-a6dd-399792dc576d",
+  "photo_fbid": "122144365953236057",
+  "position": 0,
+  "storage_uri": "media/assets/7e/aa/7eaa11f9b7090517786b3dde6c8ae8d552faae1bc440024c7418ab5f04c481e5.jpg",
+  "sha256": "7eaa11f9b7090517786b3dde6c8ae8d552faae1bc440024c7418ab5f04c481e5",
+  "mime_type": "image/jpeg",
+  "file_size": 87345,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "•il Viettel S\n6:39 SA\n< Kiểm tra Điểm tín dụng CIC\n587\nHạng 5 O\nNgày chấm: 21/09/2026\nĐiểm cao hơn 47% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n® 79%\nHôm nay có gì mới\nMới: Cơ chế cộng Điểm Mo...\nCộng thc thì, không cân chờ tháng\nsau, nâng hạng điểm tháng hiện tại\nKhám phá\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/09/2026,\nbạn không có nợ xâu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n5 Triệu VNĐ\nDư nợ khoản vay\n5 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 587,
+    "tier": 5,
+    "scoring_date": "21/09/2026",
+    "total_debt": "5 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "•il Viettel S\n6:39 SA\n< Kiểm tra Điểm tín dụng CIC\n587\nHạng 5 O\nNgày chấm: 21/09/2026\nĐiểm cao hơn 47% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n® 79%\nHôm nay có gì mới\nMới: Cơ chế cộng Điểm Mo...\nCộng thc thì, không cân chờ tháng\nsau, nâng hạng điểm tháng hiện tại\nKhám phá\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/09/2026,\nbạn không có nợ xâu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n5 Triệu VNĐ\nDư nợ khoản vay\n5 Triệu VNĐ"
+  }
+}

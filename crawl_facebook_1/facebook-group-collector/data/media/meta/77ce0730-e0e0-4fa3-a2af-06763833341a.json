@@ -1,0 +1,23 @@
+{
+  "id": "77ce0730-e0e0-4fa3-a2af-06763833341a",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/719099111_4569630633360525_5798943373804716071_n.jpg?stp=dst-jpg_tt6&cstp=mx943x2048&ctp=s943x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFivVI3y52xwWNv4EymYoljVj5RctxPT1BWPlFy3E9PUDJ8G_hbXApjS4YxBWjPgGTGmN2UximSGG7ZDf6xF-v0&_nc_ohc=swv9oudUxvwQ7kNvwElCJ0r&_nc_oc=AdqrgaZI31ZhqDtxpPxSSVc19Fn_V8vx8Jbb2mC4Ix9tgRjoIUUlog-bmxjnK0W_pxPKy9XqE2yY2B4YXDZ4DqSv&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=iwf9IeCF-24S7-q87QS-EA&_nc_ss=7b2a8&oh=00_AQIGcSStizNAL_oc4Nek2l2tMfPM2X_3Cdx6muXoCzO6wg&oe=6ABDAF0B",
+  "owner_type": "post",
+  "owner_id": "9f8746ae-7f67-40b6-906e-e29c5bf82a96",
+  "photo_fbid": "4569630630027192",
+  "position": 0,
+  "storage_uri": "media/assets/2c/7e/2c7e945b4b56ad8aa302077f00be2f8051e113f6395f7195f14f0936302f0d88.jpg",
+  "sha256": "2c7e945b4b56ad8aa302077f00be2f8051e113f6395f7195f14f0936302f0d88",
+  "mime_type": "image/jpeg",
+  "file_size": 103750,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "22:534\nKiểm tra Điểm tín dụng CIC\n506\n•1l =\n800\n600\n400\n200\n0\n4/2026\nThông tin chi tiết\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n506 điểm\nHạng 7\n23/04/2026\nCao hơn 11% khách hàng cá\nnhân khác\nCC Thông tin trên đây là bản tóm tắt sức khỏe tín\ndụng của bạn. Các dữ liệu chi tiết và đầy đủ\nđược cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 506,
+    "tier": 7,
+    "provider": "MoMo / CIC",
+    "raw_text": "22:534\nKiểm tra Điểm tín dụng CIC\n506\n•1l =\n800\n600\n400\n200\n0\n4/2026\nThông tin chi tiết\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n506 điểm\nHạng 7\n23/04/2026\nCao hơn 11% khách hàng cá\nnhân khác\nCC Thông tin trên đây là bản tóm tắt sức khỏe tín\ndụng của bạn. Các dữ liệu chi tiết và đầy đủ\nđược cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

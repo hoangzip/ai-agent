@@ -15,4 +15,9 @@ venv/
 **/data/media/assets/
 **/data/groups/*/images/
 **/data_bench/
+**/scratch/
+*.png
+*.env
+.env
+
 

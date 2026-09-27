@@ -1,0 +1,29 @@
+{
+  "id": "b90abffa-eece-452e-8f42-43846954b9d8",
+  "facebook_comment_id": "1494014728694541",
+  "post_id": "f54a618d-5514-4c64-91bb-1a1a56184f5f",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "8e1af25c-15b1-47b8-acb6-3884dad0ea70",
+  "author_display_name": "Phạm Trang",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/100022262117494",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=1013680641429497&set=g.580277503401606?comment_id=1494014728694541",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=2262282607857121&set=p.2262282607857121&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "2d77f30b-8c38-410a-ae04-8d91a489ecc7"
+  ],
+  "dedupe_key": "932d33661d9c320f2abe5c37d9a4d6a5",
+  "first_seen_at": "2026-09-26T09:18:44.364885+00:00",
+  "last_seen_at": "2026-09-26T09:18:44.364894+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T09:18:44.365251+00:00",
+  "updated_at": "2026-09-26T09:18:44.365255+00:00"
+}

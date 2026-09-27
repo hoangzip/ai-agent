@@ -1,0 +1,25 @@
+{
+  "id": "8441a266-dce7-47be-8d64-c46d3d7cd94b",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/741777664_4020811964890606_2585220204445447370_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHqvmCYuK-7eEywpqTsUJX06aHNdKIQnTbpoc10ohCdNkieP39Ijcamhe5K1pImWoRUnAOdJku3kTKbPq9iPSIh&_nc_ohc=P26Z8GY9ausQ7kNvwE5CmpT&_nc_oc=AdrK0uywIfPevqYBvT3QSIEmMl2NwcjQQ4SnAhDqp--vMe3WocRccnZ7xDrEYC3He0u97JCCfPqIK0yPhL5mb1kE&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=sslrO4msU1vjV-v_yRzqGQ&_nc_ss=7b2a8&oh=00_AQLJziW1zG03XTnzcFxJ5JEqTVIQ3-6sgY0HJpB0oivAGA&oe=6ABD1969",
+  "owner_type": "post",
+  "owner_id": "4bb89b9b-3257-4d04-8586-33bb864eeff7",
+  "photo_fbid": "4020811961557273",
+  "position": 0,
+  "storage_uri": "media/assets/23/eb/23eb8aa3ec9d0ead2166a1d2a386a86f8d2b239b8716b42bdf54db4b1a23d20e.jpg",
+  "sha256": "23eb8aa3ec9d0ead2166a1d2a386a86f8d2b239b8716b42bdf54db4b1a23d20e",
+  "mime_type": "image/jpeg",
+  "file_size": 119984,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "07:57\nKiểm tra Điểm tín dụng CIC\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n551 điểm\nHạng 6\n03/07/2026\nCao hơn 20% khách hàng\ncá nhân khác\nThông tin trên đây là bản tóm tắt sức khỏe\nditinFo\ntín dụng của bạn. Các dữ liệu chi tiết và đầy\nđủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 03/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n204 Triệu VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 6,
+    "scoring_date": "03/07/2026",
+    "total_debt": "204 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "07:57\nKiểm tra Điểm tín dụng CIC\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n551 điểm\nHạng 6\n03/07/2026\nCao hơn 20% khách hàng\ncá nhân khác\nThông tin trên đây là bản tóm tắt sức khỏe\nditinFo\ntín dụng của bạn. Các dữ liệu chi tiết và đầy\nđủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 03/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n204 Triệu VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

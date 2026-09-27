@@ -1,0 +1,26 @@
+{
+  "id": "28a04806-97df-4b3f-b511-6986ff78f9dc",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/783985724_1766891747841763_585277703430173977_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx640x1386&ctp=s640x1386&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=alm7z6I67g8Q7kNvwGv_d4z&_nc_oc=Adrgcovu39-j8gvLwvQyreNdcoz7l0viGI1cC808MZHrO94NMte0HDLAY7hjnFXhmELloBodaXUNQgtDw28de7-h&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=R9HZDyvl3ozq0hhm37jUGA&_nc_ss=7b289&oh=00_AQKw3tvLCtbrnjzQlYnO3F4PLxsDeunK30JGVs6hAvvG1Q&oe=6ABD0A74",
+  "owner_type": "post",
+  "owner_id": "44da6e76-8e16-4514-8780-cf00d52afe70",
+  "photo_fbid": "1766891741175097",
+  "position": 0,
+  "storage_uri": "media/assets/4f/6e/4f6e2074051ae86443c3ae7f8e69825bb9f888da8933dc96defa57fb74ff0e2d.jpg",
+  "sha256": "4f6e2074051ae86443c3ae7f8e69825bb9f888da8933dc96defa57fb74ff0e2d",
+  "mime_type": "image/jpeg",
+  "file_size": 65907,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "13:21\n4S 49t11 100\nKiểm tra Điểm tín dụng CIC\nCiC\nCreditinFo\n444\nHạng 9 0\nNgày chấm: 22/07/2026\nCao hơn 1% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\n0 VNĐ\n0 VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 444,
+    "tier": 9,
+    "scoring_date": "22/07/2026",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "13:21\n4S 49t11 100\nKiểm tra Điểm tín dụng CIC\nCiC\nCreditinFo\n444\nHạng 9 0\nNgày chấm: 22/07/2026\nCao hơn 1% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ ›\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\n0 VNĐ\n0 VNĐ"
+  }
+}

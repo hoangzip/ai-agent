@@ -1,0 +1,26 @@
+{
+  "id": "b7107886-74cd-4749-9044-baf1bab96b59",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/789594434_1095904719527905_507614724318215784_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx960x882&ctp=s960x882&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGHG9NyYrhFZygYE3L0cD1MaYeuZi_z7BFph65mL_PsEadw19x686buMtSeC83OOwV8p6CsLBao-NHh6ppdHAVB&_nc_ohc=DHhRdib9aGkQ7kNvwEIk2G3&_nc_oc=AdpLbDHJ6n8hsRHAvpTnaKbyd120mzoPWO0Y6L-JCFgfUgaEgp6gjMk9OBQoKhOA2z1mJ0FQF_YblxRjzWC9m6ox&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=Kc9q9Ha9k6zX3Z4TfSU6kw&_nc_ss=7b2a8&oh=00_AQK_jrvTD-MZRKERgqCJPLdoyCNJYa3C9a_z_0IW2MZfuA&oe=6ABCE9A0",
+  "owner_type": "post",
+  "owner_id": "e6e76f51-3887-4dbd-9469-21195aed4dff",
+  "photo_fbid": "1095904706194573",
+  "position": 0,
+  "storage_uri": "media/assets/d9/7c/d97c4573ecc8f73c2404806272ab359dfd3d97c9fbf72481cfe90234542eebef.jpg",
+  "sha256": "d97c4573ecc8f73c2404806272ab359dfd3d97c9fbf72481cfe90234542eebef",
+  "mime_type": "image/jpeg",
+  "file_size": 98546,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "2. Thông tin quan hệ tín dụng của khách hàng tại kho dữ liệu CIC\n2.1. Thông tin quan hệ tín dụng hiện thời\n- Tại Công ty Tài chính TNHH Ngân hàng Việt Nam Thịnh Vượng SMBC - Ngày báo cáo gần\nnhất: 30/06/2023\n+ Tông dư nợ: 2 triệu đồng và 0 USD\nTrong đó, nợ xấu: 2 triệu đồng và 0 USD\n2.2. Thông tin lịch sử nợ xấu trong 05 năm gần nhất\nSTT\nTên tổ chức/ chi nhánh TCTD\nCông ty Tài chính TNHH Ngân hàng Việt Nam Thịnh Vượng\nNgày phát sinh nợ\nxâu gần nhất\n30/06/2023\nSMBC\nLưu ý: Thông tin lịch sử nợ xấu bao gồm thông tin nợ vay và nợ thẻ\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\n1\nBảo đảm tiền vay bằng tài sản\nChưa thu thập được thông tin\nLưu ý: Trên đây là thông tin tín dụng của khách hàng vay tại C/C. Đê nghị Quý khách kiêm tra, nều\nphát hiện có sai sót, hoặc có thăc măc về thông tin trên vui lòng liên hệ trực tiêp tông đài hô trợ\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiểm tín dụng:\n444\nHạng:\n9\nNgày chấm điểm:\n19/06/2023\nĐiêm tín dụng của khách\nhàng cao hơn đi",
+  "cic_data": {
+    "is_cic": true,
+    "score": 444,
+    "tier": 9,
+    "scoring_date": "19/06/2023",
+    "total_debt": "2 triệu",
+    "has_bad_debt": true,
+    "provider": "MB Shinsei",
+    "raw_text": "2. Thông tin quan hệ tín dụng của khách hàng tại kho dữ liệu CIC\n2.1. Thông tin quan hệ tín dụng hiện thời\n- Tại Công ty Tài chính TNHH Ngân hàng Việt Nam Thịnh Vượng SMBC - Ngày báo cáo gần\nnhất: 30/06/2023\n+ Tông dư nợ: 2 triệu đồng và 0 USD\nTrong đó, nợ xấu: 2 triệu đồng và 0 USD\n2.2. Thông tin lịch sử nợ xấu trong 05 năm gần nhất\nSTT\nTên tổ chức/ chi nhánh TCTD\nCông ty Tài chính TNHH Ngân hàng Việt Nam Thịnh Vượng\nNgày phát sinh nợ\nxâu gần nhất\n30/06/2023\nSMBC\nLưu ý: Thông tin lịch sử nợ xấu bao gồm thông tin nợ vay và nợ thẻ\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\n1\nBảo đảm tiền vay bằng tài sản\nChưa thu thập được thông tin\nLưu ý: Trên đây là thông tin tín dụng của khách hàng vay tại C/C. Đê nghị Quý khách kiêm tra, nều\nphát hiện có sai sót, hoặc có thăc măc về thông tin trên vui lòng liên hệ trực tiêp tông đài hô trợ\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiểm tín dụng:\n444\nHạng:\n9\nNgày chấm điểm:\n19/06/2023\nĐiêm tín dụng của khách\nhàng cao hơn điểm tín dụng\n50%\ncủa 2% tổng khách hàng cả\nnhân được chấm điểm tại kho\ndữ liệu CIC.\nXếp hạng của\nkhách hàng\n2\n0%"
+  }
+}

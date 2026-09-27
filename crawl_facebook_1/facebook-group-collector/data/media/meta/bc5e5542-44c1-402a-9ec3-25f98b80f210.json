@@ -1,0 +1,26 @@
+{
+  "id": "bc5e5542-44c1-402a-9ec3-25f98b80f210",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/791533821_2017764142188936_5672925020816716125_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x1488&ctp=s1179x1488&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=vbebv-PrYrIQ7kNvwHrs4Lk&_nc_oc=Adqy2Ht35SxIdGrvohINQfOWlg8gf0WImDxrGWmFPQq4D82otkkC1G4rBXxcSzlCxk4&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=lkSW4JLq0Cq5lDDUNnXPLA&_nc_ss=7b2a8&oh=00_AQLoiPs7TpKHzEUsPu2PTMs6aUHX1Jsislp19ZxRhn5BEA&oe=6ABC066B",
+  "owner_type": "post",
+  "owner_id": "ba547311-3bc6-4f48-ad92-2cf95c610185",
+  "photo_fbid": "2017764138855603",
+  "position": 0,
+  "storage_uri": "media/assets/7a/fd/7afdedd2e650c4738128564c26301df119a1f0bbc465a139fd446f4172e81f64.jpg",
+  "sha256": "7afdedd2e650c4738128564c26301df119a1f0bbc465a139fd446f4172e81f64",
+  "mime_type": "image/jpeg",
+  "file_size": 114679,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\n577\nHạng 5 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 39% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\n• Theo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n2 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 577,
+    "tier": 5,
+    "scoring_date": "21/08/2026",
+    "total_debt": "2 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\n577\nHạng 5 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 39% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\n• Theo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n2 Triệu VNĐ"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "65ba9a72-692b-47a6-8499-347861016a86",
+  "facebook_comment_id": null,
+  "post_id": "77439049-d00d-4533-9cb3-90f3c361590a",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "040a6041-c408-4389-ab45-b134abde1f7f",
+  "author_display_name": "Do Hoang 2 years ago",
+  "author_profile_url": "https://www.facebook.com/groups/508242083145361/user/61552388441601",
+  "author_is_anonymous": false,
+  "comment_url": null,
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=122170925624079614&set=p.122170925624079614&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "8664450d-f96f-460c-8b88-49576a099a78"
+  ],
+  "dedupe_key": "0072ecc940ed4b22310b21c37811697a",
+  "first_seen_at": "2026-09-26T18:35:26.343359+00:00",
+  "last_seen_at": "2026-09-26T18:35:26.343363+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T18:35:26.343366+00:00",
+  "updated_at": "2026-09-26T18:35:26.343367+00:00"
+}

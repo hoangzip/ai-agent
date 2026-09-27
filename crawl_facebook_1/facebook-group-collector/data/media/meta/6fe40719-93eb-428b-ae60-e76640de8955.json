@@ -1,0 +1,24 @@
+{
+  "id": "6fe40719-93eb-428b-ae60-e76640de8955",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/742531026_122185320458958785_3589652214596882930_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1216x2640&ctp=s1216x2640&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGyaDTndHavrxMnDA3cJQsHRmqiRobfGD9GaqJGht8YP_S1WUFQcJanWZge1okjcYEHwcPaIlxYSx6syy2veYMI&_nc_ohc=vjAVueqcOZYQ7kNvwElFl94&_nc_oc=AdoIsL_RalsP0mabItbw54EZsM4YtyiL8Zdx1ZlVL_52kzUnbtWW-eq5qHzSSJM2uTUL_ubTIQQHC2JWBDl2Lry9&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=VeQfO6xtFt_sQeLxGZjQ3w&_nc_ss=7b2a8&oh=00_AQJrmqpdZWpL3inIgTb_SGN4sV-KPgeRlQ5XhTCD1C3zHQ&oe=6ABDDA69",
+  "owner_type": "post",
+  "owner_id": "12a0d78f-13b9-4426-a2a6-7d1e8e3c8a26",
+  "photo_fbid": "122185320452958785",
+  "position": 0,
+  "storage_uri": "media/assets/b8/bc/b8bc4a57c2f0b45803f04036cf5cd3d5a741149f7ab8e4f350ba7e511be1065d.jpg",
+  "sha256": "b8bc4a57c2f0b45803f04036cf5cd3d5a741149f7ab8e4f350ba7e511be1065d",
+  "mime_type": "image/jpeg",
+  "file_size": 147434,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "10:52\n184,3 4G\nB/S 1800004570\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n559\nHạng 6 0\nNgày chấm: 28/02/2026\nCao hơn 16% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 559,
+    "tier": 6,
+    "scoring_date": "28/02/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "10:52\n184,3 4G\nB/S 1800004570\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n559\nHạng 6 0\nNgày chấm: 28/02/2026\nCao hơn 16% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

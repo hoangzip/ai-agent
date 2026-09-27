@@ -1,0 +1,25 @@
+{
+  "id": "86c48809-0e96-43ee-81a2-0431571cf251",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/783028362_1537670754219697_6056928987929401962_n.jpg?stp=dst-jpg_tt6&cstp=mx1199x1719&ctp=s1199x1719&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=xIov3N8bTzkQ7kNvwEmRK0y&_nc_oc=AdoYDV_rMUxO_CYiSy0BzFIm4T7BI3uinZkZteVVWpAaOMlIByCDU5bnN9HBb4nnAFjhskjxWtoMyBp0VBXGkBxF&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=L3cqZv-dD0ANVKFQSToPCA&_nc_ss=7b289&oh=00_AQIsojkO0bBT-qew4XIUg4jQm21ziQZooL_dq4kPLmMgdg&oe=6ABCE6AF",
+  "owner_type": "post",
+  "owner_id": "371a7347-2a6d-4465-ab1a-9c5b1520b348",
+  "photo_fbid": "1537670750886364",
+  "position": 0,
+  "storage_uri": "media/assets/7c/7c/7c7c68ca7069d148f8a10d89832aa4d7672e7315b23d262fffddcb16049d8f59.jpg",
+  "sha256": "7c7c68ca7069d148f8a10d89832aa4d7672e7315b23d262fffddcb16049d8f59",
+  "mime_type": "image/jpeg",
+  "file_size": 123059,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "CCB\nCreditinFo\n599\nHạng 4 0\nNgày chấm: 22/07/2026\nĐiểm cao hơn 58% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\n• Theo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n30 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 4,
+    "scoring_date": "22/07/2026",
+    "total_debt": "30 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "CCB\nCreditinFo\n599\nHạng 4 0\nNgày chấm: 22/07/2026\nĐiểm cao hơn 58% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\n• Theo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n30 Triệu VNĐ"
+  }
+}

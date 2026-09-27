@@ -63,7 +63,13 @@ async def extract_comment_photos_from_page(page) -> list[dict]:
             // Strategy 1: Extract author name from aria-label (e.g. 'Comment by Phạm Bá Thức 8 weeks ago')
             const matchAria = ariaLabel.match(/^(?:Comment by|Reply by|Bình luận của|Câu trả lời của)\s+(.+?)(?:\s+\d+\s+(?:weeks?|days?|hours?|mins?|ngày|giờ|tuần|tháng|phút)|\s+about|\s+vừa xong|$)/i);
             if (matchAria && matchAria[1]) {
-                authorName = matchAria[1].trim();
+                let aName = matchAria[1].trim();
+                // Strip 'to ...'s comment' or 'đến bình luận của ...'
+                aName = aName.replace(/\s+to\s+.*?(?:'s)?\s+comment.*$/i, "");
+                aName = aName.replace(/\s+đến\s+bình\s+luận.*$/i, "");
+                aName = aName.replace(/\s+\d+\s+(?:days?|weeks?|hours?|mins?|ngày|giờ|tuần|tháng|phút)\s+ago$/i, "");
+                aName = aName.replace(/\s+(?:a|an)\s+(?:day|week|hour|minute)\s+ago$/i, "");
+                authorName = aName.trim();
             }
 
             // Strategy 2: Look for author profile link

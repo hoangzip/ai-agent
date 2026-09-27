@@ -1,0 +1,25 @@
+{
+  "id": "ceee6e96-8013-4a9e-a99f-9b887c65aae7",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/746073988_4386541298224509_7765041435288998124_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHbP1ObqOYO98jR-9oF9vYuH5I-YJzKHOwfkj5gnMoc7Mr1moCatxA73Pz8Ood0vHzPIkcT-_9QLidfqB-l5Fow&_nc_ohc=kuHfo7v9KWUQ7kNvwHhcv8Q&_nc_oc=Adp1F41Xzo1aSEtluaxBi2dBwsdHJW8M9ZyOFy4P0j8Ofpd2eAMuGcFsYmStKSRYoCNX3HtJhEtmLuToqIF3QG19&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=xhBZHs6LSQDdk4KUfJf8bw&_nc_ss=7b2a8&oh=00_AQImvsFlCLZgzeqiEB9XAiQVX_n_rFpmHEAu4yud1DXMHA&oe=6ABD26AE",
+  "owner_type": "post",
+  "owner_id": "5c48c0b5-6bbc-40a0-bb4c-64d542fb57ba",
+  "photo_fbid": "4386541294891176",
+  "position": 0,
+  "storage_uri": "media/assets/89/39/893954f7f793a556744bb18bf0b44c7cc536c261807f48e02b4338294533dd1b.jpg",
+  "sha256": "893954f7f793a556744bb18bf0b44c7cc536c261807f48e02b4338294533dd1b",
+  "mime_type": "image/jpeg",
+  "file_size": 116896,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "18:00\n< Kiểm tra Điểm tín dụng CIC\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n42\n645 điểm\nHạng 1\n23/04/2026\nCao hơn 93% khách hàng\ncá nhân khác\n, Thông tin trên đây là bản tóm tắt sức khỏe\ntín dụng của bạn. Các dữ liệu chi tiết và\nđầy đủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn ^\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/03/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n113 Triệu VNĐ\n62 Triệu VNĐ\n51 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 1,
+    "scoring_date": "22/03/2026",
+    "total_debt": "113 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "18:00\n< Kiểm tra Điểm tín dụng CIC\nĐiểm CIC\nHạng\nNgày chấm\nSo sánh\n42\n645 điểm\nHạng 1\n23/04/2026\nCao hơn 93% khách hàng\ncá nhân khác\n, Thông tin trên đây là bản tóm tắt sức khỏe\ntín dụng của bạn. Các dữ liệu chi tiết và\nđầy đủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn ^\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 22/03/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n113 Triệu VNĐ\n62 Triệu VNĐ\n51 Triệu VNĐ"
+  }
+}

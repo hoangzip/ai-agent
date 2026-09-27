@@ -40,6 +40,9 @@ logging.basicConfig(
 logger = logging.getLogger("media_crawler")
 
 GROUP_SLUG = "978769317924542"
+GROUP_ID_MAP = {
+    "kiemtranoxau": "508242083145361",
+}
 POST_ID_RE = re.compile(r"/(?:posts|permalink)/(\d+)")
 FBID_RE = re.compile(r"fbid=(\d+)")
 
@@ -76,33 +79,60 @@ def has_complete_cic(post_data: dict | None) -> bool:
 async def collect_media_gallery_order(
     page,
     group_slug: str,
-    max_scrolls: int = 200,
+    max_scrolls: int = 2000,
     stop_on_known_fbids: set[str] | None = None,
     stop_threshold: int = 5,
 ) -> list[dict]:
     """
-    Scroll /media to collect all photos in natural grid order:
+    Scroll /media/photos to collect all photos in natural grid order:
     left-to-right, row-by-row (top-to-bottom).
     If stop_on_known_fbids is provided, stops early when encountering
     stop_threshold consecutive known photos (delta / incremental mode).
     """
-    media_url = f"https://web.facebook.com/groups/{group_slug}/media"
+    numeric_gid = GROUP_ID_MAP.get(group_slug, group_slug)
+    media_url = f"https://www.facebook.com/groups/{numeric_gid}/media/photos"
     logger.info("Collecting media gallery order from %s ...", media_url)
     
     await page.goto(media_url, wait_until="domcontentloaded", timeout=45_000)
     await asyncio.sleep(4)
     
+    # Dismiss any initial blocking dialogs
+    await page.evaluate("""() => {
+        for (let d of document.querySelectorAll("div[role='dialog']")) {
+            if (d.innerText.includes('daily limit') || d.innerText.includes('Notifications') || d.innerText.includes('Turn on')) {
+                d.remove();
+            }
+        }
+    }""")
+    
+    # Focus center of page to activate keyboard scrolling
+    try:
+        await page.mouse.move(700, 500)
+        await page.mouse.click(700, 500)
+        await asyncio.sleep(1)
+    except Exception:
+        pass
+    
     ordered_photos: list[dict] = []
     seen_fbids: set[str] = set()
     no_new_rounds = 0
-    max_no_new = 15
+    max_no_new = 25
     consecutive_known = 0
     hit_known_boundary = False
 
     for scroll_i in range(max_scrolls):
+        # Dismiss any dialogs that appeared during scroll
+        await page.evaluate("""() => {
+            for (let d of document.querySelectorAll("div[role='dialog']")) {
+                if (d.innerText.includes('daily limit') || d.innerText.includes('Notifications') || d.innerText.includes('Turn on')) {
+                    d.remove();
+                }
+            }
+        }""")
+
         # Extract visible photo links with bounding box coordinates
         raw_items = await page.evaluate(f"""() => {{
-            const els = Array.from(document.querySelectorAll("a[href*='set=g.{group_slug}']"));
+            const els = Array.from(document.querySelectorAll("a[href*='/photo/'], a[href*='photo.php'], a[href*='set=g.'], a[href*='fbid=']"));
             return els.map(a => {{
                 const rect = a.getBoundingClientRect();
                 return {{
@@ -139,7 +169,7 @@ async def collect_media_gallery_order(
 
             if fbid not in seen_fbids:
                 seen_fbids.add(fbid)
-                clean_href = f"https://web.facebook.com/photo/?fbid={fbid}&set=g.{group_slug}"
+                clean_href = f"https://www.facebook.com/photo/?fbid={fbid}&set=g.{numeric_gid}"
                 ordered_photos.append({
                     "fbid": fbid,
                     "url": clean_href,
@@ -157,13 +187,29 @@ async def collect_media_gallery_order(
             if no_new_rounds >= max_no_new:
                 logger.info("Reached end of media gallery at scroll %d (total=%d photos)", scroll_i, len(ordered_photos))
                 break
+            # Adaptive wiggle scroll to trigger intersection observer
+            try:
+                await page.keyboard.press("Escape")
+                await page.mouse.wheel(0, -350)
+                await asyncio.sleep(0.4)
+                await page.mouse.wheel(0, 900)
+                await page.keyboard.press("PageDown")
+            except Exception:
+                pass
+            await asyncio.sleep(2.0)
         else:
             no_new_rounds = 0
-            logger.info("Scroll %d: +%d new photos (total=%d)", scroll_i, added_this_round, len(ordered_photos))
+            if (scroll_i + 1) % 5 == 0 or added_this_round > 0:
+                logger.info("Scroll %d: +%d new photos (total=%d)", scroll_i, added_this_round, len(ordered_photos))
 
-        # Scroll down smoothly
-        await page.evaluate("window.scrollBy(0, window.innerHeight * 2);")
-        await asyncio.sleep(1.2)
+            # Real user scroll: mouse wheel + PageDown
+            try:
+                await page.keyboard.press("Escape")
+                await page.mouse.wheel(0, 1500)
+                await page.keyboard.press("PageDown")
+            except Exception:
+                pass
+            await asyncio.sleep(1.5)
 
     return ordered_photos
 
@@ -175,6 +221,12 @@ async def inspect_photo_page(page, photo_url: str) -> dict:
     """
     await page.goto(photo_url, wait_until="domcontentloaded", timeout=35_000)
     await asyncio.sleep(2.5)
+
+    # Automatic safety check: detect Facebook rate limit / temporary block
+    body_txt = await page.inner_text("body")
+    if "Temporarily Blocked" in body_txt or "bị chặn tạm thời" in body_txt.lower():
+        logger.critical("DETECTED FACEBOOK TEMPORARY BLOCK! Automatically aborting crawl to protect account.")
+        raise RuntimeError("FACEBOOK_TEMPORARILY_BLOCKED")
 
     post_url = None
     post_id = None
@@ -226,7 +278,7 @@ async def inspect_photo_page(page, photo_url: str) -> dict:
             author_name = raw_name
             author_profile_url = clean_facebook_url(raw_url) if raw_url else None
             is_anon = True
-        elif raw_name and raw_name != "CHECK CIC - HỖ TRỢ VAY NGÂN HÀNG" and len(raw_name) > 1:
+        elif raw_name and len(raw_name) > 1 and not any(k in raw_name.lower() for k in ("kiểm tra nợ xấu", "hỗ trợ vay", "check cic", "notifications", "thông báo")):
             author_name = raw_name
             author_profile_url = clean_facebook_url(raw_url) if raw_url else None
             is_anon = False
@@ -303,12 +355,15 @@ async def inspect_photo_page(page, photo_url: str) -> dict:
 
     # 4. Extract Post Image strictly from MediaViewerPhoto
     img_src = None
-    img_el = await page.query_selector(
-        "div[data-pagelet='MediaViewerPhoto'] img, "
-        "img[data-visualcompletion='media-vc-image']"
-    )
-    if img_el:
-        img_src = await img_el.get_attribute("src")
+    try:
+        img_el = await page.wait_for_selector(
+            "div[data-pagelet='MediaViewerPhoto'] img, img[data-visualcompletion='media-vc-image']",
+            timeout=4000
+        )
+        if img_el:
+            img_src = await img_el.get_attribute("src")
+    except Exception:
+        pass
 
     # Fallback for largest image in photo viewer if selector differs
     if not img_src:
@@ -346,10 +401,11 @@ async def main():
     parser.add_argument("--limit", type=int, default=None, help="Stop after crawling N posts")
     parser.add_argument("--update-new", action="store_true", help="Incremental mode: crawl only new photos published since the last crawl")
     parser.add_argument("--check-comments", action="store_true", help="Also check and extract comment CIC photos for each post")
+    parser.add_argument("--headless", action="store_true", default=False, help="Run browser in headless mode")
     args, _ = parser.parse_known_args()
 
     group_slug = args.group
-    logger.info("Initializing crawler for group: %s (mode: %s)", group_slug, "INCREMENTAL (--update-new)" if args.update_new else "STANDARD")
+    logger.info("Initializing crawler for group: %s (mode: %s, headless: %s)", group_slug, "INCREMENTAL (--update-new)" if args.update_new else "STANDARD", args.headless)
 
     config = load_config("config/crawler.yaml")
     layout = StorageLayout("data")
@@ -395,7 +451,7 @@ async def main():
 
     from playwright.async_api import async_playwright
     async with async_playwright() as p:
-        browser = await BrowserFactory.launch_browser(p, config.browser)
+        browser = await BrowserFactory.launch_browser(p, config.browser, headless=True if args.headless else None)
         context = await BrowserFactory.create_context(browser, config.browser, browser_state)
         page = await context.new_page()
         comment_page = await context.new_page() if getattr(args, "check_comments", False) else None
@@ -444,7 +500,7 @@ async def main():
 
             # Check if this photo was already visited and resolved
             prev_info = state.get(fbid)
-            if prev_info and prev_info.get("status") in ("skipped_complete_cic", "crawled_cic_found", "crawled_no_cic"):
+            if prev_info and prev_info.get("status") in ("skipped_complete_cic", "crawled_cic_found", "crawled_no_cic", "no_image", "deleted_content"):
                 skipped_count += 1
                 continue
 
@@ -483,13 +539,15 @@ async def main():
 
             found_post_id = info.get("post_id")
             raw_purl = info.get("post_url")
-            if found_post_id and str(found_post_id) != str(fbid) and raw_purl and "recover/initiate" not in raw_purl and ("posts" in raw_purl or "permalink" in raw_purl):
+            is_anon = info.get("is_anonymous", False)
+            if not is_anon and found_post_id and str(found_post_id) != str(fbid) and raw_purl and "recover/initiate" not in raw_purl and ("posts" in raw_purl or "permalink" in raw_purl):
                 post_id = str(found_post_id)
                 post_url = raw_purl
             else:
-                # Standalone photo upload: the canonical working Facebook URL is photo/?fbid=
+                # Standalone photo upload OR anonymous post: canonical working URL is photo/?fbid=
                 post_id = str(fbid)
-                post_url = f"https://www.facebook.com/photo/?fbid={fbid}&set=g.{group_slug}"
+                numeric_gid = GROUP_ID_MAP.get(group_slug, group_slug)
+                post_url = f"https://www.facebook.com/photo/?fbid={fbid}&set=g.{numeric_gid}"
 
             # Step 4: Check if post already crawled and has complete CIC information
             existing_entry = posts_by_fb_id.get(str(post_id))
@@ -733,67 +791,70 @@ async def main():
                     pass
 
                 try:
-                    await comment_page.goto(post_url, wait_until="domcontentloaded", timeout=25_000)
-                    await asyncio.sleep(2.0)
+                    async with asyncio.timeout(20.0):
+                        await comment_page.goto(post_url, wait_until="domcontentloaded", timeout=12_000)
+                        await asyncio.sleep(1.0)
 
-                    # Expand comments & replies
-                    for _ in range(15):
-                        more_btn = await comment_page.query_selector(
-                            "span:has-text('View more comments'), span:has-text('Xem thêm bình luận'), div[role='button']:has-text('View more comments')"
-                        )
-                        if more_btn and await more_btn.is_visible():
-                            try:
-                                await more_btn.click()
-                                await asyncio.sleep(1.0)
-                            except Exception:
+                        # Expand comments & replies with tight click timeouts
+                        for _ in range(5):
+                            more_btn = await comment_page.query_selector(
+                                "span:has-text('View more comments'), span:has-text('Xem thêm bình luận'), div[role='button']:has-text('View more comments')"
+                            )
+                            if more_btn and await more_btn.is_visible():
+                                try:
+                                    await more_btn.click(timeout=1200, force=True)
+                                    await asyncio.sleep(0.8)
+                                except Exception:
+                                    break
+                            else:
                                 break
-                        else:
-                            break
 
-                    reply_btns = await comment_page.query_selector_all("div[role='button']:has-text('replies'), div[role='button']:has-text('reply'), div[role='button']:has-text('câu trả lời')")
-                    for b in reply_btns[:20]:
-                        try:
-                            if await b.is_visible():
-                                await b.click()
-                                await asyncio.sleep(0.5)
-                        except Exception:
-                            pass
+                        reply_btns = await comment_page.query_selector_all("div[role='button']:has-text('replies'), div[role='button']:has-text('reply'), div[role='button']:has-text('câu trả lời')")
+                        for b in reply_btns[:10]:
+                            try:
+                                if await b.is_visible():
+                                    await b.click(timeout=1200, force=True)
+                                    await asyncio.sleep(0.3)
+                            except Exception:
+                                pass
 
-                    c_photos = await extract_comment_photos_from_page(comment_page)
-                    for c_item in c_photos:
-                        c_lead = await process_comment_cic_photo(
-                            photo_page=photo_page,
-                            comment_data=c_item,
-                            post_uuid=post_uuid,
-                            facebook_post_id=str(post_id),
-                            post_url=post_url,
-                            group_slug=group_slug,
-                            layout=layout,
-                            downloader=downloader,
-                            actor_repo=actor_repo,
-                            post_fbid=fbid,
-                        )
-                        if c_lead:
-                            cic_found_count += 1
-                            # Deduplicate comment lead by author_profile_url, comment_id, or cic_code
-                            matched_c = False
-                            for idx_c, ex_c in enumerate(leads):
-                                if c_lead.get("author_profile_url") and ex_c.get("author_profile_url") == c_lead.get("author_profile_url"):
-                                    leads[idx_c].update(c_lead)
-                                    matched_c = True
-                                    break
-                                elif c_lead.get("comment_id") and ex_c.get("comment_id") == c_lead.get("comment_id"):
-                                    leads[idx_c].update(c_lead)
-                                    matched_c = True
-                                    break
-                                elif c_lead.get("cic_code") and ex_c.get("cic_code") == c_lead.get("cic_code"):
-                                    leads[idx_c].update(c_lead)
-                                    matched_c = True
-                                    break
-                            if not matched_c:
-                                leads.append(c_lead)
+                        c_photos = await extract_comment_photos_from_page(comment_page)
+                        for c_item in c_photos:
+                            c_lead = await process_comment_cic_photo(
+                                photo_page=photo_page,
+                                comment_data=c_item,
+                                post_uuid=post_uuid,
+                                facebook_post_id=str(post_id),
+                                post_url=post_url,
+                                group_slug=group_slug,
+                                layout=layout,
+                                downloader=downloader,
+                                actor_repo=actor_repo,
+                                post_fbid=fbid,
+                            )
+                            if c_lead:
+                                cic_found_count += 1
+                                # Deduplicate comment lead by author_profile_url, comment_id, or cic_code
+                                matched_c = False
+                                for idx_c, ex_c in enumerate(leads):
+                                    if c_lead.get("author_profile_url") and ex_c.get("author_profile_url") == c_lead.get("author_profile_url"):
+                                        leads[idx_c].update(c_lead)
+                                        matched_c = True
+                                        break
+                                    elif c_lead.get("comment_id") and ex_c.get("comment_id") == c_lead.get("comment_id"):
+                                        leads[idx_c].update(c_lead)
+                                        matched_c = True
+                                        break
+                                    elif c_lead.get("cic_code") and ex_c.get("cic_code") == c_lead.get("cic_code"):
+                                        leads[idx_c].update(c_lead)
+                                        matched_c = True
+                                        break
+                                if not matched_c:
+                                    leads.append(c_lead)
 
-                            leads_path.write_text(json.dumps(leads, ensure_ascii=False, indent=2), encoding="utf-8")
+                                leads_path.write_text(json.dumps(leads, ensure_ascii=False, indent=2), encoding="utf-8")
+                except (asyncio.TimeoutError, TimeoutError):
+                    logger.debug("Comment checking timed out (20s ceiling) for post %s, moving forward", post_id)
                 except Exception as e_comm:
                     logger.debug("Error checking comments for post %s: %s", post_id, e_comm)
 
@@ -801,7 +862,15 @@ async def main():
             if args.limit and processed_count >= args.limit:
                 logger.info("Reached requested limit of %d posts. Stopping crawl for review.", args.limit)
                 break
-            await asyncio.sleep(random.uniform(1.2, 2.0))
+            # Safe delay with human jitter between photos
+            delay_s = random.uniform(5.5, 9.5)
+            await asyncio.sleep(delay_s)
+
+            # Safety rest every 25 photos to avoid Facebook rate limits
+            if processed_count > 0 and processed_count % 25 == 0:
+                rest_s = random.uniform(45.0, 75.0)
+                logger.info("Taking a brief safety rest of %.1f seconds after 25 photos to protect account...", rest_s)
+                await asyncio.sleep(rest_s)
 
         if comment_page:
             await comment_page.close()

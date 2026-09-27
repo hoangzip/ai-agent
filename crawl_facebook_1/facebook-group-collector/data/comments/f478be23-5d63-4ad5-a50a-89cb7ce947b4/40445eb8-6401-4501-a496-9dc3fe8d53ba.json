@@ -1,0 +1,29 @@
+{
+  "id": "40445eb8-6401-4501-a496-9dc3fe8d53ba",
+  "facebook_comment_id": "1506017374160943",
+  "post_id": "f478be23-5d63-4ad5-a50a-89cb7ce947b4",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "4bd293b3-87dc-4a5c-bf8c-8209313a62b0",
+  "author_display_name": "Trần Mii Shinhan",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/100053450987619",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=2261968144571870&set=g.580277503401606?comment_id=1506017374160943",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=1598236105301407&set=p.1598236105301407&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "7c647d92-1bca-45a1-8c72-b9f76fe9a65e"
+  ],
+  "dedupe_key": "d1d27c47ef6035bdf28c2e7a4fc45727",
+  "first_seen_at": "2026-09-26T05:22:58.794577+00:00",
+  "last_seen_at": "2026-09-26T05:22:58.794584+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T05:22:58.794585+00:00",
+  "updated_at": "2026-09-26T05:22:58.794586+00:00"
+}

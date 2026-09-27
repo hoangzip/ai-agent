@@ -1,0 +1,28 @@
+{
+  "id": "8f94ef75-c89a-4832-90a7-de6ed6aea926",
+  "facebook_post_id": "1558889528873727",
+  "group_id": "580277503401606",
+  "group_slug": "580277503401606",
+  "author_id": "bd1edc56-d95d-444e-940f-77ed7795372f",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2167436120535596&set=g.580277503401606",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-25T09:14:51.600219+00:00",
+  "updated_at": "2026-09-25T09:15:29.818476+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "49439f07-f146-4709-acbd-12123ccc1737",
+    "7a3f962c-8733-4dd9-86ec-92ec6b494ace"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "31/08/2026",
+    "provider": "TPBank",
+    "raw_text": "2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nNợ vay\nTên tổ chức/chi nhánh TCTD\nLoại dư nợ\n1. Ngân hàng TMCP Tiên Phong\nNgày báo cáo dư nợ thẻ gần nhất: 31/08/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\nVND\nĐơn vị tính: triệu đồng, USD\nNợ thẻ\nUSD\nVND\n0\n0\n3\n3\nTổng cộng\n0\nLưu ý:\n- Tổng dư nợ bao gồm cả khoản nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ số ngày chậm thanh toán từ 10 -90\nngày đôi với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà"
+  }
+}

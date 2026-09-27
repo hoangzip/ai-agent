@@ -1,0 +1,29 @@
+{
+  "id": "15da43b8-7255-4f29-a583-71305876d66a",
+  "facebook_comment_id": "1325105766243816",
+  "post_id": "58e35848-1e5d-4777-a3b4-0bb833e964a4",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "5a9e2fc4-8b4d-4e76-b704-bc9de86fad9b",
+  "author_display_name": "Mai Anh",
+  "author_profile_url": "https://www.facebook.com/groups/1295572999197093/user/100067517752282",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=2025481468039940&set=g.1295572999197093?comment_id=1325105766243816",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=1313015784292334&set=p.1313015784292334&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "baf3c034-a6ff-41a5-978c-b495fae9f944"
+  ],
+  "dedupe_key": "0f1bc4d59e40c3158c4469f2e1c005c6",
+  "first_seen_at": "2026-09-26T13:23:36.280160+00:00",
+  "last_seen_at": "2026-09-26T13:23:36.280166+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T13:23:36.280169+00:00",
+  "updated_at": "2026-09-26T13:23:36.280169+00:00"
+}

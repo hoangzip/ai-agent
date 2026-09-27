@@ -1,0 +1,26 @@
+{
+  "id": "6ff29263-a681-47d5-8366-6dc7eb40481f",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/774267833_1367945384844616_6104450103311354353_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1784&ctp=s1080x1784&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=c3A9B66y62EQ7kNvwHYjPZb&_nc_oc=Adp03fN_dZzGnthNhLAcl2gq4UGwXjbL_y3bM_v_G7bEuGWeThOriscQxIWEqNf9qdig2U4z4s_6KlPswyNs1N63&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=YT1mHtcveMgkRNODx6UQew&_nc_ss=7b289&oh=00_AQLRSkOFDZLf8ifa4JiRobH3q4F-QoFHHvT5Sisk3ivZ_w&oe=6ABCF916",
+  "owner_type": "post",
+  "owner_id": "15aa40b4-a9c8-47dc-ae79-2fead4ca4d92",
+  "photo_fbid": "1367945371511284",
+  "position": 0,
+  "storage_uri": "media/assets/ea/18/ea18f6a9dae26e226400c4c84264b7c5c49a96a7450d8eb5909a884ef5fba9ec.jpg",
+  "sha256": "ea18f6a9dae26e226400c4c84264b7c5c49a96a7450d8eb5909a884ef5fba9ec",
+  "mime_type": "image/jpeg",
+  "file_size": 138459,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n565\nHạng 6\nNgày chấm: 22/07/2026\nCao hơn 30% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiến thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\n137 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 565,
+    "tier": 6,
+    "scoring_date": "22/07/2026",
+    "total_debt": "137 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n565\nHạng 6\nNgày chấm: 22/07/2026\nCao hơn 30% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiến thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\n137 Triệu VNĐ"
+  }
+}

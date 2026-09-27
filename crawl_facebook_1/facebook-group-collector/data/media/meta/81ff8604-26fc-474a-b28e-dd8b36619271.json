@@ -1,0 +1,25 @@
+{
+  "id": "81ff8604-26fc-474a-b28e-dd8b36619271",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/781339065_122259057782272522_6573744824039763699_n.jpg?stp=dst-jpg_tt6&cstp=mx444x960&ctp=s444x960&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF-MtAs_oY-XaDWnLMdQVEgD_hrfbCFGjUP-Gt9sIUaNdIfoslmPwDfn6r8_1ddPbM8gw1_D81-3TuKWbs-4vn_&_nc_ohc=6QUEO7QmcTkQ7kNvwFFYA3Y&_nc_oc=Adpoc3BX83ijX4jzB8TomEIAirqIdhBafdAPK-kwRolEVVX7NLm9Hz6Sx8jWJaPqaSo_J9ghyj6TBlXeZV2oDjDi&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=5bhEDkbkgrp__pXrESwMSQ&_nc_ss=7b2a8&oh=00_AQI-4IgO4qElcdgW7dGNNsYzl961_B7y9_QDzd9TiLYksA&oe=6ABD0CBC",
+  "owner_type": "post",
+  "owner_id": "4f637b92-d754-45d6-9a07-9fafe123b4b4",
+  "photo_fbid": "122259057770272522",
+  "position": 0,
+  "storage_uri": "media/assets/81/c8/81c8f22e0749bb186e05ca5f188c33a06e310928f686d7f574efe99d406bfec1.jpg",
+  "sha256": "81c8f22e0749bb186e05ca5f188c33a06e310928f686d7f574efe99d406bfec1",
+  "mime_type": "image/jpeg",
+  "file_size": 51282,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "09:40\nall G\nM100\nKiểm tra Điểm tín dụng CIC\n495\nHạng 7 O\nNgày chấm: 22/03/2026\nA Đã tới kỹ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 10% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi C/C và hiển thị trên MoMo\nHôm nay có gì mới\nXây nền tài chính từ hôm nay\nDuy trì từ 100K trong Túi Thần Tài đề\ngia tăng cơ hội tài chính nhé\nNạp ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ẩn thông tin\nTheo dữ liệu tính đến ngày chấm 22/03/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nCập nhật Điểm tháng mới\nC Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 495,
+    "tier": 7,
+    "scoring_date": "22/03/2026",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "09:40\nall G\nM100\nKiểm tra Điểm tín dụng CIC\n495\nHạng 7 O\nNgày chấm: 22/03/2026\nA Đã tới kỹ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 10% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi C/C và hiển thị trên MoMo\nHôm nay có gì mới\nXây nền tài chính từ hôm nay\nDuy trì từ 100K trong Túi Thần Tài đề\ngia tăng cơ hội tài chính nhé\nNạp ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ẩn thông tin\nTheo dữ liệu tính đến ngày chấm 22/03/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nCập nhật Điểm tháng mới\nC Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

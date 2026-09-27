@@ -1,0 +1,29 @@
+{
+  "id": "f8f9fe17-bc3b-4dbb-90d8-564ade1e60dc",
+  "facebook_comment_id": "1549180953177918",
+  "post_id": "73c8ac15-3230-42dd-91af-918c78b6500b",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "b141d538-b108-4e6c-9810-c4b3df62228f",
+  "author_display_name": "Thuỳ Linh",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/61591201734086",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=2018367802140369&set=g.580277503401606?comment_id=1549180953177918",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=122118654951373391&set=p.122118654951373391&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "404a362b-dcd8-473d-be45-e253dc9a917d"
+  ],
+  "dedupe_key": "7a9d39e3da8e25559cdebeef96749d1b",
+  "first_seen_at": "2026-09-26T01:18:36.963287+00:00",
+  "last_seen_at": "2026-09-26T01:18:36.963290+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T01:18:36.963291+00:00",
+  "updated_at": "2026-09-26T01:18:36.963292+00:00"
+}

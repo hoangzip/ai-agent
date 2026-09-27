@@ -1,0 +1,24 @@
+{
+  "id": "aff619dc-98b7-45c1-97e8-14f2c5232918",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/725924466_1685054425883763_6482448152008318561_n.png?stp=dst-png&cstp=mx788x231&ctp=s788x231&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeE8NpccoLfL66N4RF9LQzIaSpJW10maO55KklbXSZo7nkpzpB3SZS9qXRuHKzEDvTJwWX-gSEFqv6F-i-twdWZF&_nc_ohc=5dtF-56pTQwQ7kNvwFum4Jk&_nc_oc=AdoxUr9RPkTptsUZZ03zw8KCl3AGevfoKb15-3y3AILZfpf5-iJnzpPptdHCmpoTB79D8vmruo_5GFCj8FHUj8ON&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=ynSs3u46A3dDVem9j1QMCw&_nc_ss=7b2a8&oh=00_AQIDNFchlVAPVlSx9t25WVsACn0R06wEuqihzciZ6alEng&oe=6ABD62EB",
+  "owner_type": "post",
+  "owner_id": "3e09ee8a-9a77-407e-a446-c96b51643852",
+  "photo_fbid": "1685054422550430",
+  "position": 0,
+  "storage_uri": "media/assets/a5/be/a5be521906fc5e6c3d0f6ba70137c811605ca07e8eda179225b35ff3482aa096.png",
+  "sha256": "a5be521906fc5e6c3d0f6ba70137c811605ca07e8eda179225b35ff3482aa096",
+  "mime_type": "image/png",
+  "file_size": 69894,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Điểm tín dụng:\n598\nHạng:\n4\nNgày chấm điểm:\n23/04/2026\nXếp hạng của\nkhách hàng\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiểm tín dụng của khách hàng ca\nhơn điểm tín dụng của 59% tồn\n50%\nkhách hàng cá nhân được chấm điển\ntại kho dữ liệu CIC.\n0%",
+  "cic_data": {
+    "is_cic": true,
+    "score": 598,
+    "tier": 4,
+    "scoring_date": "23/04/2026",
+    "provider": "CIC",
+    "raw_text": "Điểm tín dụng:\n598\nHạng:\n4\nNgày chấm điểm:\n23/04/2026\nXếp hạng của\nkhách hàng\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiểm tín dụng của khách hàng ca\nhơn điểm tín dụng của 59% tồn\n50%\nkhách hàng cá nhân được chấm điển\ntại kho dữ liệu CIC.\n0%"
+  }
+}

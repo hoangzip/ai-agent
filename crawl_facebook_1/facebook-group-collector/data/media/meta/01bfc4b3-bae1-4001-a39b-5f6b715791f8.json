@@ -1,0 +1,25 @@
+{
+  "id": "01bfc4b3-bae1-4001-a39b-5f6b715791f8",
+  "media_type": "image",
+  "source_url": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/814535955_28629312606723697_7323001952816375232_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1612&ctp=s720x1612&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5L_zW9acqpwQ7kNvwGEwNn6&_nc_oc=Adrg0aVIvNJaD-M_3z0ibRcSaODQcaWcfJ8PRbIyDtu56zUgGxGPycBGhsAQg1ya2MI&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=TrT3kaDFpXcMk1GPYvS1tA&_nc_ss=7b2a8&oh=00_AQL01eT4DiNTZbL0UFthqbu35nc0UQ3lBo7tL3Iv6EsuSw&oe=6ABBF1CE",
+  "owner_type": "post",
+  "owner_id": "5b167cc6-2a41-4007-a805-b1e71433d035",
+  "photo_fbid": "28629312563390368",
+  "position": 0,
+  "storage_uri": "media/assets/fe/83/fe83f2ebf1b4cbdccf365a47801cbccaa980cd322e780d6cfe9f1d2a885ad5d9.jpg",
+  "sha256": "fe83f2ebf1b4cbdccf365a47801cbccaa980cd322e780d6cfe9f1d2a885ad5d9",
+  "mime_type": "image/jpeg",
+  "file_size": 148112,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "10:06\n37\nTông nợ\n- Nợ đủ tiêu chuân\n- Nợ cần chú ý\n- Nợ xâu\n20\n20\nTông cộng\n166\n20\nLuu y:\n- Tổng dư nợ bao gồm cả khoản nợ không phân loại nợ lại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán từ 10 -90\nngày đôi với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\n- Nợ xấu gồm các khoán nợ được phân loại nhóm 3, 4, 5 theo các quy định phần loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ số ngày chậm thanh toán trên 90 ngày\nđôi với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chinh phù/ Ngân hàng nhà\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nKhách hàng không có lịch sử nợ xấu, nợ cần chú ý tại các TCTD\nLựu ý: Thông tin lịch sử nợ cần chú ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại bảng và các khoản\ncấp tin dụ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 547,
+    "tier": 6,
+    "scoring_date": "21/08/2026",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "10:06\n37\nTông nợ\n- Nợ đủ tiêu chuân\n- Nợ cần chú ý\n- Nợ xâu\n20\n20\nTông cộng\n166\n20\nLuu y:\n- Tổng dư nợ bao gồm cả khoản nợ không phân loại nợ lại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán từ 10 -90\nngày đôi với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\n- Nợ xấu gồm các khoán nợ được phân loại nhóm 3, 4, 5 theo các quy định phần loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ số ngày chậm thanh toán trên 90 ngày\nđôi với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chinh phù/ Ngân hàng nhà\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nKhách hàng không có lịch sử nợ xấu, nợ cần chú ý tại các TCTD\nLựu ý: Thông tin lịch sử nợ cần chú ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại bảng và các khoản\ncấp tin dụng khác. Lịch sử nợ cần chú ý trong 12 tháng gần nhất; lịch sử nợ xấu trong vòng 05 năm gần\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nBảo đâm tiến vay bằng tài sản\nGiá trị\nKhông có\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiểm tin dụng:\n547\nHạng:\n6\nNgày chấm điềm:\n21/08/2026\nĐiểm tín dụng của khách hàng cao\nhơn điễm tin dụng của 18% tông\n- 50% khách hàng cá nhân được chấm điểm\ntại kho dữ liệu CIC.\nXếp hạng của\nkhách hàng\n18\n0%\n2\nCHI TIẾT ĐIỂM VÀ HẠNG\nXấu\nHạng\n09\nDưới trung bình Trung bình\n07\n06\n05\nTốt\nRất tốt\n04 03\n02 01\nĐiêm 403-434 435-454 455-479 480-544 545-566 567-587 588-608 609-622 623-644 645-706\nĐiểm hạng của khách hàng\n- Điểm tín dụng của khách hàng vay được C/C đánh giả trên toàn bộ dữ liệu quan hệ tín dụng của\nkhách hàng vay tại thời điểm cuối tháng gần nhất so với thời điểm chấm. Điểm tín dụng được CIC chấm\ncập nhật định kỳ hàng tháng theo biến động thông tin tín dụng của khách hàng vay.\n- Mô hình chấm điểm thể nhân được CHC phối hợp với đối tác có uy tín trên thể giới xây dựng, sử dụng\ncác công thức tính toán công băng, khách quan nhăm hỗ trợ khách hàng vay kiêm soát tình trạng tín dụng\ncủa bản thân và cung cần thêm thông tin tham khảo gi TCTD đánh giá nhanh chóng chính xác đễ nah.\ncấp tín dụng của khách hàng.\nKÉT THÚC BÁO CÁO\n- Tất cà đơn vị tiền tệ trong báo cáo này là triệu đồng, 1 USD.\n- Báo cáo được lập theo yêu cầu của khách hàng vay, để nghị sử dụng thông tin đúng mục đích. Nếu co\nthắc mắc về thông tin trên, vui lòng liên hệ trực tiếp tổng đài hồ trợ khách hàng 1800585891 để được hồ"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b739ae84-0454-4f0f-834d-a6c3d1f79ed7",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/779958427_1576953947400863_9024451942240317711_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx714x1534&ctp=s714x1534&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=1NXfBvxEyRgQ7kNvwGt1BSK&_nc_oc=AdpXlZfzb1HZ-25K2NMDMOxbSAW-o_PeHJRatLPvVaGxTkDOVosOED_yrHnkvb-Hj-m3TbE6F5FfYprkkex07zoV&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=s2AuMxuVNXpdIOf_6ksj0A&_nc_ss=7b289&oh=00_AQIDc6o4mNOwPZgR1E4gN6p7Pfn4Wp0SvfDwgBuIddAprw&oe=6ABD0174",
+  "owner_type": "post",
+  "owner_id": "9638dab7-a512-4e24-aa7f-00e13425ac43",
+  "photo_fbid": "1576953940734197",
+  "position": 0,
+  "storage_uri": "media/assets/2a/6d/2a6dd09f25961edc88ea225cbce1d5650c59fd3de0d406b01b85533a9a674565.jpg",
+  "sha256": "2a6dd09f25961edc88ea225cbce1d5650c59fd3de0d406b01b85533a9a674565",
+  "mime_type": "image/jpeg",
+  "file_size": 83320,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCICB\nCreditinFo\n481\nHạng 7 O\nNgày chấm: 22/07/2026\nCao hơn 11% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu và nợ cần chú ý. Duy trì\nthói quen thanh toán đúng hạn để cải thiện\nĐiểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n2 Triệu VNĐ\n--\n--\nVi thế tài chính tháng nàv",
+  "cic_data": {
+    "is_cic": true,
+    "score": 481,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "total_debt": "2 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCICB\nCreditinFo\n481\nHạng 7 O\nNgày chấm: 22/07/2026\nCao hơn 11% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu và nợ cần chú ý. Duy trì\nthói quen thanh toán đúng hạn để cải thiện\nĐiểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n2 Triệu VNĐ\n--\n--\nVi thế tài chính tháng nàv"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ee7a4da6-b55c-4a37-8ce8-4719dfadf6a0",
+  "media_type": "image",
+  "source_url": "https://scontent-sin11-2.xx.fbcdn.net/v/t39.30808-6/800965448_122202473558890716_2725143655020567765_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=IeSMTPPOrxMQ7kNvwEnMgE7&_nc_oc=Adr7t9ZKS5utfwUAAvuXedeiyfAqOyEVrbnq5MlVh9Zy--CoCuA9wOUVnaBJ0_JLWDI&_nc_zt=23&_nc_ht=scontent-sin11-2.xx&_nc_gid=y05mPojK8IW2DU8XAMlXtA&_nc_ss=7b2a8&oh=00_AQLmITKmeSoEH6IpDQZamvkwPqnHvjTTwAf1BaXvolopMg&oe=6ABC1350",
+  "owner_type": "post",
+  "owner_id": "6131aeef-1f70-4828-9dd3-02400d0f728f",
+  "photo_fbid": "122202473552890716",
+  "position": 0,
+  "storage_uri": "media/assets/af/17/af17a242ff66ac39416ebd2df4e92e492c584fe37abd3c1fc4673b896af8c6df.jpg",
+  "sha256": "af17a242ff66ac39416ebd2df4e92e492c584fe37abd3c1fc4673b896af8c6df",
+  "mime_type": "image/jpeg",
+  "file_size": 128600,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "17:40\n94\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n615\nHạng 3 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 73% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTống dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nÂn thông tin\n0 VNĐ\n0 VNĐ\n0 VNĐ\nVị thế tài chính thá...\nKhám phá toàn cảnh\nDự phòng tài chính\nMeo cải thiên điểm\nMẹo cả",
+  "cic_data": {
+    "is_cic": true,
+    "score": 615,
+    "tier": 3,
+    "scoring_date": "21/08/2026",
+    "total_debt": "0 VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "17:40\n94\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n615\nHạng 3 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 73% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTống dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nÂn thông tin\n0 VNĐ\n0 VNĐ\n0 VNĐ\nVị thế tài chính thá...\nKhám phá toàn cảnh\nDự phòng tài chính\nMeo cải thiên điểm\nMẹo cả"
+  }
+}

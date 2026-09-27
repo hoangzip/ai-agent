@@ -1,0 +1,35 @@
+{
+  "id": "55317c42-a1b0-41fd-86e3-3e9b030ca7b6",
+  "facebook_post_id": "4501650150088498",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "054d76a2-6a53-498b-a6d7-cf3aeaaba9f4",
+  "author_display_name": "Today",
+  "author_profile_url": null,
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/photo/?fbid=4501650150088498&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "posted_at": null,
+  "created_at": "2026-09-27T01:43:56.939466+00:00",
+  "updated_at": "2026-09-27T01:43:56.939470+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "50b5a93d-b76e-4962-9b46-a31c222f9064"
+  ],
+  "caption": null,
+  "cic_data": {
+    "is_cic": true,
+    "score": 548,
+    "credit_tier": 6,
+    "scoring_date": "21/09/2026",
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "cic_code": null,
+    "has_bad_debt": true,
+    "overdue_amount": null,
+    "provider": "CIC",
+    "raw_text": "11:17\nI 5G\n<\nBáo cáo\n2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nTên tổ chức/chi nhánh TCTD\nLoại dư nợ\nNợ vay\nĐơn vị tính: triệu đồng, USD\nNợ thể\nVND\nUSD\nVND\n1. Ngân hàng TMCP Việt Nam Thịnh Vượng - Chi nhánh Kinh Đô\nNgày bảo cáo dư nợ vay gần nhất: 18/09/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xấu\n53\n53\nTổng cộng\n53\n0\n•\n- Tổng dư nợ bao gồm cả khoản nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ số ngày chậm thanh toán từ 10 -90\nngày đôi với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\nnước Việt Nam).\n- Nợ xâu gôm các khoản nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan của\nChính phù/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ số ngày chậm thanh toán trên 90 ngày\nđôi với các khoản nợ không thuộc phạm vi q"
+  }
+}

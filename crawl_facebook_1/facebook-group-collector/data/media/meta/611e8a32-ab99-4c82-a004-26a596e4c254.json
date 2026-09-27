@@ -1,0 +1,24 @@
+{
+  "id": "611e8a32-ab99-4c82-a004-26a596e4c254",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/749629643_1461372812674441_2311594502031670549_n.jpg?stp=dst-jpg_tt6&cstp=mx1122x2292&ctp=s1122x2292&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEmNiRiMOvol7QkTHEnJj_fIQQShNfzH0QhBBKE1_MfRJngx6c3RW6kglWSN4F8tjmeD10NaEFwUBZaIM-0Wfzx&_nc_ohc=hn8bUUe-ISgQ7kNvwHv6nhK&_nc_oc=AdoyXDS8vD_Ljoi2aNBZQ2QHYkh7VhUFnz2zmx3Mq4zG3mJyHc6hfaQFDxH2TNM-jxbjy5ogAq60FbTeuyvseBS6&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=aoKjnkJX1jquvMQ0SoN3lw&_nc_ss=7b2a8&oh=00_AQIE7Z7ucE8BpgE6aseT6gavffCnMx7tuG_dUIIlf9rb3w&oe=6ABD0C07",
+  "owner_type": "post",
+  "owner_id": "6fa37a35-fda9-4357-a140-c08f645e39b2",
+  "photo_fbid": "1461372809341108",
+  "position": 0,
+  "storage_uri": "media/assets/85/1f/851f96bfd256318f863b05f0d83171753c3766bf05f5ca20cab7f7a4961cebd9.jpg",
+  "sha256": "851f96bfd256318f863b05f0d83171753c3766bf05f5ca20cab7f7a4961cebd9",
+  "mime_type": "image/jpeg",
+  "file_size": 152066,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n557\nHạng 6 0\nNgày chấm: 20/10/2025\nCao hơn 16% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\ng\nQuyền lợi Điểm MoMo đã có\nBạn có tài chính Hạng Cơ Bản\nVào nhận quyền lợi ngay nhé\nNhận ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n557\n850\n680\n510\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 557,
+    "tier": 6,
+    "scoring_date": "20/10/2025",
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n557\nHạng 6 0\nNgày chấm: 20/10/2025\nCao hơn 16% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\ng\nQuyền lợi Điểm MoMo đã có\nBạn có tài chính Hạng Cơ Bản\nVào nhận quyền lợi ngay nhé\nNhận ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n557\n850\n680\n510\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

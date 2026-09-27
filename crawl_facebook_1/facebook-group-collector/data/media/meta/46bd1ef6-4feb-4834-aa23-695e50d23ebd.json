@@ -1,0 +1,26 @@
+{
+  "id": "46bd1ef6-4feb-4834-aa23-695e50d23ebd",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/800696587_122111819625444735_4925023916953265976_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1570&ctp=s720x1570&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GIT0bNqntdAQ7kNvwF0zANN&_nc_oc=AdoygDtddX0AphqW4mV-w8ViEcXPPztgCwEfIlvfkpGk7UhyGxp_T5yKwecfnU2PN2s&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=6OF-brijXJJS5k4bfR24ZQ&_nc_ss=7b2a8&oh=00_AQLT_WxtjYJ0tqG51gsOHUQyjThCKMDm9oAezQxGrUtqnA&oe=6ABC0F94",
+  "owner_type": "post",
+  "owner_id": "77ae7f87-86ec-431c-8084-7aceaefb96b1",
+  "photo_fbid": "122111819619444735",
+  "position": 0,
+  "storage_uri": "media/assets/cd/88/cd88d165f441585abcaab9be21a5af009e719ce4d0d22c470d9a5d3065506444.jpg",
+  "sha256": "cd88d165f441585abcaab9be21a5af009e719ce4d0d22c470d9a5d3065506444",
+  "mime_type": "image/jpeg",
+  "file_size": 101589,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "21:05\nNI430%\nKiểm tra Điểm tín dụ...\nCICB\nCreditinFo\n612\nHạng 3 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 72% khách hàng cá\nnhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn t/zalo\nTheo dữ liệu tính đến ngày chấm\n21/08/2026, bạn có khoản nợ xấu. Duy\ntrì thói quen thanh toán đúng hạn để\ncải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n55 Triệu VNĐ\n40 Triệu VNĐ\n15 Triệu VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 612,
+    "tier": 3,
+    "scoring_date": "21/08/2026",
+    "total_debt": "55 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "21:05\nNI430%\nKiểm tra Điểm tín dụ...\nCICB\nCreditinFo\n612\nHạng 3 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 72% khách hàng cá\nnhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn t/zalo\nTheo dữ liệu tính đến ngày chấm\n21/08/2026, bạn có khoản nợ xấu. Duy\ntrì thói quen thanh toán đúng hạn để\ncải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n55 Triệu VNĐ\n40 Triệu VNĐ\n15 Triệu VNĐ"
+  }
+}

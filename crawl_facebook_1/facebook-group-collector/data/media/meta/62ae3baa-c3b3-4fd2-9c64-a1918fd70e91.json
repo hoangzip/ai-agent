@@ -1,0 +1,25 @@
+{
+  "id": "62ae3baa-c3b3-4fd2-9c64-a1918fd70e91",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/797744792_122195244218592448_6328468568932586301_n.jpg?stp=dst-jpg_tt6&cstp=mx828x1401&ctp=s828x1401&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=a9Av40C36eIQ7kNvwH4FGUS&_nc_oc=AdoHNRH9FJVAXX8JxtR6KQgwwUvl279pgyC6-U9yEY7LKkOOov1AODcUJBc9yhpUbjA&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=IE7WlfWdbaHY8A1GVMAQew&_nc_ss=7b2a8&oh=00_AQKEHm4sZcqzZqzgwid84UMoHLRmsHmNN-b3WWWytTg7Ig&oe=6ABBF853",
+  "owner_type": "post",
+  "owner_id": "2fc576b8-40b1-419b-8a52-9c3dc1b3984d",
+  "photo_fbid": "122195244212592448",
+  "position": 0,
+  "storage_uri": "media/assets/3b/eb/3bebd8158f0950e387875879aa1c795dea6524e22a9cd87235c8f9200ae50389.jpg",
+  "sha256": "3bebd8158f0950e387875879aa1c795dea6524e22a9cd87235c8f9200ae50389",
+  "mime_type": "image/jpeg",
+  "file_size": 91472,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "07:09 -\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n570\nHạng 5 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 34% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nơ thẻ tín duna\n*****",
+  "cic_data": {
+    "is_cic": true,
+    "score": 570,
+    "tier": 5,
+    "scoring_date": "21/08/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "07:09 -\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n570\nHạng 5 0\nNgày chấm: 21/08/2026\nĐiểm cao hơn 34% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nơ thẻ tín duna\n*****"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6faf7718-0fc9-404b-962d-1d9be9d05575",
+  "facebook_post_id": "1512578369732517",
+  "group_id": "580277503401606",
+  "group_slug": "580277503401606",
+  "author_id": "1831e08e-b009-4cd0-9fe8-2bb80bd0f9f3",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1512578369732517&set=g.580277503401606",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-26T10:58:47.650543+00:00",
+  "updated_at": "2026-09-26T10:58:47.650543+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "6d8162c6-8b41-494a-bd83-7e3bc1ca5481"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "27/04/2026",
+    "has_bad_debt": true,
+    "provider": "TPBank",
+    "raw_text": "2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nTên tổ chức/chi nhánh TCTD\nLoại dư nợ\n1. Công ty Tài chính TNHH Ngân hàng Việt Nam Thịnh Vượng\nSMBC\nNgày báo cáo dic nợ thẻ gần nhất: 27/04/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xầu\n2. Công ty Tải chính tín dụng tiêu đùng TNHH MB Shinsei\nNgày bảo cáo dư nợ vay gần nhất: 26/04/2026\nTổng ng\n- Nợ dủ tiêu chuẩn\n- Nợ cần chủ ý\n- Nợ xấu\n3. Công ty Tài chính tổng hợp cổ phần Tín Việt\nNgày báo cảo dưc nợ vay gần nhất: 27/04/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xầu\n4. Ngân hàng TMCP Tiên Phong\nNgày bảo cảo dic nợ vay gần nhất: 21/04/2026\nNgày bảo cáo đư nợ thẻ gần nhất: 21/04/2026\nTổng ng\n- Nợ đủ tiêu chuẩn\n- Nợ cân chủ ý\n- Nợ xầu\n5. Ngân hàng TNHH MTV CIMB Việt Nam\nNợ vay\nVND\nĐơn vị tính: triệu đồng, USD\nNợ thẻ\nUSD\nVND\n0\n3\n0\n3\n27\n27\n0\n33\n33\n6"
+  }
+}

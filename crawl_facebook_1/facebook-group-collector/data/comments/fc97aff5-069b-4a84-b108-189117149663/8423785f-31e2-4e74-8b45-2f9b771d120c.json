@@ -1,0 +1,29 @@
+{
+  "id": "8423785f-31e2-4e74-8b45-2f9b771d120c",
+  "facebook_comment_id": "1542012867228060",
+  "post_id": "fc97aff5-069b-4a84-b108-189117149663",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "92d88216-facc-4bdb-8f3c-bd80e03365f0",
+  "author_display_name": "Trần Thị Ánh Đăng",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/100027417199639",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=1748060456507973&set=g.580277503401606?comment_id=1542012867228060",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=2138235977100288&set=p.2138235977100288&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "b8e37fd8-87c1-41b2-b3e6-ed16556840ca"
+  ],
+  "dedupe_key": "a6f5b29dc8e0552a31e1ad72d50d6927",
+  "first_seen_at": "2026-09-26T01:56:54.722217+00:00",
+  "last_seen_at": "2026-09-26T01:56:54.722221+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T01:56:54.722224+00:00",
+  "updated_at": "2026-09-26T01:56:54.722224+00:00"
+}

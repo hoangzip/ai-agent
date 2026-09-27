@@ -1,0 +1,35 @@
+{
+  "id": "465b52e0-91ec-4d52-ac03-e923186b49ef",
+  "facebook_post_id": "122335624094214623",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "e1e0dc27-585a-4d19-a4bc-b356a39123e1",
+  "author_display_name": "Today",
+  "author_profile_url": null,
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/photo/?fbid=122335624094214623&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "posted_at": null,
+  "created_at": "2026-09-27T01:39:36.793398+00:00",
+  "updated_at": "2026-09-27T01:39:36.793403+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "f6e5441d-cd01-4b4e-8e8b-1f3108750abd"
+  ],
+  "caption": null,
+  "cic_data": {
+    "is_cic": true,
+    "score": null,
+    "credit_tier": null,
+    "scoring_date": null,
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "cic_code": null,
+    "has_bad_debt": null,
+    "overdue_amount": "13.000.000đ",
+    "provider": "CIC",
+    "raw_text": "23:38 €\nVay Nhanh\n* Ưu đãi\nBạn đã nhận được ưu đãi giảm 126.000đ\ntrên tổng số tiền vay.\nXem chi tiết >\nTạo khoản vay\n4m x\nBạn muốn vay\n13.000.000đ\n11 Tr\n12 Tr\n3 Triệu\nThời hạn trả góp\ntháng\n13 Tr\n14 Tr\n15 Tr\n15 Triệu\n9 tháng\n12 tháng\n15 tháng\nTạm tính trả mỗi tháng O\n2.664.000đ 2.685.000đ\n(Tương đương chỉ 88.800đ/ngày)\nThông tin chi tiết\nSố tiền vay\n13.000.000đ\nNgày bắt đầu trả O\n05/11/2026\nƯu đãi giảm lãi suất\n-126.000đ\nTổng thanh toán tạm tính\n15.984.000đ"
+  }
+}

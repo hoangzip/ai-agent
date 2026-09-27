@@ -1,0 +1,25 @@
+{
+  "id": "ce0fc0bc-f5c0-40fc-bb99-b74289e24fe1",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/786303865_2675957252862446_6219152813961216056_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x2048&ctp=s1152x2048&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEekk1A-ve0jiW16tZDcrHqpBo469j3nT6kGjjr2PedPjS5FvGMXyoFz5ExNOVBoeVfEvp8FsY14TFkgw20ezus&_nc_ohc=JCWkRvOKHKIQ7kNvwHnlwRN&_nc_oc=AdolcqfeKWXyGOlhkrZ842h6ONbPewxRi6DCna4SSkcq-Ld9PrQQOsHIJhgd6Mfw_RREiaHRBcsUySK1dNprDjnL&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=BhxkrJ5cj6C3ZAzGMnktiA&_nc_ss=7b2a8&oh=00_AQKh52QfRmY93PJHTPx02_9nrN2bJ7sTG-PAXz1-7GugFA&oe=6ABD0836",
+  "owner_type": "post",
+  "owner_id": "e3e5de8f-6eee-408d-b137-d7d657924890",
+  "photo_fbid": "2675957249529113",
+  "position": 0,
+  "storage_uri": "media/assets/fe/66/fe664d37490bb83ab287c68965ae8464fff864f5583b27f34a44008f24b568fc.jpg",
+  "sha256": "fe664d37490bb83ab287c68965ae8464fff864f5583b27f34a44008f24b568fc",
+  "mime_type": "image/jpeg",
+  "file_size": 78336,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiếm tra Điểm tín dụng CIC\nCCB\n509\nHạng 7 O\nNgày chấm: 26/01/2026\nCao hơn 12% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nAn thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026,\nbạn có khoản nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC\nnhé!\nTổng dư nợ\n7 Triệu VNĐ\nDư nợ khoản vay\nDit na thò tín duna\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC\n<\n=",
+  "cic_data": {
+    "is_cic": true,
+    "score": 509,
+    "tier": 7,
+    "scoring_date": "26/01/2026",
+    "total_debt": "7 Triệu VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiếm tra Điểm tín dụng CIC\nCCB\n509\nHạng 7 O\nNgày chấm: 26/01/2026\nCao hơn 12% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nAn thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026,\nbạn có khoản nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC\nnhé!\nTổng dư nợ\n7 Triệu VNĐ\nDư nợ khoản vay\nDit na thò tín duna\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC\n<\n="
+  }
+}

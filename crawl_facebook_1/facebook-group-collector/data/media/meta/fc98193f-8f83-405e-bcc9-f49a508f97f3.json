@@ -1,0 +1,24 @@
+{
+  "id": "fc98193f-8f83-405e-bcc9-f49a508f97f3",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/746861864_1031311626144691_7207206561399354771_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGKxNrmM-LQ2QhhNusrIAXp5FvDkIAg7AvkW8OQgCDsC3XrOSE-ldcks2_LAnLTBnJJHcaRQuQkj6fmqWtetxyi&_nc_ohc=DmDtUifcfTkQ7kNvwHBOjAF&_nc_oc=Adqm9HkmFcGi-_FfODjNMxY61lrDrswNZywJf4DAoZwvf13Ga2wzyH64B3Tr4X0wnyXTR7hH84FUw2dqd1J-WR7O&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=IJYHpCrOCF5nX3pP1snLXA&_nc_ss=7b2a8&oh=00_AQJhOAvW7fnGN_Vn_gQUJzJoA4xh4OZZV4quNcvdX_xG-A&oe=6ABD9060",
+  "owner_type": "post",
+  "owner_id": "57419033-7762-4399-9b0d-6d5111e0f301",
+  "photo_fbid": "1031311622811358",
+  "position": 0,
+  "storage_uri": "media/assets/ea/1a/ea1a2b669d68ad1377822338a091e5e7377511baf1c815694e52489934f97063.jpg",
+  "sha256": "ea1a2b669d68ad1377822338a091e5e7377511baf1c815694e52489934f97063",
+  "mime_type": "image/jpeg",
+  "file_size": 89304,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "16:31 g\n< Kiểm tra Điểm tín dụng CIC\n••1 5G 4\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n591\n480\n360\n240\n120\n0\n1/2026\n3/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 05/01/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n0 VNĐ\nO VND\n0 VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "05/01/2026",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "16:31 g\n< Kiểm tra Điểm tín dụng CIC\n••1 5G 4\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n591\n480\n360\n240\n120\n0\n1/2026\n3/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 05/01/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n0 VNĐ\nO VND\n0 VNĐ"
+  }
+}

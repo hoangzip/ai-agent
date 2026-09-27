@@ -1,0 +1,29 @@
+{
+  "id": "5adf4894-857a-4e29-be3d-bdf9da4b59a2",
+  "facebook_comment_id": null,
+  "post_id": "4a38244a-6ab0-4222-ab29-6ffcaf39be92",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "c45c41eb-86a1-48eb-b363-571cb6469d39",
+  "author_display_name": "Nhớ Người Xua a year ago",
+  "author_profile_url": "https://www.facebook.com/groups/745513060834871/user/61560557625329",
+  "author_is_anonymous": false,
+  "comment_url": null,
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=122144757026351920&set=p.122144757026351920&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "f15127b7-47da-4841-92a5-8b6453ea32b4"
+  ],
+  "dedupe_key": "7d9a03e46fb0f32759fdec7724bb3d95",
+  "first_seen_at": "2026-09-26T16:19:52.750733+00:00",
+  "last_seen_at": "2026-09-26T16:19:52.750738+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T16:19:52.750744+00:00",
+  "updated_at": "2026-09-26T16:19:52.750745+00:00"
+}

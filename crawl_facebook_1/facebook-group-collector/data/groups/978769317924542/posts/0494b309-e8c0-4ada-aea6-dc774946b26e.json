@@ -1,0 +1,35 @@
+{
+  "id": "0494b309-e8c0-4ada-aea6-dc774946b26e",
+  "facebook_post_id": "1125581093243363",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "76aa10bd-6960-45fd-a01a-f9d906373aa5",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/groups/978769317924542/permalink/1125581093243363",
+  "title": "",
+  "title_source": "derived",
+  "posted_at": null,
+  "created_at": "2026-09-27T01:41:55.521451+00:00",
+  "updated_at": "2026-09-27T01:41:55.521455+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "c2163087-1df5-4145-96c0-626ad68ace32"
+  ],
+  "caption": null,
+  "cic_data": {
+    "is_cic": true,
+    "score": null,
+    "credit_tier": null,
+    "scoring_date": null,
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "cic_code": null,
+    "has_bad_debt": null,
+    "overdue_amount": "6.000.000đ",
+    "provider": "CIC",
+    "raw_text": "09:19 4\n•| 5G (5\n< Vay Nhanh\n*\nKhoản vay\n6.000.000đ\nKhoan vay\n20.000.000đ\nKhoản vay\n25.000.000đ\nKhoản vay\n20.000.000đ\nKhoản vay\n6.000.000đ\nKhoản vay\n10.000.000đ\nKhoản vay\n30.000.000đ\nKhoản vay\n9.000.000đ\nKhoản vay\n40.000.000đ\nĐã tất toán >\nĐã tất toán >\nĐã tất toán\nĐã tất toán >\nĐã tất toán >\nBị từ chối\nBị từ chối\nBị từ chối\nBị từ chối\nThông tin thêm\nTổng quan\nChi tiết khoản vay\nThanh toán\nMới\nTin & Ưu đãi"
+  }
+}

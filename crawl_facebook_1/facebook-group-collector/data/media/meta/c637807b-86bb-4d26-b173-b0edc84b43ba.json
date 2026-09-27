@@ -1,0 +1,26 @@
+{
+  "id": "c637807b-86bb-4d26-b173-b0edc84b43ba",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/751549891_122173616660958746_3781282900122732276_n.jpg?stp=dst-jpg_tt6&cstp=mx828x1792&ctp=s828x1792&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHM8q8CO5oRqtxJTioh45OxKx8doCTKhYQrHx2gJMqFhKJ-W_GJNCuXsTY8G8y00rkt6J1ZkydWMkuiW9EU9H73&_nc_ohc=TpM9fVtpPXsQ7kNvwGUmSSl&_nc_oc=AdrdFVf8g2mL5deJbY75uPSGWgkuzxeDQAQcAk-xuxwwPSfZQNNBD-RgAlFOLvzSlIXxk0ULN8TlLfNEoZP7Wexb&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=e_bpOFyQIIgjsYPbmH2Xqw&_nc_ss=7b2a8&oh=00_AQIfAyDK5e084SuhWsjVJ7WAvaugTYoJlyvL3AV1590HhQ&oe=6ABE074E",
+  "owner_type": "post",
+  "owner_id": "bfd8eae4-a930-4365-be71-af9633d76aaf",
+  "photo_fbid": "122173616654958746",
+  "position": 0,
+  "storage_uri": "media/assets/bb/c5/bbc5a07235890772946dbf5b59f8e17e6104520bdbf53af6dde9fdbeef70350c.jpg",
+  "sha256": "bbc5a07235890772946dbf5b59f8e17e6104520bdbf53af6dde9fdbeef70350c",
+  "mime_type": "image/jpeg",
+  "file_size": 78165,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "13:52\n< Kiểm tra Điểm tín dụng CIC\n• = 61\n(Điểm)\n693\n680\n510\n340\n170\n1/2026\n3/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n4 Tỷ 489 Triệu VNĐ\n4 Tỷ 335 Triệu VNĐ\n154 Triệu VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chạn Mạo cải thiệu điểm\nMẹo cải",
+  "cic_data": {
+    "is_cic": true,
+    "score": 693,
+    "tier": 1,
+    "scoring_date": "26/01/2026",
+    "total_debt": "4 Tỷ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "13:52\n< Kiểm tra Điểm tín dụng CIC\n• = 61\n(Điểm)\n693\n680\n510\n340\n170\n1/2026\n3/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n4 Tỷ 489 Triệu VNĐ\n4 Tỷ 335 Triệu VNĐ\n154 Triệu VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chạn Mạo cải thiệu điểm\nMẹo cải"
+  }
+}

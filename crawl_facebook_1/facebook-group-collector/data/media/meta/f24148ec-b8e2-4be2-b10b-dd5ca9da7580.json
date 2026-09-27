@@ -1,0 +1,26 @@
+{
+  "id": "f24148ec-b8e2-4be2-b10b-dd5ca9da7580",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-2.xx.fbcdn.net/v/t39.30808-6/814750103_1779228329748035_7299863389249023361_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=baLfstmcX4gQ7kNvwGP8tHh&_nc_oc=Ado2bo9u1CJDCQbwixuHlXLENbz4hAQKllSz_gnk1tmHEcASy04NObnobQYuO7HfwmE&_nc_zt=23&_nc_ht=scontent-sin2-2.xx&_nc_gid=mmiCIyyyc2VvLEnqst9__w&_nc_ss=7b2a8&oh=00_AQKetPO2fySz3x9TUXeYlR0rlwZQyPHDmYtHTm0WliZl3A&oe=6ABC1193",
+  "owner_type": "post",
+  "owner_id": "25089d29-bd34-4473-b867-413712e0eccc",
+  "photo_fbid": "1779228326414702",
+  "position": 0,
+  "storage_uri": "media/assets/73/fe/73fe415e297eeebcf5d199622ae88c18bd40c60d4f0585cf7976525f6a52bffb.jpg",
+  "sha256": "73fe415e297eeebcf5d199622ae88c18bd40c60d4f0585cf7976525f6a52bffb",
+  "mime_type": "image/jpeg",
+  "file_size": 131592,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "14:36\nKiểm tra Điểm tín dụng CIC\n5G 13\nCiCB\nCreditinFo\n559\nHạng 6 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 26% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nHạn mức mới đã săn sàng\nKiêm tra khoản vay phù hợp với hô sơ\nhiện tại của bạn\nKiểm tra\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 23/06/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTông dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n88 Triệu VNĐ\n88 Triệu VNĐ\n0 VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 559,
+    "tier": 6,
+    "scoring_date": "21/08/2026",
+    "total_debt": "88 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "14:36\nKiểm tra Điểm tín dụng CIC\n5G 13\nCiCB\nCreditinFo\n559\nHạng 6 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 26% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nHạn mức mới đã săn sàng\nKiêm tra khoản vay phù hợp với hô sơ\nhiện tại của bạn\nKiểm tra\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 23/06/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTông dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n88 Triệu VNĐ\n88 Triệu VNĐ\n0 VNĐ"
+  }
+}

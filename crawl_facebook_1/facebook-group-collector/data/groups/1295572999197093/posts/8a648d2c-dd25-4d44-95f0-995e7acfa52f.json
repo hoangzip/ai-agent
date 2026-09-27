@@ -1,0 +1,29 @@
+{
+  "id": "8a648d2c-dd25-4d44-95f0-995e7acfa52f",
+  "facebook_post_id": "2112192476382857",
+  "group_id": "1295572999197093",
+  "group_slug": "1295572999197093",
+  "author_id": "1d335448-aeb9-4271-a284-d00aab3585f2",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2112192476382857&set=g.1295572999197093",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-17T00:00:00+00:00",
+  "created_at": "2026-09-26T12:16:29.054011+00:00",
+  "updated_at": "2026-09-26T12:16:29.054011+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "c25de097-df54-4031-8fc3-3d20696b54ac"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 590,
+    "tier": 4,
+    "scoring_date": "26/01/2026",
+    "provider": "TPBank",
+    "raw_text": "12:01\n22\n<\nBáo cáo\n<\n2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nTên tổ chức/chi nhánh TCTD\nLoại dư nợ\n1. Ngân hàng TMCP Tiên Phong\nNgày báo cáo dư nợ thẻ gần nhất: 04/02/2026\nTổng nợ\n- Nợ đủ tiêu chuân\n- Nợ cân chú ý\n- Nợ xấu\n- Nợ tại VAMC\nĐơn vị tính: triệu đồng, USD\nNợ vay\nNợ thẻ\nVND\nUSD\nVND\nTổng cộng\n0\nLưu ý: Nợ tại VAMC là nợ TCTD đã bán cho Công ty TNHH MTV Quản lý tài sản của các TCTD Việt Nam.\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nKhách hàng không có lịch sử nợ xấu, nợ cần chú ý tại các TCTD\n1\n1\n2.3. Thông tin về đảm bảo tiền vay\nSTT\n1\nChỉ tiêu\nBảo đàm tiền vay bằng tài sản\nGiá trị\nKhông có\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\nĐiểm tín dụng:\n590\nHạng:\n4\nNgày chấm điểm:\n26/01/2026\n100%\nXếp hạng của\nkhách hàng\n50%\n53\nĐiêm tín dụng của khách hàng cao\nhơn điểm tín\ndụng của 53% tổng\nkhách hàng cá nhân được châm điêm\ntại kho dữ liệu CIC.\n0%\nCHI TIẾT ĐIỂM VÀ HẠNG\nXấu\nHạng\n09\nDưới trung bình Trung bình\n08\n07\n06\n05\nTốt\nRất tốt\n04\n03\n02\n01\nĐiêm 403-429 430-454 455-479 480-544 545-571 572-587 588-605 606-621 622-644 645-706\nĐiêm hạng của khách hàng\nLưu ý:\n- Điểm tín dụng của khách hàng vay được C/C đánh giá trên toàn bộ dữ liệu quan hệ tín dụng của\nkhách hàng vay tại thời điểm cuối tháng gần nhất so với thời điểm chấm. Điểm tín dụng được CIC chấm\ncập nhật định kỳ hàng tháng theo biến động thông tin tín dụng của khách hàng vay."
+  }
+}

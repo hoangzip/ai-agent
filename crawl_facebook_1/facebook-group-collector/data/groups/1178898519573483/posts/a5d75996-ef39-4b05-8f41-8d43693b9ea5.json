@@ -1,0 +1,27 @@
+{
+  "id": "a5d75996-ef39-4b05-8f41-8d43693b9ea5",
+  "facebook_post_id": "122193853478939147",
+  "group_id": "1178898519573483",
+  "group_slug": "1178898519573483",
+  "author_id": "ab9ec03b-4577-4690-81db-d68f5df8dfb6",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=122193853478939147&set=g.1178898519573483",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-26T19:24:30.791370+00:00",
+  "updated_at": "2026-09-26T19:24:30.791370+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "f216cc5b-17d3-42f6-b3e7-91d19dd4e6c5"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "10/11/2025",
+    "provider": "TPBank",
+    "raw_text": "2. Thông tin quan hệ tin dụng\n2.1. Thông tin dư nợ hiện thời\nNợ vay\nTên tổ chức/chi nhánh TCTD\nLoại du nợ\n1. Ngân hàng TMCP Tiên Phong\nNgày bảo cáo dưc nợ thẻ gần nhất: 10/11/2025\nTổng ng\n- Nợ đủ tiêu chuẩn\n- Nợ cần chủ ý\n- Nợ xâu\n- Nợ tại VAMC\nVNĐ\nĐơn vị tinh: triệu đồng, USD\nNợ thẻ\nUSD\nVND\n0\nTổng cộng\n0\nLưu ý: Nợ tại VAMC là nợ TCTD đã bản cho Công ty TNHH MTV Quản lý tài sản của các TCTD Việt Nam.\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nKhách hàng không có lịch sử nợ xấu, nợ cần chú ý tại các TCTD\nLưu ý: Thông tin lịch sử nợ cần chú ý và nợ xấu bao gồm thông tin nợ vay và nợ thẻ tin dụng. Lịch sic nợ\ncần chú ý trong vòng 12 tháng gần nhất. Lịch sử nợ xâu về dư nợ vay và nợ ngoai báng trong vòng 05 năm\ngần nhất, về dư nợ thẻ trong vòng 03 năm gần nhất"
+  }
+}

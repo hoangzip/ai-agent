@@ -1,0 +1,26 @@
+{
+  "id": "d199616a-1e0e-4422-abf4-85c9d34221ae",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/819714578_1433267675444841_4542779096788885997_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEzzduy-gXU2h_RmWnUW9tIxcEIAaKl48LFwQgBoqXjwqY-Elu_aAInTG4CejnJ3Q1B2SD9Ue_-fhiemLJn_dNr&_nc_ohc=FCLR4Wmi6IIQ7kNvwHhL2oA&_nc_oc=Ado4w44m26vXeUZ3BedipPf-I0zCW-hNqJOr5dW_HxC69PCWDDBDVSXvotY-uOtHNB5YaosbGWApzT4J9vTOlbto&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=aoEGyCRwrfgBUKrWWlbOIQ&_nc_ss=7b2a8&oh=00_AQIy4XmXr82UcBRRjeY8Zs26H-7BJ7MUIBC70D5l4jcQJA&oe=6ABDD4E1",
+  "owner_type": "post",
+  "owner_id": "de577937-e24e-4c3c-a600-d351559eca81",
+  "photo_fbid": "1433267672111508",
+  "position": 0,
+  "storage_uri": "media/assets/95/f5/95f5857d6ce43554e8528a5aed135e369e100596f05d5d1fb637dcdb7673242e.jpg",
+  "sha256": "95f5857d6ce43554e8528a5aed135e369e100596f05d5d1fb637dcdb7673242e",
+  "mime_type": "image/jpeg",
+  "file_size": 174403,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "20:32\n0.00 40\nB/s Jaill\n(28)\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n453\nHạng 9 0\nNgày chấm: 21/09/2026\nĐiểm cao hơn 4% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/09/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nO VNĐ\n0 VNĐ\n0 VNĐ\nTài chính phù hợp\nBước tiếp theo: Đa dạng hóa hồ sơ\nDự phòng tài chính\nnấn 10n triân\nCải thiện Điểm bằng\nHành vi tất\nCực q\nTrỏ 1",
+  "cic_data": {
+    "is_cic": true,
+    "score": 453,
+    "tier": 9,
+    "scoring_date": "21/09/2026",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "20:32\n0.00 40\nB/s Jaill\n(28)\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n453\nHạng 9 0\nNgày chấm: 21/09/2026\nĐiểm cao hơn 4% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/09/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nO VNĐ\n0 VNĐ\n0 VNĐ\nTài chính phù hợp\nBước tiếp theo: Đa dạng hóa hồ sơ\nDự phòng tài chính\nnấn 10n triân\nCải thiện Điểm bằng\nHành vi tất\nCực q\nTrỏ 1"
+  }
+}

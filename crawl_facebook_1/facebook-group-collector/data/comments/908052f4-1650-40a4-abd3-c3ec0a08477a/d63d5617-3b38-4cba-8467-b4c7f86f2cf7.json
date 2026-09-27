@@ -1,0 +1,29 @@
+{
+  "id": "d63d5617-3b38-4cba-8467-b4c7f86f2cf7",
+  "facebook_comment_id": "1519051486190865",
+  "post_id": "908052f4-1650-40a4-abd3-c3ec0a08477a",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "71c395b4-ac18-4da0-9ac8-54bc965d35d3",
+  "author_display_name": "Maii Hoàngg",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/61577411453749",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=3509612775873558&set=g.580277503401606?comment_id=1519051486190865",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=122196511274913715&set=p.122196511274913715&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "7a56c2db-8e45-457b-b8a5-08bd3fc68799"
+  ],
+  "dedupe_key": "fb8620d47526997bce7896ddc77ece56",
+  "first_seen_at": "2026-09-26T04:07:02.097605+00:00",
+  "last_seen_at": "2026-09-26T04:07:02.097612+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T04:07:02.097613+00:00",
+  "updated_at": "2026-09-26T04:07:02.097614+00:00"
+}

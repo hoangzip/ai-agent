@@ -1,0 +1,35 @@
+{
+  "id": "951d862e-9345-4dc4-9a6b-c7db7264e8f5",
+  "facebook_post_id": "1125103443291128",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "0d50f492-4fba-4fd4-9aa2-893336bd82cf",
+  "author_display_name": "Hoàng Quân",
+  "author_profile_url": "https://www.facebook.com/groups/978769317924542/user/100009655805313",
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/groups/978769317924542/permalink/1125103443291128",
+  "title": "",
+  "title_source": "derived",
+  "posted_at": null,
+  "created_at": "2026-09-27T01:42:22.988283+00:00",
+  "updated_at": "2026-09-27T01:42:22.988287+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "1a2dbb68-c320-474c-8659-f5a96c8dd000"
+  ],
+  "caption": null,
+  "cic_data": {
+    "is_cic": true,
+    "score": 537,
+    "credit_tier": 7,
+    "scoring_date": "21/08/2026",
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "cic_code": null,
+    "has_bad_debt": null,
+    "overdue_amount": null,
+    "provider": "CIC",
+    "raw_text": "21:49 1\nal all\n66%\nBáo cáo\n- Tổng dư nợ bao gồm cá khoán nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chủ ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phú/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ số ngày chậm thanh toán từ 10 -90\nngày đối với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phú/ Ngân hàng nhà\nnước Việt Nam).\n- Nợ xấu gồm các khoản nợ được phân loại nhỏm 3, 4, 5 theo các quy định phân loại nợ có liên quan của\nChính phú/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ sô ngày chậm thanh toán trên 90 ngày\nđối với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chinh phú/ Ngân hàng nhà\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tô chức/ chi nhánh TCTD\nNgày phát sinh nợ\ncần chú ý gần nhất\n07/09/2026\nNgày phát sinh nợ\nxấu gần nhất\nNgân hàng TMCP Kỹ Thương Việt Nam - Chi nhánh\nQuy Nhơn\nNgân hàng Trách nhiệm hữu hạn một thành viên Sô\n31/08/2026\n"
+  }
+}

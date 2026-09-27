@@ -1,0 +1,24 @@
+{
+  "id": "08a238e6-49a7-4c05-b81c-f7ab85b70859",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/484496557_1175503687617462_6911940838043781830_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFatXPGlTsLNVdqKYmpxlJlsBWEzrYGOyOwFYTOtgY7I6JzNvKGZCuNwqdNQF0MiJbWBGEWa8lb0fWTPNC8NWTs&_nc_ohc=FHGEgvsmB74Q7kNvwF9EPwV&_nc_oc=AdrhJVtP0cl4DX0waZkvmE3iAFpV3q02jL7tqciTPt8X4ZLYER5f7Cx6x97n0nSsFz0X0eG5Z_WccyYwsA--cHRU&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=1EvUv_fl35QC3pnMpvssag&_nc_ss=7b2a8&oh=00_AQJYZ7G4skYf_oqvPsm6UwW6893HX-0PriQ1v-j6busY7g&oe=6ABDE0BC",
+  "owner_type": "post",
+  "owner_id": "47ac774b-c6d0-4143-8317-2687359a753c",
+  "photo_fbid": "1092430819258083",
+  "position": 0,
+  "storage_uri": "media/assets/cb/a4/cba431185504af7eefc75ee0a8111b0bf73eec26ed008d9bdae9aa78be66b83d.jpg",
+  "sha256": "cba431185504af7eefc75ee0a8111b0bf73eec26ed008d9bdae9aa78be66b83d",
+  "mime_type": "image/jpeg",
+  "file_size": 76123,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "15:17 (\n15:00:5\n••l LTE 34\nr\nFiinVietnam\n• Dã check\nThông tin hình ảnh CIC\nĐiểm tín dụng\n589\nHạng\n4\nNgày chấm điểm\n21/10/2024\nXếp 1\nXấu\nHạng\nĐiểm\n10\n403-429\n09\n430-454\nDưới trun\n08\n455-479\nĐóng\n• crm.fiinvietnam.vn",
+  "cic_data": {
+    "is_cic": true,
+    "score": 589,
+    "tier": 4,
+    "scoring_date": "21/10/2024",
+    "provider": "CIC",
+    "raw_text": "15:17 (\n15:00:5\n••l LTE 34\nr\nFiinVietnam\n• Dã check\nThông tin hình ảnh CIC\nĐiểm tín dụng\n589\nHạng\n4\nNgày chấm điểm\n21/10/2024\nXếp 1\nXấu\nHạng\nĐiểm\n10\n403-429\n09\n430-454\nDưới trun\n08\n455-479\nĐóng\n• crm.fiinvietnam.vn"
+  }
+}

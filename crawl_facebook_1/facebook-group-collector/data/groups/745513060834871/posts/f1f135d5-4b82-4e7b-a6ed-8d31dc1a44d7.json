@@ -1,0 +1,27 @@
+{
+  "id": "f1f135d5-4b82-4e7b-a6ed-8d31dc1a44d7",
+  "facebook_post_id": "2530639190632962",
+  "group_id": "745513060834871",
+  "group_slug": "745513060834871",
+  "author_id": "42f36783-7ccf-42f1-a37b-66b5c630b288",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2530639190632962&set=g.745513060834871",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-03T00:00:00+00:00",
+  "created_at": "2026-09-26T14:33:00.353590+00:00",
+  "updated_at": "2026-09-26T14:33:00.353590+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "7ec8f238-0943-4c32-81c3-5d0c7f2dd9cd"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "27/06/2025",
+    "provider": "CIC",
+    "raw_text": "Tên tổ chức/chi nhánh TCTD\nLoại dư nợ\n1. Ngân hàng TMCP Việt Nam Thịnh Vượng\nNgày báo cảo dư nợ thê gần nhất: 27/06/2025\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n- Nợ tại VAMC\n2. Ngân hàng TMCP Kỹ Thương Việt Nam - Chi nhánh Hoàng\nQuốc Việt\nNgày báo cáo dư nợ vay gần nhất: 31/05/2025\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xâu\n- Nợ tại VAMC\nNợ vay\nVND\nĐơn vị tính: triệu đồng, USD\nNợ thẻ\nUSD\nVND\n0\n0\n10\n10\n25\n0\n0\n25\nTổng cộng\n25\n0\nLưu ý: Nợ tại VAMC là nợ TCTD đã bán cho Công ty TNHH MTV Quản lý tài sản của các TCTD Việt Nam.\n10"
+  }
+}

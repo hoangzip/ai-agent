@@ -1,0 +1,26 @@
+{
+  "id": "20b2bd78-461e-4b06-a43b-008bcee53e9c",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/783028342_27828237360190930_4072693007943117454_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF2McROtGnzGJHZWdcrj_PuBRivbR9t9zkFGK9tH233ORP-4PN2vGOBB75zUEDpicTOkBz9SVQRuSuJe_8TQaIg&_nc_ohc=XeiGrj_krTsQ7kNvwGAPKim&_nc_oc=AdpXok88WmQHRKkKhfn1xBNIEeThwIqHJ6vBr0BIVbUQmeZQrUIbTMYTCQrecTwUzWUx8BwApigikTCvT0s7OrFI&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=kgz_mLbl1rhAdhMZDIMzOQ&_nc_ss=7b2a8&oh=00_AQKhA5YFVk61ozXNLxkx7MRv1cNwFISH4gVJT8tG9sDLiw&oe=6ABCFF4B",
+  "owner_type": "post",
+  "owner_id": "7a2be9ab-9445-4e8d-a534-21ee2bfc9004",
+  "photo_fbid": "27828237320190934",
+  "position": 0,
+  "storage_uri": "media/assets/e5/b3/e5b3b55a64563a41b0625ec9bbdd1681d9daf06044694fc24a90be8638d56cfe.jpg",
+  "sha256": "e5b3b55a64563a41b0625ec9bbdd1681d9daf06044694fc24a90be8638d56cfe",
+  "mime_type": "image/jpeg",
+  "file_size": 145509,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "19:35\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n455\nHạng 8 C\nNgày chấm: 23/04/2026\n4 Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 3% khách hàng cá nhân khác\nChia sẻ >\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền lợi\ndành cho bạn.\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nC ÂN thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n40 Triệu VNĐ\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 455,
+    "tier": 8,
+    "scoring_date": "23/04/2026",
+    "total_debt": "40 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "19:35\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n455\nHạng 8 C\nNgày chấm: 23/04/2026\n4 Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 3% khách hàng cá nhân khác\nChia sẻ >\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền lợi\ndành cho bạn.\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nC ÂN thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n40 Triệu VNĐ\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

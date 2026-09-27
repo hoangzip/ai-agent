@@ -1,0 +1,35 @@
+{
+  "id": "9ddb1817-f127-4c1f-8a86-3ef9acdf51ab",
+  "facebook_post_id": "1100258449203712",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "16678b68-9dab-4ab3-9385-33ad0f5d39f6",
+  "author_display_name": "Today",
+  "author_profile_url": null,
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/photo/?fbid=1100258449203712&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "posted_at": null,
+  "created_at": "2026-09-27T01:40:23.023980+00:00",
+  "updated_at": "2026-09-27T01:40:23.023984+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "6f6b59f0-9642-4f60-9bb9-b2b1e4f02e85"
+  ],
+  "caption": null,
+  "cic_data": {
+    "is_cic": true,
+    "score": 582,
+    "credit_tier": 5,
+    "scoring_date": "22/07/2026",
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "cic_code": null,
+    "has_bad_debt": true,
+    "overdue_amount": null,
+    "provider": "HD Saison",
+    "raw_text": "18:04 0 PV\nBáo cáo\nall\n258\n<\nNgày báo cáo dư nợ thẻ gần nhất: 31/07/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xấu\n2. Công ty Tài chính TNHH HD SAISON\nNgày báo cáo dư nợ vay gần nhất: 31/07/2026\nTổng ng\n- Nợ đủ tiêu chuân\n- Nợ cân chú ý\n- Nợ xấu\nTổng cộng\n14\n14\n14\n0\n14\n14\n0\n14\nLưu ý:\n- Tổng dư nợ bao gồm cá khoán nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phú/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán từ 10 -on\nngày đối với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phú Ngân hàns\nnước Việt Nam).\n- Nợ xâu gồm các khoản nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan của\nChính phù/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ số ngày chậm thanh toán trên 90 ngày\nđôi với các khoản nợ không thuộc pham vi quy định phân loại nợ xâu của Chính phủ/ Ngân hàng nhà\nnước Việt"
+  }
+}

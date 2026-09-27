@@ -1,0 +1,26 @@
+{
+  "id": "ece63f9b-2ab0-4665-94ad-4b379f7c7ab6",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/484095846_2141833456220017_8613991396951305085_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEfZZS8Ff9qKZ9b--1H7AYZ8M0-NXl-kYTwzT41eX6RhL5D-wpMbdScvVt23DMhBE5zEi7s-JXy8T0RGQ0F9X2G&_nc_ohc=9U7sEs98pGoQ7kNvwHIWpGU&_nc_oc=AdpY2r9CwPgbT4rUuirB5hX4sbzdXuDVPXv4CMyutI1g9sIMArisRAjUT5FhmIVR9433XtrDYlbFhI61Pn5G5V4B&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=MdxF-Ej7sIgC5z6paAPyjw&_nc_ss=7b2a8&oh=00_AQLY5QKqfonPvhmZRvvtANtzNXCKC4P7twdWhc26Dtw9Eg&oe=6ABDD961",
+  "owner_type": "post",
+  "owner_id": "3b949695-f410-4740-9570-96e6517bea35",
+  "photo_fbid": "1913104085759623",
+  "position": 0,
+  "storage_uri": "media/assets/b6/ec/b6ec642a3e3d6b619f733ce5fbc78620f33437b86b31a8871adfe6afa57098f8.jpg",
+  "sha256": "b6ec642a3e3d6b619f733ce5fbc78620f33437b86b31a8871adfe6afa57098f8",
+  "mime_type": "image/jpeg",
+  "file_size": 184124,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "08:27\n56\n<\nBáo cáo\n+ 100998058\n2. Thông tin quan hệ tín dụng của khách hàng tại kho dữ liệu CIC\n2.1. Thông tin quan hệ tín dụng hiện thời\n- Tại Ngân hàng TMCP Tiên Phong - Chi nhánh thành phố Hồ Chí Minh - Ngày báo cáo gần\nnhất: 31/01/2024\n+ Tông dư nợ: 1 triệu đồng và 0 USD\nTrong đó, nợ xấu: 1 triệu đồng và 0 USD\n2.2. Thông tin lịch sử nợ xấu trong 05 năm gần nhất\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgân hàng TMCP Tiên Phong - Chi nhánh thành phố Hồ Chí\nMinh\nNgày phát sinh nọ\nxâu gân nhất\n31/01/2024\n2\nCông ty Tài chính TNHH Ngân hàng Việt Nam Thịnh Vượng\nSMBC\n3\nCông ty Tài chính Cố phần Tín Việt\n28/02/2021\n02/11/2022\nLưu ý: Thông tin lịch sử nợ xấu bao gồm thông tin nợ vay và nợ thẻ\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\nBảo đảm tiền vay bằng tài sản\nChưa thu thập được thông tin\nưu ý: Trên đây là thông tin tín dụng của khách hàng vay tại C/C. Đê nghị Quý khách kiêm tra, né\nhát hiện có sai sót, hoặc có thắc mắc về thông tin trên vui lòng liên hệ trực tiếp tổng đài hỗ tr\nII",
+  "cic_data": {
+    "is_cic": true,
+    "score": 455,
+    "tier": 8,
+    "scoring_date": "21/01/2024",
+    "total_debt": "1 triệu",
+    "has_bad_debt": true,
+    "provider": "TPBank",
+    "raw_text": "08:27\n56\n<\nBáo cáo\n+ 100998058\n2. Thông tin quan hệ tín dụng của khách hàng tại kho dữ liệu CIC\n2.1. Thông tin quan hệ tín dụng hiện thời\n- Tại Ngân hàng TMCP Tiên Phong - Chi nhánh thành phố Hồ Chí Minh - Ngày báo cáo gần\nnhất: 31/01/2024\n+ Tông dư nợ: 1 triệu đồng và 0 USD\nTrong đó, nợ xấu: 1 triệu đồng và 0 USD\n2.2. Thông tin lịch sử nợ xấu trong 05 năm gần nhất\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgân hàng TMCP Tiên Phong - Chi nhánh thành phố Hồ Chí\nMinh\nNgày phát sinh nọ\nxâu gân nhất\n31/01/2024\n2\nCông ty Tài chính TNHH Ngân hàng Việt Nam Thịnh Vượng\nSMBC\n3\nCông ty Tài chính Cố phần Tín Việt\n28/02/2021\n02/11/2022\nLưu ý: Thông tin lịch sử nợ xấu bao gồm thông tin nợ vay và nợ thẻ\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\nBảo đảm tiền vay bằng tài sản\nChưa thu thập được thông tin\nưu ý: Trên đây là thông tin tín dụng của khách hàng vay tại C/C. Đê nghị Quý khách kiêm tra, né\nhát hiện có sai sót, hoặc có thắc mắc về thông tin trên vui lòng liên hệ trực tiếp tổng đài hỗ tr\nII. THÔNG TIN ĐIỂM TÍN DỤNG\n1\nĐiêm tín dụng:\n455\nHạng:\n8\nNgày chấm điểm:\n21/01/2024\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\n- 50%\nĐiêm tín dụng\ncủa khách\nhàng cao hơn điểm tín dụng\ncủa 3% tông khách hàng cá\nnhân được chấm điểm tại kho\ndữ liệu CIC.\n0%\nXếp hạng của\nkhách hàng\n3\nCHI TIẾT ĐIỂM VÀ HẠNG\nXấu\nDưới trung bình Trung bình\nTốt\nRất tốt\n10\n09\n08\n07\n06\n05\n04\n03\n02\n01\nHạng\nĐiêm 403-429 430-454 455-479 480-544 545-571 572-587 588-605 606-621 622-644 645-706\nĐiêm hạng của khách hàng\nLưu ý:\n- Điêm tín dụng của khách hàng vay được CIC đánh giá trên toàn bộ dữ liệu quan hệ tín dụng\ncủa khách hàng vay tại thời điểm c\nPhẩm. Điểm tín dụng được"
+  }
+}

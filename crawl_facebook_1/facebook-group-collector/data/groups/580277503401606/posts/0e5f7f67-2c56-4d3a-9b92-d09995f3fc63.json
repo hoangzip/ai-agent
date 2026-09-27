@@ -1,0 +1,28 @@
+{
+  "id": "0e5f7f67-2c56-4d3a-9b92-d09995f3fc63",
+  "facebook_post_id": "1615111760049451",
+  "group_id": "580277503401606",
+  "group_slug": "580277503401606",
+  "author_id": "51002f6b-a019-49df-9257-070759ed321d",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1615111760049451&set=g.580277503401606",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-26T10:56:32.116494+00:00",
+  "updated_at": "2026-09-26T10:56:32.116494+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "8a44cdc2-5b9f-4706-b8a8-48bf07bffbee"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "14:48\n< Thông tin dư nợ\n•il 4G (73\n• Ẩn thông tin\nThông tin dư nợ\nTổng dư nợ\n0 VNĐ\nDư nợ khoản vay\n0 VNĐ\nDư nợ thẻ tín dụng\n0 VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ\nNợ cần chú ý O\nTổng nợ cần chú ý\n0 VNĐ\nNợ cần chú ý gần nhất\nNgày phát sinh\n08/07/2025\nPhát sinh Công ty Tài chính TNHH MTV Mirae\ntại\nAsset Việt Nam\nNợ xấu\nTổng nợ xấu\n0 VNĐ\nNợ xấu gần nhất"
+  }
+}

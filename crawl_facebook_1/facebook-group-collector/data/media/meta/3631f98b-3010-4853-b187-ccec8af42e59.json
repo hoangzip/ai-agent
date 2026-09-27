@@ -1,0 +1,24 @@
+{
+  "id": "3631f98b-3010-4853-b187-ccec8af42e59",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/756343915_1797359094966288_7050928609855677291_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1422&ctp=s640x1422&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFwkUvgVG7DowZIaJbFW-2pW6uIqtWB8vBbq4iq1YHy8Guf9HzHd4lMgljFOaKMJYuBuWyY9CMQ3rnNBG1TdWJw&_nc_ohc=QJNSltbzLDYQ7kNvwEjQUM_&_nc_oc=Ado96e0R7twQvRF_Y7wC5mpvBQzHaA5oFmlEuFxcK5UGBx-s-mF6hfypffOUJ_rlFGwTuV9c7lLND8QNsM0kfd3Z&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=b_Ignx-pMLwuxKJ7UPoTKw&_nc_ss=7b2a8&oh=00_AQL-S6W-jO2rVZkcM_izG4IBQ-BR5u6tH9YwvmHFWB0DLQ&oe=6ABD278C",
+  "owner_type": "post",
+  "owner_id": "18462ab0-18c7-4c60-9c9b-2ff8de774239",
+  "photo_fbid": "1797359081632956",
+  "position": 0,
+  "storage_uri": "media/assets/25/d9/25d9fefafd11519ce2290da4f37854596602471aa81a86fcb07f99a643fac46d.jpg",
+  "sha256": "25d9fefafd11519ce2290da4f37854596602471aa81a86fcb07f99a643fac46d",
+  "mime_type": "image/jpeg",
+  "file_size": 58078,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nCập nhật để xem\n480\n360\n240\n120\n0\n4/2026\nKỳ mới\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\n21 Triệu VNĐ\nCập nhật Điểm tháng mới",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "23/04/2026",
+    "total_debt": "21 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nCập nhật để xem\n480\n360\n240\n120\n0\n4/2026\nKỳ mới\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\n21 Triệu VNĐ\nCập nhật Điểm tháng mới"
+  }
+}

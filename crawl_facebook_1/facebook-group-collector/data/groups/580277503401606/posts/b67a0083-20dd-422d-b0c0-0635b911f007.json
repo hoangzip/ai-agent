@@ -1,0 +1,30 @@
+{
+  "id": "b67a0083-20dd-422d-b0c0-0635b911f007",
+  "facebook_post_id": "122112613629365188",
+  "group_id": "580277503401606",
+  "group_slug": "580277503401606",
+  "author_id": "65c8b1e5-9712-449d-a82b-94763b4b861e",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=122112613629365188&set=g.580277503401606",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-08-11T00:00:00+00:00",
+  "created_at": "2026-09-26T03:40:06.559813+00:00",
+  "updated_at": "2026-09-26T03:40:06.559813+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "8ca4c8e9-2051-40a3-8b29-0a9622733ccd"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 503,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "II. THÔNG TIN ĐIỂM TÍN DỤNG\nĐiểm tín dụng:\n503\nHạng:\n7\nNgày chấm điểm:\n22/07/2026\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\n50%\nĐiêm tín dụng của khách hàng cao\nhơn điêm tín dụng của 12% tông\nkhách hàng cá nhân được chấm điểm\ntại kho dữ liệu CIC,\nXếp hạng của\nkhách hàng\n12\n0%\nCHI TIẾT ĐIỂM VÀ HẠNG\nXấu\nHạng\n10\n09\nDưới trung binh Trung bình\n08\n07\n06\n05\nTốt\nRất tốt\n04\n03\n02\n01\nĐiểm 403-434 435-454 455-479 480-544 545-566 567-587 588-608 609-622 623-644 645-70\n1\nMã\nN00\nN07\nN10\nNI1\nN12\nĐiểm hạng của khách hàng\nMÃ LÝ DO ẢNH HƯỞNG XÂU ĐÊN ĐIỀM TÍN DỤNG\nGiái thích\nCó nợ quá hạn trong vòng 12 tháng gần đây\nKhông có dư nợ/ Có dư nợ thấp tại ngân hàng\nCó lịch sử nợ quá hạn trong nhiều tháng\nHạn mức thẻ tin dụng thấp\nKhông sử dụng thẻ/Sử dụng quả it (dưới 10% hạn mức thẻ) / Sử dụng vượt hạn mức thẻ"
+  }
+}

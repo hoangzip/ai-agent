@@ -1,0 +1,27 @@
+{
+  "id": "583eff33-be23-4aad-be08-d9a3b7697209",
+  "facebook_post_id": "995603885825786",
+  "group_id": "745513060834871",
+  "group_slug": "745513060834871",
+  "author_id": "3d734f60-ca9b-4d88-a33b-9cc147a63d2e",
+  "author_display_name": "Tên Ko",
+  "author_profile_url": "https://www.facebook.com/groups/745513060834871/user/100039069873922",
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/groups/745513060834871/permalink/995603885825786",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-26T15:25:39.126915+00:00",
+  "updated_at": "2026-09-26T15:27:59.431982+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "5a2e5858-b38a-43ae-acd4-8792b6602602",
+    "ce5d4400-f3b2-4d91-bacf-07116c19be04",
+    "309afa5e-292f-4906-a383-2822ad0db495",
+    "e4173929-2cc4-476d-a408-0f7dc7229b89",
+    "6a6bdce0-d332-4631-a7a3-b4565e4edc5a",
+    "f5e9ee0e-0395-4861-8eed-0c68fadbd079"
+  ],
+  "cic_data": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "3ddbd795-2ea6-411a-8a97-b90a8310f0e4",
+  "facebook_comment_id": "1489855759110438",
+  "post_id": "9fbd22d5-5d91-4aaf-b592-d3615e7a26b6",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "11c5a1dd-295c-423a-8ead-8db154437775",
+  "author_display_name": "Viên Trần",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/100005252714740",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=1573385371011825&set=g.580277503401606?comment_id=1489855759110438",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=3224824627702596&set=p.3224824627702596&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "347bf4f2-a88b-4917-a47c-5101227cf817"
+  ],
+  "dedupe_key": "c2bc278f25d6e9536886b5c66132c8c0",
+  "first_seen_at": "2026-09-26T10:03:51.587912+00:00",
+  "last_seen_at": "2026-09-26T10:03:51.587916+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T10:03:51.587917+00:00",
+  "updated_at": "2026-09-26T10:03:51.587918+00:00"
+}

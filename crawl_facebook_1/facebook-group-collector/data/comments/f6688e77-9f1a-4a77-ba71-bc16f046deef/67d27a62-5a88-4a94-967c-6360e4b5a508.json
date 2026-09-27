@@ -1,0 +1,29 @@
+{
+  "id": "67d27a62-5a88-4a94-967c-6360e4b5a508",
+  "facebook_comment_id": "1514303979998949",
+  "post_id": "f6688e77-9f1a-4a77-ba71-bc16f046deef",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "c7c7bbb2-1992-4b15-bcf0-f79dd0eb5ea0",
+  "author_display_name": "Vanie Van",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/61561252239493",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=2120532482180515&set=g.580277503401606?comment_id=1514303979998949",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=122217101318375074&set=p.122217101318375074&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "e36e97ed-6c73-4246-b5da-11290db5d03e"
+  ],
+  "dedupe_key": "80c24e14dc8208b40c42c7503187195b",
+  "first_seen_at": "2026-09-26T04:28:43.375644+00:00",
+  "last_seen_at": "2026-09-26T04:28:43.375646+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T04:28:43.375651+00:00",
+  "updated_at": "2026-09-26T04:28:43.375652+00:00"
+}

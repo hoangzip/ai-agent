@@ -1,0 +1,29 @@
+{
+  "id": "dd0b8c0a-9658-4325-89f9-cd4603f25667",
+  "facebook_comment_id": "1375086181245774",
+  "post_id": "bdafc433-a619-4cb4-8d71-fa6163507750",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "4e4e23ce-c37b-4a8a-95e5-a56b6f7ef604",
+  "author_display_name": "Hoang Quoc Viet",
+  "author_profile_url": "https://www.facebook.com/groups/1295572999197093/user/100038271983333",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=122228679638351011&set=g.1295572999197093?comment_id=1375086181245774",
+  "content": "Nhận xử lí",
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=1738122654140117&set=p.1738122654140117&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "3b38050d-19ee-4f78-a485-730de3a2a9f6"
+  ],
+  "dedupe_key": "9936dcd395a33a65521a6768ed048124",
+  "first_seen_at": "2026-09-26T11:57:17.442414+00:00",
+  "last_seen_at": "2026-09-26T11:57:17.442416+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T11:57:17.442417+00:00",
+  "updated_at": "2026-09-26T11:57:17.442418+00:00"
+}

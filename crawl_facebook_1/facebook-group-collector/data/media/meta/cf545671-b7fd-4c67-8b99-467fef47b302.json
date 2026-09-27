@@ -1,0 +1,22 @@
+{
+  "id": "cf545671-b7fd-4c67-8b99-467fef47b302",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/789617832_122138353263059480_7112518194508272761_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1170x643&ctp=s1170x643&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGyrHVsaHSyNvJviDkQIJHcIvGI1RzEbosi8YjVHMRui60ze_jbYzYxjiwwndrwj_yo4paODSbJ6CzmIJbW5gXi&_nc_ohc=YGrkMkW9OAAQ7kNvwEvc6O6&_nc_oc=AdoHkI387n6NxiiXakvGr22379sqtaIKeQJv-XhwnkkHVuR5nCHx8gPr-vKN2Cm2Ef--oo2OVHsHkBj7Je1AnWDu&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=7O-FGEFc59IvOsczAl6wXA&_nc_ss=7b2a8&oh=00_AQL_qypJf4doKk9R601OaAtpBpJPlob9muSTL4M0ZNiOEg&oe=6ABCDEB8",
+  "owner_type": "post",
+  "owner_id": "a46e3d1b-646c-4fd3-af13-662afb82dfbd",
+  "photo_fbid": "122138353257059480",
+  "position": 0,
+  "storage_uri": "media/assets/4f/cf/4fcfe7980f4a2eda2fa008a9be9bdb52afb0bb3965bc72c5023c4f2d344be925.jpg",
+  "sha256": "4fcfe7980f4a2eda2fa008a9be9bdb52afb0bb3965bc72c5023c4f2d344be925",
+  "mime_type": "image/jpeg",
+  "file_size": 52448,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Nợ\nSPAYLATER hạn mức 23tr - dư nợ 15tr\nHomeCredit dư nợ 7tr800 - có thể tất toán liền\nHD Saison 15tr (giúp mẹ) - đóng được 4/12\nThẻ HD Saison 5tr - đóng được 4/12\nThẻ OCB 13tr (giúp mẹ) - đóng được 3/12\nVay Momo (giúp mẹ) - 15tr\nVay Zalo (giúp mẹ) - 20tr",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "23tr",
+    "provider": "MoMo / CIC",
+    "raw_text": "Nợ\nSPAYLATER hạn mức 23tr - dư nợ 15tr\nHomeCredit dư nợ 7tr800 - có thể tất toán liền\nHD Saison 15tr (giúp mẹ) - đóng được 4/12\nThẻ HD Saison 5tr - đóng được 4/12\nThẻ OCB 13tr (giúp mẹ) - đóng được 3/12\nVay Momo (giúp mẹ) - 15tr\nVay Zalo (giúp mẹ) - 20tr"
+  }
+}

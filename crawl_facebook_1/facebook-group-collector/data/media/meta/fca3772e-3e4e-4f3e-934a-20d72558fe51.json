@@ -1,0 +1,25 @@
+{
+  "id": "fca3772e-3e4e-4f3e-934a-20d72558fe51",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/776085949_1102985525584899_2360541660381766477_n.jpg?stp=dst-jpg_tt6&cstp=mx750x1334&ctp=s750x1334&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=DJ2MDzT1irUQ7kNvwFhdsaY&_nc_oc=AdqzQaayixkcAp7Juz__xSBxLaJ9RFeHoE2fR4hTkgT54ypSokamGAmyQNRPz3TtQ2PpEzAKCuY46n8umBu779qF&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=9eb4cfdUlckgZFRSVKpQfA&_nc_ss=7b289&oh=00_AQKHcrX4QDaVEuXBpkolDwpFdIh4UKFy6lUReZpmhMgX8Q&oe=6ABCEFE3",
+  "owner_type": "post",
+  "owner_id": "b7ddf860-f325-4117-a7f2-5c0a3496d753",
+  "photo_fbid": "1102985522251566",
+  "position": 0,
+  "storage_uri": "media/assets/1e/42/1e427cc788c73dbe530dd3f5d24521852b6e8706ec24f6c221620491f0e747a6.jpg",
+  "sha256": "1e427cc788c73dbe530dd3f5d24521852b6e8706ec24f6c221620491f0e747a6",
+  "mime_type": "image/jpeg",
+  "file_size": 93477,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "MobiFone S\n08:15\nKiểm tra Điểm tín dụng CIC\n32%\nCiCB\nCreditinFo\n503\nHạng 7 O\nNgày chấm: 23/04/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 11% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nA\nTheo dữ liệu tính đến ngày chấm 23/04/2026,\nbạn có khoản nợ xâu. Duy trì thói quen thanh\ntoán đíng han để cải thiên Điểm CIC nhái\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 503,
+    "tier": 7,
+    "scoring_date": "23/04/2026",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "MobiFone S\n08:15\nKiểm tra Điểm tín dụng CIC\n32%\nCiCB\nCreditinFo\n503\nHạng 7 O\nNgày chấm: 23/04/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 11% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nA\nTheo dữ liệu tính đến ngày chấm 23/04/2026,\nbạn có khoản nợ xâu. Duy trì thói quen thanh\ntoán đíng han để cải thiên Điểm CIC nhái\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

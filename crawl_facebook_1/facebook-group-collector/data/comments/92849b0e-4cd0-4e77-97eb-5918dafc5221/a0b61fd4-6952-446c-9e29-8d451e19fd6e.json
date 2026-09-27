@@ -1,0 +1,29 @@
+{
+  "id": "a0b61fd4-6952-446c-9e29-8d451e19fd6e",
+  "facebook_comment_id": "1548178899944790",
+  "post_id": "92849b0e-4cd0-4e77-97eb-5918dafc5221",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "5554e5b8-a000-4ee7-ab73-5d619207703d",
+  "author_display_name": "Nguyễn Thị Xuân Giang",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/100005112076613",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=1071775558546476&set=g.580277503401606?comment_id=1548178899944790",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=3367479366765766&set=p.3367479366765766&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "5841abb0-a031-460d-b4f5-67bbd4f3ef7b"
+  ],
+  "dedupe_key": "09a80c4864176163f61283b3476290f9",
+  "first_seen_at": "2026-09-26T01:25:42.993352+00:00",
+  "last_seen_at": "2026-09-26T01:25:42.993357+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T01:25:42.993362+00:00",
+  "updated_at": "2026-09-26T01:25:42.993362+00:00"
+}

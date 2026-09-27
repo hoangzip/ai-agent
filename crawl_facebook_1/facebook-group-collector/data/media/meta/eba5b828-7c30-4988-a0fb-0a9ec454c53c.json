@@ -1,0 +1,24 @@
+{
+  "id": "eba5b828-7c30-4988-a0fb-0a9ec454c53c",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/800715269_1105338875356679_7576296983873362649_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=LApgRjReRscQ7kNvwHCcYHj&_nc_oc=AdqNfQWJeoi3MPN_DOl_QzVQG-iLh-lkC4UtJl5kVviZFXujbyE_6oAzeXo6OiHicwA&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=syUvoXghTilVZxls9-dQkg&_nc_ss=7b2a8&oh=00_AQKu3knx8t7RwqI8eWtVDlfnYrhQas6VSkofCpBszYPc0A&oe=6ABC0029",
+  "owner_type": "post",
+  "owner_id": "0e2e40d7-a6c5-472a-b89e-7adef7a6e538",
+  "photo_fbid": "1105338872023346",
+  "position": 0,
+  "storage_uri": "media/assets/6c/f2/6cf24c575d8b7579a21107cdbda5ddc6027b7a5216e3a815178d61b0411e999e.jpg",
+  "sha256": "6cf24c575d8b7579a21107cdbda5ddc6027b7a5216e3a815178d61b0411e999e",
+  "mime_type": "image/jpeg",
+  "file_size": 188235,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "11:30\nStall l\n792\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n587\nHạng 5\nNgày chấm: 21/09/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 47% khách hàng cá nhân\nkhác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n4 Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặ...\nHoàn 100% phí phạt nếu BH xe\nmáy điện tử mua trên MoMo b...\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTheo dữ liệu tính đến ngày chấm\nCập nhật Điểm tháng mới\n2 Miễn phí 1 lượt cập nhật mỗi năm\nHiện thông tin",
+  "cic_data": {
+    "is_cic": true,
+    "score": 792,
+    "tier": 5,
+    "scoring_date": "21/09/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "11:30\nStall l\n792\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n587\nHạng 5\nNgày chấm: 21/09/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 47% khách hàng cá nhân\nkhác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n4 Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặ...\nHoàn 100% phí phạt nếu BH xe\nmáy điện tử mua trên MoMo b...\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTheo dữ liệu tính đến ngày chấm\nCập nhật Điểm tháng mới\n2 Miễn phí 1 lượt cập nhật mỗi năm\nHiện thông tin"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "070939be-aec5-4143-a8c5-62daf0bb3c20",
+  "facebook_comment_id": "1543871277042219",
+  "post_id": "5582fe9d-7276-441e-809d-afd0401e5c88",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "18c89931-d191-40cc-8d2e-1b7b9cb84832",
+  "author_display_name": "Duyên Nguyễn",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/100001496119422",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=4653054208251755&set=g.580277503401606?comment_id=1543871277042219",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=28516343594665464&set=p.28516343594665464&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "c60a5d7c-cd91-4c70-9ed7-bb945d2c235d"
+  ],
+  "dedupe_key": "a3170981f7f8526ce887d8cd552720f2",
+  "first_seen_at": "2026-09-26T01:31:27.653755+00:00",
+  "last_seen_at": "2026-09-26T01:31:27.653758+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T01:31:27.653759+00:00",
+  "updated_at": "2026-09-26T01:31:27.653760+00:00"
+}

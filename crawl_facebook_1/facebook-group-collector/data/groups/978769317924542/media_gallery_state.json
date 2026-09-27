@@ -11395,5 +11395,263 @@
   "122176216700666237": {
     "status": "no_image",
     "post_id": "122176216700666237"
+  },
+  "122154944409127475": {
+    "status": "crawled_no_cic",
+    "post_id": "1126313286503477",
+    "post_uuid": "02d2c672-f1fa-4523-8421-ec7aed6f44b9",
+    "updated_at": "2026-09-27T01:38:59.191684+00:00"
+  },
+  "2049071172410172": {
+    "status": "crawled_cic_found",
+    "post_id": "2049071172410172",
+    "post_uuid": "921f7ee6-fafb-46cd-81c7-5f2e2e30f631",
+    "updated_at": "2026-09-27T01:39:15.442466+00:00"
+  },
+  "2026925298598782": {
+    "status": "crawled_cic_found",
+    "post_id": "2026925298598782",
+    "post_uuid": "4ec40ba9-3c21-4adb-9a2d-610fba0709e2",
+    "updated_at": "2026-09-27T01:39:26.094617+00:00"
+  },
+  "122335624094214623": {
+    "status": "crawled_cic_found",
+    "post_id": "122335624094214623",
+    "post_uuid": "465b52e0-91ec-4d52-ac03-e923186b49ef",
+    "updated_at": "2026-09-27T01:39:36.805217+00:00"
+  },
+  "1649896589895392": {
+    "status": "crawled_cic_found",
+    "post_id": "1649896589895392",
+    "post_uuid": "b05295da-805c-479c-a31b-72ee9e5fd234",
+    "updated_at": "2026-09-27T01:39:47.970861+00:00"
+  },
+  "3613040035522859": {
+    "status": "crawled_cic_found",
+    "post_id": "1126070549861084",
+    "post_uuid": "f561308e-3fd9-417b-97df-e60dd980d8bc",
+    "updated_at": "2026-09-27T01:39:57.910626+00:00"
+  },
+  "122133019017360450": {
+    "status": "crawled_cic_found",
+    "post_id": "122133019017360450",
+    "post_uuid": "e48bcdac-3fac-4b41-89a5-32e4d304e2bf",
+    "updated_at": "2026-09-27T01:40:11.521842+00:00"
+  },
+  "1100258449203712": {
+    "status": "crawled_cic_found",
+    "post_id": "1100258449203712",
+    "post_uuid": "9ddb1817-f127-4c1f-8a86-3ef9acdf51ab",
+    "updated_at": "2026-09-27T01:40:23.035321+00:00"
+  },
+  "122143902129345312": {
+    "status": "crawled_cic_found",
+    "post_id": "1125892779878861",
+    "post_uuid": "f1b6bb7d-f54e-4c94-b6ea-eb07f127efdd",
+    "updated_at": "2026-09-27T01:40:35.074564+00:00"
+  },
+  "29037371815857718": {
+    "status": "crawled_cic_found",
+    "post_id": "29037371815857718",
+    "post_uuid": "58001bec-e27f-406d-9f2f-5e7a406ea1e2",
+    "updated_at": "2026-09-27T01:40:48.567518+00:00"
+  },
+  "1708885286876642": {
+    "status": "crawled_no_cic",
+    "post_id": "1708885286876642",
+    "post_uuid": "c5fd801f-77b7-4514-9522-717672da51d3",
+    "updated_at": "2026-09-27T01:40:59.889662+00:00"
+  },
+  "2135112413801649": {
+    "status": "crawled_cic_found",
+    "post_id": "2135112413801649",
+    "post_uuid": "1498af16-eb56-44ff-9c69-69e45aa24a3a",
+    "updated_at": "2026-09-27T01:41:10.805806+00:00"
+  },
+  "122132963271360450": {
+    "status": "crawled_cic_found",
+    "post_id": "122132963271360450",
+    "post_uuid": "cda49355-fcde-4c56-899a-3db7ffe5a2d7",
+    "updated_at": "2026-09-27T01:41:22.435178+00:00"
+  },
+  "1664443285399452": {
+    "status": "crawled_cic_found",
+    "post_id": "1664443285399452",
+    "post_uuid": "77b5506f-fbb8-44c4-8076-7975beb20968",
+    "updated_at": "2026-09-27T01:41:34.053419+00:00"
+  },
+  "2491405441353973": {
+    "status": "crawled_no_cic",
+    "post_id": "2491405441353973",
+    "post_uuid": "b1b5855f-c36a-4e6d-8178-2de11aaa7d1f",
+    "updated_at": "2026-09-27T01:41:43.344809+00:00"
+  },
+  "1144912238314109": {
+    "status": "crawled_cic_found",
+    "post_id": "1125581093243363",
+    "post_uuid": "0494b309-e8c0-4ada-aea6-dc774946b26e",
+    "updated_at": "2026-09-27T01:41:55.532550+00:00"
+  },
+  "1058584093840535": {
+    "status": "crawled_cic_found",
+    "post_id": "1058584093840535",
+    "post_uuid": "4d4fe513-9883-4af7-b230-33d3d5be5e69",
+    "updated_at": "2026-09-27T01:42:10.757422+00:00"
+  },
+  "3029709534027544": {
+    "status": "crawled_cic_found",
+    "post_id": "1125103443291128",
+    "post_uuid": "951d862e-9345-4dc4-9a6b-c7db7264e8f5",
+    "updated_at": "2026-09-27T01:42:22.999735+00:00"
+  },
+  "122114554209455501": {
+    "status": "crawled_cic_found",
+    "post_id": "122114554209455501",
+    "post_uuid": "9ca83376-8878-4ec6-a906-ab5b78d9ecda",
+    "updated_at": "2026-09-27T01:42:36.952612+00:00"
+  },
+  "1763234278245607": {
+    "status": "crawled_cic_found",
+    "post_id": "1763234278245607",
+    "post_uuid": "9511ddd1-4cd7-44f1-9284-b2d7545146bf",
+    "updated_at": "2026-09-27T01:42:48.296147+00:00"
+  },
+  "1141778851848763": {
+    "status": "crawled_cic_found",
+    "post_id": "1141778851848763",
+    "post_uuid": "3e82a88f-656d-418f-8100-6909827dd549",
+    "updated_at": "2026-09-27T01:43:00.326718+00:00"
+  },
+  "1079711064870099": {
+    "status": "crawled_cic_found",
+    "post_id": "1079711064870099",
+    "post_uuid": "b2ce6c8b-4a40-4c8e-a8b4-11fea3970258",
+    "updated_at": "2026-09-27T01:43:09.780358+00:00"
+  },
+  "1854858875886233": {
+    "status": "crawled_cic_found",
+    "post_id": "1854858875886233",
+    "post_uuid": "a7fd7e04-2c9c-4e72-8728-b3aa207d54f8",
+    "updated_at": "2026-09-27T01:43:20.746253+00:00"
+  },
+  "2351133228755452": {
+    "status": "crawled_no_cic",
+    "post_id": "2351133228755452",
+    "post_uuid": "159ffcd3-1706-49ad-a696-05a0d2854ea8",
+    "updated_at": "2026-09-27T01:43:31.377311+00:00"
+  },
+  "1396163812653405": {
+    "status": "crawled_cic_found",
+    "post_id": "1124661993335273",
+    "post_uuid": "35e720d4-8a83-46d7-bcca-7e5fcd1304a4",
+    "updated_at": "2026-09-27T01:43:42.230243+00:00"
+  },
+  "4501650150088498": {
+    "status": "crawled_cic_found",
+    "post_id": "4501650150088498",
+    "post_uuid": "55317c42-a1b0-41fd-86e3-3e9b030ca7b6",
+    "updated_at": "2026-09-27T01:43:56.950918+00:00"
+  },
+  "1117940167324360": {
+    "status": "crawled_cic_found",
+    "post_id": "1117940167324360",
+    "post_uuid": "1ac20727-5b43-4571-b985-e9c02742b88c",
+    "updated_at": "2026-09-27T01:44:06.911491+00:00"
+  },
+  "1102216945832824": {
+    "status": "crawled_cic_found",
+    "post_id": "1102216945832824",
+    "post_uuid": "041530ca-96b5-41cc-9ef1-c62dd3c4f0aa",
+    "updated_at": "2026-09-27T01:44:18.709611+00:00"
+  },
+  "1093082906655607": {
+    "status": "crawled_cic_found",
+    "post_id": "1093082906655607",
+    "post_uuid": "f60195a9-d97f-4922-99c8-da15460dfbd3",
+    "updated_at": "2026-09-27T01:44:29.924553+00:00"
+  },
+  "1093080399989191": {
+    "status": "crawled_cic_found",
+    "post_id": "1093080399989191",
+    "post_uuid": "4ed3b239-6744-4c82-ba9c-1590105eea7b",
+    "updated_at": "2026-09-27T01:44:40.986080+00:00"
+  },
+  "122124910989122429": {
+    "status": "crawled_cic_found",
+    "post_id": "122124910989122429",
+    "post_uuid": "469f1b7d-64b6-4e17-ae1f-044e8069269f",
+    "updated_at": "2026-09-27T16:50:19.745981+00:00"
+  },
+  "3394225250760248": {
+    "status": "crawled_no_cic",
+    "post_id": "1126789186455887",
+    "post_uuid": "0f048b32-3ce2-439f-8224-578359c40c36",
+    "updated_at": "2026-09-27T16:51:51.829721+00:00"
+  },
+  "3394225234093583": {
+    "status": "crawled_no_cic",
+    "post_id": "3394225234093583",
+    "post_uuid": "857ca82b-158f-4436-b63a-9ec14171d586",
+    "updated_at": "2026-09-27T16:52:04.484228+00:00"
+  },
+  "1092424389824243": {
+    "status": "crawled_no_cic",
+    "post_id": "1092424389824243",
+    "post_uuid": "c02055af-789d-43c2-978b-87199c56b01d",
+    "updated_at": "2026-09-27T16:52:25.901787+00:00"
+  },
+  "122097386271494360": {
+    "status": "crawled_no_cic",
+    "post_id": "122097386271494360",
+    "post_uuid": "010deb95-0bc5-46eb-90db-97d121f914ab",
+    "updated_at": "2026-09-27T16:52:38.746265+00:00"
+  },
+  "122097386193494360": {
+    "status": "crawled_no_cic",
+    "post_id": "122097386193494360",
+    "post_uuid": "68dba429-c1ed-4f67-915c-7f8f089e8ed3",
+    "updated_at": "2026-09-27T16:52:52.318615+00:00"
+  },
+  "122141887443002269": {
+    "status": "crawled_no_cic",
+    "post_id": "122141887443002269",
+    "post_uuid": "e4e2f607-ecc5-4d99-a489-730b6a425e27",
+    "updated_at": "2026-09-27T16:53:03.989272+00:00"
+  },
+  "1693469881739605": {
+    "status": "crawled_no_cic",
+    "post_id": "1693469881739605",
+    "post_uuid": "672e3a32-c312-46f4-a791-a5fe6801e0d6",
+    "updated_at": "2026-09-27T16:53:15.607719+00:00"
+  },
+  "3613039998856196": {
+    "status": "crawled_no_cic",
+    "post_id": "3613039998856196",
+    "post_uuid": "dfabb283-62ae-4b83-8169-16b3fe206187",
+    "updated_at": "2026-09-27T16:53:29.148438+00:00"
+  },
+  "122143901973345312": {
+    "status": "crawled_no_cic",
+    "post_id": "122143901973345312",
+    "post_uuid": "ee4ec14b-4d90-4b13-903f-9351f3b29d87",
+    "updated_at": "2026-09-27T16:53:41.248186+00:00"
+  },
+  "1144912221647444": {
+    "status": "crawled_no_cic",
+    "post_id": "1144912221647444",
+    "post_uuid": "aaa77c96-2aab-408e-b68e-86391d30e770",
+    "updated_at": "2026-09-27T16:53:52.743342+00:00"
+  },
+  "3029709490694215": {
+    "status": "crawled_no_cic",
+    "post_id": "3029709490694215",
+    "post_uuid": "54298eaa-b535-497c-896f-921081912754",
+    "updated_at": "2026-09-27T16:54:06.669318+00:00"
+  },
+  "1396163802653406": {
+    "status": "crawled_no_cic",
+    "post_id": "1396163802653406",
+    "post_uuid": "8d08a147-1e28-4b52-bbd5-62f585ee13c4",
+    "updated_at": "2026-09-27T16:54:19.436269+00:00"
   }
 }

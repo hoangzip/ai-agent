@@ -1,0 +1,25 @@
+{
+  "id": "c18f754c-7a41-4d53-93c6-7392c8e54838",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/779787850_122148248727109961_850585228827460037_n.jpg?stp=dst-jpg_tt6&cstp=mx1263x2048&ctp=s1263x2048&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=e3ACr8HpblcQ7kNvwEgSquI&_nc_oc=Ado4bgH5B3BXkTiOjQ8IZJ84bgBV2bMiH4prtIaVpD5koouepD4dfigDHDxAn-rHDpFW2Qtbyi8iuZnemxdqpid7&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=3xcxxJO2eNMzZkskeHNG7Q&_nc_ss=7b289&oh=00_AQJoIT9rPtUjOwaADidigTWpumdzpunneFDu5xFccM46pw&oe=6ABD0077",
+  "owner_type": "post",
+  "owner_id": "2e822163-e7eb-441e-b713-cf171c5cb46f",
+  "photo_fbid": "122148248721109961",
+  "position": 0,
+  "storage_uri": "media/assets/9f/d9/9fd917af815e5df3a88efd01663c17e6683e18f64764b30f2a7ae2b5b2079e53.jpg",
+  "sha256": "9fd917af815e5df3a88efd01663c17e6683e18f64764b30f2a7ae2b5b2079e53",
+  "mime_type": "image/jpeg",
+  "file_size": 146984,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n540\nHạng 7 Q\nNgày chấm: 22/07/2026\nĐiểm cao hơn 15% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nA\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n--\n--",
+  "cic_data": {
+    "is_cic": true,
+    "score": 540,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n540\nHạng 7 Q\nNgày chấm: 22/07/2026\nĐiểm cao hơn 15% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nA\nTheo dữ liệu tính đến ngày chấm 22/07/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n--\n--"
+  }
+}

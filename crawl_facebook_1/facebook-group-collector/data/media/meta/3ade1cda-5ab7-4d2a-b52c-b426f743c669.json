@@ -1,0 +1,23 @@
+{
+  "id": "3ade1cda-5ab7-4d2a-b52c-b426f743c669",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/777800943_1722267745710084_6104526596522402317_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1520&ctp=s720x1520&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=U-g09SgH3FQQ7kNvwEEJCKH&_nc_oc=Adp-OQ4ZQubKDerWIE2_br80wIW_gVq86gEPFKx7hp819rPnoTmZUArfK1yuG82TbkkCM8VyMj09mL0DF-y0k3WJ&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=rWHxCDfJbT_ttMO2whoSPw&_nc_ss=7b289&oh=00_AQJRgE3-zB19Uj3pM5UEHwWyn5CXcL9OT5DFqPCAkbxKEQ&oe=6ABD0CFD",
+  "owner_type": "post",
+  "owner_id": "bbb0c6fa-0f2b-4f27-979a-744cf9f2adae",
+  "photo_fbid": "1722267739043418",
+  "position": 0,
+  "storage_uri": "media/assets/4f/a0/4fa02ee8fa95ae032a032967df469fce73a0e075f42ba054a2cabd7dd9c86125.jpg",
+  "sha256": "4fa02ee8fa95ae032a032967df469fce73a0e075f42ba054a2cabd7dd9c86125",
+  "mime_type": "image/jpeg",
+  "file_size": 56212,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Thông tin dư nợ\nNợ cần chú ý O\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\n32 Triệu VNĐ\n07/08/2026\nPhát sinh Ngân hàng TNHH MTV CIMB\ntại\nViệt Nam\nNợ xấu\nTổng nợ xấu\n0 VNĐ\nNợ xấu gần nhất\nNgày phát sinh\nPhát sinh tại\nTài sản đảm bảo\nTrạng thái tài sản\n-\n--\nKhông",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "32 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MB Shinsei",
+    "raw_text": "< Thông tin dư nợ\nNợ cần chú ý O\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\n32 Triệu VNĐ\n07/08/2026\nPhát sinh Ngân hàng TNHH MTV CIMB\ntại\nViệt Nam\nNợ xấu\nTổng nợ xấu\n0 VNĐ\nNợ xấu gần nhất\nNgày phát sinh\nPhát sinh tại\nTài sản đảm bảo\nTrạng thái tài sản\n-\n--\nKhông"
+  }
+}

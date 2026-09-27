@@ -1,0 +1,29 @@
+{
+  "id": "84fa22ac-52ab-498c-9020-542cef2964d9",
+  "facebook_comment_id": "1526428728786474",
+  "post_id": "baf55b77-ca9b-447b-b50f-b2f0b397267f",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "e94e39b8-29bd-43d7-bae3-9d71a0caf3f2",
+  "author_display_name": "Quá Khứ",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/100025366300484",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=122180750456824211&set=g.580277503401606?comment_id=1526428728786474",
+  "content": "Người tham gia ẩn danh 854",
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=2203733730482149&set=p.2203733730482149&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "b7d8f8ed-51fd-4c48-8ba7-4ad94801f0be"
+  ],
+  "dedupe_key": "c6ccd91842ef80549709d24e01429835",
+  "first_seen_at": "2026-09-26T03:40:53.795735+00:00",
+  "last_seen_at": "2026-09-26T03:40:53.795741+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T03:40:53.795744+00:00",
+  "updated_at": "2026-09-26T03:40:53.795745+00:00"
+}

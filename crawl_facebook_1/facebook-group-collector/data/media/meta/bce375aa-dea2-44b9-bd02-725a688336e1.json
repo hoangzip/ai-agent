@@ -1,0 +1,24 @@
+{
+  "id": "bce375aa-dea2-44b9-bd02-725a688336e1",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/741968389_1715514382812348_5589398024044887300_n.jpg?stp=dst-jpg_tt6&cstp=mx444x960&ctp=s444x960&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGRvZR04-ucsbmhZq8gdsGqHqsKE6JX2YAeqwoTolfZgAHaPFPJY3SNEH1a-xdF9cg0PUhPtpto-B5DZfqFs7mj&_nc_ohc=JmwB3vA-rvUQ7kNvwG7ilgM&_nc_oc=AdrW9JpbDPix92KEqof67m-axDGh0dO_6xWV6hMMAx2Ulm7M9Qykxsc8aJmsvOH44OPwwW1SqQ6WqDCFz6Jp9NPe&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=uvZlVwHFq1ZHKshOtlTAMQ&_nc_ss=7b2a8&oh=00_AQJdd-2fOFGFN7Zxf6ewLmcPLVRarHFc5FP0EffYoFZafQ&oe=6ABD846C",
+  "owner_type": "post",
+  "owner_id": "9fdfebc2-a4bd-4a66-8f81-9de531cb83ff",
+  "photo_fbid": "1715514376145682",
+  "position": 0,
+  "storage_uri": "media/assets/8c/50/8c505a7e0b6c89296fb8ff2de56545af1adf1629b7e95c7e9a2487e98914fe85.jpg",
+  "sha256": "8c505a7e0b6c89296fb8ff2de56545af1adf1629b7e95c7e9a2487e98914fe85",
+  "mime_type": "image/jpeg",
+  "file_size": 49917,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "13:31\nKiểm tra Điểm tín dụng CIC\n=1 5G\n560\nHạng 6 O\nNgày chấm: 23/06/2026\nCao hơn 26% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nBạn có nền tàng tài chính ổn\nDuy trì từ 100K trong Túi Thần Tài\nđể gia tăng cơ hội tài chính nhé\nNạp ngay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n560\n850\n680\n510\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 560,
+    "tier": 6,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "13:31\nKiểm tra Điểm tín dụng CIC\n=1 5G\n560\nHạng 6 O\nNgày chấm: 23/06/2026\nCao hơn 26% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nBạn có nền tàng tài chính ổn\nDuy trì từ 100K trong Túi Thần Tài\nđể gia tăng cơ hội tài chính nhé\nNạp ngay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n560\n850\n680\n510\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "188d2ad1-6123-4d91-93be-cb0aad751778",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/705969013_122129411871013388_770591751501092529_n.jpg?stp=dst-jpg_tt6&cstp=mx852x1114&ctp=s852x1114&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHuCGP2wVJQ_Uk6u5WTBC_B8eSAq4MHaZ7x5ICrgwdpnj5R78xJEFYy7ABAVqXwa6YfMwnlrvv4mvOiUCD5_Wmy&_nc_ohc=oyod0wzgfkYQ7kNvwHt1t_-&_nc_oc=Adpp92wmvCar3nufHsB6j07i1V7daq6q_mhy37VzE5yHBngY5aIgJDu0SSpk5bB1vq__xbD6XRV_qH5H0cVVFAPD&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=JIUkBSwHVoo8SVGtR5t9gA&_nc_ss=7b2a8&oh=00_AQJESiTX4Zqcp-0Z8pmz2S42vid_TOBwHeBgLU_8IxGUsg&oe=6ABD98AD",
+  "owner_type": "post",
+  "owner_id": "196196c1-2d28-46bd-ac80-85566edeb213",
+  "photo_fbid": "122129412231013388",
+  "position": 0,
+  "storage_uri": "media/assets/6c/6a/6c6a76ced8ee481aad1f73444055cf78aad12e5825db8495bb88daf4534a1a9f.jpg",
+  "sha256": "6c6a76ced8ee481aad1f73444055cf78aad12e5825db8495bb88daf4534a1a9f",
+  "mime_type": "image/jpeg",
+  "file_size": 49541,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Thanh toán ngay\nVay thêm\nSố hợp đồng\nKhoản vay\n300.000.000 VNĐ\nThời hạn vay\n48 tháng\nNgày thanh toán\nhàng tháng\nNgày giải ngân\n23/05/2026\nLãi suất theo\nhợp đồng vay\nNgày kết thúc\nhợp đồng\n01/05/2030",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "300.000.000 VNĐ",
+    "provider": "CIC",
+    "raw_text": "Thanh toán ngay\nVay thêm\nSố hợp đồng\nKhoản vay\n300.000.000 VNĐ\nThời hạn vay\n48 tháng\nNgày thanh toán\nhàng tháng\nNgày giải ngân\n23/05/2026\nLãi suất theo\nhợp đồng vay\nNgày kết thúc\nhợp đồng\n01/05/2030"
+  }
+}

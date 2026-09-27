@@ -1,0 +1,24 @@
+{
+  "id": "7b134fa8-c162-4c06-9410-fc2a7c14d841",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/755381082_1708247557050743_2701112672541399546_n.jpg?stp=dst-jpg_tt6&cstp=mx828x1792&ctp=s828x1792&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFdMJpMiVAdzvQ5NSn8UO_r7UqXgjvSwgbtSpeCO9LCBuVcUskJaoJe1hy8RgoqmUj0aioMGzmXEUN9DE7hLrXk&_nc_ohc=TDJmYBSA23MQ7kNvwEmQ0VL&_nc_oc=Adok6v6jOdsK20i_PlQoF13zDnHf3kl3Cy8N9cf-QhTZTd963a1c1V8QbZJ-sDe5_PVnz-tU03I8IpNrYC_Ejx-E&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=hubmmoYgjQiR3EHyvz3s9A&_nc_ss=7b2a8&oh=00_AQK7aBqZIy1x6lAJJRQ-IAAxEnlYf61aUQpmgZ8qYoU7Tw&oe=6ABD2B64",
+  "owner_type": "post",
+  "owner_id": "96d4f4fd-afe6-4505-bec0-dec2c4b7dc09",
+  "photo_fbid": "1708247553717410",
+  "position": 0,
+  "storage_uri": "media/assets/ee/90/ee905f02704140ca37ca801afb2621be948b62bf219108128e13271363a42784.jpg",
+  "sha256": "ee905f02704140ca37ca801afb2621be948b62bf219108128e13271363a42784",
+  "mime_type": "image/jpeg",
+  "file_size": 83048,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "19:59 4\n= 91\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n585\nHạng 5 O\nNgày chấm: 23/06/2026\nCao hơn 45% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n585\n480\n360\n240\n120\n12/2025\n6/2026\nThông tin ci tiết v\nThông tin dư nợ >\nMiễn nhí 1 lần tra cứu mỗi năm\nẤn thông tin",
+  "cic_data": {
+    "is_cic": true,
+    "score": 585,
+    "tier": 5,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "19:59 4\n= 91\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n585\nHạng 5 O\nNgày chấm: 23/06/2026\nCao hơn 45% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n585\n480\n360\n240\n120\n12/2025\n6/2026\nThông tin ci tiết v\nThông tin dư nợ >\nMiễn nhí 1 lần tra cứu mỗi năm\nẤn thông tin"
+  }
+}

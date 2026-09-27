@@ -1,0 +1,35 @@
+{
+  "id": "9ca83376-8878-4ec6-a906-ab5b78d9ecda",
+  "facebook_post_id": "122114554209455501",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "b5b9569c-6936-49b0-a3e8-fc9351d1fcf0",
+  "author_display_name": "Today",
+  "author_profile_url": null,
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/photo/?fbid=122114554209455501&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "posted_at": null,
+  "created_at": "2026-09-27T01:42:36.940894+00:00",
+  "updated_at": "2026-09-27T01:42:36.940896+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "df1538dd-f781-4559-9672-d7abb7bab168"
+  ],
+  "caption": null,
+  "cic_data": {
+    "is_cic": true,
+    "score": 520,
+    "credit_tier": 7,
+    "scoring_date": "21/08/2026",
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "cic_code": null,
+    "has_bad_debt": null,
+    "overdue_amount": null,
+    "provider": "CIC",
+    "raw_text": "18:46\nYEn nil 1l 25\nBáo cáo\nNgày báo cáo dư nợ vay gần nhất: 27/08/2026\nTổng ng\n- Nợ đủ tiêu chuân\n- Nợ cân chú ý\n- Nợ xấu\nTổng cộng\nLưu ý:\n- Tổng dư nợ bao gồm cả khoản nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phu Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán từ 10 -90\nngày đối với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\nnước Việt Nam).\n- Nợ xâu gôm các khoan nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan cua\nChính phù/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán trên 90 ngày\nđôi với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chính phủ Ngân hàng nhà\nnước Việt Nam).\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tỗ chức/ chi nhánh TCTD\nCông ty Tài chính TNHH MTV TNEX\nrày phát sinh n\nn chú ý gần nh\n24/"
+  }
+}

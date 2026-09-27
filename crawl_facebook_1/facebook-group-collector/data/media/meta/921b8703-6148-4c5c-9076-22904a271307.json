@@ -1,0 +1,24 @@
+{
+  "id": "921b8703-6148-4c5c-9076-22904a271307",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/777297802_1753389062651571_4916362770254857901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Kj9ulGRKlcoQ7kNvwGiF3H8&_nc_oc=AdqTl2Wd4cXVqjUknUKWunOZtsmX7QPgkyboermmP1sy-Ofsy_w_0o0PgelNGIbEckf-KEo-8zDHHS1wxhYyOOlv&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=N3VsRF2mUGu-4i_PvQZHLQ&_nc_ss=7b289&oh=00_AQL7dFcLgjodnHse0xvSTk6QeRSDm_Mv84uOWD7j7b5i1w&oe=6ABD1F14",
+  "owner_type": "post",
+  "owner_id": "149c26c3-fd4b-4638-b802-212e8c0b9508",
+  "photo_fbid": "1753389059318238",
+  "position": 0,
+  "storage_uri": "media/assets/dd/9c/dd9c0a7224d1106243daa6e4e95bf61634aa3143e52665b7f9b5e22ca439b436.jpg",
+  "sha256": "dd9c0a7224d1106243daa6e4e95bf61634aa3143e52665b7f9b5e22ca439b436",
+  "mime_type": "image/jpeg",
+  "file_size": 142215,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Thông tin dư nợ\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu và nợ cần chú ý. Duy trì thói\nquen thanh toán đúng hạn để cải thiện Điểm CIC\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n5 Triệu VNĐ\nO VNĐ\n5 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ 1\nNợ cần chú ý\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\n0 VNĐ\n28/05/2026\nPhát sinh Ngân hàng TMCP Phát triển thành\ntại\nphố Hồ Chí Minh\nNợ xấu\nTổng nợ xấu\n0 VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "22/07/2026",
+    "total_debt": "5 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "< Thông tin dư nợ\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu và nợ cần chú ý. Duy trì thói\nquen thanh toán đúng hạn để cải thiện Điểm CIC\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n5 Triệu VNĐ\nO VNĐ\n5 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ 1\nNợ cần chú ý\nTổng nợ cần chú ý\nNợ cần chú ý gần nhất\nNgày phát sinh\n0 VNĐ\n28/05/2026\nPhát sinh Ngân hàng TMCP Phát triển thành\ntại\nphố Hồ Chí Minh\nNợ xấu\nTổng nợ xấu\n0 VNĐ"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5b51497c-9ce6-453d-b8ca-043b1a50f90a",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/715360522_122165860544408305_5142612409253841773_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1600&ctp=s720x1600&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF6MPKtBlZsocvtVSMpXv_TAZpWYri6u4cBmlZiuLq7h3cXFIJNt2vnd7PqcrRTfKCpdWxmn0j_sa51JqRv186e&_nc_ohc=wSdkS-ZS8hEQ7kNvwGPnZK_&_nc_oc=AdpP60cvyieLhBsrz62y7nu8ujQz2EGoUv9KNIRz7XGC5Et7oKhHFdth4KHWQTFxuj7nunas3vYt_2MNPg1Jjg9L&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=Kh10i6FRnIS8vpZwEfs84w&_nc_ss=7b2a8&oh=00_AQKT2gviAREWDHpXW3e4gzr3Th0yNNpvT6aemehTUBpmjA&oe=6ABD6D0F",
+  "owner_type": "post",
+  "owner_id": "0a73dd0b-7e5d-461c-9790-0ffbeff8183c",
+  "photo_fbid": "122165860538408305",
+  "position": 0,
+  "storage_uri": "media/assets/4c/c7/4cc7d3537ec5784be8dba8fe8aa9de417cc0aeadc2ae597d50f14d28d0900bf4.jpg",
+  "sha256": "4cc7d3537ec5784be8dba8fe8aa9de417cc0aeadc2ae597d50f14d28d0900bf4",
+  "mime_type": "image/jpeg",
+  "file_size": 86120,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "8:48\n4 4G\n0 36%\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n572\nHạng 5 Đ\nNgày chấm: 22/03/2026\nCao hơn 18% khách hàng cá nhân khác\nChia sẻ\nXem Trung Tâm Tài Chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay &\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n570\n380",
+  "cic_data": {
+    "is_cic": true,
+    "score": 572,
+    "tier": 5,
+    "scoring_date": "22/03/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "8:48\n4 4G\n0 36%\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n572\nHạng 5 Đ\nNgày chấm: 22/03/2026\nCao hơn 18% khách hàng cá nhân khác\nChia sẻ\nXem Trung Tâm Tài Chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay &\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n570\n380"
+  }
+}

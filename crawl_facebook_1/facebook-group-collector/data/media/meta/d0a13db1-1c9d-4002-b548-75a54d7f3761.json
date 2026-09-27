@@ -1,0 +1,25 @@
+{
+  "id": "d0a13db1-1c9d-4002-b548-75a54d7f3761",
+  "media_type": "image",
+  "source_url": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/805732543_122097576183476828_8552228076551014830_n.jpg?stp=dst-jpg_tt6&cstp=mx540x960&ctp=s540x960&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Gx4kqOjwuH0Q7kNvwExqyxm&_nc_oc=AdoJNupYOiw9RTI00-7HQ4OVVRrNpPTv2dm7FhfgIG3VgucFLJm6QXZNxEfTfMYrmM4&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=-x7uIrFCFm4zH-vrJUBXSw&_nc_ss=7b2a8&oh=00_AQJdiXJBSowqyToNjVDir-80fpQJ_32Rb0ZzKkdhDJL4nA&oe=6ABC1524",
+  "owner_type": "post",
+  "owner_id": "087c0fa7-6194-4239-b60b-559e56983035",
+  "photo_fbid": "122097576171476828",
+  "position": 0,
+  "storage_uri": "media/assets/37/87/37871f4e699153b1e4c23c91eec806682bd5f2a09c5671acc9ca8ba220b1a9bc.jpg",
+  "sha256": "37871f4e699153b1e4c23c91eec806682bd5f2a09c5671acc9ca8ba220b1a9bc",
+  "mime_type": "image/jpeg",
+  "file_size": 56781,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "•il Viettel -\n17:30\n< Kiểm tra Điểm tín dụng CIC\n@ 10% U\nHạng 5 O\nNgày chấm: 22/03/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 18% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 22/03/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n0 VNĐ\n0 VNĐ\n0 VNĐ\nCập nhật Điểm tháng mới\nĐ Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 5,
+    "scoring_date": "22/03/2026",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "•il Viettel -\n17:30\n< Kiểm tra Điểm tín dụng CIC\n@ 10% U\nHạng 5 O\nNgày chấm: 22/03/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 18% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin\nTheo dữ liệu tính đến ngày chấm 22/03/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n0 VNĐ\n0 VNĐ\n0 VNĐ\nCập nhật Điểm tháng mới\nĐ Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

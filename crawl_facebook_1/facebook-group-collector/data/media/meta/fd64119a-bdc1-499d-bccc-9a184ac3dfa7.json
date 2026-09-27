@@ -1,0 +1,26 @@
+{
+  "id": "fd64119a-bdc1-499d-bccc-9a184ac3dfa7",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/719675128_2517856888675170_2979513665506184724_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGec4mtlkk_Zj2c3Q0-4ZsYB23hQ9D9_bUHbeFD0P39tXScABQJntXb3DRrd_ZwEYLhhT1il3NoA0OzjAgtMVpF&_nc_ohc=gq2ng8ZWn2IQ7kNvwGQVNWi&_nc_oc=AdpdgeWpq1HrKexUY8DmuFCvgmjhOdPj5FfQoNv4cyc90gGM76qmN7ySH--JzDClhmI2Wy5y5H_m71h8EuwHLGp9&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=jOavg3RCjrSQK-dH8vBUwA&_nc_ss=7b2a8&oh=00_AQLjWW6vXi4eptOZxaegKFpdf01aEoh34D_nQlWcq3m9xQ&oe=6ABD8933",
+  "owner_type": "post",
+  "owner_id": "28669824-43ed-43e5-bfaa-dbd88fee1c17",
+  "photo_fbid": "2517856885341837",
+  "position": 0,
+  "storage_uri": "media/assets/0a/be/0abe45c93a8b4f052d59d0783f67882b29f3894a7044db42b75eea2933432500.jpg",
+  "sha256": "0abe45c93a8b4f052d59d0783f67882b29f3894a7044db42b75eea2933432500",
+  "mime_type": "image/jpeg",
+  "file_size": 144627,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "18:15 1\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n579\nHạng 5 0\nNgày chấm: 31/12/2025\nCao hơn 50% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+10OTR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTông dư nợ\n0 VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 579,
+    "tier": 5,
+    "scoring_date": "31/12/2025",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "18:15 1\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n579\nHạng 5 0\nNgày chấm: 31/12/2025\nCao hơn 50% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+10OTR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTông dư nợ\n0 VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

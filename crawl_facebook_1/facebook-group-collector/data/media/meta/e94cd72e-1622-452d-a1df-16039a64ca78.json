@@ -1,0 +1,24 @@
+{
+  "id": "e94cd72e-1622-452d-a1df-16039a64ca78",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/739012566_122174567960954061_3410930427820071090_n.jpg?stp=dst-jpg_tt6&cstp=mx526x1140&ctp=s526x1140&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHDh6_ZoJ2KjGbKAwTmAgV_VYkjjBcfGtRViSOMFx8a1HS_kosPPcG6oc_lRrefEjOi3YQZL_a8kxS6uouTt145&_nc_ohc=Vu8ynmA66OAQ7kNvwFS9SBd&_nc_oc=AdofaTNZvJaHM1RUoXrjDgr0BstJ1KXfw9T5uq1Coky8XdrLJjw8hVPqxBKeJtoDUstJJGtcxkt0ljkuYZ8sJHKe&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=zusM2dpNxDehQxyDZhw3Jg&_nc_ss=7b2a8&oh=00_AQI7PfLRPZkaPL3LY2o0zua9QHQObGOvBeHX-SF1aHzwCA&oe=6ABDE513",
+  "owner_type": "post",
+  "owner_id": "15035193-3a0c-431f-97c7-ecf81ceac5c4",
+  "photo_fbid": "122174567954954061",
+  "position": 0,
+  "storage_uri": "media/assets/ee/51/ee51ec99fe55d3cba0690ed0a750e3ad7d9bb184de19e4245b7b45f96f3fa60f.jpg",
+  "sha256": "ee51ec99fe55d3cba0690ed0a750e3ad7d9bb184de19e4245b7b45f96f3fa60f",
+  "mime_type": "image/jpeg",
+  "file_size": 60314,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "16:03\nKiểm tra Điểm tín dụng CIC\n5G |80\nCCB\nCreditinso\n590\nHạng 4 O\nNgày chấm: 13/04/2026\nCao hơn 53% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\n4 Hôm nay có gì mới\nBạn có sức khỏe tài chính tốt\nThử sức đầu tư nhiều chiến lược\nkhác nhau với 100 triệu vốn ảo nhé\nThừ ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n590\n800\n600\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 800,
+    "tier": 4,
+    "scoring_date": "13/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "16:03\nKiểm tra Điểm tín dụng CIC\n5G |80\nCCB\nCreditinso\n590\nHạng 4 O\nNgày chấm: 13/04/2026\nCao hơn 53% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\n4 Hôm nay có gì mới\nBạn có sức khỏe tài chính tốt\nThử sức đầu tư nhiều chiến lược\nkhác nhau với 100 triệu vốn ảo nhé\nThừ ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n590\n800\n600\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

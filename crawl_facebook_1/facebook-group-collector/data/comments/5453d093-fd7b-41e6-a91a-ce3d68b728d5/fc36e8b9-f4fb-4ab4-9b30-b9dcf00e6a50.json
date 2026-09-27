@@ -1,0 +1,29 @@
+{
+  "id": "fc36e8b9-f4fb-4ab4-9b30-b9dcf00e6a50",
+  "facebook_comment_id": "1547189566710390",
+  "post_id": "5453d093-fd7b-41e6-a91a-ce3d68b728d5",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "254aae38-67db-4792-bb03-2fd3e1785e1b",
+  "author_display_name": "Huỳnh Anh Thư",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/100034683024271",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=1739193110666423&set=g.580277503401606?comment_id=1547189566710390",
+  "content": null,
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=1844482383384511&set=p.1844482383384511&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "2a2a5592-e4b4-483c-a29d-cf9538f91962"
+  ],
+  "dedupe_key": "c1a08609bb8a8f06afdee1f0498a493d",
+  "first_seen_at": "2026-09-26T01:17:31.761252+00:00",
+  "last_seen_at": "2026-09-26T01:17:31.761255+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T01:17:31.761257+00:00",
+  "updated_at": "2026-09-26T01:17:31.761258+00:00"
+}

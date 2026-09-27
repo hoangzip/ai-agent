@@ -1,0 +1,35 @@
+{
+  "id": "77b5506f-fbb8-44c4-8076-7975beb20968",
+  "facebook_post_id": "1664443285399452",
+  "group_id": "978769317924542",
+  "group_slug": "978769317924542",
+  "author_id": "cb4e6f04-407a-47fc-9b15-cf2801658599",
+  "author_display_name": "Today",
+  "author_profile_url": null,
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/photo/?fbid=1664443285399452&set=g.978769317924542",
+  "title": "",
+  "title_source": "derived",
+  "posted_at": null,
+  "created_at": "2026-09-27T01:41:34.041433+00:00",
+  "updated_at": "2026-09-27T01:41:34.041436+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "0059bf53-a518-4a19-93d7-a9b12e00882e"
+  ],
+  "caption": null,
+  "cic_data": {
+    "is_cic": true,
+    "score": 540,
+    "credit_tier": 7,
+    "scoring_date": "21/09/2026",
+    "customer_name": null,
+    "id_card_number": null,
+    "phone_number": null,
+    "cic_code": null,
+    "has_bad_debt": null,
+    "overdue_amount": null,
+    "provider": "CIC",
+    "raw_text": "11:32\nBáo cáo\n7. Ngân hàng TNHH MTV Số Vikki - Chi nhánh Đà Nẵng - Phòng\nGiao dịch Hòa Khánh\nNgày báo cáo dư nợ thẻ gần nhất: 18/09/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xấu\nTổng cộng\n38\n11\nLưu y:\n- Tổng dư nợ bao gồm cá khoán nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cân chú ý góm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan cưo\nChính phứ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sổ ngày châm thanh toán từ 10 -90\nngày đôi với các khoan nợ không thuộc phạm vi quy định phân loại nợ cua Chinh phú/ Ngân hàng nhà\n- Nợ xấu gồm các khoán nợ được phân loại nhóm 3, 4. 5 theo các quy định phân loại nợ có liên quan của\nChính phú/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đồi từ số ngày chậm thanh toán trên 90 ngày\nđòi với các khoản nợ không thuộc phạm vi quy dịnh phân loại nợ xâu cua Chinh phu Ngân hàng nhà\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\nCông ty Tải chinh Tổng hợp"
+  }
+}

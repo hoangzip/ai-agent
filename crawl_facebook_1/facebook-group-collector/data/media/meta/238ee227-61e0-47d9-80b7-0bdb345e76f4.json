@@ -1,0 +1,22 @@
+{
+  "id": "238ee227-61e0-47d9-80b7-0bdb345e76f4",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/758499931_996151693417629_9210193029065063657_n.jpg?stp=dst-jpg_tt6&cstp=mx793x249&ctp=s793x249&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHyMHaMAJ3j_7dMQNekNJbCfP2xxNOza_h8_bHE07Nr-H87xmjyi4GpKd6lU3N278FziA76bhk1-9GKd2plEKTX&_nc_ohc=F1e8mnfGB1kQ7kNvwGJ_R1P&_nc_oc=AdrUTGsDFegpsESrDr5o0d_9yDuzverXLKT2lm7-1o6T8unXArxISIjCIFUKUEjEqgH_cA8HgShIsCpOtw_ym9y_&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=u4s2x9GWVxCriNhQSWVgQQ&_nc_ss=7b2a8&oh=00_AQIxLA_hBoYdieOkR8Y3icYBwiRrYniCpywmLvs84UkRRg&oe=6ABD2019",
+  "owner_type": "post",
+  "owner_id": "037d5af7-3c3b-4f21-9fea-e97b4553eac9",
+  "photo_fbid": "996151686750963",
+  "position": 0,
+  "storage_uri": "media/assets/50/f0/50f06a613ede35445a584c8285a3afc5128773972cbf29c02cc3d30cd0ac344e.jpg",
+  "sha256": "50f06a613ede35445a584c8285a3afc5128773972cbf29c02cc3d30cd0ac344e",
+  "mime_type": "image/jpeg",
+  "file_size": 19647,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "5. Ngân hàng TMCP Tiên Phong\nNgày bảo cáo dư nợ thẻ gần nhất: 13/07/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xấu\nTổng cộng\nLuu y:\n12\n0\n29",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "13/07/2026",
+    "provider": "TPBank",
+    "raw_text": "5. Ngân hàng TMCP Tiên Phong\nNgày bảo cáo dư nợ thẻ gần nhất: 13/07/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xấu\nTổng cộng\nLuu y:\n12\n0\n29"
+  }
+}

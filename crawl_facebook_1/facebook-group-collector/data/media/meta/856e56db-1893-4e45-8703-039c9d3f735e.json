@@ -1,0 +1,24 @@
+{
+  "id": "856e56db-1893-4e45-8703-039c9d3f735e",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/719532770_1615111770049450_1251500206434039772_n.jpg?stp=dst-jpg_tt6&cstp=mx444x960&ctp=s444x960&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHLzz7sHJov4VU02bqeUJ1zmy2q1Ee56sGbLarUR7nqwVg5QRy8u5KTG4Tob10L18-_n9-ZJ5-HOB_x7SgPZhLj&_nc_ohc=oeg-v7qkArcQ7kNvwGr0TQI&_nc_oc=AdocQEVHa4qhQoFm2BFIuCjBfUZBIcWdlL-8wnMrM799beflqztb9R8-h6JkuWzvsL9WJIaNt0dnW0uSSA7Z_ngF&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=cREltcIR06a2QrTrbUutuw&_nc_ss=7b2a8&oh=00_AQLkT6-qT-oXfxJX79WZZhRNQNhX8NMgyx0xXeY2yPz5kg&oe=6ABD701D",
+  "owner_type": "post",
+  "owner_id": "9935a53a-f13d-4062-b57a-ec4336d49f66",
+  "photo_fbid": "1615111766716117",
+  "position": 0,
+  "storage_uri": "media/assets/f9/c7/f9c7c8b053477be7944838d4734b9482792b8e878b6aac575acece3709cdfb7c.jpg",
+  "sha256": "f9c7c8b053477be7944838d4734b9482792b8e878b6aac575acece3709cdfb7c",
+  "mime_type": "image/jpeg",
+  "file_size": 35750,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "14:48 1\nmall 4G\n73\nKiểm tra Điểm tín dụng CIC\n520\nHạng 7 ©\nNgày châm: 22/03/2026\nCao hơn 12% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n520\n480\n360\n240\n120\n12/2025\n3/2026\nThông tin chi tiết v\nThông tin dư nơ >\n•> ần thông tin",
+  "cic_data": {
+    "is_cic": true,
+    "score": 520,
+    "tier": 7,
+    "scoring_date": "22/03/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "14:48 1\nmall 4G\n73\nKiểm tra Điểm tín dụng CIC\n520\nHạng 7 ©\nNgày châm: 22/03/2026\nCao hơn 12% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n520\n480\n360\n240\n120\n12/2025\n3/2026\nThông tin chi tiết v\nThông tin dư nơ >\n•> ần thông tin"
+  }
+}

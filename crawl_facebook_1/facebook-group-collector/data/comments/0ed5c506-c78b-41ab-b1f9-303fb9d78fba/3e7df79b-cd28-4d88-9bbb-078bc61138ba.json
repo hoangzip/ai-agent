@@ -1,0 +1,29 @@
+{
+  "id": "3e7df79b-cd28-4d88-9bbb-078bc61138ba",
+  "facebook_comment_id": "1486140266148654",
+  "post_id": "0ed5c506-c78b-41ab-b1f9-303fb9d78fba",
+  "parent_comment_id": null,
+  "parent_internal_id": null,
+  "author_id": "93ae8362-24ac-46da-9ad9-76e8ce4a3905",
+  "author_display_name": "Nguyễn Duyên",
+  "author_profile_url": "https://www.facebook.com/groups/580277503401606/user/100071312164877",
+  "author_is_anonymous": false,
+  "comment_url": "https://www.facebook.com/photo/?fbid=1034017722620888&set=g.580277503401606?comment_id=1486140266148654",
+  "content": "Hỗ trợ hồ sơ online",
+  "commented_at": null,
+  "depth": 0,
+  "media_urls": [
+    "https://www.facebook.com/photo.php?fbid=1024447313275665&set=p.1024447313275665&type=3&__tn__=R*F"
+  ],
+  "media_ids": [
+    "67f5a500-080d-411a-81df-7af08bd51bd4"
+  ],
+  "dedupe_key": "9e719153e1acdc6ded2ded3434e5185a",
+  "first_seen_at": "2026-09-26T10:10:02.462909+00:00",
+  "last_seen_at": "2026-09-26T10:10:02.462913+00:00",
+  "known_reply_count": null,
+  "last_reply_at": null,
+  "raw_payload": null,
+  "created_at": "2026-09-26T10:10:02.462914+00:00",
+  "updated_at": "2026-09-26T10:10:02.462914+00:00"
+}

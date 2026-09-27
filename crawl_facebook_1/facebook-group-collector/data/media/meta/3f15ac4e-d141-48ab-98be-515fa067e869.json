@@ -1,0 +1,16 @@
+{
+  "id": "3f15ac4e-d141-48ab-98be-515fa067e869",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.99422-6/825329757_2014895469224135_1198360819649817403_n.png?stp=dst-jpg_tt6&cstp=mx1312x1084&ctp=s704x704&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGJFyvbWNpqxoCEC85hojP8xcaqaZKQWdbFxqppkpBZ1u-HkW6BgcH3DzBuTOao5V3V0trJkdokI8gI9AIGlSsV&_nc_ohc=MI8eFBl5QZsQ7kNvwFMxH6X&_nc_oc=AdqLnNL3iixEzNWyYaLh5atbyqVuCmQjY69JoS1Kwh_tYCIV1Rrd0C2EfIkZZoJGK_BcQubAMQw6YvWP7h0p_jqk&_nc_zt=14&_nc_ht=scontent.fhan14-3.fna&_nc_gid=cpZi64g307_x2rX86bO10Q&_nc_ss=7b2a8&oh=00_AQJEecCkrD4c4Ys_TFc-YTYFVSq07b8oIwt0ry3fgmPmlQ&oe=6ABF2DD7",
+  "owner_type": "post",
+  "owner_id": "010deb95-0bc5-46eb-90db-97d121f914ab",
+  "photo_fbid": "122097386271494360",
+  "position": 0,
+  "storage_uri": "media/assets/50/5d/505d39b3cbbf2b5a00993e7ea485abe4825a30b97d848c41f5235b52cbf8c799.jpg",
+  "sha256": "505d39b3cbbf2b5a00993e7ea485abe4825a30b97d848c41f5235b52cbf8c799",
+  "mime_type": "image/jpeg",
+  "file_size": 49281,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "'System Design Interview\nTừ một URL dài đến hệ thổng\nphục vụ hàng triệu request:\nBạn sẽ design TinyURL thế nào?\nhttps://example.com/this-is-a-very-long-url\n@ tinyurl.com/abc123\n8\nUser\nShort URL\n(o.g. tinyurt.com/abc123)\n→\nRedirect\nOriginal URL\n(e.g. https://example.com/...)\nApplication Server\n→\nApplication Server\nUsers\nLoad Balancer\nCache\nDatabase\n(Replication / Sharding)\nApplication Server\nScale khi traffic tăng\nĐảm bảo độ tín cậy\nTối ưu hiệu suất"
+}
