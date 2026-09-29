@@ -1,0 +1,221 @@
+"""
+scripts/export_leads_by_rule.py
+
+Export leads matching:
+1. Has CIC score (score is not None and not empty)
+2. Marked as Post or Comment (lead_source)
+3. User real OR has phone number
+
+Exports:
+- data/exports/cic_leads_filtered.csv (UTF-8 with BOM for Excel)
+- data/exports/cic_leads_filtered.json
+"""
+from __future__ import annotations
+
+import csv
+import json
+import logging
+from pathlib import Path
+import re
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+logger = logging.getLogger("export_leads")
+
+OUTPUT_DIR = Path("data/exports")
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+CSV_FILE = OUTPUT_DIR / "cic_leads_filtered.csv"
+JSON_FILE = OUTPUT_DIR / "cic_leads_filtered.json"
+
+
+def clean_phone(phone: str | None) -> str:
+    if not phone:
+        return ""
+    p = str(phone).strip()
+    if p.lower() in ("none", "null", "undefined", "n/a"):
+        return ""
+    # Remove non-digit except leading +
+    digits = re.sub(r"[^\d+]", "", p)
+    if digits.startswith("+84"):
+        digits = "0" + digits[3:]
+    elif digits.startswith("84") and len(digits) >= 11:
+        digits = "0" + digits[2:]
+    return digits
+
+
+def run_export():
+    data_dir = Path("data/groups")
+    records = []
+    seen_groups = set()
+
+    for gdir in sorted(data_dir.iterdir()):
+        if not gdir.is_dir():
+            continue
+        real_p = gdir.resolve()
+        if real_p in seen_groups:
+            continue
+        seen_groups.add(real_p)
+
+        leads_file = gdir / "cic_customers.json"
+        if not leads_file.exists():
+            continue
+
+        actors_dir = gdir / "actors"
+        actor_map = {}
+        if actors_dir.exists():
+            for af in actors_dir.glob("*.json"):
+                try:
+                    ad = json.loads(af.read_text(encoding="utf-8"))
+                    actor_map[ad["id"]] = ad
+                except Exception:
+                    pass
+
+        try:
+            leads = json.loads(leads_file.read_text(encoding="utf-8"))
+        except Exception as e:
+            logger.warning("Error reading %s: %s", leads_file, e)
+            continue
+
+        for l in leads:
+            score = l.get("score")
+            # Rule 1: Must have CIC score
+            if score is None or str(score).strip() == "":
+                continue
+
+            raw_phone = l.get("phone_number")
+            phone = clean_phone(raw_phone)
+            has_phone = bool(phone)
+
+            is_anon = bool(l.get("author_is_anonymous"))
+
+            # Rule 3: Must be user real OR has phone
+            if is_anon and not has_phone:
+                continue
+
+            aid = l.get("author_id")
+            actor = actor_map.get(aid, {})
+
+            uid = l.get("facebook_user_id") or actor.get("facebook_user_id") or ""
+            purl = l.get("author_profile_url") or actor.get("profile_url") or ""
+            name = l.get("author_display_name") or actor.get("display_name") or ""
+
+            # Check if pseudo-actor without UID or URL (FB anon pseudonym)
+            if not is_anon and not uid and not purl and not has_phone:
+                # Pseudonym like 'Oggy4559' with no contact info at all
+                continue
+
+            # Determine classification
+            if is_anon:
+                kh_type = "Ẩn danh (Có SĐT)"
+            elif uid:
+                kh_type = "User thật (Có UID)"
+            elif purl:
+                kh_type = "User thật (Có Link Profile)"
+            else:
+                kh_type = "User thật"
+
+            # Rule 2: Post or Comment
+            raw_source = (l.get("lead_source") or "post").lower()
+            source_label = "Comment" if "comment" in raw_source else "Post"
+
+            bad_debt_raw = l.get("has_bad_debt")
+            if bad_debt_raw is True:
+                bad_debt_str = "Có nợ xấu"
+            elif bad_debt_raw is False:
+                bad_debt_str = "Không nợ xấu"
+            else:
+                bad_debt_str = "Chưa rõ"
+
+            rec = {
+                "group_slug": gdir.name,
+                "lead_source": source_label,
+                "customer_type": kh_type,
+                "facebook_user_id": uid,
+                "phone_number": phone,
+                "author_display_name": name,
+                "score": score,
+                "tier": l.get("tier") or "",
+                "has_bad_debt": bad_debt_str,
+                "total_debt": l.get("total_debt") or "",
+                "scoring_date": l.get("scoring_date") or "",
+                "provider": l.get("provider") or "",
+                "customer_name": l.get("customer_name") or "",
+                "id_card_number": l.get("id_card_number") or "",
+                "profile_url": purl,
+                "post_url": l.get("post_url") or "",
+                "image_path": l.get("image_path") or "",
+            }
+            records.append(rec)
+
+    # Sort records: has phone first, then has UID, then score desc
+    records.sort(key=lambda r: (
+        0 if r["phone_number"] else 1,
+        0 if r["facebook_user_id"] else 1,
+        -(r["score"] if isinstance(r["score"], (int, float)) else 0)
+    ))
+
+    logger.info("Total qualified leads exported: %d", len(records))
+
+    # Save to JSON
+    with open(JSON_FILE, "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False, indent=2)
+    logger.info("Saved JSON to %s", JSON_FILE)
+
+    # Save to CSV (utf-8-sig for perfect Excel compatibility)
+    fieldnames = [
+        "STT",
+        "Nguồn (Post/Comment)",
+        "Loại Khách Hàng",
+        "Facebook UID",
+        "Số Điện Thoại",
+        "Tên Facebook",
+        "Điểm CIC",
+        "Hạng CIC",
+        "Tình Trạng Nợ Xấu",
+        "Tổng Dư Nợ",
+        "Ngày Chấm Điểm",
+        "Nguồn/Ngân Hàng",
+        "Họ Tên Trên CIC",
+        "Số CCCD/CMND",
+        "Link Profile Facebook",
+        "Link Bài Viết/Ảnh",
+        "Group ID",
+        "File Ảnh Báo Cáo",
+    ]
+
+    with open(CSV_FILE, "w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(fieldnames)
+
+        for idx, r in enumerate(records, 1):
+            # Prepend tab or single quote to numeric UID and phone so Excel treats as string
+            uid_str = f"'{r['facebook_user_id']}" if r["facebook_user_id"] else ""
+            phone_str = f"'{r['phone_number']}" if r["phone_number"] else ""
+
+            writer.writerow([
+                idx,
+                r["lead_source"],
+                r["customer_type"],
+                uid_str,
+                phone_str,
+                r["author_display_name"],
+                r["score"],
+                r["tier"],
+                r["has_bad_debt"],
+                r["total_debt"],
+                r["scoring_date"],
+                r["provider"],
+                r["customer_name"],
+                r["id_card_number"],
+                r["profile_url"],
+                r["post_url"],
+                r["group_slug"],
+                r["image_path"],
+            ])
+
+    logger.info("Saved CSV to %s", CSV_FILE)
+    return records
+
+
+if __name__ == "__main__":
+    run_export()
