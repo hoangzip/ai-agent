@@ -1,0 +1,23 @@
+{
+  "id": "7f66d899-dca8-49c4-9821-e253794737e8",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-2.xx.fbcdn.net/v/t39.30808-6/763779016_2952525958442227_4545856268692154045_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1290x1046&ctp=s1290x1046&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEMMlSI1vmjhACOeA4v1BOuLjw6RgjuimsuPDpGCO6Ka4mEXsEuRpzFs6MSH_1JN5kXoRFuLqD52w3apNR69lmx&_nc_ohc=_oV5g3TjHTcQ7kNvwH03nVh&_nc_oc=AdooFeh2v9BVQi3y8guXPHv1piWFHU-S3ceXli4I04Zxok6DUjVqoJt5erKfwZjLxjM&_nc_zt=23&_nc_ht=scontent-hkg4-2.xx&_nc_gid=7PSgtcqXTUnAK304OhaKHg&_nc_ss=7b2a8&oh=00_AQN6dV_npCoplUljYN9DlgRhZaJXKmUTqXyBlyaWZs56Ig&oe=6AC167D9",
+  "owner_type": "post",
+  "owner_id": "2a54a397-3d33-4fec-a46e-e67e2d5087f4",
+  "photo_fbid": "2952525955108894",
+  "position": 0,
+  "storage_uri": "media/assets/22/9b/229ba20ba7d19fedea0b08efa1a9963fbdbded01f0461c2df9c0fb3c52c2325e.jpg",
+  "sha256": "229ba20ba7d19fedea0b08efa1a9963fbdbded01f0461c2df9c0fb3c52c2325e",
+  "mime_type": "image/jpeg",
+  "file_size": 80259,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "CCB\nCreditinFo\n561\nHạng 6 0\nNgày chấm: 23/06/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 27% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 6,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "CCB\nCreditinFo\n561\nHạng 6 0\nNgày chấm: 23/06/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 27% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo"
+  }
+}

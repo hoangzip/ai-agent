@@ -1,0 +1,24 @@
+{
+  "id": "5c7fc178-6713-406f-a50a-9e86f59a2004",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/739253174_1441444557702738_9172010735074005073_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1006x2048&ctp=s1006x2048&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGS6Az5bmwDZz0Sr270ZxKumTkwWsNetraZOTBaw162tl0Ou2-U4HHxmJ_3hsQc5cPX818yJW3LKgyN9v5MVXOj&_nc_ohc=a-0TbMSwmiwQ7kNvwGUsLtE&_nc_oc=AdqUxc2KgU2tr1YUK7Pi3X8Mgy0wdu8vVFVDaPlaz9GjjjgES3d1ZIvt3PiUANce8Q4&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=SauQRIGXDxB1BfHB3fzMPA&_nc_ss=7b2a8&oh=00_AQOT8766YTc7iriRteEIdiX5_sL59YVqGO9UzGlMgagwaQ&oe=6AC0F7F2",
+  "owner_type": "post",
+  "owner_id": "5689b580-83cd-4a4c-b3fe-df041d3bd599",
+  "photo_fbid": "1441444554369405",
+  "position": 0,
+  "storage_uri": "media/assets/34/55/34550af71b3d8ed0a70cc5af6e871fd5a8347632eec79c920ea7564956eeb842.jpg",
+  "sha256": "34550af71b3d8ed0a70cc5af6e871fd5a8347632eec79c920ea7564956eeb842",
+  "mime_type": "image/jpeg",
+  "file_size": 126234,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n461\nHạng 8 O\nNgày chấm: 29/05/2026\nCao hơn 9% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nMoMo & CIC cần bạn góp ý\nGiúp MoMo cải thiện trải nghiệm\nĐiểm CIC phù hợp hơn với bạn\nGóp ý ngay →\nNHẬN NGAY 10K\nKHI HOÀN THÀNH\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n461\n800\n600\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 461,
+    "tier": 8,
+    "scoring_date": "29/05/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n461\nHạng 8 O\nNgày chấm: 29/05/2026\nCao hơn 9% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nMoMo & CIC cần bạn góp ý\nGiúp MoMo cải thiện trải nghiệm\nĐiểm CIC phù hợp hơn với bạn\nGóp ý ngay →\nNHẬN NGAY 10K\nKHI HOÀN THÀNH\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n461\n800\n600\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "status": "PAUSED_FOR_USER_TRANSIT",
+  "timestamp": "2026-09-29T08:14:40+07:00",
+  "next_action": "Resume crawling 3 groups (1741651903956682, 949425691234407, 4101971396761257) with authenticated session",
+  "groups_summary": {
+    "1793269141356323": {
+      "posts_saved": 1702,
+      "cic_leads": 413,
+      "gallery_state_count": 1706
+    },
+    "3508387292634958": {
+      "posts_saved": 2034,
+      "cic_leads": 610,
+      "gallery_state_count": 2058
+    },
+    "1741651903956682": {
+      "posts_saved": 73,
+      "cic_leads": 42,
+      "gallery_state_count": 73
+    },
+    "949425691234407": {
+      "posts_saved": 73,
+      "cic_leads": 26,
+      "gallery_state_count": 73
+    },
+    "4101971396761257": {
+      "posts_saved": 73,
+      "cic_leads": 26,
+      "gallery_state_count": 73
+    }
+  }
+}

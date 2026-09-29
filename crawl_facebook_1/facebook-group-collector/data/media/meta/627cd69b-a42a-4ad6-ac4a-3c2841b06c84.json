@@ -1,0 +1,24 @@
+{
+  "id": "627cd69b-a42a-4ad6-ac4a-3c2841b06c84",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/736045341_2070579070526219_732799133720426473_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF-i0O23i5JGIr33AwLBHwjzSbil9_28CvNJuKX3_bwK3TTk2Cs3Am-I6WBxeRhFNL2aAjgU8YTpJ5_X-a8NZPv&_nc_ohc=YbLvRhyrr7AQ7kNvwHxIWUL&_nc_oc=AdqXqg7Wt7TNe_cAZsDP2oPnDOADtG3vHQCna4xL3RIs-sOpTpN1VjQNuby9AKeTAvZ0kQzUhhnpYfx-9PoH-XPs&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=t8aFoObO2J-zITUnT88aUQ&_nc_ss=7b2a8&oh=00_AQNnJ_6pSYOUtwLW7Yswp9RVt4VVEUQuDMJV_yfFlPBL8w&oe=6ABF5FB2",
+  "owner_type": "post",
+  "owner_id": "6eefcf13-82fa-466c-945d-257ee57a4ad0",
+  "photo_fbid": "2070579067192886",
+  "position": 0,
+  "storage_uri": "media/assets/34/26/342603d57e881271cea7376317f2e3130e33d7d90de32e960043da410025f97e.jpg",
+  "sha256": "342603d57e881271cea7376317f2e3130e33d7d90de32e960043da410025f97e",
+  "mime_type": "image/jpeg",
+  "file_size": 111136,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "00:01\n(26\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n585\nHạng 5 O\nNgày chấm: 31/12/2025\nCao hơn 53% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐặc quyền đầu tư cho riêng bạn\nBạn được cấp 100 triệu vốn ảo để thử\nsc đu tư chứng khoán mô phảng\nNhận vốn ngay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n585\n800\n600\n400\n200\n12/2025",
+  "cic_data": {
+    "is_cic": true,
+    "score": 585,
+    "tier": 5,
+    "scoring_date": "31/12/2025",
+    "provider": "MoMo / CIC",
+    "raw_text": "00:01\n(26\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n585\nHạng 5 O\nNgày chấm: 31/12/2025\nCao hơn 53% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐặc quyền đầu tư cho riêng bạn\nBạn được cấp 100 triệu vốn ảo để thử\nsc đu tư chứng khoán mô phảng\nNhận vốn ngay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n585\n800\n600\n400\n200\n12/2025"
+  }
+}

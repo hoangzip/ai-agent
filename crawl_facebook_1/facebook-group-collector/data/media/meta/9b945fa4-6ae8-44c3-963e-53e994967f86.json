@@ -1,0 +1,22 @@
+{
+  "id": "9b945fa4-6ae8-44c3-963e-53e994967f86",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-3.fna.fbcdn.net/v/t39.30808-6/788849303_4650985385179911_7360639184368062255_n.jpg?stp=dst-jpg_tt6&cstp=mx1061x2048&ctp=s1061x2048&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=qyf4lZNoJ44Q7kNvwGjo6uj&_nc_oc=AdouuOUsxV7gVOo-rlylQQ17HZ8z1bnRWIVoic5kcbvEbERK9Gkzk-lB7DR9Kv6hTpc&_nc_zt=23&_nc_ht=scontent.fsgn5-3.fna&_nc_gid=zJKdfHXf2wk_D7q7Eh9RAg&_nc_ss=7b289&oh=00_AQMTOkRazzPtogzlkkuDH8VNAh-cIAWFoNSsBqxPrV2XRA&oe=6AC0B8DD",
+  "owner_type": "post",
+  "owner_id": "0c27e24e-1bb5-42f5-a091-f8907da6ca18",
+  "photo_fbid": "4650985381846578",
+  "position": 0,
+  "storage_uri": "media/assets/40/23/40231f6aed8cd86cf9cd344890bebfb78ea97ae8881adcd0c43bf9afdba9c5bc.jpg",
+  "sha256": "40231f6aed8cd86cf9cd344890bebfb78ea97ae8881adcd0c43bf9afdba9c5bc",
+  "mime_type": "image/jpeg",
+  "file_size": 68784,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "4:23 4\nMil 5G\nQuản lý khoản vay\nĐang vay\nX\nLịch sử\nĐã phê duyệt\n40.000.000đ - 24 tháng\n15:50 - 30/07/2026\nQuản lý khoản vay\nThống báo\nTài khoản",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "40.000.000đ",
+    "provider": "CIC",
+    "raw_text": "4:23 4\nMil 5G\nQuản lý khoản vay\nĐang vay\nX\nLịch sử\nĐã phê duyệt\n40.000.000đ - 24 tháng\n15:50 - 30/07/2026\nQuản lý khoản vay\nThống báo\nTài khoản"
+  }
+}

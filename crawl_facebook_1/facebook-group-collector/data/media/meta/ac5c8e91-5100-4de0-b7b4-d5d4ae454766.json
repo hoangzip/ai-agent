@@ -1,0 +1,26 @@
+{
+  "id": "ac5c8e91-5100-4de0-b7b4-d5d4ae454766",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/787222353_1585556099615060_4647769062881298795_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=VEne8ILTDYkQ7kNvwFR5ueG&_nc_oc=AdrLbSMbTI-AS_jYf823494S1cgpe0DiDeCnrCV9yEgHmICrUPqp9h-MEFtozmOGykc&_nc_zt=23&_nc_ht=scontent.fsgn5-12.fna&_nc_gid=2IbGD0nljusGL93NCagREg&_nc_ss=7b289&oh=00_AQOPTB3I0rulKnql_URt8sNlAEFkJ_95bkvSqQS0w9d0aw&oe=6AC02E08",
+  "owner_type": "post",
+  "owner_id": "745f0956-bf70-412b-b6dc-2b13bb4b0dd0",
+  "photo_fbid": "1585556096281727",
+  "position": 0,
+  "storage_uri": "media/assets/18/82/18829d2ddaafb73fea52897a4c4600cdb13bb9531f922e47cb9ac60a8dd23293.jpg",
+  "sha256": "18829d2ddaafb73fea52897a4c4600cdb13bb9531f922e47cb9ac60a8dd23293",
+  "mime_type": "image/jpeg",
+  "file_size": 144185,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "16:19 g\n:! LTE 66\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n455\nHạng 8 O\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 3% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nXây nền tài chính từ hôm nay\nDuy trì từ 100K trong Túi Thần Tài để gia\ntăng cơ hội tài chính nhé\nNạp ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 28/02/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n6 Triệu VNĐ\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 455,
+    "tier": 8,
+    "scoring_date": "22/03/2026",
+    "total_debt": "6 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "16:19 g\n:! LTE 66\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n455\nHạng 8 O\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 3% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nXây nền tài chính từ hôm nay\nDuy trì từ 100K trong Túi Thần Tài để gia\ntăng cơ hội tài chính nhé\nNạp ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 28/02/2026, bạn\ncó khoản nợ xấu. Duy trì thói quen thanh toán\nđúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n6 Triệu VNĐ\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

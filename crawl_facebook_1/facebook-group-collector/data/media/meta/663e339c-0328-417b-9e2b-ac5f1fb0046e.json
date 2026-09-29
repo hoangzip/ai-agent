@@ -1,0 +1,22 @@
+{
+  "id": "663e339c-0328-417b-9e2b-ac5f1fb0046e",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/825157779_1074863508795481_4182267025611236578_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x771&ctp=s1080x771&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGmYt1LxOw4dAuswTarWUh0t0M9KktgJWi3Qz0qS2AlaOJeYxwDs_8dkS9RrdAcIL9L-P8oJ0JzKoHVbLwFEuwY&_nc_ohc=or0g8wgV0hYQ7kNvwG-ac9U&_nc_oc=AdruTCaE-XHJpVoSLE9QQoonPAHk9rhNOxjki25f0L9S-0gBtXuWEB4zKNrEuwexwtGH7ef4NIUbY7413fX8o7sV&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=xvlNUY-HjJDGcFoL_Wtx9w&_nc_ss=7b2a8&oh=00_AQNLLBipxXPuQrh6U7x_CmWppGsOGDPdd9Ema4Ldv3dgeA&oe=6ABF9C4C",
+  "owner_type": "post",
+  "owner_id": "be56b499-e742-4ebe-b9fe-656a0450d995",
+  "photo_fbid": "1074863505462148",
+  "position": 0,
+  "storage_uri": "media/assets/3a/1d/3a1d09df01174240ddb0eeb931b57a22c58d0542de372eecfd37e59116d640cc.jpg",
+  "sha256": "3a1d09df01174240ddb0eeb931b57a22c58d0542de372eecfd37e59116d640cc",
+  "mime_type": "image/jpeg",
+  "file_size": 85789,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Thông báo trích nợ không thành\nThẻ tín dụng JCB Link với 4 số cuối t\nkhông thành công do tài khoản không\nvì lý do khác.\n' tối thiểu 1.786.069VND\n01 của Quý khách CHAU\nlịch sử tín dụng tốt.\nxuý khách đã thanh toán.\nĐến trang thông tin OA\nnợ\nbặc",
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Thông báo trích nợ không thành\nThẻ tín dụng JCB Link với 4 số cuối t\nkhông thành công do tài khoản không\nvì lý do khác.\n' tối thiểu 1.786.069VND\n01 của Quý khách CHAU\nlịch sử tín dụng tốt.\nxuý khách đã thanh toán.\nĐến trang thông tin OA\nnợ\nbặc"
+  }
+}

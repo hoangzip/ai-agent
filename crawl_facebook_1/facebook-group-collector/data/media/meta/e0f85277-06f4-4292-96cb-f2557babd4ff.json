@@ -1,0 +1,24 @@
+{
+  "id": "e0f85277-06f4-4292-96cb-f2557babd4ff",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-21.fna.fbcdn.net/v/t39.30808-6/688306763_122129219313013934_5735707516419594974_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2340&ctp=s1080x2340&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=q-zOrNn89QQQ7kNvwGSeuVl&_nc_oc=AdpzEJtsRPttpdz5cplqLQBdKKj5MU3wq58MvPBypbp21Yvn9Th_duWdDhe_Xjm_GKg&_nc_zt=23&_nc_ht=scontent.fsgn5-21.fna&_nc_gid=5CRZ1x2MM77Nv69PIwFKyA&_nc_ss=7b289&oh=00_AQM2MPBaiXRqwmBFOIO2_nnfSDf6W89iFYpVHDGON0B8RA&oe=6AC0B8C6",
+  "owner_type": "post",
+  "owner_id": "af8f8bbf-528b-49a2-81ef-9fb9b106b641",
+  "photo_fbid": "122129219307013934",
+  "position": 0,
+  "storage_uri": "media/assets/04/2f/042f984a46b85ca9fc13c22dc8ced7014436c9493565db7d3c2bc048fd186da4.jpg",
+  "sha256": "042f984a46b85ca9fc13c22dc8ced7014436c9493565db7d3c2bc048fd186da4",
+  "mime_type": "image/jpeg",
+  "file_size": 170264,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "08:27 palo\n01740\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n570\nHạng 6 0\nNgày chấm: 22/03/2026\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ →\nXem Trung Tâm Tài Chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nMẹo giúp tài chính ổn định:\nGửi tiết kiệm trên MoMo\nLãi suất 7%\nThứ tích lũy ngay Đ\n%\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện\nđồng bộ dữ liệu tín dụng từ CIC sang MoMo.\nĐông bộ dữ liệu CIC\n<",
+  "cic_data": {
+    "is_cic": true,
+    "score": 570,
+    "tier": 6,
+    "scoring_date": "22/03/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "08:27 palo\n01740\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n570\nHạng 6 0\nNgày chấm: 22/03/2026\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ →\nXem Trung Tâm Tài Chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nMẹo giúp tài chính ổn định:\nGửi tiết kiệm trên MoMo\nLãi suất 7%\nThứ tích lũy ngay Đ\n%\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện\nđồng bộ dữ liệu tín dụng từ CIC sang MoMo.\nĐông bộ dữ liệu CIC\n<"
+  }
+}

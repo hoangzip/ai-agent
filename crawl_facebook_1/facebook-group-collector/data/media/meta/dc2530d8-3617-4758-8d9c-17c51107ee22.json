@@ -1,0 +1,22 @@
+{
+  "id": "dc2530d8-3617-4758-8d9c-17c51107ee22",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/793144832_122303424008180001_8170984950469543775_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHwAqx-xnalkqxESaDiNpT1nWeUe4DBwtWdZ5R7gMHC1bWehVVQgvxadVB3px-3CERBnKmlwFv69cN4zJonmVWB&_nc_ohc=1VX2OUzPEdoQ7kNvwE18X4L&_nc_oc=AdpD6ug7bXoTbYi10Xuu3cyzwmhM8cmkuUuDMtHqA4rjyApqnC7PWnQURlyPdGDXISJzJ1q5xSHINwLgAU3KBc_n&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=8mx1TUnl8pDJAKMf2f9LXg&_nc_ss=7b2a8&oh=00_AQKa9cL5MijcCOjYkhqSUTgOa8DZK21L0qtuhObwqAe5ow&oe=6ABF27F8",
+  "owner_type": "post",
+  "owner_id": "a336fa54-3281-4f59-be74-fecf0a67b839",
+  "photo_fbid": "122303424002180001",
+  "position": 0,
+  "storage_uri": "media/assets/51/25/51256186801660c88d8bb46f80acd36a3647362cd3c786881636643bf03b23b8.jpg",
+  "sha256": "51256186801660c88d8bb46f80acd36a3647362cd3c786881636643bf03b23b8",
+  "mime_type": "image/jpeg",
+  "file_size": 30797,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "<\n15:58\na1 5\n644\nGhi chép khoản vay\nNo.27006211454032\n02/09/2026\n1.000.000đ\nĐang xem xét",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "1.000.000đ",
+    "provider": "CIC",
+    "raw_text": "<\n15:58\na1 5\n644\nGhi chép khoản vay\nNo.27006211454032\n02/09/2026\n1.000.000đ\nĐang xem xét"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "eb6caaf6-f3eb-40eb-8962-16e3372a3b2e",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/808883911_1552751602744771_283791991726264962_n.jpg?stp=dst-jpg_tt6&cstp=mx899x2048&ctp=s899x2048&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHrcsFNTBxzvSVeFY6M0ZkeNC1CezaVIKE0LUJ7NpUgoVrArCRjBNWD_3nYw2-vwgdH3wVmrpPDUEbCJjqOKGiX&_nc_ohc=BxFIa3xuS4QQ7kNvwHtlg4Q&_nc_oc=AdprzLa2e-HuOa7kjw3vTDqhO_nkp9hDhhURvrtfXXU2244NQYYryWl-Ua0wI1LSEk7MR6Bm16HV-8SJf_V1Dy2p&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=TWjLYdzeDcb8UOntlhQ-EQ&_nc_ss=7b2a8&oh=00_AQPY1gyxLzbs_Q15GDDgRVjmFi1Oy2E5UlrGRkCMPLnv6A&oe=6ABFB5F1",
+  "owner_type": "post",
+  "owner_id": "4a387649-de76-4043-8575-0a6add769e09",
+  "photo_fbid": "1552751596078105",
+  "position": 0,
+  "storage_uri": "media/assets/68/67/6867cb1ef1f710b674161f6fb1ca4e5a3b3741125bdbb8c5ab3f2ef04bd5c153.jpg",
+  "sha256": "6867cb1ef1f710b674161f6fb1ca4e5a3b3741125bdbb8c5ab3f2ef04bd5c153",
+  "mime_type": "image/jpeg",
+  "file_size": 64906,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "6:41\n0,00\nKB/S\n55\nChi tiết khoản vay\nThanh toán kỳ này\n4.459.000đ\nNgày thanh toán kỳ này\n11/10/2026\nMã hợp đồng\nVM\nThông báo\nXin vui lòng kiếm tra lại tên người nhận/ số tài\nkhoản/ số thẻ/ nickname và tên ngân hàng\nĐóng\nXác nhận\n=",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "4.459.000đ",
+    "provider": "CIC",
+    "raw_text": "6:41\n0,00\nKB/S\n55\nChi tiết khoản vay\nThanh toán kỳ này\n4.459.000đ\nNgày thanh toán kỳ này\n11/10/2026\nMã hợp đồng\nVM\nThông báo\nXin vui lòng kiếm tra lại tên người nhận/ số tài\nkhoản/ số thẻ/ nickname và tên ngân hàng\nĐóng\nXác nhận\n="
+  }
+}

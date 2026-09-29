@@ -1,0 +1,22 @@
+{
+  "id": "285d4a5e-6a80-41ec-b5bb-309172e3d276",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/743132245_2110449813189108_8978243322034102402_n.jpg?stp=dst-jpg_tt6&cstp=mx592x960&ctp=s592x960&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHuMEE-nK9Lk5H-zd8Gl3fcq4PX_4a5Swqrg9f_hrlLCtGmAbcdC9LF3umIs1x7dBaQDE3S4EkDwd31Te9r73if&_nc_ohc=5pr9bf5jWJ8Q7kNvwGu103h&_nc_oc=Adp9qAcndgOhHkGcHgzcfqmNYNSf4YvN9zHCGrE1IsiiX8HmsFz1Tp60l_NNDdMly-M&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=vlfSo51u3P6p7fbjx9Q-jg&_nc_ss=7b2a8&oh=00_AQOJ1u0lilqm_o3qNWX6svBFsgcKLfFPLaDEkZFeZeBgtA&oe=6AC0E7B9",
+  "owner_type": "post",
+  "owner_id": "85f00e50-2dc9-4743-9341-8ec7fb249467",
+  "photo_fbid": "2110449806522442",
+  "position": 0,
+  "storage_uri": "media/assets/22/45/224597c6cf82900aeca826d0910e3ecf183bf2435bebca00d947d226ca848f56.jpg",
+  "sha256": "224597c6cf82900aeca826d0910e3ecf183bf2435bebca00d947d226ca848f56",
+  "mime_type": "image/jpeg",
+  "file_size": 30825,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "VPBank®\nLựa chọn hợp đồng cần xác nhận\nXin lựa chọn loại hợp đồng cần xác nhận:\nHợp đồng Vay tin chấp\nLoại hợp đồng: Vay tin chấp\nHạn mức: 400.000.000 VND\n, Thời hạn:\n60 tháng\nCHỌN",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "400.000.000 VND",
+    "provider": "VPBank",
+    "raw_text": "VPBank®\nLựa chọn hợp đồng cần xác nhận\nXin lựa chọn loại hợp đồng cần xác nhận:\nHợp đồng Vay tin chấp\nLoại hợp đồng: Vay tin chấp\nHạn mức: 400.000.000 VND\n, Thời hạn:\n60 tháng\nCHỌN"
+  }
+}

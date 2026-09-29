@@ -138,7 +138,7 @@ def run_group_crawler(group_slug: str, max_retries: int = 5) -> bool:
     if total_idx > 0 and completed >= total_idx:
         logger.info("Group %s is ALREADY 100%% completed (%d/%d photos). Skipping immediately!",
                     group_slug, completed, total_idx)
-        return True
+        return True, False
 
     venv_python = sys.executable
 
@@ -182,11 +182,11 @@ def run_group_crawler(group_slug: str, max_retries: int = 5) -> bool:
         if total_indexed > 0 and completed_photos >= total_indexed:
             logger.info("SUCCESS: Group %s has crawled 100%% of all %d indexed gallery photos!",
                         group_slug, total_indexed)
-            return True
+            return True, True
         elif return_code == 0:
             logger.info("Process finished cleanly with code 0. Verifying completion...")
             if total_indexed > 0 and completed_photos >= total_indexed:
-                return True
+                return True, True
             else:
                 logger.info("Some photos remain un-crawled (%d/%d). Auto-resuming in 15 seconds...",
                             completed_photos, total_indexed)
@@ -197,7 +197,7 @@ def run_group_crawler(group_slug: str, max_retries: int = 5) -> bool:
             time.sleep(30)
 
     logger.warning("Group %s reached max retries (%d). Proceeding with current data.", group_slug, max_retries)
-    return False
+    return False, True
 
 
 def run_audit_and_cleaning(group_slug: str):
@@ -220,16 +220,17 @@ def main():
         logger.info("Processing Group [%d/%d]: %s (%s)", idx + 1, len(TARGET_GROUPS), g_slug, g["name"])
 
         # Run crawler until 100% complete or max retries
-        success = run_group_crawler(g_slug, max_retries=5)
+        success, did_crawl = run_group_crawler(g_slug, max_retries=5)
 
-        # Run audit and clean data
-        run_audit_and_cleaning(g_slug)
+        # Run audit and clean data only if a crawl actually occurred
+        if did_crawl:
+            run_audit_and_cleaning(g_slug)
 
-        # Inter-group safety cooldown
-        if idx < len(TARGET_GROUPS) - 1:
-            cooldown = 45
-            logger.info("Group %s completed. Cooling down for %ds before starting next group...", g_slug, cooldown)
-            time.sleep(cooldown)
+            # Inter-group safety cooldown
+            if idx < len(TARGET_GROUPS) - 1:
+                cooldown = 45
+                logger.info("Group %s completed. Cooling down for %ds before starting next group...", g_slug, cooldown)
+                time.sleep(cooldown)
 
     elapsed_mins = (time.time() - overall_start) / 60.0
     logger.info("=" * 80)

@@ -1,0 +1,24 @@
+{
+  "id": "1469f0ca-2639-4190-8b21-7f4a72bc97f3",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/714243190_2242336183188072_9036487992451649049_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGvLnGFt-GC1VGE0FDHM4hPNexJgflkQtI17EmB-WRC0mhF-PVSz8Kknjx7hjW6cPWU0tB_fsh0buxRsPdxGiYP&_nc_ohc=5Lqrw7DjZbMQ7kNvwHrXrgb&_nc_oc=Adppu6nvFB0NGHpOQuBWJkM3jN6UJPB3K2snhw_2O1zg6W90x7D8wro93xZ_Pq7qTLasXKFIqcloOtiY8GVqghOA&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=Av1WnerP8Ho4pF--6gHB1w&_nc_ss=7b2a8&oh=00_AQP91p9j-4UCzeZWUkYz5sxyDLeetIGUhTO8NJeE8pXgtA&oe=6ABF973E",
+  "owner_type": "post",
+  "owner_id": "fe0076ed-fa01-4937-af7b-2739b68bc7ba",
+  "photo_fbid": "2242336179854739",
+  "position": 0,
+  "storage_uri": "media/assets/5f/2d/5f2d14891c7b2668ebc4f23a43d64f212983e91a6d5011cde8086278d8f800c9.jpg",
+  "sha256": "5f2d14891c7b2668ebc4f23a43d64f212983e91a6d5011cde8086278d8f800c9",
+  "mime_type": "image/jpeg",
+  "file_size": 107688,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "15:19\nall S\n56\nKiểm tra Điểm tín dụng CIC\n(5\n572\nHạng 5 O\nNgày chấm: 31/12/2025\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n*TOOTR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay &\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n480\n360\n240\n120",
+  "cic_data": {
+    "is_cic": true,
+    "score": 572,
+    "tier": 5,
+    "scoring_date": "31/12/2025",
+    "provider": "MoMo / CIC",
+    "raw_text": "15:19\nall S\n56\nKiểm tra Điểm tín dụng CIC\n(5\n572\nHạng 5 O\nNgày chấm: 31/12/2025\nCao hơn 20% khách hàng cá nhân khác\nChia sẻ A\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n*TOOTR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay &\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n480\n360\n240\n120"
+  }
+}

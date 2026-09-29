@@ -1,0 +1,25 @@
+{
+  "id": "9441ba00-b079-40af-8713-01a97789bb65",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/772510740_1570879561489386_2957766610785539068_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x938&ctp=s1080x938&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEZYdRtV-1RmZ3OIa_OhkPn3w4pusvFPjXfDim6y8U-NUzgxE5w4Thp8aj-Yx50zbdBtKrjixKnV84Gs9SmyYD1&_nc_ohc=jKBNa2zpS0gQ7kNvwFMGdLT&_nc_oc=AdqKWjKqs2iLBby_QZrgoRwQov2ppVdjucvj-s9iHvuHbsD5ID78QE8ZGXo_0-714bA&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=G8kHhwfYUNkusUgQL4_-Qg&_nc_ss=7b2a8&oh=00_AQMGRDP4fMqU_oubTSCykXOrC1OMTD_obSdTlQ9yX2CAXg&oe=6AC170A5",
+  "owner_type": "post",
+  "owner_id": "b410ec6c-3218-4bee-b1e2-78a9a018927c",
+  "photo_fbid": "1570879558156053",
+  "position": 0,
+  "storage_uri": "media/assets/30/46/30462cbf4d3f8e11580647b5ddeb0b1fb876231223344f79a31abce042a64ff3.jpg",
+  "sha256": "30462cbf4d3f8e11580647b5ddeb0b1fb876231223344f79a31abce042a64ff3",
+  "mime_type": "image/jpeg",
+  "file_size": 72581,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nHiện tại khách hàng không còn dư nợ tại các TCTD\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgày phát sinh nợ\nNgay phát sinh nợ\ncần chú ý gần nhất\nxâu gân nhất\n1\nNgân hàng TMCP Tiên Phong - Chi nhánh thành phố\n30/04/2025\nHô Chí Minh\nLưu ý: Thông tin lịch sử nợ cần chủ ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại báng và các khoản\ncấp tin dụng khác. Lịch sử nợ cần chủ ý trong 12 tháng gần nhất: lịch sử nợ xấu trong vòng 05 năm gần\nnhất.\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\n1\nBảo đảm tiền vay bằng tải sản\n| Không có\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiêm tin dụng:\n489\nHạng:\n7\nNgày chẩm điểm:\n23/04/2026\nĐiểm tin dụng của khách hàng cao\nhơn điểm tín dụng của 10% tổng\n- 50% khách hàng cá nhân được chấm điểm\ntại kho dữ liệu CIC.\nXếp hạng của\nkhách hàng\n10\n0%",
+  "cic_data": {
+    "is_cic": true,
+    "score": 489,
+    "tier": 7,
+    "scoring_date": "23/04/2026",
+    "has_bad_debt": true,
+    "provider": "TPBank",
+    "raw_text": "2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nHiện tại khách hàng không còn dư nợ tại các TCTD\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgày phát sinh nợ\nNgay phát sinh nợ\ncần chú ý gần nhất\nxâu gân nhất\n1\nNgân hàng TMCP Tiên Phong - Chi nhánh thành phố\n30/04/2025\nHô Chí Minh\nLưu ý: Thông tin lịch sử nợ cần chủ ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại báng và các khoản\ncấp tin dụng khác. Lịch sử nợ cần chủ ý trong 12 tháng gần nhất: lịch sử nợ xấu trong vòng 05 năm gần\nnhất.\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChỉ tiêu\nGiá trị\n1\nBảo đảm tiền vay bằng tải sản\n| Không có\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiêm tin dụng:\n489\nHạng:\n7\nNgày chẩm điểm:\n23/04/2026\nĐiểm tin dụng của khách hàng cao\nhơn điểm tín dụng của 10% tổng\n- 50% khách hàng cá nhân được chấm điểm\ntại kho dữ liệu CIC.\nXếp hạng của\nkhách hàng\n10\n0%"
+  }
+}

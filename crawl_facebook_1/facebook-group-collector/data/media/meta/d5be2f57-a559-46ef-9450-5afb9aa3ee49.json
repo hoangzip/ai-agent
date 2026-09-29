@@ -1,0 +1,28 @@
+{
+  "id": "d5be2f57-a559-46ef-9450-5afb9aa3ee49",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/808661592_1743806730223092_7905604980744171100_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEEBdAv-I0UGtTpMuWEW7jwi4kqw09lnt6LiSrDT2We3v3hYprmRHQJK4_HKmRzX_pF7SWiP3rI6K3nDqqUdiX8&_nc_ohc=U_rcKAz9Y8IQ7kNvwFeR4jJ&_nc_oc=Ado4xQCAFggRne5u-RJaUFQw8wT14DbMUc4eT1aExP_Opb1PUIA38byyv4vh1kaE6UY&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=HC1TQkuHlUMNNnZAErMhRw&_nc_ss=7b2a8&oh=00_AQNvZPSpXMjCJsQsY8hRD4kXYJXxjnVGEel8E7idhh3fYg&oe=6AC0F330",
+  "owner_type": "post",
+  "owner_id": "c6d9579c-bf7f-48ca-bc73-da4331ba5299",
+  "photo_fbid": "1743806726889759",
+  "position": 0,
+  "storage_uri": "media/assets/cf/c1/cfc1056a1672ef8629d4de4b9a605b0eba4dafaf2bbb72efb574c938846d264f.jpg",
+  "sha256": "cfc1056a1672ef8629d4de4b9a605b0eba4dafaf2bbb72efb574c938846d264f",
+  "mime_type": "image/jpeg",
+  "file_size": 204663,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "22:18\n13\nBáo cáo\nCCB\nCreditinFo\nTRUNG TÂM THÔNG TIN TÍN DỤNG QUỐC GIA VIỆT N.\nĐịa chỉ: Số 45, Lý Thường Kiệt, P. Cửa Nam, Hà Nội\nĐiện thoại: 1800585891\nFax: (024) 33527801\nEmail: htkh@creditinfo.org.vn Web: https://cic.gov.vn\n1\nSố: 2026/K11.1\nTHÔNG TIN TÍN DỤNG KHÁCH HÀNG VAY CÁ NHÂN\n20 6099\nNgày hỏi tin: 19/09/2026 18:37:32\nNgày trà lời: 19/09/2026 18:37:32\nI. THÔNG TIN TÍN DỤNG CỦA KHÁCH HÀNG TẠI KHO DỮ LIỆU CIC\n1. Thông tin định danh\nTên khách hàng:\nTRƯƠNG MINH TUẦN\nNgày tháng năm sinh: 05/09/2002\nMã số CIC:\n6031993969\nĐịa chỉ:\nDÂN PHỐ 31, KHU PHỔ SONG THANH 1, THỊ TRẦN PHAN RÍ CỨA, HUYỆN\nTUY PHONG, TINH BÌNH THUẬN\nĐiện thoại:\n0949719823\nSố CCCD/CMND:\n060202004348\n2. Thông tin quan hệ tín dụng\n.1. Thông tin dư nợ hiện thờ\nTên tổ chức/chí nhánh TCTD\nLoại dư nợ\nNợ vay\nĐơn vị tính: triệu đồng, USD\nNợ thể\nVND\nUSD\nVND\n1. Công ty Tài chính tổng hợp cổ phần Tín Việt\nNgày bảo cáo dư nợ vay gần nhất: 14/09/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n2. Ngân hàng TMCP Việt Nam Thị",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "19/09/2026",
+    "customer_name": "TRƯƠNG MINH TUẦN",
+    "date_of_birth": "05/09/2002",
+    "cic_code": "6031993969",
+    "phone_number": "0949719823",
+    "id_card_number": "060202004348",
+    "has_bad_debt": true,
+    "provider": "CreditInfo / CIC",
+    "raw_text": "22:18\n13\nBáo cáo\nCCB\nCreditinFo\nTRUNG TÂM THÔNG TIN TÍN DỤNG QUỐC GIA VIỆT N.\nĐịa chỉ: Số 45, Lý Thường Kiệt, P. Cửa Nam, Hà Nội\nĐiện thoại: 1800585891\nFax: (024) 33527801\nEmail: htkh@creditinfo.org.vn Web: https://cic.gov.vn\n1\nSố: 2026/K11.1\nTHÔNG TIN TÍN DỤNG KHÁCH HÀNG VAY CÁ NHÂN\n20 6099\nNgày hỏi tin: 19/09/2026 18:37:32\nNgày trà lời: 19/09/2026 18:37:32\nI. THÔNG TIN TÍN DỤNG CỦA KHÁCH HÀNG TẠI KHO DỮ LIỆU CIC\n1. Thông tin định danh\nTên khách hàng:\nTRƯƠNG MINH TUẦN\nNgày tháng năm sinh: 05/09/2002\nMã số CIC:\n6031993969\nĐịa chỉ:\nDÂN PHỐ 31, KHU PHỔ SONG THANH 1, THỊ TRẦN PHAN RÍ CỨA, HUYỆN\nTUY PHONG, TINH BÌNH THUẬN\nĐiện thoại:\n0949719823\nSố CCCD/CMND:\n060202004348\n2. Thông tin quan hệ tín dụng\n.1. Thông tin dư nợ hiện thờ\nTên tổ chức/chí nhánh TCTD\nLoại dư nợ\nNợ vay\nĐơn vị tính: triệu đồng, USD\nNợ thể\nVND\nUSD\nVND\n1. Công ty Tài chính tổng hợp cổ phần Tín Việt\nNgày bảo cáo dư nợ vay gần nhất: 14/09/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n2. Ngân hàng TMCP Việt Nam Thịnh Vượng\nNgày báo cáo dư nợ vay gần nhất: 15/09/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xấu\n3. Ngân hàng TMCP Tiên Phong\nNgày báo cáo dư nợ vay gần nhất: 10/09/2026\nNgày báo cáo dư nợ thẻ gần nhất: 07/09/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n55\n55\n32\n32\n0\n33\n33\n2\nTổng cộng\n120\n2\nLưu ý:\n- Tổng dư nợ bao gồm cả khoản nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ số ngày chậm thanh toán từ 10 -90\nngày đối với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\nnước Việt Nam).\n- Nợ xâu gôm các khoản nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan của\nChinh phu/ Ngân hàng Nhà nước Việt Nam (hoạc được quy đôi từ sô ngày chậm thanh toán trên 90 ngà)\nđối với các khoản nợ không thuộc phạm vi quy định phân loại nợ xấu của Chính phủ/ Ngân hàng nhỏ\nnước Việt Nam)."
+  }
+}

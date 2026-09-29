@@ -1,0 +1,26 @@
+{
+  "id": "b59fd82e-2d68-4a18-9cb0-574da58b4e18",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-22.fna.fbcdn.net/v/t39.30808-6/791388885_2183362962602837_1681338932674107446_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx750x1334&ctp=s750x1334&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=2oirG1WFAlwQ7kNvwFCRaop&_nc_oc=Adrs0hpJKup04IDAROswRdEK6_qCpeOvKfEVxTU6ILcuSjoZUr9Y7w6p08oFUtlbgts&_nc_zt=23&_nc_ht=scontent.fsgn5-22.fna&_nc_gid=vreV07Jg8vXX5njr3sq6BQ&_nc_ss=7b289&oh=00_AQNK_eR0Cs5PkoqqA2B1mUo_sUzndNLbCaKxndvVYLV7Vg&oe=6AC04771",
+  "owner_type": "post",
+  "owner_id": "5c4397e3-b6d7-4483-bf6b-61685c575b76",
+  "photo_fbid": "2183362955936171",
+  "position": 0,
+  "storage_uri": "media/assets/9f/c3/9fc32c96bb544dc7a1f7168d0c9644e44d9656cb42d02f8bdd4c24f9501c3069.jpg",
+  "sha256": "9fc32c96bb544dc7a1f7168d0c9644e44d9656cb42d02f8bdd4c24f9501c3069",
+  "mime_type": "image/jpeg",
+  "file_size": 80550,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Viettel\n17:59\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n555\nHạng 6 O\nNgày chấm: 31/12/2025\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 16% khách hàng cá nhân khác\nChia sẻ #\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nC 80%0\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n19 Triệu VNĐ\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 555,
+    "tier": 6,
+    "scoring_date": "31/12/2025",
+    "total_debt": "19 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "Viettel\n17:59\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n555\nHạng 6 O\nNgày chấm: 31/12/2025\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 16% khách hàng cá nhân khác\nChia sẻ #\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nC 80%0\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n19 Triệu VNĐ\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

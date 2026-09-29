@@ -1,0 +1,22 @@
+{
+  "id": "f2339bf7-dd2b-4736-80da-a9169eae9573",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-7.fna.fbcdn.net/v/t39.30808-6/762763714_4623606531251130_5766177758747156598_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx802x526&ctp=s802x526&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_1MC1McbJRcQ7kNvwHMyDm6&_nc_oc=Adp5SxRuCbk-UEGX8cNEMKY63Ef9ujEMcLnCCibVAsZb1bMsPrA9lhFYsEZmn4CSCpY&_nc_zt=23&_nc_ht=scontent.fsgn5-7.fna&_nc_gid=CFXXtSSOHEPOkPriKmAOhA&_nc_ss=7b289&oh=00_AQM3Z079M7eid4LxIQfoHpELgskvikbUYKY5COcJfSRDSw&oe=6AC0A3B4",
+  "owner_type": "post",
+  "owner_id": "fbc29eb9-c4f8-47e8-9ec2-38ce49bb693a",
+  "photo_fbid": "4623606524584464",
+  "position": 0,
+  "storage_uri": "media/assets/64/eb/64eb21fbd80d45bb42f479c6ff0e66787970db2420b982a1a2f613c92a0172eb.jpg",
+  "sha256": "64eb21fbd80d45bb42f479c6ff0e66787970db2420b982a1a2f613c92a0172eb",
+  "mime_type": "image/jpeg",
+  "file_size": 47372,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "I. THÔNG TIN CHUNG VẼ KHÁCH HÀNG\nTên khách hàng\nMã số CIC\nĐịa chỉ\nSỐ CCCD\nGiấy tờ cá nhân khác\nII. THÔNG TIN TỔNG HỢP DỰ MỢ HIỆN THỜI\nTổng dư nợ\n457\nDư nợ cân chú ý\nKhong\nDư nợ xâu\nKhông\nTrong đó: nợ nhóm 5, nợ tại\nVAMC, nợ xấu khác\nKhông\nsố lượng TCTD/CN TCTD\nđang quan hệ\nSố lượng TCTD/CN TCTD\nđang có nợ cần chú ý\nSố lượng TCTD/CN TCTD\nđang có nợ xấu\nĐơn vị tính: triệu đông\n10\n0\n0",
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "I. THÔNG TIN CHUNG VẼ KHÁCH HÀNG\nTên khách hàng\nMã số CIC\nĐịa chỉ\nSỐ CCCD\nGiấy tờ cá nhân khác\nII. THÔNG TIN TỔNG HỢP DỰ MỢ HIỆN THỜI\nTổng dư nợ\n457\nDư nợ cân chú ý\nKhong\nDư nợ xâu\nKhông\nTrong đó: nợ nhóm 5, nợ tại\nVAMC, nợ xấu khác\nKhông\nsố lượng TCTD/CN TCTD\nđang quan hệ\nSố lượng TCTD/CN TCTD\nđang có nợ cần chú ý\nSố lượng TCTD/CN TCTD\nđang có nợ xấu\nĐơn vị tính: triệu đông\n10\n0\n0"
+  }
+}

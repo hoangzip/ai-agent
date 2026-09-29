@@ -1,0 +1,24 @@
+{
+  "id": "c4af12a5-af95-4fcb-a2f2-dd3a089130e3",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/743270035_1807877690392180_6286085492788481596_n.jpg?stp=dst-jpg_tt6&cstp=mx943x2048&ctp=s943x2048&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGfmm1fgZjATcjWmfKEDfMFbDHWGZLEGoRsMdYZksQahN7kydKDlusCPQpZLRD1nN-QN_dkMYG2oyhNJfjZSw1t&_nc_ohc=aUBXqhJAkPgQ7kNvwGAUGgk&_nc_oc=AdqYus15MXJugqb-pHgNVFE0l5OyjgxewG5Pu_fuxsqIHMEmIXrlqPNZqhOAHZqhWuTI2QjGC6nQbUFsjLoLSZIC&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=teKuxRD96Z30j0OVBt90ng&_nc_ss=7b2a8&oh=00_AQNGhwhtNnA69ofdp6NL3fnihYGNBxjDXcRGzi2S9Eg9BA&oe=6ABF75E7",
+  "owner_type": "post",
+  "owner_id": "dbe6e0d9-cbcd-4798-963f-abf7bf45b534",
+  "photo_fbid": "1807877683725514",
+  "position": 0,
+  "storage_uri": "media/assets/a8/2b/a82bf8e51d5720025d006498e6cfafd9e05f7039140640e2e1ca43cec293be6b.jpg",
+  "sha256": "a82bf8e51d5720025d006498e6cfafd9e05f7039140640e2e1ca43cec293be6b",
+  "mime_type": "image/jpeg",
+  "file_size": 109672,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "22:52 4\n•il 5G\nKiểm tra Điểm tín dụng CIC\nCiC\nCreditinFo\n559\nHạng 6 O\nNgày chấm: 23/04/2026\nCao hơn 16% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC của bạn ổn định\nKiểm tra xem Tháng 7 này,\nbạn có thể vay bao nhiêu trên MoMo\nKiểm tra >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n559\n480\n360\n240\n120\n0\n3/2026\n4/2026",
+  "cic_data": {
+    "is_cic": true,
+    "score": 559,
+    "tier": 6,
+    "scoring_date": "23/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "22:52 4\n•il 5G\nKiểm tra Điểm tín dụng CIC\nCiC\nCreditinFo\n559\nHạng 6 O\nNgày chấm: 23/04/2026\nCao hơn 16% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC của bạn ổn định\nKiểm tra xem Tháng 7 này,\nbạn có thể vay bao nhiêu trên MoMo\nKiểm tra >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n559\n480\n360\n240\n120\n0\n3/2026\n4/2026"
+  }
+}

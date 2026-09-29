@@ -1,0 +1,25 @@
+{
+  "id": "dd614ea2-d18b-4c46-96e7-de1c38df068e",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-21.fna.fbcdn.net/v/t39.30808-6/819902597_1134892455880964_4730738905716912459_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=myun40Uk69gQ7kNvwHvd2yr&_nc_oc=Adqb2MHyAojSgkShHjt7que0NvwqT0lf9loyiNCQVATIJmz39BFmQVVJp0IBQHcDLXs&_nc_zt=23&_nc_ht=scontent.fsgn5-21.fna&_nc_gid=fglJ8Ilm776G42iE2Lr4GQ&_nc_ss=7b289&oh=00_AQMZb907T7gRLRbK47yhtLUtBnVLjbB3C2bCSDrLinvACw&oe=6AC0C8E0",
+  "owner_type": "post",
+  "owner_id": "2a296080-a145-48e1-8c2f-b11d50247a5a",
+  "photo_fbid": "1134892452547631",
+  "position": 0,
+  "storage_uri": "media/assets/37/43/37435ff8ec93f1dd921a67f6ca65758533d819b0ee9384a925e9fc642ea7e009.jpg",
+  "sha256": "37435ff8ec93f1dd921a67f6ca65758533d819b0ee9384a925e9fc642ea7e009",
+  "mime_type": "image/jpeg",
+  "file_size": 136152,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "21:28\n< Kiểm tra Điểm tín dụng CIC\nJIL\nHạng 5\nNgày chấm: 09/05/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 18% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n6%)\nA Hôm nay có gì mới\ng\nMới: Cơ chế cộng Điểm Mo...\nCộng tức thì, không cần chờ tháng\nsau, nâng hạng điểm tháng hiện tại\nX\nKhám phá\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 09/05/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\n0 VNĐ\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "tier": 5,
+    "scoring_date": "09/05/2026",
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "21:28\n< Kiểm tra Điểm tín dụng CIC\nJIL\nHạng 5\nNgày chấm: 09/05/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 18% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n6%)\nA Hôm nay có gì mới\ng\nMới: Cơ chế cộng Điểm Mo...\nCộng tức thì, không cần chờ tháng\nsau, nâng hạng điểm tháng hiện tại\nX\nKhám phá\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 09/05/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\n0 VNĐ\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

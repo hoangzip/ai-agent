@@ -1,0 +1,22 @@
+{
+  "id": "487cc01a-f753-4d57-9b52-252e1249e765",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/785123843_2525099037903441_9153809209590166672_n.jpg?stp=dst-jpg_tt6&cstp=mx898x382&ctp=s898x382&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=3AF_f0gDVhkQ7kNvwFihArr&_nc_oc=AdpN5SZqyS36f6cO8gCxlzv6mzPMunWQRZD8O-vFDE_42QZ1z_7qeENLz1CLRnndUau3iXXNPWRX8SITnB_gTcTe&_nc_zt=23&_nc_ht=scontent.fsgn8-2.fna&_nc_gid=qJAFtLVLgM8yXIJOlha5Xw&_nc_ss=7b289&oh=00_AQNSNDQnRY7a_QOs8KsEu1c0nrQO02VXR_zrCDGfzEIwzQ&oe=6AC04A38",
+  "owner_type": "post",
+  "owner_id": "0106cd56-44d3-44d8-a94c-60c75b81994d",
+  "photo_fbid": "2525099034570108",
+  "position": 0,
+  "storage_uri": "media/assets/84/71/847132730ce6202e24fc0b9b2cc7fbc8f1cda89966bab9ded6f1202a3ac51894.jpg",
+  "sha256": "847132730ce6202e24fc0b9b2cc7fbc8f1cda89966bab9ded6f1202a3ac51894",
+  "mime_type": "image/jpeg",
+  "file_size": 30780,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "(TPBank) Khoan vay qua han tai\nTPBank tren App Kredivo da chuyen\ncho BO PHAN XU LY NO CAO CAP.\nTT 2.428.802VND de tranh anh\nhuong den cac khoan vay khac.",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "2.428.802VND",
+    "provider": "TPBank",
+    "raw_text": "(TPBank) Khoan vay qua han tai\nTPBank tren App Kredivo da chuyen\ncho BO PHAN XU LY NO CAO CAP.\nTT 2.428.802VND de tranh anh\nhuong den cac khoan vay khac."
+  }
+}

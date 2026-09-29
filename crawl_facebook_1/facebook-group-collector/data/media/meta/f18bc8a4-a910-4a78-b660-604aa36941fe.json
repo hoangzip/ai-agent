@@ -1,0 +1,22 @@
+{
+  "id": "f18bc8a4-a910-4a78-b660-604aa36941fe",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/803068233_122144096469045144_402583699035815477_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1600&ctp=s720x1600&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEaesDfYcgrmFa7pwbg5dpmy_2m9ZEGBcfL_ab1kQYFx58ywPIfKrjC1BVEAdXeKB4Xt6uqRMJd-GfjtR_pcecr&_nc_ohc=FI0SRvWzpuAQ7kNvwEAHvlE&_nc_oc=AdqrKoX7_p7ciFrV3l5hLnk1_m6GG92Tra4Brl8W8zMqQmWWlqPnwJzTkElAuZJOk5A&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=w-bdw-jj2vpTRAHrS6zgGg&_nc_ss=7b2a8&oh=00_AQOmpxnnQEXq0umMYIhVYEq7wVwN3zzUrYlz8ih4Jyx9yg&oe=6AC0E8FD",
+  "owner_type": "post",
+  "owner_id": "8ae659a9-ac5b-407e-864b-22ff790acc41",
+  "photo_fbid": "122144096463045144",
+  "position": 0,
+  "storage_uri": "media/assets/25/37/2537cfcd5f06d7392ff7dc05d081c2e65571dfe849b9ebed956505552ac869d1.jpg",
+  "sha256": "2537cfcd5f06d7392ff7dc05d081c2e65571dfe849b9ebed956505552ac869d1",
+  "mime_type": "image/jpeg",
+  "file_size": 73447,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "18:30\nChi tiết khoản vay\nThanh toán kỳ này\n512.532đ\nNgày thanh toán kỳ này\n16/09/2026\nKỳ thanh toán hiện tại\n5\nMã hợp đồng\n4029984543\nThanh toán dư nợ\nSố tiền kỳ này\nTất toán trước hạn\nNhập số tiền\n4.665.899d\nSố khác\nLưu ý: Số tiền tất toán trước hạn sẽ bao gồm phí\n8% (khi tất toán trong 3 tháng) hoặc 5% (khi tất\ntoán từ tháng thứ 4). Để tất toán trước hạn, vui lòng\nthực hiện chụp ảnh eKYC.\nTiếp tục",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "512.532đ",
+    "provider": "CIC",
+    "raw_text": "18:30\nChi tiết khoản vay\nThanh toán kỳ này\n512.532đ\nNgày thanh toán kỳ này\n16/09/2026\nKỳ thanh toán hiện tại\n5\nMã hợp đồng\n4029984543\nThanh toán dư nợ\nSố tiền kỳ này\nTất toán trước hạn\nNhập số tiền\n4.665.899d\nSố khác\nLưu ý: Số tiền tất toán trước hạn sẽ bao gồm phí\n8% (khi tất toán trong 3 tháng) hoặc 5% (khi tất\ntoán từ tháng thứ 4). Để tất toán trước hạn, vui lòng\nthực hiện chụp ảnh eKYC.\nTiếp tục"
+  }
+}

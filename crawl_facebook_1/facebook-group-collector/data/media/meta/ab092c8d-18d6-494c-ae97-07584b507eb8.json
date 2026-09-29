@@ -1,0 +1,23 @@
+{
+  "id": "ab092c8d-18d6-494c-ae97-07584b507eb8",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/786289113_2026669037959499_4464970600046718293_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1612&ctp=s720x1612&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHS2HFoVlqGedv4-hePDtL0fsqwEFvIjjN-yrAQW8iOM4EEXY8KTIdmO8hGQa6GvWodrGkOLNfPRK0A7Hks7OWX&_nc_ohc=D8iQuud3fjMQ7kNvwE5Pdvr&_nc_oc=AdpfXDB78t2Tcs_1IShHPcu7BhGNQFB2VFMEabnblHH0ygMrcNd-Sm-MGzkkxRxDY4E&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=AQetd0xMEvVlgRyy0K2UEw&_nc_ss=7b2a8&oh=00_AQO_wPgAf6emo_OPpYxByaOCktNYu_YDJitfNaVitOLeEw&oe=6AC10E7B",
+  "owner_type": "post",
+  "owner_id": "b304dc1b-2c89-4e30-a562-2f7e4947b3c5",
+  "photo_fbid": "2026669034626166",
+  "position": 0,
+  "storage_uri": "media/assets/66/2a/662ab8680a7330e5527ec00019f1280293e7e0f77842a43ff0c84c91bb160f10.jpg",
+  "sha256": "662ab8680a7330e5527ec00019f1280293e7e0f77842a43ff0c84c91bb160f10",
+  "mime_type": "image/jpeg",
+  "file_size": 104955,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụ...\nTrái nghiệm đầu tư chứng\nkhoán cùng 100 triệu vốn...\nThử ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nA\nTheo dữ liệu tính đến ngày chấm\n23/06/2026, bạn có khoản nợ xấu.\nDuy trì thói quen thanh toán đúng hạn\nđể cải thiện Điểm CIC nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\n8\nDư nợ thẻ tín dụng\nCCB\nĐồng bộ dữ liệu CIC\nCreditinFo\nĐể xem các thông tin bị khóa (8),\nbạn cần thực hiện đồng bộ dữ liệu\ntín dụng từ CIC sang tài khoản\nMoMo\nĐông bộ dữ liệu CIC\nCập nhật Điểm tháng mới\n- Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "23/06/2026",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụ...\nTrái nghiệm đầu tư chứng\nkhoán cùng 100 triệu vốn...\nThử ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẤn thông tin\nA\nTheo dữ liệu tính đến ngày chấm\n23/06/2026, bạn có khoản nợ xấu.\nDuy trì thói quen thanh toán đúng hạn\nđể cải thiện Điểm CIC nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\n8\nDư nợ thẻ tín dụng\nCCB\nĐồng bộ dữ liệu CIC\nCreditinFo\nĐể xem các thông tin bị khóa (8),\nbạn cần thực hiện đồng bộ dữ liệu\ntín dụng từ CIC sang tài khoản\nMoMo\nĐông bộ dữ liệu CIC\nCập nhật Điểm tháng mới\n- Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

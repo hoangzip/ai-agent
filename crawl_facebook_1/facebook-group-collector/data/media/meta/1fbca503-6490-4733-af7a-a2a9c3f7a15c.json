@@ -1,0 +1,23 @@
+{
+  "id": "1fbca503-6490-4733-af7a-a2a9c3f7a15c",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/822900736_1581277103463576_1892137933226221287_n.jpg?stp=dst-jpg_tt6&cstp=mx1206x290&ctp=s1206x290&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=FZ5JwNdK6OoQ7kNvwFsy8DH&_nc_oc=AdoCvoTYX36irnskI_GTn6NCRnXWYYRljat1vzUw-8PFbUUgpSIHtwzPj0AXP0dmyDw&_nc_zt=23&_nc_ht=scontent.fsgn5-8.fna&_nc_gid=_vssbscaRpEH-3lb9afqQQ&_nc_ss=7b289&oh=00_AQNoydi5M-c-D010doX3PwO__zfJ0C6xXS6fnr7eFRQHNA&oe=6AC0A6DF",
+  "owner_type": "post",
+  "owner_id": "743be8a5-22d7-472a-a7e2-dac1f0e39b35",
+  "photo_fbid": "1581277100130243",
+  "position": 0,
+  "storage_uri": "media/assets/fb/47/fb47610eabac6a7709bcee1a9cc83067a5eaf04166c7d6585310b68ff1dd52ae.jpg",
+  "sha256": "fb47610eabac6a7709bcee1a9cc83067a5eaf04166c7d6585310b68ff1dd52ae",
+  "mime_type": "image/jpeg",
+  "file_size": 26621,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "4. Ngân hàng TMCP Việt Nam Thịnh Vượng\nNgày báo cáo dư nợ thể gần nhất: 07/09/2026\nTổng nợ\n- Nợ đủ tiêu chuân\n- Nợ cần chú ý\n- Nợ xấu\n0\n0\n2\n2",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "07/09/2026",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "4. Ngân hàng TMCP Việt Nam Thịnh Vượng\nNgày báo cáo dư nợ thể gần nhất: 07/09/2026\nTổng nợ\n- Nợ đủ tiêu chuân\n- Nợ cần chú ý\n- Nợ xấu\n0\n0\n2\n2"
+  }
+}

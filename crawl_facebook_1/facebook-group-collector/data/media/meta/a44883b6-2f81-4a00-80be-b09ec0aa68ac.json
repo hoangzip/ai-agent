@@ -1,0 +1,24 @@
+{
+  "id": "a44883b6-2f81-4a00-80be-b09ec0aa68ac",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/750686482_2680211899076508_8159178436952320830_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1560&ctp=s720x1560&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=0A5GP6IR-wYQ7kNvwGHYorK&_nc_oc=AdpoIRBMtOJWqlB6G8hjevY16Az-p2vYpbwKubKtm5qNBIgX2aJuuCOtM8WoQkkNEIQteWvaE1UnYcMxpHBoollK&_nc_zt=23&_nc_ht=scontent.fsgn8-2.fna&_nc_gid=us3UEmkHztIclfWRAKGaBA&_nc_ss=7b289&oh=00_AQPCUa7zu4tgRY5cEJm3qF0A3Va2K-Jghzb9aYjo4imiDQ&oe=6AC07828",
+  "owner_type": "post",
+  "owner_id": "e97fc9c4-7fe3-4904-81cb-bb15bf31ded2",
+  "photo_fbid": "2680211895743175",
+  "position": 0,
+  "storage_uri": "media/assets/2b/3f/2b3fc8eba7ebd66b25dd28c37677d4438bc7122ce26b2cab84b598e22c5ff5f2.jpg",
+  "sha256": "2b3fc8eba7ebd66b25dd28c37677d4438bc7122ce26b2cab84b598e22c5ff5f2",
+  "mime_type": "image/jpeg",
+  "file_size": 84684,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "08:24 A\nKiểm tra Điểm tín dụng CIC\nVo))\nLTE1\n4G\nall 84% b\nCCB\nCreditinFo\n591\nHạng 4 0\nNgày chấm: 20/10/2025\nCao hơn 59% khách hàng cá nhân khác\nChia sé •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n591\n800\n600\n400\n200\nĐể xem các thông tin bị khóa (® ), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 400,
+    "tier": 4,
+    "scoring_date": "20/10/2025",
+    "provider": "MoMo / CIC",
+    "raw_text": "08:24 A\nKiểm tra Điểm tín dụng CIC\nVo))\nLTE1\n4G\nall 84% b\nCCB\nCreditinFo\n591\nHạng 4 0\nNgày chấm: 20/10/2025\nCao hơn 59% khách hàng cá nhân khác\nChia sé •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n591\n800\n600\n400\n200\nĐể xem các thông tin bị khóa (® ), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

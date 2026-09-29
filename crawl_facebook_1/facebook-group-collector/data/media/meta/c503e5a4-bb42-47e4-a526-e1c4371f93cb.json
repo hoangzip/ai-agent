@@ -1,0 +1,24 @@
+{
+  "id": "c503e5a4-bb42-47e4-a526-e1c4371f93cb",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/726247536_3889299457873488_717053503966903849_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx554x960&ctp=s554x960&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGzZB_VqrIjnH3FqjwoJFd5RE7mCMk5nHhETuYIyTmceP6515-6VHYJxWFYNFSsSUsVcrrPb0H0UdL_FiwurPAM&_nc_ohc=-v_5i2OmEtkQ7kNvwFrDPm4&_nc_oc=Adoz1IeZzN0reetUdPKwWYAIBLbF2pY57BfqZAIxFbuRcbOWE9s23zplebzcXZEpEeCJJaJ8JGCu4M8G9EXmY56I&_nc_zt=23&_nc_ht=scontent.fsgn8-1.fna&_nc_gid=Epp74QaRBCXQYqRt2zwGjA&_nc_ss=7b2a8&oh=00_AQM8Y8Het4S4p37PyHx8Mm0DtMvz3liuWPOr9rZmKYcliA&oe=6AC19BFD",
+  "owner_type": "post",
+  "owner_id": "af4727a2-8302-479f-ac19-b5a847f8fd92",
+  "photo_fbid": "3889299454540155",
+  "position": 0,
+  "storage_uri": "media/assets/dc/d4/dcd4eb790a9ff302e070d4617ec198cea56ccbef854ea0070b8328cbdfeafc24.jpg",
+  "sha256": "dcd4eb790a9ff302e070d4617ec198cea56ccbef854ea0070b8328cbdfeafc24",
+  "mime_type": "image/jpeg",
+  "file_size": 48125,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCreditinpo\n572\nHạng 5 O\nNgày chấm: 23/04/2026\nCao hơn 18% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi C/C và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 572,
+    "tier": 5,
+    "scoring_date": "23/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCreditinpo\n572\nHạng 5 O\nNgày chấm: 23/04/2026\nCao hơn 18% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\n• Được chấm bởi C/C và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

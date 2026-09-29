@@ -1,0 +1,24 @@
+{
+  "id": "10b97f2e-33fe-4db4-a7ec-ec22e252abe5",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/821177392_2130467924206187_6169193595760290999_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2340&ctp=s1080x2340&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=b46L1yaDHsEQ7kNvwEEe8GP&_nc_oc=AdrMUHkpvnaHANvQBIR-NJFFcp2DetvkHu7lOsQyKh4Qb8nPuijRPyCQcFnckyrrnyU&_nc_zt=23&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=Rf6RT-7-pHxUsNzF_WTu8g&_nc_ss=7b289&oh=00_AQP28q6Ugb9J4Hvv1P3Ho1qN0CFucizFLwG2dEx1kQEBEQ&oe=6AC0D46D",
+  "owner_type": "post",
+  "owner_id": "3559a528-cad1-4917-b0c8-9a10dfbe1a97",
+  "photo_fbid": "2130467914206188",
+  "position": 0,
+  "storage_uri": "media/assets/a5/23/a5238eae2039c50d4b8763637e44a2cdb967479608f830321c4054e4cc06dce8.jpg",
+  "sha256": "a5238eae2039c50d4b8763637e44a2cdb967479608f830321c4054e4cc06dce8",
+  "mime_type": "image/jpeg",
+  "file_size": 181437,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "17:32\"%\n65\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n485\nHạng 7 O\nNgày chấm: 21/09/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 11% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\ng\nMới: Cơ chế cộng Điểm Mo...\nCộng tức thì, không cần chờ tháng\nsau, nâng hạng điếm tháng hiện tại\nX\nKhám phá\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nAn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\n. -.^\nCập nhật Điểm tháng mới\nB Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 485,
+    "tier": 7,
+    "scoring_date": "21/09/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "17:32\"%\n65\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n485\nHạng 7 O\nNgày chấm: 21/09/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 11% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\ng\nMới: Cơ chế cộng Điểm Mo...\nCộng tức thì, không cần chờ tháng\nsau, nâng hạng điếm tháng hiện tại\nX\nKhám phá\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nAn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\n. -.^\nCập nhật Điểm tháng mới\nB Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

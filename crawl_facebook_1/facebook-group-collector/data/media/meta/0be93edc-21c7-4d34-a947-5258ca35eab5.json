@@ -1,0 +1,25 @@
+{
+  "id": "0be93edc-21c7-4d34-a947-5258ca35eab5",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/764845138_2481791848954877_7762880108735640588_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1152x2048&ctp=s1152x2048&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGt4edAmfVSTnmhTg5As2bqPiPlecSn20w-I-V5xKfbTPUMhv2OirEM5PeBESPhsP3QLxcI_2BxJMIhY6-ogZNH&_nc_ohc=MkLImPu0XNYQ7kNvwFDfWl0&_nc_oc=AdqXc_HbYsBt77194zWn7rsCsCv7mTlhgzNTUEmDsVxi9PBbnicSwmZCwZGxM1S0pPQ&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=Xeiy938JnRDs5A_hMe7Vng&_nc_ss=7b2a8&oh=00_AQPZE2IHFep8iPuMsT5vHXHyOUhfozxqbXuh456NnvzseQ&oe=6AC14D69",
+  "owner_type": "post",
+  "owner_id": "02f7ad4b-44d3-464d-98f6-2f22626c1a2e",
+  "photo_fbid": "2481791845621544",
+  "position": 0,
+  "storage_uri": "media/assets/59/e4/59e4f12bfd1eed07b7ec74a41312380dd86bfe3d374321b225ad2dae6811cf12.jpg",
+  "sha256": "59e4f12bfd1eed07b7ec74a41312380dd86bfe3d374321b225ad2dae6811cf12",
+  "mime_type": "image/jpeg",
+  "file_size": 148965,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "VinaPhone -\n14:00\nKiểm tra Điểm tín dụng CIC\n• 78% (2\nCiCB\nCreditinFo\n540\nHạng 7\nNgày chấm: 22/07/2026\nCao hơn 15% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n, Hôm nay có gì mới\nQuyền lợi Điểm MoMo đã...\nKhám phá hạng tài chính và quyền\nlợi dành cho bạn.\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ẩn thông tin\n• Theo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!",
+  "cic_data": {
+    "is_cic": true,
+    "score": 540,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "VinaPhone -\n14:00\nKiểm tra Điểm tín dụng CIC\n• 78% (2\nCiCB\nCreditinFo\n540\nHạng 7\nNgày chấm: 22/07/2026\nCao hơn 15% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n, Hôm nay có gì mới\nQuyền lợi Điểm MoMo đã...\nKhám phá hạng tài chính và quyền\nlợi dành cho bạn.\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ẩn thông tin\n• Theo dữ liệu tính đến ngày chấm 22/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c5ff2ccb-eddf-42fc-bcdb-021e6cd492ee",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/768442344_4623610807917369_6142801048848563216_n.jpg?stp=dst-jpg_tt6&cstp=mx576x1040&ctp=s576x1040&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=DWNVRcIFJbEQ7kNvwEIi6_V&_nc_oc=AdrInZPJfDWqJFM8ukhkp0Jj1IwXlNKVfyDU8qQZ2kcfAkeaiWbpw21sYeLk8jXzcpg&_nc_zt=23&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=2UYue_4EbgUa7l2Ei1d_Nw&_nc_ss=7b289&oh=00_AQO9AyXkQ9r-Lgh4yIRRaU0eDWwcrnTN109YbJG4V2T7Zw&oe=6AC0D91B",
+  "owner_type": "post",
+  "owner_id": "ff538ba0-19c7-4aeb-be85-cf39c7f72ce1",
+  "photo_fbid": "4623610424584074",
+  "position": 0,
+  "storage_uri": "media/assets/c7/a0/c7a04c4aacf92681796fbf61c663da2d20a0e49a7b10ceafcf12f54e666011d4.jpg",
+  "sha256": "c7a04c4aacf92681796fbf61c663da2d20a0e49a7b10ceafcf12f54e666011d4",
+  "mime_type": "image/jpeg",
+  "file_size": 43843,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Quản lý khoản vay thông minh\nChi tiết khoản vay\nChi tiết thanh toán\nSố tiền đến hạn thanh toán\nThanh toán ngay\nVay thêm\nSố hợp đồng\nKhoản vay\n150.000.000 VNĐ\nThời hạn vay\n48 tháng\nNgày thanh toán\nhàng tháng\n5\nLãi suất theo\nhợp đồng vay",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "150.000.000 VNĐ",
+    "provider": "CIC",
+    "raw_text": "Quản lý khoản vay thông minh\nChi tiết khoản vay\nChi tiết thanh toán\nSố tiền đến hạn thanh toán\nThanh toán ngay\nVay thêm\nSố hợp đồng\nKhoản vay\n150.000.000 VNĐ\nThời hạn vay\n48 tháng\nNgày thanh toán\nhàng tháng\n5\nLãi suất theo\nhợp đồng vay"
+  }
+}

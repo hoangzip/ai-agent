@@ -1,0 +1,22 @@
+{
+  "id": "8d83c203-b3fd-4155-832b-46cf84a34231",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/773664950_122182829324882209_5459572537769904176_n.jpg?stp=dst-jpg_tt6&cstp=mx698x693&ctp=s698x693&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=mg4Of3-57T8Q7kNvwGrrbfQ&_nc_oc=AdoRTYn7a_GT8x8DnjBx7zcIN_0M4X8BXgidgWFyo5W4PHCWKYVKlSRUflM3Gu71s-7981gOZE4vUdjOyW_rVr8b&_nc_zt=23&_nc_ht=scontent.fsgn8-2.fna&_nc_gid=9l0CEU11udR-59NF5xCLQQ&_nc_ss=7b289&oh=00_AQO7rBLBtWokltyFBBt6KmpW1V4TBitIPSkzC8ZUp1O1OQ&oe=6AC05162",
+  "owner_type": "post",
+  "owner_id": "06fd4e29-e713-45fa-8748-384f661ba5b3",
+  "photo_fbid": "122182829318882209",
+  "position": 0,
+  "storage_uri": "media/assets/f8/80/f880a0331022dc325c4168e8bd87fa057448be344b7645b5f7514560e35ff298.jpg",
+  "sha256": "f880a0331022dc325c4168e8bd87fa057448be344b7645b5f7514560e35ff298",
+  "mime_type": "image/jpeg",
+  "file_size": 45833,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "09:23 Hôm nay\nNgân hàng số\nCAKE\nby VPBank\nXin chào C\nHợp đồng số CAKECLVIETTELS\ncủa\nquý khách đã quá hạn 30 ngày, đang la nợ\nnhóm 2 (nợ cần chú ý). Số tiền cần thanh toán:\n1,011,521 VNĐ.\nThanh toán trong ngay đễ tránh ảnh hưởng đến\nlịch sử tín dụng và phát sinh thêm lãi phạt (nếu\ncÓ).\nBỏ qua thông báo nếu đã Thanh toán.",
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "Cake by VPBank",
+    "raw_text": "09:23 Hôm nay\nNgân hàng số\nCAKE\nby VPBank\nXin chào C\nHợp đồng số CAKECLVIETTELS\ncủa\nquý khách đã quá hạn 30 ngày, đang la nợ\nnhóm 2 (nợ cần chú ý). Số tiền cần thanh toán:\n1,011,521 VNĐ.\nThanh toán trong ngay đễ tránh ảnh hưởng đến\nlịch sử tín dụng và phát sinh thêm lãi phạt (nếu\ncÓ).\nBỏ qua thông báo nếu đã Thanh toán."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4755fdbb-ed35-4519-8934-ece7d9282a9f",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/702962634_1693174768768045_1054976783191056343_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1600&ctp=s720x1600&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=PttmKa4qyMcQ7kNvwEpNp-S&_nc_oc=Adq-mQ9BwqhPQsomHHB1yLPW_IrJxmNkPZhe9pJekPZJ6x2Rg723fAAP3Nr7di0Yw1M&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=aZwxzfENLCWeZifkZ2enyw&_nc_ss=7b289&oh=00_AQPQceOm1BFPhp5H2tbMDWTZfdbe5C0fvFZsjD2rhKX5-A&oe=6AC09BB0",
+  "owner_type": "post",
+  "owner_id": "cd426dfc-da19-4b8a-a8fa-f3f2c4ea60bd",
+  "photo_fbid": "1693174765434712",
+  "position": 0,
+  "storage_uri": "media/assets/c2/5b/c25b27bfb883bc99600f1a039dd5c49f0b19f3a83b834ff0fc5ed00a1889e528.jpg",
+  "sha256": "c25b27bfb883bc99600f1a039dd5c49f0b19f3a83b834ff0fc5ed00a1889e528",
+  "mime_type": "image/jpeg",
+  "file_size": 64249,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\n480\n360\n240\n120\n2\n3\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nÂn thông tin\n17 Triệu VNĐ\n17 Triệu VNĐ\nDư nợ thẻ tín dụng\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trả Sau\nDùng mỗi tháng",
+  "cic_data": {
+    "is_cic": true,
+    "score": 480,
+    "tier": 7,
+    "total_debt": "17 Triệu VNĐ",
+    "provider": "CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\n480\n360\n240\n120\n2\n3\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nÂn thông tin\n17 Triệu VNĐ\n17 Triệu VNĐ\nDư nợ thẻ tín dụng\n0 VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trả Sau\nDùng mỗi tháng"
+  }
+}

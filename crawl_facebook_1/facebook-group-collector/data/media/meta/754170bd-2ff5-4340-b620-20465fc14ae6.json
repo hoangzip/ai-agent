@@ -1,0 +1,22 @@
+{
+  "id": "754170bd-2ff5-4340-b620-20465fc14ae6",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/738854306_1029549929534053_9189559788108044354_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2340&ctp=s1080x2340&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=EOBaGOOa3akQ7kNvwEZpgfO&_nc_oc=AdrP5rCLMK5qr0GNUhKIX62X1yEgff5skIo0Vm8m39gs-n4ZK1UH23ZYwpysPFYQi-w&_nc_zt=23&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=sEQ1FGwrVRxayoAYyLuGCA&_nc_ss=7b289&oh=00_AQMw3hqPkkJgokXmypB81hEqRX4mW57ho-v_qR1rp0StIw&oe=6AC0651E",
+  "owner_type": "post",
+  "owner_id": "c2afedf9-392b-4661-ba09-9feacb9356c5",
+  "photo_fbid": "1029549926200720",
+  "position": 0,
+  "storage_uri": "media/assets/0b/b1/0bb1c5c384335a776bf1817751433e499127c11eed43bf774f0da74f65aaf750.jpg",
+  "sha256": "0bb1c5c384335a776bf1817751433e499127c11eed43bf774f0da74f65aaf750",
+  "mime_type": "image/jpeg",
+  "file_size": 58797,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "16:33\nKhoản vay\nThấu chi tín chấp\n50 000 000 đ\nChờ phê duyệt\n4.\nKy nạn vay\n12 tháng\nLãi suất\n2.5%/năm",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "000 đ",
+    "provider": "CIC",
+    "raw_text": "16:33\nKhoản vay\nThấu chi tín chấp\n50 000 000 đ\nChờ phê duyệt\n4.\nKy nạn vay\n12 tháng\nLãi suất\n2.5%/năm"
+  }
+}

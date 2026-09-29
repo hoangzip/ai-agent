@@ -1,0 +1,24 @@
+{
+  "id": "3da2635d-8ba4-4893-8729-dae9767350c0",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/739118006_1022871847369029_172889985324317590_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGkibGmgcg3Ez4mD_JcuAKZb1fnXWLmHSRvV-ddYuYdJCX-B7F45D0sR7YtReIKHFqmUu-WgdE6OSNtBv6Ittkf&_nc_ohc=ykeSAPatO7IQ7kNvwGN74NQ&_nc_oc=AdryyAjRYbRqZCLJNlMz26hYpls6RCZgtQM36Mu1Y1dGq2s3msIulT_vVOwduzEoetA&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=XLWEs1D2qs5MwU7BzD9IJw&_nc_ss=7b2a8&oh=00_AQNVyfUul8-P8VBXbMuYDgTm98PQUorklX_I8MqwOAaBPw&oe=6AC169D1",
+  "owner_type": "post",
+  "owner_id": "c2a53056-0fb8-4bf4-bcd1-bfa9c2e238d8",
+  "photo_fbid": "1022871844035696",
+  "position": 0,
+  "storage_uri": "media/assets/23/88/23884698fa77f0e092f70964cda0606af6c6e495037eae0d9ff57c570e75f0f7.jpg",
+  "sha256": "23884698fa77f0e092f70964cda0606af6c6e495037eae0d9ff57c570e75f0f7",
+  "mime_type": "image/jpeg",
+  "file_size": 104099,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "15:26\n354\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n444\nHạng 9 0\nNgày chấm: 23/04/2026\nCao hơn 1% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nBạn cần thêm thu nhập?\nBắt đầu học đầu tư chứng khoán\nvới 100 triệu vốn ảo ngay hôm nay\nThử ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n444\n800\n600\n400\n200",
+  "cic_data": {
+    "is_cic": true,
+    "score": 354,
+    "tier": 9,
+    "scoring_date": "23/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "15:26\n354\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n444\nHạng 9 0\nNgày chấm: 23/04/2026\nCao hơn 1% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nBạn cần thêm thu nhập?\nBắt đầu học đầu tư chứng khoán\nvới 100 triệu vốn ảo ngay hôm nay\nThử ngay >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n444\n800\n600\n400\n200"
+  }
+}

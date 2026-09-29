@@ -1,0 +1,24 @@
+{
+  "id": "99c7ffd1-ddb5-44de-b9dd-971fb0d5d343",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/821523324_3028885647443266_1995364267039174114_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1600&ctp=s720x1600&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=rPANSHR6ckUQ7kNvwHd3XC8&_nc_oc=AdrXXoMKtmtOwFbUo58Q5RSnKgVCepW-UIJuchWjxMT65yHoJLNp38eq1uMoNjhzi7g&_nc_zt=23&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=NMi2I9wzMlXxFO8yrj44Nw&_nc_ss=7b289&oh=00_AQMNTODdpVwbOzlA0oL9OwQSUX19yR-NkXZYzjCZr4T_FA&oe=6AC0CE0E",
+  "owner_type": "post",
+  "owner_id": "8913286e-f76b-48d8-b045-f876a141ad63",
+  "photo_fbid": "3028885644109933",
+  "position": 0,
+  "storage_uri": "media/assets/bb/5a/bb5adad8f8f21065fcb49f036b0d562f3a7f7156919edcd0bbf519aa8467a009.jpg",
+  "sha256": "bb5adad8f8f21065fcb49f036b0d562f3a7f7156919edcd0bbf519aa8467a009",
+  "mime_type": "image/jpeg",
+  "file_size": 84790,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\nA\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\ng\nMới: Cơ chế cộng Điểm ...\nCộng tức thì, không cần chờ\ntháng sau, nâng hạng điểm thán...\nX\nKhẩm phá\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nAn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTống dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n41 Triệu VNĐ\n19 Triệu VNĐ\n22 Triệu VNĐ\nTài chính phù hợp\nBước tiếp theo: Đa dạng hóa hồ sơ\nDự phòng tài chính\nĐên 100 triệu\nCải thiện Điểm bằng\nHành vi tốt\nCực q\nTrả l",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "21/08/2026",
+    "total_debt": "41 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\nA\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\ng\nMới: Cơ chế cộng Điểm ...\nCộng tức thì, không cần chờ\ntháng sau, nâng hạng điểm thán...\nX\nKhẩm phá\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nAn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTống dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n41 Triệu VNĐ\n19 Triệu VNĐ\n22 Triệu VNĐ\nTài chính phù hợp\nBước tiếp theo: Đa dạng hóa hồ sơ\nDự phòng tài chính\nĐên 100 triệu\nCải thiện Điểm bằng\nHành vi tốt\nCực q\nTrả l"
+  }
+}

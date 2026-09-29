@@ -1,0 +1,24 @@
+{
+  "id": "a2d8b775-cc3b-4b4c-99ef-43cd5be6d845",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/724231151_1034081966241242_8604593905500028118_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFoGxACXSE4bTU1BhFEAZ1FRuFPiOvITuhG4U-I68hO6JAo32vbwiJpTV8OcEsQXLAKyOmDutgsuUixc2JbJ1_g&_nc_ohc=2ENzyc4QcdIQ7kNvwEGFUTK&_nc_oc=Adqjcoc5XAe2czg_GRnrE06knYvAStua3u_yJIONWqoRulazLny1pN73puxHHS-1BdxSf0cfoZXGPZNp7Pc9rT9S&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=gKZNUVZAXLkiGPIOnw1efQ&_nc_ss=7b2a8&oh=00_AQPxqB8YqVJ_oaW0PeifpYAk0bDXti4JDD-OQUFQZrx3pQ&oe=6ABF6A35",
+  "owner_type": "post",
+  "owner_id": "d5149cd2-190c-435b-8d1d-2d41ce281c63",
+  "photo_fbid": "1034081962907909",
+  "position": 0,
+  "storage_uri": "media/assets/c4/30/c43064cb9d0616f0cdcb4d6bc79d86a027a1db723b2b43fb37c0e873deafa335.jpg",
+  "sha256": "c43064cb9d0616f0cdcb4d6bc79d86a027a1db723b2b43fb37c0e873deafa335",
+  "mime_type": "image/jpeg",
+  "file_size": 107407,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "12:19\nKiểm tra Điểm tín dụng CIC\n104\nCiCB\nCreditinFo\n591\nHạng 4 G\nNgày chấm: 23/04/2026\nCao hơn 57% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n591\n800\n600\n400\n200",
+  "cic_data": {
+    "is_cic": true,
+    "score": 591,
+    "tier": 4,
+    "scoring_date": "23/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "12:19\nKiểm tra Điểm tín dụng CIC\n104\nCiCB\nCreditinFo\n591\nHạng 4 G\nNgày chấm: 23/04/2026\nCao hơn 57% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n591\n800\n600\n400\n200"
+  }
+}

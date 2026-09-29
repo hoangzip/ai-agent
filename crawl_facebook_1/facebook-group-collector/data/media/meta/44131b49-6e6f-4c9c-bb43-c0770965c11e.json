@@ -1,0 +1,22 @@
+{
+  "id": "44131b49-6e6f-4c9c-bb43-c0770965c11e",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/736226337_2153349801902649_6215543064184515171_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1284x390&ctp=s1284x390&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHxhg4u0IqzPdJ85oeXjCg1GpLPey7Am5Iaks97LsCbkqXUK9rr1Jhr2Cia0sfckaZKzHv6wzLbutJ66GuwRI78&_nc_ohc=Yw4vXgvfiJwQ7kNvwHHNzhI&_nc_oc=Adoelr16hiLFjP8m_LybBhjSJeye43CF56C-rBHW3dqxgkJKB0bKdXxncALm81YMQ2KpOdnRXANbFwYLMNQdqo6g&_nc_zt=23&_nc_ht=scontent.fsgn8-1.fna&_nc_gid=yiYj8T9lJ3Issf7b4KQfZg&_nc_ss=7b2a8&oh=00_AQNX8kVUzYw-vgbIl4tnP_bG9pzhzEKHTNrAJQm4xVSIhA&oe=6AC19E0A",
+  "owner_type": "post",
+  "owner_id": "824559c5-a90a-4db7-a23f-1c02555da0ed",
+  "photo_fbid": "2153349798569316",
+  "position": 0,
+  "storage_uri": "media/assets/e3/a8/e3a8c39d5e6a54e776d1a697ae2ec6b3487a0f010cabd27e948914801d65f267.jpg",
+  "sha256": "e3a8c39d5e6a54e776d1a697ae2ec6b3487a0f010cabd27e948914801d65f267",
+  "mime_type": "image/jpeg",
+  "file_size": 27013,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Nợ trong kỳ\nThanh toán tối thiểu\nTổng dư nợ\nHạn thanh toán\n2.122.000đ\n35.887.500đ\n10/07/2026",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "2.122.000đ",
+    "provider": "CIC",
+    "raw_text": "Nợ trong kỳ\nThanh toán tối thiểu\nTổng dư nợ\nHạn thanh toán\n2.122.000đ\n35.887.500đ\n10/07/2026"
+  }
+}

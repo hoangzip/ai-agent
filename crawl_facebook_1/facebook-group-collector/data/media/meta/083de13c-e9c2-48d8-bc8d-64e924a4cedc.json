@@ -1,0 +1,25 @@
+{
+  "id": "083de13c-e9c2-48d8-bc8d-64e924a4cedc",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/764953978_2439285593239754_6070798085027276820_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHbZeLR8ofwwJ32pxMEvOfNtnT3wcwe_hW2dPfBzB7-FeD_Wz6e-8Fxnmqmy_APiE1hdoZhorL9rPymlzkVO-wk&_nc_ohc=y6mOm5H5IkwQ7kNvwHy6CDQ&_nc_oc=AdofqyiMYelP_GWjDtbTs7l9oiGMPBkIZIpnGdREAVIy38pzHsPFUjRrhoNiET6tArw&_nc_zt=23&_nc_ht=scontent-hkg1-1.xx&_nc_gid=GpUutxkKTLDWpUtOqcMPLA&_nc_ss=7b2a8&oh=00_AQN4De9ghXN91_rcznyxUVksVZqtvx74WqdLKXQUNkzjEQ&oe=6AC0F8B3",
+  "owner_type": "post",
+  "owner_id": "12ceb282-38b1-4238-a214-8de9174dc5af",
+  "photo_fbid": "2439285589906421",
+  "position": 0,
+  "storage_uri": "media/assets/12/f8/12f89b8f6f0a7445f1d328c65091311c85d55db7729255ffb4c73f4b63797861.jpg",
+  "sha256": "12f89b8f6f0a7445f1d328c65091311c85d55db7729255ffb4c73f4b63797861",
+  "mime_type": "image/jpeg",
+  "file_size": 146439,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "09:32\n4G 64\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n532\nHạng 7 Q\nNgày chấm: 22/07/2026\nCao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐầu tư thử, không lo rủi ro\nTrải nghiệm đầu tư chứng khoán cùng\n100 triệu vốn ảo trên MoMo\nThứ ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\nthán đúng hạn để cải thiện Điểm CIC nhé!\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 532,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "09:32\n4G 64\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n532\nHạng 7 Q\nNgày chấm: 22/07/2026\nCao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐầu tư thử, không lo rủi ro\nTrải nghiệm đầu tư chứng khoán cùng\n100 triệu vốn ảo trên MoMo\nThứ ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn có khoản nợ xấu. Duy trì thói quen thanh\nthán đúng hạn để cải thiện Điểm CIC nhé!\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

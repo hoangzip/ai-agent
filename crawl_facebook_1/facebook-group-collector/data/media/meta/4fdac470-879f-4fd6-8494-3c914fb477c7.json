@@ -1,0 +1,24 @@
+{
+  "id": "4fdac470-879f-4fd6-8494-3c914fb477c7",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/797744369_1089774407375242_7326461829733581758_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHjNTirtFXDsiqiqnlbfHlXBxpv8Xy9GlAHGm_xfL0aUMhhzX0DHte_KkCfiMhVhsJQ1olNkU84lqvzDa2g7rNk&_nc_ohc=eNKLdq7aAjgQ7kNvwEYIwAJ&_nc_oc=AdoJgnBQWueSXjR2aHjDwL1uG3R5ToVIJLEjSl29icGODoNR2H-QvgfIWMt8XwRoI-teZW2u8Pcg2IZLggEKhGfR&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=jvCprVvdgqwzk19dmcNoOA&_nc_ss=7b2a8&oh=00_AQLvMlq4rsoBzJkX8DOzrmBJiumpvbmggFTWdW83ZktZVw&oe=6ABF4E40",
+  "owner_type": "post",
+  "owner_id": "0dcb6126-e91b-4e58-b09b-40ec71ccb408",
+  "photo_fbid": "1089774400708576",
+  "position": 0,
+  "storage_uri": "media/assets/c4/b5/c4b5f328d06dedf08d853d9257d6967b35d941d647220000f5a1aaffa0be4a26.jpg",
+  "sha256": "c4b5f328d06dedf08d853d9257d6967b35d941d647220000f5a1aaffa0be4a26",
+  "mime_type": "image/jpeg",
+  "file_size": 141311,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "01:19\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n521\nHạng 7 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 13% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\ncó khoản nợ cần chú ý. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n*****\nDư nợ khoán vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 521,
+    "tier": 7,
+    "scoring_date": "21/08/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "01:19\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n521\nHạng 7 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 13% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nHiện thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\ncó khoản nợ cần chú ý. Duy trì thói quen thanh\ntoán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n*****\nDư nợ khoán vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

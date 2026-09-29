@@ -1,0 +1,24 @@
+{
+  "id": "579d4153-aa44-44c0-89ed-8faafd960956",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/734088965_991817653635553_2083652582171489747_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHMPO7WGlGElWIEDbO8EH3CYWi1dQAnXydhaLV1ACdfJyx3VMjQKoR4yCjVQrVycKsw0E3ZZD5S7g6vqrT-8RX2&_nc_ohc=MZskEU4W4xoQ7kNvwHzCFqW&_nc_oc=AdrY9t608qtjTqJEWESMOViYiNFC8J63KFNsxaetH87Y67ODV8sqK0_WyZO6MAKLQKgHlxwAfgN0n_l2stlyW2uv&_nc_zt=23&_nc_ht=scontent.fsgn8-2.fna&_nc_gid=496ZLg2MURgMfzMGeVbLTg&_nc_ss=7b2a8&oh=00_AQNl3E9nBIZTdgU_xaiiRp1JWidzJYf2j_lf7zWmiyz3Ig&oe=6AC19F29",
+  "owner_type": "post",
+  "owner_id": "6608e072-50bf-4574-8362-44e92eeea19b",
+  "photo_fbid": "991817650302220",
+  "position": 0,
+  "storage_uri": "media/assets/7c/87/7c8748a43a85bd96428441eef1f344f02925d4d74b27064ed95597a5538aa452.jpg",
+  "sha256": "7c8748a43a85bd96428441eef1f344f02925d4d74b27064ed95597a5538aa452",
+  "mime_type": "image/jpeg",
+  "file_size": 110178,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "15:04\n80\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n444\nHạng 9 O\nNgày chấm: 29/05/2026\nCao hơn 1% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n444\n800\n600\n400\n200\n0\n5/2026\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 444,
+    "tier": 9,
+    "scoring_date": "29/05/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "15:04\n80\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n444\nHạng 9 O\nNgày chấm: 29/05/2026\nCao hơn 1% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n444\n800\n600\n400\n200\n0\n5/2026\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

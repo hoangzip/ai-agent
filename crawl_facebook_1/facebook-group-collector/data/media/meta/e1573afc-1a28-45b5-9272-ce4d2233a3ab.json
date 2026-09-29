@@ -1,0 +1,22 @@
+{
+  "id": "e1573afc-1a28-45b5-9272-ce4d2233a3ab",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/753729999_1086763510964440_1473693321539362946_n.jpg?stp=dst-jpg_tt6&cstp=mx870x723&ctp=s870x723&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeF2obwWdB16jGmc0-TsM9WXTkOaVECGOpFOQ5pUQIY6kdQRBGpC939Gs7-1aO2PE0grnQAgG8mChRW_-77L65ru&_nc_ohc=wEwMCuKQ6-QQ7kNvwHpxfp8&_nc_oc=AdotTGGBcX9_bNL98I-iB2yTxDgQG26pZICKyBK0Ein65MRXA2cIjYszU71ciJnc4oWblW6GBWmXwdCkXewEG1KB&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=FAERr0ebAU_mDlb5m9h8ww&_nc_ss=7b2a8&oh=00_AQMlHNcq82NQ1P9RQr-9kKfGRKkHJVsrWDHi-biMEQBvGQ&oe=6ABF65DB",
+  "owner_type": "post",
+  "owner_id": "4ecd2ec2-c32a-41df-ab70-abba3ce79dea",
+  "photo_fbid": "1086763504297774",
+  "position": 0,
+  "storage_uri": "media/assets/a5/58/a558a408bead075bc002a969819ef5e80a73aee93856f140ff9beac2ef2d3b5b.jpg",
+  "sha256": "a558a408bead075bc002a969819ef5e80a73aee93856f140ff9beac2ef2d3b5b",
+  "mime_type": "image/jpeg",
+  "file_size": 47323,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Ngân hàng số\nCAKE\nby VPBank\nXin chào Ho\nhắng,\nHợp đồng số\nCAKECLVIETTEL19\n395009792 của quý\nkhách có hạn thanh toán ngày 25/07/2026, Số\ntiền cần thanh toán:369,081 VNĐ. Quý khách\nvui lòng thanh toán đúng hạn để không ảnh\nhưởng đến lịch sử tín dụng và phát sinh lãi\nphạt (nếu có).\nXin bỏ qua thông báo nếu đã Thanh toán.",
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "Cake by VPBank",
+    "raw_text": "Ngân hàng số\nCAKE\nby VPBank\nXin chào Ho\nhắng,\nHợp đồng số\nCAKECLVIETTEL19\n395009792 của quý\nkhách có hạn thanh toán ngày 25/07/2026, Số\ntiền cần thanh toán:369,081 VNĐ. Quý khách\nvui lòng thanh toán đúng hạn để không ảnh\nhưởng đến lịch sử tín dụng và phát sinh lãi\nphạt (nếu có).\nXin bỏ qua thông báo nếu đã Thanh toán."
+  }
+}

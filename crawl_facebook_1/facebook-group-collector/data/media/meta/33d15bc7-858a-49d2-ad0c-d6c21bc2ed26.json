@@ -1,0 +1,22 @@
+{
+  "id": "33d15bc7-858a-49d2-ad0c-d6c21bc2ed26",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/780860344_28511621721789664_3318674117842422440_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHmn7wBHF49EBQ2h8QvhYnweDorzH-V5Vh4OivMf5XlWMkwsHNpIDtwZfy6KIC_h1SZhwAwN6DVbF-9CK-yGd9X&_nc_ohc=6-dRjzJrUlkQ7kNvwHsUGiz&_nc_oc=Adr-hyWa2C5cKuoWxunmq1OqLlLKKIHBiUXltVoLDTLULBzm4rzX47RhvqVM24GfaoM&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=NJAriAUTgmeYCFjAfZql9Q&_nc_ss=7b2a8&oh=00_AQO4TKi5Oh5zDFvrMmIBP0AFOY3cSZ2g2ULo9y7BS6uliA&oe=6AC1227F",
+  "owner_type": "post",
+  "owner_id": "97aafe50-44bc-4f6a-948b-59e7d12014c4",
+  "photo_fbid": "28511621715122998",
+  "position": 0,
+  "storage_uri": "media/assets/84/34/8434fa8fb2f94c783de9ecc8afba5874127bfcbc613a2fb9b9c494c1bef22b59.jpg",
+  "sha256": "8434fa8fb2f94c783de9ecc8afba5874127bfcbc613a2fb9b9c494c1bef22b59",
+  "mime_type": "image/jpeg",
+  "file_size": 63230,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "10:04 4\nQuản lý khoản vay\nKhoản vay của bạn\nLịch sử vay >\n10.000.000đ\n+ Đã bao gồm phí bảo hiểm.\nTrạng thai\nSố hợp đồng\nNgày thanh toán\nThanh toán kỳ này\nDư nợ tất toán\nĐã giải ngân •\n100\n2026-09-07\nOđ\nThanh toán",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "10.000.000đ",
+    "provider": "CIC",
+    "raw_text": "10:04 4\nQuản lý khoản vay\nKhoản vay của bạn\nLịch sử vay >\n10.000.000đ\n+ Đã bao gồm phí bảo hiểm.\nTrạng thai\nSố hợp đồng\nNgày thanh toán\nThanh toán kỳ này\nDư nợ tất toán\nĐã giải ngân •\n100\n2026-09-07\nOđ\nThanh toán"
+  }
+}

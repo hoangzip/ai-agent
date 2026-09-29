@@ -1,0 +1,24 @@
+{
+  "id": "4cb7c352-dce1-4a2e-9742-f9328973d80f",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-22.fna.fbcdn.net/v/t39.30808-6/730015292_3096174290588471_8539408280439166229_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x2048&ctp=s1152x2048&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=snv3t7LQIN4Q7kNvwH7mG4a&_nc_oc=AdoKVsx6xB9mU6iMbn4X9FDZ2irrHtZji_DUODYNxYZ4l4GqOTfMudOnK7yckjxua1M&_nc_zt=23&_nc_ht=scontent.fsgn5-22.fna&_nc_gid=rTU0KCHWEWEKtMT4gif8YA&_nc_ss=7b289&oh=00_AQOedJQi92aI-jDDV1Lp80jV6zxZHduW2JzTZx0PliKnAA&oe=6AC07D9A",
+  "owner_type": "post",
+  "owner_id": "a2d8d3fb-c008-47ca-ab8c-e441877190da",
+  "photo_fbid": "3096174287255138",
+  "position": 0,
+  "storage_uri": "media/assets/b7/28/b72851da8d814f5271283582607133a3bcee49149df2046beac3ffd03865d289.jpg",
+  "sha256": "b72851da8d814f5271283582607133a3bcee49149df2046beac3ffd03865d289",
+  "mime_type": "image/jpeg",
+  "file_size": 136073,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Viettel S\n16:31\nKiểm tra Điểm tín dụng CIC\n39%\nCiCB\nCreditinFo\n572\nHạng 5\nNgày chấm: 22/03/2026\nCao hơn 18% khách hàng cá nhân khác\nChia sé\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n480\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 572,
+    "tier": 5,
+    "scoring_date": "22/03/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "Viettel S\n16:31\nKiểm tra Điểm tín dụng CIC\n39%\nCiCB\nCreditinFo\n572\nHạng 5\nNgày chấm: 22/03/2026\nCao hơn 18% khách hàng cá nhân khác\nChia sé\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n572\n480\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

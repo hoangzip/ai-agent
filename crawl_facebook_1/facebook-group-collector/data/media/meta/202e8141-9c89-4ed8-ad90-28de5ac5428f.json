@@ -1,0 +1,24 @@
+{
+  "id": "202e8141-9c89-4ed8-ad90-28de5ac5428f",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-2.xx.fbcdn.net/v/t39.30808-6/783707250_122142981567096843_1887698772784590762_n.jpg?stp=dst-jpg_tt6&cstp=mx1242x1242&ctp=s1242x1242&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGVdqZ25-fj0Jw96TtWSUkODjYchOzrhEcONhyE7OuER3He4glyvdFaN8PySs4s6kxKirtGiUQRPdiC3EJyynRV&_nc_ohc=m2u0wDeW08sQ7kNvwGu8uEs&_nc_oc=AdooJIyTqHJpZzbryEKZ8n_Yh3GyfkE68w3JJvC6LCERgH_RMYKVbyjnz7cHn_AuGMo&_nc_zt=23&_nc_ht=scontent-hkg4-2.xx&_nc_gid=L1Ba7dgnaFnkcRslpMj-iA&_nc_ss=7b2a8&oh=00_AQOahR2OjqBPYE1YlOY-7tyUwVzw4vbocVr8GA8KNvyp-w&oe=6AC1259E",
+  "owner_type": "post",
+  "owner_id": "0437cef6-7741-4f8b-a7c6-9069b55b58f6",
+  "photo_fbid": "122142981561096843",
+  "position": 0,
+  "storage_uri": "media/assets/b7/ce/b7ce5d11a3428129d4b545cf832034be7e3cfda0a0e0e5f84b38e7db3cbd9dd3.jpg",
+  "sha256": "b7ce5d11a3428129d4b545cf832034be7e3cfda0a0e0e5f84b38e7db3cbd9dd3",
+  "mime_type": "image/jpeg",
+  "file_size": 94634,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCreditinFo\n515\nHạng 7 O\nNgày chấm: 31/12/2025\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 12% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo",
+  "cic_data": {
+    "is_cic": true,
+    "score": 515,
+    "tier": 7,
+    "scoring_date": "31/12/2025",
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCreditinFo\n515\nHạng 7 O\nNgày chấm: 31/12/2025\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 12% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo"
+  }
+}

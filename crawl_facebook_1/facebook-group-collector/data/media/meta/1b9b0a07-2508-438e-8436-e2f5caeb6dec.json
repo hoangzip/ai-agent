@@ -1,0 +1,22 @@
+{
+  "id": "1b9b0a07-2508-438e-8436-e2f5caeb6dec",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/763761942_4616987641913019_7032261376126356967_n.jpg?stp=dst-jpg_tt6&cstp=mx1206x1332&ctp=s1206x1332&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG1kZjwAGTcGQQwiXrR23H2BxkKUn9MXQQHGQpSf0xdBFra4OlfWVzpe6GId0CcIzMKqYdh2zBhxwSWPkmLrbZd&_nc_ohc=19sx8GoI9mwQ7kNvwHQfuEb&_nc_oc=AdoDLXPscWW5a8DwAE9ENI8Ok5oIy-ZkCsKN-qKDs32gHvixX7smR8vEnK_uIHoAHn4&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=oqFsnhKX3ctFy0OimF0OOw&_nc_ss=7b2a8&oh=00_AQMn0PniZVUwkMx_w2uedwA5t_u-36JL-jyTXGXJEuUMTQ&oe=6AC0D151",
+  "owner_type": "post",
+  "owner_id": "bd3f9faa-9f7b-4e2b-a63a-d757d0ba24eb",
+  "photo_fbid": "4616987155246401",
+  "position": 0,
+  "storage_uri": "media/assets/4a/da/4ada45ace1199ca508d06152232c92d0be895a524fc71d3254713e812bbb3baa.jpg",
+  "sha256": "4ada45ace1199ca508d06152232c92d0be895a524fc71d3254713e812bbb3baa",
+  "mime_type": "image/jpeg",
+  "file_size": 68514,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Momo 50tr 5 kỳ\nCake 9/12 vay 20tr, thẻ td\nTnex 20tr\nTinvav 50tr\nSL\nEasy\nVts zalo\nTp momo\nTổng dư nợ 138tr\n13:36\n1",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "138tr",
+    "provider": "MoMo / CIC",
+    "raw_text": "Momo 50tr 5 kỳ\nCake 9/12 vay 20tr, thẻ td\nTnex 20tr\nTinvav 50tr\nSL\nEasy\nVts zalo\nTp momo\nTổng dư nợ 138tr\n13:36\n1"
+  }
+}

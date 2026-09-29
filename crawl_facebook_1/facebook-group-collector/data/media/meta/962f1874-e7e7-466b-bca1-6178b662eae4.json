@@ -1,0 +1,24 @@
+{
+  "id": "962f1874-e7e7-466b-bca1-6178b662eae4",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/743942328_2088306578780789_6900136561868381563_n.jpg?stp=dst-jpg_tt6&cstp=mx900x1940&ctp=s900x1940&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEAOW6ujUSxlQhIfvoU4WbjSelGf-KIUXRJ6UZ_4ohRdNpECWOPGIZJvXuvGPGRPl7AtB6_HqZoJzwIXyvJStz0&_nc_ohc=8IKbcjHpA9cQ7kNvwEM3qDl&_nc_oc=Adq4b7d7Cb9lfxIU7B8ruIzl1k7YRYJgAalJBrDKahnL8Nc9Jc1nwBi026oAjOawtwjL9AxDEiqkesFPteySSrrK&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=uAMVo9C-YtHzFhmk8EwYSQ&_nc_ss=7b2a8&oh=00_AQN0Ya8XlIbdu67WKuf82ve9YjE0VP1WUvLhkFoqayITyA&oe=6ABF5813",
+  "owner_type": "post",
+  "owner_id": "2f1f5102-dfc6-44ad-9e6b-015306403b57",
+  "photo_fbid": "2088306575447456",
+  "position": 0,
+  "storage_uri": "media/assets/63/ca/63ca76d344d6d0eb11fa5af1d5b4c6ca2e95511023f74b0da7873fda3c5fafc4.jpg",
+  "sha256": "63ca76d344d6d0eb11fa5af1d5b4c6ca2e95511023f74b0da7873fda3c5fafc4",
+  "mime_type": "image/jpeg",
+  "file_size": 106063,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "15:52\nf\nKiểm tra Điểm tín dụng CIC\nN\n6 all (76\nCreditinFo\n568\nHạng 5 0\nNgày chấm: 23/06/2026\nCao hơn 32% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n568\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 568,
+    "tier": 5,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "15:52\nf\nKiểm tra Điểm tín dụng CIC\nN\n6 all (76\nCreditinFo\n568\nHạng 5 0\nNgày chấm: 23/06/2026\nCao hơn 32% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n568\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

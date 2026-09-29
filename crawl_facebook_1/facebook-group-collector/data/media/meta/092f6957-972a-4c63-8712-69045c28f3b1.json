@@ -1,0 +1,23 @@
+{
+  "id": "092f6957-972a-4c63-8712-69045c28f3b1",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/722336998_2210087506475650_4147357373806956821_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx828x285&ctp=s828x285&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH4XMf1X7ldAcP1bKhSipnSQilPiKLcoq9CKU-Iotyir0NjM8XcnL72H2A6gZkiBByv2XH-HGEZ7HHDSA60Nyim&_nc_ohc=MgmRLGX_DnkQ7kNvwH-bNU3&_nc_oc=AdqGjyADhbR7-nDwo_hT0p3Br2t0FL2yi7I78VOY6Lrs13hlUOe__KJnTK37zVCqc2Aa-BJt5FESIG2M0sO9xTWn&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=XY5SuYlee4AGnKzXe6vAZQ&_nc_ss=7b2a8&oh=00_AQOKGd-8-bzdVyhLJsutczJ3I__jN7PmupwWJLwQTrSx4A&oe=6ABF8350",
+  "owner_type": "post",
+  "owner_id": "18c74f29-c19a-433b-945c-6e1d7e932aa4",
+  "photo_fbid": "2210087503142317",
+  "position": 0,
+  "storage_uri": "media/assets/2d/7b/2d7b80b0a3ee6937fda096a7402e8214f1de2f4e674d7b8c89e83daee229e1ab.jpg",
+  "sha256": "2d7b80b0a3ee6937fda096a7402e8214f1de2f4e674d7b8c89e83daee229e1ab",
+  "mime_type": "image/jpeg",
+  "file_size": 21680,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Bạn cần thanh toán ngay!\n2 giờ trước\nKhoản vay trên App Kredivo đã quá hạn 28\nngày và sẽ chuyển đến bộ phận thu hồi nợ\ntrực tiếp. Thanh toán 1.703.616 VND trong\nhôm nay.",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "1.703.616 VND",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Bạn cần thanh toán ngay!\n2 giờ trước\nKhoản vay trên App Kredivo đã quá hạn 28\nngày và sẽ chuyển đến bộ phận thu hồi nợ\ntrực tiếp. Thanh toán 1.703.616 VND trong\nhôm nay."
+  }
+}

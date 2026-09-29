@@ -1,0 +1,24 @@
+{
+  "id": "1862d169-cdcd-42b1-9551-6d901e0e4344",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/752609800_122256940652091360_1750563974312207883_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHS7siitCQ-lW1WJQ2Kb_vfsp_IS9vPnCayn8hL28-cJkU8N8rZegPR9bBMj5hS1e8p2JoPwOSuzF4-T0gifV5O&_nc_ohc=lECYmbQcwNgQ7kNvwHyRBI1&_nc_oc=AdoD6zsFcWrZPvq5kWDcyjJfPWW3mAWl4ieeRHcIfoxPANFVuyABKUD1aEctFEtjC3Q&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=tGBe14FS3LmeyvqIuEAQLw&_nc_ss=7b2a8&oh=00_AQMqXQIVhWRjCSGymSbE_1fHvisi0xtLsj6Bs0qNBy9e9w&oe=6AC15F45",
+  "owner_type": "post",
+  "owner_id": "321ea6ea-27b9-4236-b3dc-61486bf5236b",
+  "photo_fbid": "122256940646091360",
+  "position": 0,
+  "storage_uri": "media/assets/e3/96/e396ee29695356d0892e8515727bb94248a3023b14b14d0b4e75bbf1266dd6ac.jpg",
+  "sha256": "e396ee29695356d0892e8515727bb94248a3023b14b14d0b4e75bbf1266dd6ac",
+  "mime_type": "image/jpeg",
+  "file_size": 109920,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "09:15 C\n48\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n545\nHạng 6 O\nNgày chấm: 23/06/2026\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nNâng hạng Túi+ chỉ từ 9K\nThêm 50 triệu hạn mức rút miễn phí\nCộng thêm 0,2%/năm lãi tiết kiệm\nNâng hạng ›\n1/2\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n545\n850\n680\n510\n340\n170",
+  "cic_data": {
+    "is_cic": true,
+    "score": 545,
+    "tier": 6,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "09:15 C\n48\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n545\nHạng 6 O\nNgày chấm: 23/06/2026\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nNâng hạng Túi+ chỉ từ 9K\nThêm 50 triệu hạn mức rút miễn phí\nCộng thêm 0,2%/năm lãi tiết kiệm\nNâng hạng ›\n1/2\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n545\n850\n680\n510\n340\n170"
+  }
+}

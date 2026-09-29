@@ -1,0 +1,64 @@
+{
+  "updated_at": "2026-09-29T15:28:35.540600+00:00",
+  "current_group": "all_5_groups",
+  "stage": "completed",
+  "stats": {
+    "1793269141356323": {
+      "gallery_photos_indexed": 1706,
+      "state_breakdown": {
+        "crawled_no_cic": 1195,
+        "crawled_cic_found": 510,
+        "no_image": 1
+      },
+      "total_posts_saved": 1702,
+      "total_cic_leads": 510,
+      "leads_with_score": 160
+    },
+    "3508387292634958": {
+      "gallery_photos_indexed": 2058,
+      "state_breakdown": {
+        "crawled_no_cic": 1207,
+        "crawled_cic_found": 838,
+        "skipped_complete_cic": 4,
+        "no_image": 9
+      },
+      "total_posts_saved": 2034,
+      "total_cic_leads": 862,
+      "leads_with_score": 262
+    },
+    "1741651903956682": {
+      "gallery_photos_indexed": 172,
+      "state_breakdown": {
+        "crawled_no_cic": 51,
+        "crawled_cic_found": 101,
+        "skipped_complete_cic": 20
+      },
+      "total_posts_saved": 145,
+      "total_cic_leads": 101,
+      "leads_with_score": 34
+    },
+    "949425691234407": {
+      "gallery_photos_indexed": 1299,
+      "state_breakdown": {
+        "crawled_no_cic": 573,
+        "crawled_cic_found": 703,
+        "skipped_complete_cic": 22,
+        "no_image": 2
+      },
+      "total_posts_saved": 1219,
+      "total_cic_leads": 704,
+      "leads_with_score": 384
+    },
+    "4101971396761257": {
+      "gallery_photos_indexed": 9,
+      "state_breakdown": {
+        "crawled_no_cic": 48,
+        "crawled_cic_found": 26
+      },
+      "total_posts_saved": 74,
+      "total_cic_leads": 27,
+      "leads_with_score": 8
+    }
+  },
+  "pipeline_complete": true
+}

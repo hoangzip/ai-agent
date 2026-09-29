@@ -1,0 +1,24 @@
+{
+  "id": "d5d99417-16b3-4b9a-a1dc-a1f00bfb985e",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-6/689492739_1501993504769003_2078519902839197297_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=aSSo0fNX8ykQ7kNvwGPWHAp&_nc_oc=AdobAE1HJ1R4Aek1LSXb7YkbBj673HP1Odms6vYXfCYmn-nJX0p7tommlwuBuTB-yKk&_nc_zt=23&_nc_ht=scontent.fsgn5-13.fna&_nc_gid=HhyfK0sSG1_znizsjyYGtg&_nc_ss=7b289&oh=00_AQPbkWQdUzEvgKOJjI8Lg2eZeyGZTZFHEYgt5uVN0SlVZA&oe=6AC0A71B",
+  "owner_type": "post",
+  "owner_id": "b5d9b03e-d6c1-4ba9-bd2b-d36ec415b11e",
+  "photo_fbid": "1501993501435670",
+  "position": 0,
+  "storage_uri": "media/assets/0a/49/0a4961da6047022edc98852406d0fece6a8eec660fabda109e8fc05725809df3.jpg",
+  "sha256": "0a4961da6047022edc98852406d0fece6a8eec660fabda109e8fc05725809df3",
+  "mime_type": "image/jpeg",
+  "file_size": 125405,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "19:52\n62\nKiểm tra Điểm tín dụng CIC\nCICB\nCreditinFo\n565\nHạng 6 0\nNgày chấm: 23/04/2026\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ »\nXem Trung Tâm Tài Chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nMẹo giúp tài chính ổn định:\nGửi tiết kiệm trên MoMo\nLãi suất 7%\nTh tích luy ngay (\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n565\n480\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 565,
+    "tier": 6,
+    "scoring_date": "23/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "19:52\n62\nKiểm tra Điểm tín dụng CIC\nCICB\nCreditinFo\n565\nHạng 6 0\nNgày chấm: 23/04/2026\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ »\nXem Trung Tâm Tài Chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nMẹo giúp tài chính ổn định:\nGửi tiết kiệm trên MoMo\nLãi suất 7%\nTh tích luy ngay (\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n565\n480\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "14c28abf-efd2-42d1-9947-29a5f365a34e",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/753760379_1585636113308208_4271068842334908435_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1111&ctp=s1080x1111&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFicUvjA5hkhMOCCeJfe4MzWdKWVCYrVcxZ0pZUJitVzCqgxsBRoQGRA10M76vR6zg66NDdTDwmQ388hh87le0c&_nc_ohc=dZ1D-EeeljEQ7kNvwGAieAF&_nc_oc=Adp3vLORtibG4Jeodcgxed-I6pr1PwAFyxSvl74DBbhFFg6lgFi18pppWj_nydqizn_rcXnlQatO3tchvt7xX80c&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=taWVEFWOxRxZMPSKvR6nrg&_nc_ss=7b2a8&oh=00_AQPmND6Q0YsKWBq30-0xIg5SWHY5PglVsnK8aNWeT_DBvQ&oe=6ABF5C11",
+  "owner_type": "post",
+  "owner_id": "5b7ae02d-770c-4fce-a09d-560bec01fa27",
+  "photo_fbid": "1585636109974875",
+  "position": 0,
+  "storage_uri": "media/assets/08/01/080100be43cbf7ae329f853d0ed5897880e91eaffeb9c74a06c389bd2743e71c.jpg",
+  "sha256": "080100be43cbf7ae329f853d0ed5897880e91eaffeb9c74a06c389bd2743e71c",
+  "mime_type": "image/jpeg",
+  "file_size": 57103,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Quản lý khoản vay\nLịch trả nợ\nThông báo (3)\nNgày 16/07/2026\nĐọc tất cả\n• Đăng ký khoản vay thành công\nnull\nSố tiền\n2,000,000 VND\nThời gian\n14:51\nNgày 05/03/2025",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "2,000,000 VND",
+    "provider": "CIC",
+    "raw_text": "< Quản lý khoản vay\nLịch trả nợ\nThông báo (3)\nNgày 16/07/2026\nĐọc tất cả\n• Đăng ký khoản vay thành công\nnull\nSố tiền\n2,000,000 VND\nThời gian\n14:51\nNgày 05/03/2025"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fe0c2e5a-7e27-4764-b730-4defd7bc71ca",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/773632995_1245819205061783_6280853020584183611_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHSG7Vw66ipogd2z2bPh6BKk7s78W_qmRuTuzvxb-qZG-nVCxJTlEtIillKJsdSNkl6HKkK7x_3QhE9fX-WE4KC&_nc_ohc=0yC4X7DNDdMQ7kNvwGASk0b&_nc_oc=Adq6gKFLeHvWmrn8Z737ELVynnAPFAOkl3O71PbLDv3TiOaAI_6tZTLEBXzaKKRjA5dWXiGarXki_AsPXJf8flmh&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=D1SfQN76VapLbhzie5IZOA&_nc_ss=7b2a8&oh=00_AQKv_WD1FTfP5VfZG5dAxcYATTMDlxD29f6tIezJ_CHmaQ&oe=6ABF5B57",
+  "owner_type": "post",
+  "owner_id": "38c37b16-f020-47f9-a663-734459421d55",
+  "photo_fbid": "1245819201728450",
+  "position": 0,
+  "storage_uri": "media/assets/ef/94/ef945ac74e0f5f5733cb31cf0b7637839f726a0a3576978fddfff48864a2b268.jpg",
+  "sha256": "ef945ac74e0f5f5733cb31cf0b7637839f726a0a3576978fddfff48864a2b268",
+  "mime_type": "image/jpeg",
+  "file_size": 133251,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "17:10\n< Kiểm tra Điểm tín dụng CIC\nA Hôm nay có gì mới\ng) Đặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí Bảo hiểm\nSức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n5 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC sang\ntài khoản MoMo\nĐồng bộ dữ liệu CIC\n(/ Vị thế tài chính tháng này\nKhám phá toàn cảnh\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "23/04/2026",
+    "total_debt": "5 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "17:10\n< Kiểm tra Điểm tín dụng CIC\nA Hôm nay có gì mới\ng) Đặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí Bảo hiểm\nSức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n5 Triệu VNĐ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nCCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần\nthực hiện đồng bộ dữ liệu tín dụng từ CIC sang\ntài khoản MoMo\nĐồng bộ dữ liệu CIC\n(/ Vị thế tài chính tháng này\nKhám phá toàn cảnh\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

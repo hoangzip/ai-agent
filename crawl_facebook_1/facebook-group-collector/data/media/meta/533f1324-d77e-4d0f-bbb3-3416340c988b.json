@@ -1,0 +1,25 @@
+{
+  "id": "533f1324-d77e-4d0f-bbb3-3416340c988b",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/800470747_122187062414791624_9201929709279012935_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEbGQesqZpeC87_BciZdfP7r0wVrLWIz4qvTBWstYjPip7rHkMEXgHwmjsgefWDgE7oeLkiQ0bTEGPIDxd0_pST&_nc_ohc=7enNUsPFO00Q7kNvwEEn3wQ&_nc_oc=Adq9UZ2fePYDcZU4OHU2vIiw-qDlvB9g3BFWTsiKXGBgSHw53CjBlrpsNY_9Sq1CWmskmVeUPrMWIFp9RldPFiqI&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=4-R0EklgKdksci3df-aSaw&_nc_ss=7b2a8&oh=00_AQJZPUiNjepRtp37ebSjLNzyHsekPmnmaeNp55-7jIRM3Q&oe=6ABF454C",
+  "owner_type": "post",
+  "owner_id": "37239919-2aeb-49fb-999f-0597a6ab35fe",
+  "photo_fbid": "122187062408791624",
+  "position": 0,
+  "storage_uri": "media/assets/cc/25/cc258076861c251eaec707149346d4d7198428869c77e594de89ed6fc6421e30.jpg",
+  "sha256": "cc258076861c251eaec707149346d4d7198428869c77e594de89ed6fc6421e30",
+  "mime_type": "image/jpeg",
+  "file_size": 142192,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "18:33\nKiểm tra Điểm tín dụng CIC\n.il 5G 214\nCiCB\nCreditinFo\n563\nHạng 6 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 29% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\n8\nDu nợ thé tín dụng\n8\nĐông bộ dữ liệu CIC\nCreditinFo\nĐể xem các thôna tin bi khóa (&). ban cần\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 563,
+    "tier": 6,
+    "scoring_date": "21/08/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "18:33\nKiểm tra Điểm tín dụng CIC\n.il 5G 214\nCiCB\nCreditinFo\n563\nHạng 6 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 29% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 21/08/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nDư nợ khoản vay\n8\nDu nợ thé tín dụng\n8\nĐông bộ dữ liệu CIC\nCreditinFo\nĐể xem các thôna tin bi khóa (&). ban cần\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

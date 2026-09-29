@@ -1,0 +1,24 @@
+{
+  "id": "5dcf2b0b-f9c5-48d8-bf13-425a7534fd22",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/719637732_1138022886064221_3250491496148362530_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2340&ctp=s1080x2340&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGJL2LvfcwzWS69a1fvIS0yTh4TKWkKVUpOHhMpaQpVSgOZVMDbQJxpU9JaNBL1a4GfzKB9LDV08Tt0YCJdnycE&_nc_ohc=WuGVtb6M33sQ7kNvwHsNvFr&_nc_oc=AdrG7kNV9HR6Ijg4fOIVRhFpc0JO9E0sKulm8oPUE5vZmfCC4lHVF0rUByX-17vG62B27p1YYvadNGUkaoyhrXC1&_nc_zt=23&_nc_ht=scontent.fsgn8-2.fna&_nc_gid=B7l9rvtL1-nrEtbkuV3JRQ&_nc_ss=7b2a8&oh=00_AQNrX3QUpJmrzutNE349qzAomaA3PykPbRP9D4Aogmer9g&oe=6AC1B5D0",
+  "owner_type": "post",
+  "owner_id": "53b81c84-e90d-4e43-9c0a-77ff7a396edb",
+  "photo_fbid": "1138022879397555",
+  "position": 0,
+  "storage_uri": "media/assets/22/75/2275b7d9caba3cf53729dd456ef1e3b5056eb2e49e4638a2c42dac256575f84a.jpg",
+  "sha256": "2275b7d9caba3cf53729dd456ef1e3b5056eb2e49e4638a2c42dac256575f84a",
+  "mime_type": "image/jpeg",
+  "file_size": 158590,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "13:46 @ 0\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n567\nHạng 6 O\nNgày chấm: 23/04/2026\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay &\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n567\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC\n|||",
+  "cic_data": {
+    "is_cic": true,
+    "score": 567,
+    "tier": 6,
+    "scoring_date": "23/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "13:46 @ 0\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n567\nHạng 6 O\nNgày chấm: 23/04/2026\nCao hơn 17% khách hàng cá nhân khác\nChia sẻ &\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay &\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n567\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC\n|||"
+  }
+}

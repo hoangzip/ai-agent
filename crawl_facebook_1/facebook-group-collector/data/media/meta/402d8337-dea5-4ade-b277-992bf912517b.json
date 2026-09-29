@@ -1,0 +1,26 @@
+{
+  "id": "402d8337-dea5-4ade-b277-992bf912517b",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.99422-6/774389015_1600170245456196_1245707630049212824_n.png?stp=dst-jpg_tt6&cstp=mx944x2046&ctp=s944x2046&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHgRW4VVd4AVnSpJtVyEOViCpaPVsqcXLIKlo9WypxcsreMQy7gTkDLXSX0qdyq57JcGvYlatqnCzPqtp2TMAFh&_nc_ohc=iXxv0VKTgpsQ7kNvwEkda2L&_nc_oc=AdodFXQtG65aoN9SgLetoDAAUKLh0tlVScN2L77Brcr_jSySvlnTGxWDtYBTMazEpIg&_nc_zt=14&_nc_ht=scontent-hkg4-1.xx&_nc_gid=PTEy4uS-Bk_GzaooCc0MAg&_nc_ss=7b2a8&oh=00_AQO4dABpBGiVV2Mn8oog0asvUwX5d44lZTWijEyv0U0QLA&oe=6AC142B8",
+  "owner_type": "post",
+  "owner_id": "7c895ffe-9170-4dd1-80a2-b0c4f55f97c2",
+  "photo_fbid": "1042991718474412",
+  "position": 0,
+  "storage_uri": "media/assets/0c/25/0c255e4fd05ea0ce51e2b654716111f14b229ce9efe3cc390a2882567df229e6.jpg",
+  "sha256": "0c255e4fd05ea0ce51e2b654716111f14b229ce9efe3cc390a2882567df229e6",
+  "mime_type": "image/jpeg",
+  "file_size": 120324,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "7:13\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n588\nHạng 4 0\nNgày chấm: 31/07/2026\nCao hơn 48% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền lợi\ndành cho bạn.\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 31/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n14 Triệu VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 588,
+    "tier": 4,
+    "scoring_date": "31/07/2026",
+    "total_debt": "14 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "7:13\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n588\nHạng 4 0\nNgày chấm: 31/07/2026\nCao hơn 48% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nQuyền lợi Điểm MoMo đã có\nKhám phá hạng tài chính và quyền lợi\ndành cho bạn.\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 31/07/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n14 Triệu VNĐ\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

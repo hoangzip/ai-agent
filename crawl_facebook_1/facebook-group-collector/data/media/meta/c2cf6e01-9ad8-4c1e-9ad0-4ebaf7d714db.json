@@ -1,0 +1,22 @@
+{
+  "id": "c2cf6e01-9ad8-4c1e-9ad0-4ebaf7d714db",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/821719060_122107632411478370_3358350454873938287_n.jpg?stp=dst-jpg_tt6&cstp=mx902x1051&ctp=s902x1051&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEp2qiQ3P4e33xSC3Z4sHVJfIR_PT9aGTJ8hH89P1oZMvJP7K_Ckd-7N_5Z4Y8v8_HfYKNL8oUmOxwug4S9rE7q&_nc_ohc=pTWXxT0TA7gQ7kNvwHBKWj6&_nc_oc=AdoO9kgh65oLkvas8XErrtpGsnQT-H3MJMgI5WQmVlEA-mCfrLUJaAVbgGgbpmgijgw&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=bSv_alUIcrW6jqGZa2jU6w&_nc_ss=7b2a8&oh=00_AQMQrzhqoWtxc9hodjx17o1S3nw2kFWX-qAf2Qk7pcmDyQ&oe=6ABFB264",
+  "owner_type": "post",
+  "owner_id": "c6fd5198-e16e-486d-9dd5-cd9b0d350f26",
+  "photo_fbid": "122107632405478370",
+  "position": 0,
+  "storage_uri": "media/assets/55/d5/55d5985e89158267c7c0eb511d813314bdb4e51fa947afe71f430ac7a423568e.jpg",
+  "sha256": "55d5985e89158267c7c0eb511d813314bdb4e51fa947afe71f430ac7a423568e",
+  "mime_type": "image/jpeg",
+  "file_size": 43165,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "co CCCD CMND\nVa nguoi nha cam\nbo tron. Chung toi dang tren duong\nxuong nha lam viec khoan vay qua\nhan ( da nhac nho rat nhieu lan\nnhung k giai quyet). Co mat tai nha\ntrong hom nay de lam viec nha",
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "co CCCD CMND\nVa nguoi nha cam\nbo tron. Chung toi dang tren duong\nxuong nha lam viec khoan vay qua\nhan ( da nhac nho rat nhieu lan\nnhung k giai quyet). Co mat tai nha\ntrong hom nay de lam viec nha"
+  }
+}

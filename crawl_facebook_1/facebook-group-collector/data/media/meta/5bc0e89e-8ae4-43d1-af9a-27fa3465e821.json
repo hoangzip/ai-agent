@@ -1,0 +1,24 @@
+{
+  "id": "5bc0e89e-8ae4-43d1-af9a-27fa3465e821",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/787000836_2237952883605064_313424426010986570_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2340&ctp=s1080x2340&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGVyj18o-9O8ON4dyysQIw8EGTHsj4RM2cQZMeyPhEzZ0w8XvCTR9J1DgjE8rid_a2cgarc95q6VFp5MpdKyM-E&_nc_ohc=m4Ur3z6PpP0Q7kNvwGmu6P0&_nc_oc=AdrTvgxYRd1pNB68bVxEQGBtiS8-egGrtE-LytJFUStlgEQZKmPSyaepsLabpB_c9n8&_nc_zt=23&_nc_ht=scontent-hkg1-1.xx&_nc_gid=j9dpulgkhQWdppeXy5RSFQ&_nc_ss=7b2a8&oh=00_AQPxdLx1e4wrm1AqN8TybwKjByKXLDNGExTJn08DLFaAaw&oe=6AC0F365",
+  "owner_type": "post",
+  "owner_id": "aeb3bc2f-d186-4976-a6af-fce10f253ebd",
+  "photo_fbid": "2237952880271731",
+  "position": 0,
+  "storage_uri": "media/assets/8b/07/8b072e7b7ed984919b27859379342d1b3153f10d667e6deebbf1587bb0817823.jpg",
+  "sha256": "8b072e7b7ed984919b27859379342d1b3153f10d667e6deebbf1587bb0817823",
+  "mime_type": "image/jpeg",
+  "file_size": 162534,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "12:47\n* .all 33%\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n546\nHạng 6 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 18% khách hàng cá nhân\nkhác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí\nBảo hiểm Sức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n<\nO\nC Hiện thông tin\n*****\n*****\n*****",
+  "cic_data": {
+    "is_cic": true,
+    "score": 546,
+    "tier": 6,
+    "scoring_date": "21/08/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "12:47\n* .all 33%\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n546\nHạng 6 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 18% khách hàng cá nhân\nkhác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí\nBảo hiểm Sức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n<\nO\nC Hiện thông tin\n*****\n*****\n*****"
+  }
+}

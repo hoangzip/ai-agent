@@ -1,0 +1,23 @@
+{
+  "id": "421d3e55-44d3-462f-9602-3e421d884f7c",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/814575165_1743801873556911_7824080611052757484_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEMRu-dttxrQo3lyX_hxm6ThpbrP1fYW-uGlus_V9hb6xpihNv5Uj8D-4fbIZJ8p52kdtZfWpsvFuXqylbtQfAS&_nc_ohc=5sMQcf7w9KkQ7kNvwG3NsUZ&_nc_oc=AdrfBc1FCpGy_TC0K3K0c2hzshbEZzjvZGImVHCqZK2NoVYjhYWHhpW4xgSgvO2x43k&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=pFhhj91VDo8iMrYyUfYLrw&_nc_ss=7b2a8&oh=00_AQP7Vqq8D00Aq1iv5nFApeRLkgjz9l_Ls2ruujrQ2yPeog&oe=6AC10496",
+  "owner_type": "post",
+  "owner_id": "1ba32aac-4624-4aad-8905-4992ee331231",
+  "photo_fbid": "1743801870223578",
+  "position": 0,
+  "storage_uri": "media/assets/55/95/55954fa35098a3f6bc11ac40a20401a7da2b3d104dfc438794d1b2a7691ca630.jpg",
+  "sha256": "55954fa35098a3f6bc11ac40a20401a7da2b3d104dfc438794d1b2a7691ca630",
+  "mime_type": "image/jpeg",
+  "file_size": 87581,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "22:17\n•0 S 13\n< Thông tin dư nợ\nThông tin dư nợ O\nTổng dư nợ\n122 Triệu VNĐ\nDư nợ khoản vay\n120 Triệu VNĐ\nDư nợ thẻ tín dụng\n2 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ\n3\nNợ cần chú ý Q\nTổng nợ cần chú ý\n0 VNĐ\nNợ cần chú ý gần nhất\nNgày phát sinh\n--\nPhát sinh tại\n--\nNợ xấu\nTổng nợ xấu\n0 VNĐ\nợ xấu gần nhất\nNgày phát sinh\n-\nPhát sinh tại",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "122 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "22:17\n•0 S 13\n< Thông tin dư nợ\nThông tin dư nợ O\nTổng dư nợ\n122 Triệu VNĐ\nDư nợ khoản vay\n120 Triệu VNĐ\nDư nợ thẻ tín dụng\n2 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ\n3\nNợ cần chú ý Q\nTổng nợ cần chú ý\n0 VNĐ\nNợ cần chú ý gần nhất\nNgày phát sinh\n--\nPhát sinh tại\n--\nNợ xấu\nTổng nợ xấu\n0 VNĐ\nợ xấu gần nhất\nNgày phát sinh\n-\nPhát sinh tại"
+  }
+}

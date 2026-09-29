@@ -1,0 +1,24 @@
+{
+  "id": "43ac8cac-7dab-4372-9c6a-f5fe4adabc6a",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/731199365_122277598736091797_8811892985526921193_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_dArcgBfZ3IQ7kNvwGhuXp2&_nc_oc=Adq6erewJmjxFS9hhoQ713AaQ7m5pHgjccCQ-nKzb38_Pl7wspxaBUxVdcHoIXjcjLk&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=HtNS5es1RF1E6YPJxnH10Q&_nc_ss=7b289&oh=00_AQNglYWlCFGPVSyYF_dlogzlJhNfDPjBkQNPkeR3cx_HJg&oe=6AC0817E",
+  "owner_type": "post",
+  "owner_id": "1595dbcf-3d0e-4175-8b17-aa567ec5be31",
+  "photo_fbid": "122277598730091797",
+  "position": 0,
+  "storage_uri": "media/assets/bc/2f/bc2fba9be56d89fa8836957480f6104a9a3e511d8daab8fe2bd85e7823095875.jpg",
+  "sha256": "bc2fba9be56d89fa8836957480f6104a9a3e511d8daab8fe2bd85e7823095875",
+  "mime_type": "image/jpeg",
+  "file_size": 112352,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "08:01\n•ill\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n545\nHạng 6 O\nNgày chấm: 15/04/2026\n• Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n545\n850\n680\n510\n340\n170\n0\n4/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin",
+  "cic_data": {
+    "is_cic": true,
+    "score": 545,
+    "tier": 6,
+    "scoring_date": "15/04/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "08:01\n•ill\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n545\nHạng 6 O\nNgày chấm: 15/04/2026\n• Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n545\n850\n680\n510\n340\n170\n0\n4/2026\nThông tin chi tiết v\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ấn thông tin"
+  }
+}

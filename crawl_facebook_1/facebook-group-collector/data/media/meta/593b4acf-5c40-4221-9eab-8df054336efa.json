@@ -1,0 +1,23 @@
+{
+  "id": "593b4acf-5c40-4221-9eab-8df054336efa",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/755381003_1982393325790344_7107583319600753545_n.png?stp=dst-png&cstp=mx1191x1259&ctp=s1191x1259&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGi6rJfmB8f8Qk_NQlFBp_S2nsplwFBsFfaeymXAUGwVzR87wAhIck7K3Vs3hxzVewodmS_z4izXjyqfQ6HZT7n&_nc_ohc=y5M-4eZORt0Q7kNvwF8eYJo&_nc_oc=AdoT91Sq48ZNtB17F4WSRztSkIDDY_8GJFCOvie1wL3NRZobA8whT3K86EaIiz499I0&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=rvtVv2ZhsqS_UUe1OfM26A&_nc_ss=7b2a8&oh=00_AQPXDKcZChVETAiRrxYVnXdJVnWTURpvYuUHcFUCGKT8Xw&oe=6AC1746A",
+  "owner_type": "post",
+  "owner_id": "e08d916b-cac8-40de-98fe-dfa92107ff85",
+  "photo_fbid": "1982393322457011",
+  "position": 0,
+  "storage_uri": "media/assets/31/dc/31dcd6ca1b41b6479e8574ebc399ae0dc7993e79a778ba4e3f7d2b1aff1df649.png",
+  "sha256": "31dcd6ca1b41b6479e8574ebc399ae0dc7993e79a778ba4e3f7d2b1aff1df649",
+  "mime_type": "image/png",
+  "file_size": 754708,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Thông tin khoản vay\nSố tiền đã giải ngân\n2.700.000 đ\nThời hạn vay\n15 ngày\nNgày giải ngân\n23/07/2026\nNgày đến hạn thanh toán\n06/08/2026\nSố tiền cần thanh toán\n3.600.000 đ\nThanh toán ngay\nNhắc lịch thanh toán\nVui lòng thanh toán trước ngày đến hạn đề tránh phát sinh phí\ntrễ hạn và ảnh hưởng đến lịch sử tín dụng của bạn.",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "2.700.000 đ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Thông tin khoản vay\nSố tiền đã giải ngân\n2.700.000 đ\nThời hạn vay\n15 ngày\nNgày giải ngân\n23/07/2026\nNgày đến hạn thanh toán\n06/08/2026\nSố tiền cần thanh toán\n3.600.000 đ\nThanh toán ngay\nNhắc lịch thanh toán\nVui lòng thanh toán trước ngày đến hạn đề tránh phát sinh phí\ntrễ hạn và ảnh hưởng đến lịch sử tín dụng của bạn."
+  }
+}

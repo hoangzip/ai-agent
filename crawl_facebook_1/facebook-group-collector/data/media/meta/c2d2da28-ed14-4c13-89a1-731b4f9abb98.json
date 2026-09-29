@@ -1,0 +1,24 @@
+{
+  "id": "c2d2da28-ed14-4c13-89a1-731b4f9abb98",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/815920305_122228444804564941_3894713414694094863_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2220&ctp=s1080x2220&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHDQJa7lH_57DtMh5A4Be93HXoR3HGejVsdehHccZ6NW_7YYArhWDcB5OdLFxUMXO6XkzyE8x5FuyQC7qzR26Po&_nc_ohc=HCGPQpU9KtAQ7kNvwFXS8xb&_nc_oc=AdowJAsBcnpvzUrtrNPMrM-c-AtSonJOcCnHcwOi1mf6nzPcgdtkUGF96HfsLP3kpiQ&_nc_zt=23&_nc_ht=scontent-hkg1-1.xx&_nc_gid=Zj5XhxarSRgbUJ1ddi6h6Q&_nc_ss=7b2a8&oh=00_AQM8cwQbz5POEpLUcK0M5ra6e-RjhOfutyDNU6B-Ui3DUA&oe=6AC0DF94",
+  "owner_type": "post",
+  "owner_id": "5a762a3b-8536-4261-ae00-95285e1586c0",
+  "photo_fbid": "122228444798564941",
+  "position": 0,
+  "storage_uri": "media/assets/3d/28/3d28fd8500d6feea3236254ee343917ad8be4c220e742dc69b7dbc4825a49b43.jpg",
+  "sha256": "3d28fd8500d6feea3236254ee343917ad8be4c220e742dc69b7dbc4825a49b43",
+  "mime_type": "image/jpeg",
+  "file_size": 162166,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "16:52 f\nVo))\nG S LET Aill\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n562\nHạng 6 Đ\nNgày chấm: 21/08/2026\nĐiểm cao hơn 28% khách hàng cá nhân\nkhác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐiểm CIC tốt, thêm đặc ...\nHoàn 100% phí phạt nếu BH xe\nmáy điện tử mua trên MoMo bị ...\nNhận ngay\nĐể xem các thông tin bị khóa (B), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC\n<",
+  "cic_data": {
+    "is_cic": true,
+    "score": 562,
+    "tier": 6,
+    "scoring_date": "21/08/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "16:52 f\nVo))\nG S LET Aill\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n562\nHạng 6 Đ\nNgày chấm: 21/08/2026\nĐiểm cao hơn 28% khách hàng cá nhân\nkhác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐiểm CIC tốt, thêm đặc ...\nHoàn 100% phí phạt nếu BH xe\nmáy điện tử mua trên MoMo bị ...\nNhận ngay\nĐể xem các thông tin bị khóa (B), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC\n<"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4cf5812a-43c3-44b1-afb6-48bfb133b3f6",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/825279860_122263501256162038_2616474143668833564_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x2048&ctp=s1152x2048&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEWw00qt_KzePEGfdJdGlEyRMYPcvRMOJJExg9y9Ew4kgk2T1wwfeokAWC19r0VmZhp7zVv02GDEm66NHSNSZnz&_nc_ohc=Y0HjC9ucosUQ7kNvwEaba3t&_nc_oc=Ado6Z3A186kTVl4zUCrW2qw5xiAtcmbQIr4GB9i8Du_WRMc6czWqQQtFy1bL4SiAUSgz8LZv3cTQXWB1ki7obMxR&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=BfTjBZLTuiHO1ahfgt19GA&_nc_ss=7b2a8&oh=00_AQOkQeukWTvXLEWEllyl3Q8sFxLr0GLpd8b96Mjr1Nz2mA&oe=6ABF7D9D",
+  "owner_type": "post",
+  "owner_id": "b79d6926-3a26-446f-b376-640f7709725a",
+  "photo_fbid": "122263501250162038",
+  "position": 0,
+  "storage_uri": "media/assets/32/bb/32bbb8ae361ca9ed373131c722bebbc8c06eb2e96e22d3a590491699d2101b20.jpg",
+  "sha256": "32bbb8ae361ca9ed373131c722bebbc8c06eb2e96e22d3a590491699d2101b20",
+  "mime_type": "image/jpeg",
+  "file_size": 159840,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Viettel\n07:04\nKiểm tra Điểm tín dụng CIC\n94% O\nCreditinFo\n599\nHạng 4\nNgày chấm: 21/08/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 58% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liêu tính đến naàv chấm 28/02/2026. ban\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 599,
+    "tier": 4,
+    "scoring_date": "21/08/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "Viettel\n07:04\nKiểm tra Điểm tín dụng CIC\n94% O\nCreditinFo\n599\nHạng 4\nNgày chấm: 21/08/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 58% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC tốt, thêm đặc quyền\nHoàn 100% phí phạt nếu BH xe máy\nđiện tử mua trên MoMo bị từ chối\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liêu tính đến naàv chấm 28/02/2026. ban\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

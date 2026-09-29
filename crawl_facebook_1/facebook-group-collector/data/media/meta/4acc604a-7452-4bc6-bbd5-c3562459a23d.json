@@ -1,0 +1,23 @@
+{
+  "id": "4acc604a-7452-4bc6-bbd5-c3562459a23d",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/799363793_3356032571256546_1055599726537957809_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1604&ctp=s720x1604&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFIVWeeMtBbWP4WdfAzs0VZ1CY3YS8W2k_UJjdhLxbaT6A1CiqIacXfOilTruIQKNk-07e0G2x5UBSWTJ9JwVcO&_nc_ohc=27-j4gAehUQQ7kNvwEDGt5W&_nc_oc=AdpyzrHU4igQ4dnEeGD3NRM6DwCNhTOwYWbKdNAcXazLFVlJCyqeCrautAbauTJ4Mc-qfrwZyhf_Sw8QUSnb1wch&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=8v93yOg-zbCfUJKA2aFSDA&_nc_ss=7b2a8&oh=00_AQMnviEYnkhDNVo28nc_tOTTnOJuV2xzYjm_3aJf-Vg7yg&oe=6ABFD865",
+  "owner_type": "post",
+  "owner_id": "d9242890-1b10-4c06-96bf-6064de54c6e8",
+  "photo_fbid": "3356032564589880",
+  "position": 0,
+  "storage_uri": "media/assets/6a/c0/6ac03cc5fac20a462e5c87837f9c7e4f33049886adf455da3cc3a4c95babd8d9.jpg",
+  "sha256": "6ac03cc5fac20a462e5c87837f9c7e4f33049886adf455da3cc3a4c95babd8d9",
+  "mime_type": "image/jpeg",
+  "file_size": 65988,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "17:15\nĐặt hàng\nTên sản phẩm\nVí Tiện Lợi\nHạn mức khoản vay\n₫5.500.00\n0\nMã đơn\n26083088023087612\n2026-08-30\nThời gian đăng ký\n09:31:10\nTiến độ xử lý\nĐã quá hạn\nVui lòng trả nợ kịp thời, tránh\nảnh hưởng đến tín dụng cá\nnhân\nTrả nợ",
+  "cic_data": {
+    "is_cic": true,
+    "phone_number": "0876122026",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "17:15\nĐặt hàng\nTên sản phẩm\nVí Tiện Lợi\nHạn mức khoản vay\n₫5.500.00\n0\nMã đơn\n26083088023087612\n2026-08-30\nThời gian đăng ký\n09:31:10\nTiến độ xử lý\nĐã quá hạn\nVui lòng trả nợ kịp thời, tránh\nảnh hưởng đến tín dụng cá\nnhân\nTrả nợ"
+  }
+}

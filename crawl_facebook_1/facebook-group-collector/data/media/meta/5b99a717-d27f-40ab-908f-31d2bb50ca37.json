@@ -1,0 +1,23 @@
+{
+  "id": "5b99a717-d27f-40ab-908f-31d2bb50ca37",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/821523499_3028885677443263_5149401428498269168_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1600&ctp=s720x1600&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=2bp2uMy67OQQ7kNvwFcGhoV&_nc_oc=AdqElaGST8xfbdkX-rrg4x8hYuYfEH_ZjTCHC69DFA2u0TF8XvkD_Y-FXR9FoRq4G74&_nc_zt=23&_nc_ht=scontent.fsgn5-8.fna&_nc_gid=p9gfsK56nr3vDittwRQujQ&_nc_ss=7b289&oh=00_AQNZ5MGuR2ksfb2oK60mtCW5Gef8C1jpLCSzJcZahaKB5w&oe=6AC0BA52",
+  "owner_type": "post",
+  "owner_id": "ee6ac7c2-5a9c-4fe4-9ebc-22c9521f2556",
+  "photo_fbid": "3028885674109930",
+  "position": 0,
+  "storage_uri": "media/assets/b3/ff/b3ff0bd90cf76e82025cc4cc07f64c8d5e16576d08b78d8d160246d5804c258e.jpg",
+  "sha256": "b3ff0bd90cf76e82025cc4cc07f64c8d5e16576d08b78d8d160246d5804c258e",
+  "mime_type": "image/jpeg",
+  "file_size": 64896,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Thông tin dư nợ\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n41 Triệu VNĐ\n19 Triệu VNĐ\n22 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan\nhệ\nNợ cần chú ý\nTổng nợ cần chú ý\n22 Triệu VNĐ\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh\ntại\n07/09/2026\nNgân hàng TMCP Kỹ Thương\nViệt Nam - Chi nhánh Quy Nhơn\nNợ xấu\nTổng nợ xấu\n0 VNĐ\nNợ xấu gn nhất",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "41 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "< Thông tin dư nợ\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n41 Triệu VNĐ\n19 Triệu VNĐ\n22 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan\nhệ\nNợ cần chú ý\nTổng nợ cần chú ý\n22 Triệu VNĐ\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh\ntại\n07/09/2026\nNgân hàng TMCP Kỹ Thương\nViệt Nam - Chi nhánh Quy Nhơn\nNợ xấu\nTổng nợ xấu\n0 VNĐ\nNợ xấu gn nhất"
+  }
+}

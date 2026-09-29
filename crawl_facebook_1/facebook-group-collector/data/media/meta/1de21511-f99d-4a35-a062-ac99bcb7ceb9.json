@@ -1,0 +1,25 @@
+{
+  "id": "1de21511-f99d-4a35-a062-ac99bcb7ceb9",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/742317404_1504690838126441_738600476357002673_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1520&ctp=s720x1520&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=4YtkUOBGthsQ7kNvwFqfYZd&_nc_oc=AdoLTgkNn65R36AyAGeMt08IZ-8OlWTtJgrSZTaIe_dvSZUJ-xnWkzwEjvotIR256Pusgs55tuEV1Xv8igUoaSnn&_nc_zt=23&_nc_ht=scontent.fsgn8-1.fna&_nc_gid=tWmva8ZoZPjy2RW2wYLKKA&_nc_ss=7b289&oh=00_AQOk80fGO5-oje1lO9DxPF3Kmiinj-s0hlB91C9-L3ZjYA&oe=6AC0611B",
+  "owner_type": "post",
+  "owner_id": "0d475078-1937-4de6-a687-6a50fa41c024",
+  "photo_fbid": "1504690834793108",
+  "position": 0,
+  "storage_uri": "media/assets/db/37/db376fdc2cbda4ffb61c89573be50dc6112cac9d5460c22c8ce2fb9e95bcc654.jpg",
+  "sha256": "db376fdc2cbda4ffb61c89573be50dc6112cac9d5460c22c8ce2fb9e95bcc654",
+  "mime_type": "image/jpeg",
+  "file_size": 136275,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "13:31 40 .l C\n26) 4\nBáo cáo\n- Nợ cân chú ý\n- Nơ xâu\n3. Ngân hàng TMCP Việt Nam Thịnh Vượng\nNgày báo cáo dư nợ vay gần nhất: 08/04/2026\nTông nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xâu\nTổng cộng\n41\n0\n- Tổng dư nợ bao gồm cá khoán nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phú Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ sô ngày chậm thanh toán từ 10 -90\nngày đối với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\n- Nợ xâu gồm các khoản nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan của\nChính phú Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán trên 90 ngày\nđồi với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chinh phú/ Ngân hàn\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgày phát sinh nợ\ncần chú ý gân nhât\nNgày ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 582,
+    "tier": 5,
+    "scoring_date": "23/04/2026",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "13:31 40 .l C\n26) 4\nBáo cáo\n- Nợ cân chú ý\n- Nơ xâu\n3. Ngân hàng TMCP Việt Nam Thịnh Vượng\nNgày báo cáo dư nợ vay gần nhất: 08/04/2026\nTông nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xâu\nTổng cộng\n41\n0\n- Tổng dư nợ bao gồm cá khoán nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phú Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ sô ngày chậm thanh toán từ 10 -90\nngày đối với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phủ/ Ngân hàng nhà\n- Nợ xâu gồm các khoản nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan của\nChính phú Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán trên 90 ngày\nđồi với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chinh phú/ Ngân hàn\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgày phát sinh nợ\ncần chú ý gân nhât\nNgày phát sinh nợ\nxấu gần nhất\nNgân hàng TMCP Việt Nam Thịnh Vượng\n08/04/2026\nLưu ý: Thông tin lịch sử nợ cần chú ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại bàng và các khoan\ncấp tín dụng khác. Lịch sử nợ cần chú ý trong 12 tháng gần nhất; lịch sử nợ xấu trong vòng 05 năm gần\nnhất.\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChi tiêu\nGiá trị\nBảo đảm tiên vay băng tài sản\nKhông có\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\nĐiểm tín dụng:\n582\nHạng:\n5\nNgày chấm điểm:\n23/04/2026\n100%\n- 50%\nXếp hạng của\nkhách hàng\n49\nĐiêm tín dụng của khách hàng cao\nhơn điểm tin dụng của 49% tổng\nkhách hàng cá nhân được châm điêm\ntại kho dữ liệu CIC\n0%\nCHI TIẾT ĐIỂM VÀ HẠNG\nXấu\nHạng\n10\n09\nDưới trung bình Trung bình\n08\n07\n06\n05\nTốt\nRất tốt\n04\n03\n02\n01\nĐiêm 403-429 430-454 455-479 480-544 545-571 572-587 588-605 606-621 622-644 645-706\nĐiểm hạng của khách hàng"
+  }
+}

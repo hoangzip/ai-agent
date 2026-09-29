@@ -1,0 +1,22 @@
+{
+  "id": "08b1c5fd-6b2d-494d-a5ef-715f036e9a4f",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/754936292_3774676009339077_5112931440868902150_n.jpg?stp=dst-jpg_tt6&cstp=mx993x489&ctp=s993x489&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=DvrRMHlKWqAQ7kNvwHnQ-Rz&_nc_oc=AdoUJGZp0p931to7NRUJ_AggzzHOiLWljlYhN6Qha3ZtbQifW0ci96omg0-TkKiYtVWhuPSD1xvuVCukx7khhf25&_nc_zt=23&_nc_ht=scontent.fsgn8-1.fna&_nc_gid=doIoVx91tf88FpMb2Z8ErA&_nc_ss=7b289&oh=00_AQOLWqrmgjyfXwXjTod_2qEOf5cQIn-QzCE2qY1BW1vA3w&oe=6AC06636",
+  "owner_type": "post",
+  "owner_id": "d3a6587f-e935-4644-bf99-55c871cfc325",
+  "photo_fbid": "3774676002672411",
+  "position": 0,
+  "storage_uri": "media/assets/1b/ec/1becc274942f392764088506886a41afaf5d2a9dc7fb079c4fdf3c73251275e1.jpg",
+  "sha256": "1becc274942f392764088506886a41afaf5d2a9dc7fb079c4fdf3c73251275e1",
+  "mime_type": "image/jpeg",
+  "file_size": 40146,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Liobank • 9 phút\n^\nThông báo nợ quá hạn\nQuý khách*\nthẻ tín dụng của\nQuý Khách đã quá hạn thanh toán 85 ngày và\nNgân Hàng đang chuẩn bị hồ sơ khời kiện",
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Liobank • 9 phút\n^\nThông báo nợ quá hạn\nQuý khách*\nthẻ tín dụng của\nQuý Khách đã quá hạn thanh toán 85 ngày và\nNgân Hàng đang chuẩn bị hồ sơ khời kiện"
+  }
+}

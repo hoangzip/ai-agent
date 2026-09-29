@@ -1,0 +1,25 @@
+{
+  "id": "78417de9-9850-404a-8298-0fb1801218c7",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/778972738_1808252420166311_3159746467218445269_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHLSG5wfpw1tQFJPbba6qT1m9TqSFoINgyb1OpIWgg2DGQ7F6RjxgphFhyDVpUvS4wAxvO_nTP7APwQoJmYqKdg&_nc_ohc=6078DexcM3UQ7kNvwHcMJmy&_nc_oc=AdpFLdtYdfTf_TlMu0b1yGO36pYGe1-5rES1SHY6vGgHQ8pInuTFeKxa8DRVp-yLwZY&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=1jgSY6Jv-DQlygHgyWyi4g&_nc_ss=7b2a8&oh=00_AQMQ6Puw53KRHxCPrYSm0Om__ZOGOsdZiy8LNxUuNikD-Q&oe=6AC0FD06",
+  "owner_type": "post",
+  "owner_id": "8638f7de-4162-4005-9eef-4e0e80ae004a",
+  "photo_fbid": "1808252413499645",
+  "position": 0,
+  "storage_uri": "media/assets/32/89/3289854cd5571440facb62b3a1f5e146126868a45325288f3feead27bc9ce6eb.jpg",
+  "sha256": "3289854cd5571440facb62b3a1f5e146126868a45325288f3feead27bc9ce6eb",
+  "mime_type": "image/jpeg",
+  "file_size": 151993,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "00:25\nKiểm tra Điểm tín dụng CIC\n•Il 5G 62\nCiCB\nCreditinFo\n590\nHạng 4 0\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 53% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nBạn đang có lợi thế vay vốn\nXem ngay khoản vay tiền mặt bạn\ncó thể tiếp cận trên MoMo\nX\nKiểm tra\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTống dư nợ\nKhông có dư nợ tại CIC\nCập nhật Điểm tháng mới\n• Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 590,
+    "tier": 4,
+    "scoring_date": "22/03/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "00:25\nKiểm tra Điểm tín dụng CIC\n•Il 5G 62\nCiCB\nCreditinFo\n590\nHạng 4 0\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 53% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nBạn đang có lợi thế vay vốn\nXem ngay khoản vay tiền mặt bạn\ncó thể tiếp cận trên MoMo\nX\nKiểm tra\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTống dư nợ\nKhông có dư nợ tại CIC\nCập nhật Điểm tháng mới\n• Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

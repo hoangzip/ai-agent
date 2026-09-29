@@ -1,0 +1,24 @@
+{
+  "id": "60c54abe-ab37-41eb-908f-539b8aae3945",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/718032672_1028547026526329_6362874278974503085_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2372&ctp=s1080x2372&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGU7c3-NClmyPvGyTG6o5AgW43XMq-pL2xbjdcyr6kvbH3l6qqq8gPmWp-Q-SLOkAfDHOIYf1JQSNfsWuo92UXc&_nc_ohc=Ozfe3RhBb38Q7kNvwEI4pMI&_nc_oc=AdqptsbXFV_Uh6NHCHLmXH_QO7h-m_HOIzFcLWstPZiVR7TSSgKRDFabc2bB-lSyfFzgF8pvwuYplklUnCZrJ2ss&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=0mS-JVjamT68Cd_HKQN-vg&_nc_ss=7b2a8&oh=00_AQP9mG8kXoKoE6n543B-8fS4dY3ries1pJAYMwWEeGHFAw&oe=6ABF7CAB",
+  "owner_type": "post",
+  "owner_id": "8e4688a2-e9a5-4d67-a1c4-679699b7abd3",
+  "photo_fbid": "1028547023192996",
+  "position": 0,
+  "storage_uri": "media/assets/65/fd/65fdd8f76097154ae13bcbd9c116fa37a5f48996b9aac172c57e69aff6d8825e.jpg",
+  "sha256": "65fdd8f76097154ae13bcbd9c116fa37a5f48996b9aac172c57e69aff6d8825e",
+  "mime_type": "image/jpeg",
+  "file_size": 135123,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "11:45\nN *•\nLTE2\n63\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n545\nHạng 6 C\nNgày chấm: 15/05/2026\nCao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nF1OOIR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay •\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n545\n850\n680\n510\n340\n170\n5/2026",
+  "cic_data": {
+    "is_cic": true,
+    "score": 545,
+    "tier": 6,
+    "scoring_date": "15/05/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "11:45\nN *•\nLTE2\n63\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n545\nHạng 6 C\nNgày chấm: 15/05/2026\nCao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nF1OOIR\nvào tài khoản\nNhận vốn ảo - Thực chiến đầu tư\nchứng khoán\nĐa dạng hồ sơ tài chính ngay •\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n545\n850\n680\n510\n340\n170\n5/2026"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a7b4f634-9f76-4d29-a6ef-7fdc2f7fe442",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/798095290_1465545182263824_8474177071074960314_n.jpg?stp=dst-jpg_tt6&cstp=mx945x2048&ctp=s945x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGLsmoH5AK5VfM6XT9ww42iuYhgE5s_QN-5iGATmz9A3xEI-oJ7WFCqStdLlhsAZIXO_-GGQnKurtXShk8cL2AR&_nc_ohc=gYj8QtsQVuIQ7kNvwEjGhFz&_nc_oc=Adot3XWlvNO9N4MPQFLcwE_vmcGxGFA4ncd63rkWtPto6eHTfmgfSGJA45WDv049GtwSIFaYN3ShgMm6QHLj5wdP&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=_gfQXfH1ucBXWJkAWy-YIg&_nc_ss=7b2a8&oh=00_AQLua9NAXUsUrDEQh5OX19L0hGxeytzHZ24_vjKwiNLbmA&oe=6ABF4A60",
+  "owner_type": "post",
+  "owner_id": "c8e2427e-17c7-4fe7-9ca8-d0a44b2e5569",
+  "photo_fbid": "1465545175597158",
+  "position": 0,
+  "storage_uri": "media/assets/f0/4b/f04b78fc9ec14050c88f5c61013dfd0ebe5c315d28cc21fce5cc12b0329ae249.jpg",
+  "sha256": "f04b78fc9ec14050c88f5c61013dfd0ebe5c315d28cc21fce5cc12b0329ae249",
+  "mime_type": "image/jpeg",
+  "file_size": 144241,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "15:534\nall S\n21\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n509\nHạng 7 O\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 12% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 28/02/2026, bạn\ncó khoản nợ xấu và nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n11 Triệu VNĐ\nDư nợ khoản vay\n8\nDư nợ thẻ tín dụng\nCiCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 509,
+    "tier": 7,
+    "scoring_date": "22/03/2026",
+    "total_debt": "11 Triệu VNĐ",
+    "has_bad_debt": true,
+    "provider": "MoMo / CIC",
+    "raw_text": "15:534\nall S\n21\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n509\nHạng 7 O\nNgày chấm: 22/03/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 12% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 28/02/2026, bạn\ncó khoản nợ xấu và nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\n11 Triệu VNĐ\nDư nợ khoản vay\n8\nDư nợ thẻ tín dụng\nCiCB\nCreditinFo\nĐồng bộ dữ liệu CIC\nĐể xem các thông tin bị khóa (8), bạn cần thực\nCập nhật Điểm tháng mới\nMiễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

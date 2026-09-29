@@ -1,0 +1,22 @@
+{
+  "id": "5c85c74c-6451-4ade-a7bf-c06293b3f8e3",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/736609897_2153349818569314_5177992063885486689_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1284x298&ctp=s1284x298&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeESkEHG1FnSRq94uy3OFKoiw306sUdT8zHDfTqxR1PzMeLTidLgjDWneBWXkwAj8wOwR2jpGwyUv-MyBxVDwgl6&_nc_ohc=oJ4t9i6iakgQ7kNvwGcuBtS&_nc_oc=AdqCVzds9zQCh2HLEbSL9EmYaAMSsMAd97McOFkB693joq0Lo1QKG2N4kxwiPEDrIo7_Io3PXKvnJTxKA3qTY-kV&_nc_zt=23&_nc_ht=scontent.fsgn8-2.fna&_nc_gid=1NV9jTVtG2sZLCBNmT_kwg&_nc_ss=7b2a8&oh=00_AQONlKZMDtw0JsuFMfwp_gAbUgxQvzFqJqNF_xKehaBcRg&oe=6AC1C07E",
+  "owner_type": "post",
+  "owner_id": "7741543e-6735-49f6-b85e-b625e9ef54ae",
+  "photo_fbid": "2153349811902648",
+  "position": 0,
+  "storage_uri": "media/assets/a0/05/a00596c8ac159b40243c6569d31e86a7a10033e99656f79cc3d33e5e0ed62d65.jpg",
+  "sha256": "a00596c8ac159b40243c6569d31e86a7a10033e99656f79cc3d33e5e0ed62d65",
+  "mime_type": "image/jpeg",
+  "file_size": 22956,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Giải ngân khoản vay\n10/06 22:16\n+30.559.000đ",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "30.559.000đ",
+    "provider": "CIC",
+    "raw_text": "Giải ngân khoản vay\n10/06 22:16\n+30.559.000đ"
+  }
+}

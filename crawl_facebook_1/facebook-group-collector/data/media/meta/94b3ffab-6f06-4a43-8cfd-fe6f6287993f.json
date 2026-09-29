@@ -1,0 +1,22 @@
+{
+  "id": "94b3ffab-6f06-4a43-8cfd-fe6f6287993f",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/783512816_994309813617208_6095337316711286511_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHT_RZg3LILbJM-QRKGyr8ZEldfSaVX0ksSV19JpVfSS265HVnwwVDrrVsgwNaKPflpK7R42u5hfsXZuTSvH9Y6&_nc_ohc=tekSXJwWi0oQ7kNvwEAneau&_nc_oc=Adp_ooeesAD64aKL0nnzb9T2QYN1MGQadboW2OVecaBnfIcEZgjtMGs0co064chw37U&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=d1y45Bm-BmzT9ZzMrgwTdQ&_nc_ss=7b2a8&oh=00_AQPlVtLzmY2jgONlk7xPyTbcxV_Noy-7zGcwsS8mUSQlNw&oe=6AC11906",
+  "owner_type": "post",
+  "owner_id": "93fbe0b2-f74a-452b-ad1a-9ffed54b9caa",
+  "photo_fbid": "994309810283875",
+  "position": 0,
+  "storage_uri": "media/assets/15/83/15830ae9bc89b0fa105625bf81e5aee161203d9bb43c929dcdd2aeccaece2979.jpg",
+  "sha256": "15830ae9bc89b0fa105625bf81e5aee161203d9bb43c929dcdd2aeccaece2979",
+  "mime_type": "image/jpeg",
+  "file_size": 39390,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "12:33\n:! = 79\nThanh toán khoản vay\nHình thức thanh toán\nToàn bộ\nSố tiên: 1.095.712 đ\n• Một phân\nSố tiền thanh toán (Tối thiểu 1 đ)\nNhập số tiền thanh toán\nTiếp tục",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "1.095.712 đ",
+    "provider": "CIC",
+    "raw_text": "12:33\n:! = 79\nThanh toán khoản vay\nHình thức thanh toán\nToàn bộ\nSố tiên: 1.095.712 đ\n• Một phân\nSố tiền thanh toán (Tối thiểu 1 đ)\nNhập số tiền thanh toán\nTiếp tục"
+  }
+}

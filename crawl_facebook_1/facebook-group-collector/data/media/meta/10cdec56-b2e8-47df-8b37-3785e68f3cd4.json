@@ -1,0 +1,22 @@
+{
+  "id": "10cdec56-b2e8-47df-8b37-3785e68f3cd4",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/748969786_122107557015334986_1329156709818164094_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH6-HHTXSKz8M1d_uT3STZisBumHpn-qFGwG6Yemf6oUfPpsa-_Oajr-EvGFr_bgSQDvuJXAPQAwyW14_BeQTWX&_nc_ohc=Xjk_DGNeGQYQ7kNvwFRvuQs&_nc_oc=AdqFCCMbVw3Bl1PqfRvGPeRIx2g_b2AIJ4VpzpvQSrqP5bjLH_fKcmJIVr0sxaJEPXU&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=Wi7bSbnu2i0WA1fb6u-A0g&_nc_ss=7b2a8&oh=00_AQOrXQUJzaGDFOrkIYRZ38O8fl7rsnFNVnplWcbxjW0zig&oe=6AC17400",
+  "owner_type": "post",
+  "owner_id": "82a0c901-04a6-441a-842f-d429365b9ad9",
+  "photo_fbid": "122107557009334986",
+  "position": 0,
+  "storage_uri": "media/assets/61/f6/61f6363247cde7d01b8275a2a93de2c346b893fcf41531f4ffd43da57b46a858.jpg",
+  "sha256": "61f6363247cde7d01b8275a2a93de2c346b893fcf41531f4ffd43da57b46a858",
+  "mime_type": "image/jpeg",
+  "file_size": 56453,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Trả khoản vay\nMã khách hàng\nTên khách hàng\nHạn thanh toán\n...\nX\n.za\n16/07/2026\nChọn khoản cần thanh toán\n• Dư nợ trong kỳ\nTổng tiền thanh toán\nOđ\nThanh toán",
+  "cic_data": {
+    "is_cic": true,
+    "customer_name": "Hạn thanh toán",
+    "provider": "CIC",
+    "raw_text": "< Trả khoản vay\nMã khách hàng\nTên khách hàng\nHạn thanh toán\n...\nX\n.za\n16/07/2026\nChọn khoản cần thanh toán\n• Dư nợ trong kỳ\nTổng tiền thanh toán\nOđ\nThanh toán"
+  }
+}

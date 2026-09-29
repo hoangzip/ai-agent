@@ -1,0 +1,23 @@
+{
+  "id": "8f812d4c-801f-446d-87c7-9f351d2f0819",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/756910004_1611517457065151_6232480518471824731_n.jpg?stp=dst-jpg_tt6&cstp=mx2520x1018&ctp=s2520x1018&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFh9iJ-cmy8wcOrE1RjHfUnVN4Kke8ZPZ1U3gqR7xk9nTRZ3iIOLmaqA0LHE-mP2mIcpo1gOpdp2307gBURSqqx&_nc_ohc=thtfQuNBc3EQ7kNvwEmjxfr&_nc_oc=AdrVQ5EOY4khFoyUeVQZoYFga2sScV1Rrgg6J90VyIMCnF0wYHHhM7NpNinKane-wJQ&_nc_zt=23&_nc_ht=scontent-hkg1-1.xx&_nc_gid=xk9MnoKAlP42FoW4MQA6yA&_nc_ss=7b2a8&oh=00_AQNJmvuMC7nACkwc-We8ZBMatytcaB1rSWmILL4EpiNyTw&oe=6AC16AE7",
+  "owner_type": "post",
+  "owner_id": "5f9da998-2f8e-4832-8da4-50ff76b67e1e",
+  "photo_fbid": "1611517453731818",
+  "position": 0,
+  "storage_uri": "media/assets/8e/a6/8ea6db67a7109ef062c2634d2fd414e9d4271fb3c8c5b6ffa7936854301aa99f.jpg",
+  "sha256": "8ea6db67a7109ef062c2634d2fd414e9d4271fb3c8c5b6ffa7936854301aa99f",
+  "mime_type": "image/jpeg",
+  "file_size": 359763,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Loại thẻ tín dụng [2]\nTổng hạn mức thẻ được cấp [3]\nI\nNgày đến hạn thanh toán [4]\nSố tiền thanh toán tối thiểu [5]\nDư nợ cuối kỳ [6]\nTổng dư nợ [7]\n(bao gồm Khoản trả góp chưa đến hạn)\nJCB STANDARD\n10,000,000 VND\n06/08/2026\n0 VND\n(2,106,485) VND\n(2,106,485) VND\nTên Khách\nĐịa chỉ: 445/\nDo, ng Binh Ta\nQuý khách vui lòng thanh toán Số tiền thanh toán tối thiểu hoặc Dư nợ cuối kỳ trước Ngày đến hạn thanh toá",
+  "cic_data": {
+    "is_cic": true,
+    "address": "Do, ng Binh Ta Quý khách vui lòng thanh toán Số tiền thanh toán tối thiểu hoặc Dư nợ cuối kỳ trước Ngày đến hạn thanh toá",
+    "total_debt": "10,000,000 VND",
+    "provider": "CIC",
+    "raw_text": "Loại thẻ tín dụng [2]\nTổng hạn mức thẻ được cấp [3]\nI\nNgày đến hạn thanh toán [4]\nSố tiền thanh toán tối thiểu [5]\nDư nợ cuối kỳ [6]\nTổng dư nợ [7]\n(bao gồm Khoản trả góp chưa đến hạn)\nJCB STANDARD\n10,000,000 VND\n06/08/2026\n0 VND\n(2,106,485) VND\n(2,106,485) VND\nTên Khách\nĐịa chỉ: 445/\nDo, ng Binh Ta\nQuý khách vui lòng thanh toán Số tiền thanh toán tối thiểu hoặc Dư nợ cuối kỳ trước Ngày đến hạn thanh toá"
+  }
+}

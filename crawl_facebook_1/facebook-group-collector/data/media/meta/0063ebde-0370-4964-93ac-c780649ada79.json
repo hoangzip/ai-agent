@@ -1,0 +1,26 @@
+{
+  "id": "0063ebde-0370-4964-93ac-c780649ada79",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/822726355_2285868875506948_8200487799024508366_n.jpg?stp=dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=pP85q96q6CkQ7kNvwHyslt5&_nc_oc=AdqAZpG0sJ8gtKUhJcAJ8rySje6k0odzgzV97rQnl4OTIpkeOkRsF1Mua6nv2nuj7Oo&_nc_zt=23&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=EUe7S63GQDRNMVJadUQW9g&_nc_ss=7b289&oh=00_AQN0RT5u6GuxVy2ri6-lN0m0OpejEPbqTEqbL1v0hWcUqw&oe=6AC0C330",
+  "owner_type": "post",
+  "owner_id": "a54ff21c-2e0f-45e6-9d68-354b5ac67bbc",
+  "photo_fbid": "2285868872173615",
+  "position": 0,
+  "storage_uri": "media/assets/0b/8b/0b8bbc944622c36c34704ea811df1e6eb12a59bdf871594bf770836233c6b8fd.jpg",
+  "sha256": "0b8bbc944622c36c34704ea811df1e6eb12a59bdf871594bf770836233c6b8fd",
+  "mime_type": "image/jpeg",
+  "file_size": 143659,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "23:10\n87\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n542\nHạng 7 0\nNgày chấm: 21/09/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 16% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí Bảo hiếm\nSức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 28/02/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n4 Triệu VNĐ\nCập nhật Điểm tháng mới\n© Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 542,
+    "tier": 7,
+    "scoring_date": "21/09/2026",
+    "total_debt": "4 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "23:10\n87\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n542\nHạng 7 0\nNgày chấm: 21/09/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 16% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐặc quyền Điểm CIC tốt\nNhận ngay 3 tháng miễn phí Bảo hiếm\nSức khỏe+\nX\nNhận ngay\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 28/02/2026, bạn\nkhông có nợ xấu hoặc nợ cần chú ý. Tiếp tục duy\ntrì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\n4 Triệu VNĐ\nCập nhật Điểm tháng mới\n© Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

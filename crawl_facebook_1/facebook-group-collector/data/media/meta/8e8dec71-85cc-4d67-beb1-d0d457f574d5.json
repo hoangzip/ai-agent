@@ -1,0 +1,22 @@
+{
+  "id": "8e8dec71-85cc-4d67-beb1-d0d457f574d5",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/768963128_10216156643626632_8812011449710881612_n.jpg?stp=dst-jpg_tt6&cstp=mx1290x1536&ctp=s1290x1536&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHtFDux1YDPZ8E4ci0Z9DsOY7JVJxEaEMljslUnERoQyZAgCKu77WDcN5zv7G0suYEmyg95WLKs6h9A_4kZPybU&_nc_ohc=yWZV32x4en0Q7kNvwGaJp5Z&_nc_oc=AdoGZV4Z3I9G1Zsv7rMMMhmu38SU_9qoJXJIsMtksZI0Vv7H-76Mq4-HXW5lHXXjJWUvzqXuvLEVsLFSBuLC36ym&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=jBRNKFl0vuQvaY4CF-ogTw&_nc_ss=7b2a8&oh=00_AQLgPm7CJUu2y7_wRMDiqM73cdH5K6VpQHq1AvqM0cl2tA&oe=6ABF6FFD",
+  "owner_type": "post",
+  "owner_id": "a9318dde-2e21-4272-8839-537b97485a17",
+  "photo_fbid": "10216156643546630",
+  "position": 0,
+  "storage_uri": "media/assets/de/04/de04975d1b30d82b1518dff3ce80b6c9f4604e846f7daa2f7b9f0f890c38bc63.jpg",
+  "sha256": "de04975d1b30d82b1518dff3ce80b6c9f4604e846f7daa2f7b9f0f890c38bc63",
+  "mime_type": "image/jpeg",
+  "file_size": 72934,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Thanh toán khoản vay\nTổng số tiền thanh toán kỳ này\nGồm số tiền trong kỳ và số tiền quá hạn\n8.044.000đ\nTổng số tiền quá hạn\n4.024.000đ\nSố tiền khác\nThanh toán",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "8.044.000đ",
+    "provider": "CIC",
+    "raw_text": "Thanh toán khoản vay\nTổng số tiền thanh toán kỳ này\nGồm số tiền trong kỳ và số tiền quá hạn\n8.044.000đ\nTổng số tiền quá hạn\n4.024.000đ\nSố tiền khác\nThanh toán"
+  }
+}

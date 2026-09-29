@@ -1,0 +1,25 @@
+{
+  "id": "fae8eb78-6d16-4d63-b038-4c66cd33b484",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/801430351_1438274724814456_562318672541195951_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHkOfKlrviVBWuetA3PPlOAKdaarJKLq3Qp1pqskourdFfnq1I4Uo60tnbDtQERW0PvJ93ZXWYxtAFGuIDDNHCw&_nc_ohc=dW6E61RqfbgQ7kNvwGqun-o&_nc_oc=AdoWxgBSLGqnL2CK3OU43ylOAy4R5ahk4NI1ijku-hc8SlT6b4R3JyKOlC9wRb2P3fNcXCtZ9jp8b9o1dlKR-wM0&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=MKNjz0YrftaERmgwttJITg&_nc_ss=7b2a8&oh=00_AQLCh2kqu8a0w4fPyApv3buKue4vStHgkleulH6HXsmZ0Q&oe=6ABF47AA",
+  "owner_type": "post",
+  "owner_id": "7e141122-8a76-4d39-b14d-29f80f121d77",
+  "photo_fbid": "1438274721481123",
+  "position": 0,
+  "storage_uri": "media/assets/fc/d7/fcd710c6dfa61d7e8a814623640fbe355e74f1cd71361b5b382b15d047e683a4.jpg",
+  "sha256": "fcd710c6dfa61d7e8a814623640fbe355e74f1cd71361b5b382b15d047e683a4",
+  "mime_type": "image/jpeg",
+  "file_size": 157953,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "9:31 Д\nail\n27 4\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n524\nHạng 7 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026,\nbạn có khoản nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n0 VNĐ\n0 VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 524,
+    "tier": 7,
+    "scoring_date": "21/08/2026",
+    "total_debt": "0 VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "9:31 Д\nail\n27 4\nKiểm tra Điểm tín dụng CIC\nCreditinFo\n524\nHạng 7 O\nNgày chấm: 21/08/2026\nĐiểm cao hơn 14% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 26/01/2026,\nbạn có khoản nợ cần chú ý. Duy trì thói quen\nthanh toán đúng hạn để cải thiện Điểm CIC nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n0 VNĐ\n0 VNĐ"
+  }
+}

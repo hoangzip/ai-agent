@@ -1,0 +1,24 @@
+{
+  "id": "d58fde73-394c-4a3b-bd36-2d26cdd860bf",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/708890283_1757701378546800_5803660274245677713_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2412&ctp=s1080x2412&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHhfAk9VtzwTbArKUfBcpzyQ3ngMlbMfY5DeeAyVsx9jjmrnqO7rRW3sNVlFp8dSpa9VGtgga3WGnMWnRf7CKVQ&_nc_ohc=uETc0fKAAdMQ7kNvwFYwswf&_nc_oc=Adoenj8Wg04f4__cmF-ni6ZrNtiBBZh9LDymu26O4I0allRtr6SMTNHgg_BBVyHtpoxqHZUuT84FoInFck0SlEwC&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=s5Q5eBEGzxlJD2A-P074tQ&_nc_ss=7b2a8&oh=00_AQMTXwx7zpz-HXrFBvkuz7-Xd2IDM8yX404d3Wbfcbil7g&oe=6ABF8EB6",
+  "owner_type": "post",
+  "owner_id": "9f73bc3c-b341-4944-8e5c-020236ed6a82",
+  "photo_fbid": "1757701375213467",
+  "position": 0,
+  "storage_uri": "media/assets/33/db/33db6dcc9627d373e38845e642aec5d2ca074283868eb5551ddc53976c60bd69.jpg",
+  "sha256": "33db6dcc9627d373e38845e642aec5d2ca074283868eb5551ddc53976c60bd69",
+  "mime_type": "image/jpeg",
+  "file_size": 163415,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "12:42\nQ\n52\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n453\nHạng 9 Đ\nNgày chấm: 28/02/2026\nCao hơn 3% khách hàng cá nhân khác\nChia sẻ\nXem Trung Tâm Tài Chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nNhận vốn ảo về tài khoản\nHọc đầu tư, tích lũy tài sản từ chứng khoán\nSử dụng vốn ngay hôm nay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC\nO",
+  "cic_data": {
+    "is_cic": true,
+    "score": 453,
+    "tier": 9,
+    "scoring_date": "28/02/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "12:42\nQ\n52\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n453\nHạng 9 Đ\nNgày chấm: 28/02/2026\nCao hơn 3% khách hàng cá nhân khác\nChia sẻ\nXem Trung Tâm Tài Chính\nĐược chấm bởi CIC và hiển thị trên MoMo\n+100TR\nNhận vốn ảo về tài khoản\nHọc đầu tư, tích lũy tài sản từ chứng khoán\nSử dụng vốn ngay hôm nay\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC\nO"
+  }
+}

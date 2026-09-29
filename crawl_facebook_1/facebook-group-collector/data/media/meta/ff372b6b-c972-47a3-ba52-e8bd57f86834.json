@@ -1,0 +1,22 @@
+{
+  "id": "ff372b6b-c972-47a3-ba52-e8bd57f86834",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/763028733_122115818235363605_8715718267803853525_n.jpg?stp=dst-jpg_tt6&cstp=mx1242x541&ctp=s1242x541&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=zll983agOOMQ7kNvwFg-gPf&_nc_oc=AdpwSrwck_OaZQzuH-dcEi1UOHycfttfYyok2AGCxyC3Xv7gVxXofys1H2wuXd4N69nmMKe4tfY9nylFwXi9x0aO&_nc_zt=23&_nc_ht=scontent.fsgn8-1.fna&_nc_gid=621X1A_KEurwireRZ5Vkiw&_nc_ss=7b289&oh=00_AQMwf95ZvcY_wxRMlxRxAVD66oh6ortNFGMwKvx_Z3mV5A&oe=6AC05B31",
+  "owner_type": "post",
+  "owner_id": "0c53fcbc-0b34-4ce2-bb99-4ee0a50e16b4",
+  "photo_fbid": "122115818223363605",
+  "position": 0,
+  "storage_uri": "media/assets/6c/fc/6cfcb4323c336fbcdf15a15915ecc192cf6e6229f2fd27c5fceaa0e39c7d05dc.jpg",
+  "sha256": "6cfcb4323c336fbcdf15a15915ecc192cf6e6229f2fd27c5fceaa0e39c7d05dc",
+  "mime_type": "image/jpeg",
+  "file_size": 38928,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kỳ hạn\nKỳ 1\n15/07/2026\nKỳ 2\n15/08/2026\nSố tiền phải trả\n1.671.711đ (\n1.625.592c\nTrạng thái\nQuá hạn\nĐến hạn",
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Kỳ hạn\nKỳ 1\n15/07/2026\nKỳ 2\n15/08/2026\nSố tiền phải trả\n1.671.711đ (\n1.625.592c\nTrạng thái\nQuá hạn\nĐến hạn"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "51012005-8152-4fd5-a9dd-a7744300968a",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/788728811_2229152227658151_219259861477409537_n.jpg?stp=dst-jpg_tt6&cstp=mx1284x737&ctp=s1284x737&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGJNHSOMeW3umj02xwKAVYUJnJFw6xqbkMmckXDrGpuQxq-imdGtHcWgoaRz9mxtavhwe3V1Awj3pIktNAqjoPQ&_nc_ohc=zONOZlkZrDcQ7kNvwHLUaQP&_nc_oc=AdrR6TcqvbLeYD22Lypt5lA3hr31A7qVLSVF6TxpZOi94OGPK_gYoWMeat5yXjW28Xs&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=7IUMFsmj-8hL3tFe0BH8UQ&_nc_ss=7b2a8&oh=00_AQNN-jVIrrF4eyuVbaWKIdmYnuj01TMOtFY1DjQOeuXAuA&oe=6AC116ED",
+  "owner_type": "post",
+  "owner_id": "fbe52999-5f5a-46c1-ae2f-2c0ee72acffd",
+  "photo_fbid": "2229152224324818",
+  "position": 0,
+  "storage_uri": "media/assets/2e/e3/2ee350d773af02adb9312bff4ffc138e034fa4332ba32456e54529a076ab8919.jpg",
+  "sha256": "2ee350d773af02adb9312bff4ffc138e034fa4332ba32456e54529a076ab8919",
+  "mime_type": "image/jpeg",
+  "file_size": 73870,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Tổng dư nợ gốc hiện tại\n15.000.000 đ\nKhoản vay hiện tại\n1\nXem thêm\nTIN VAY\nby VietCredit",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "15.000.000 đ",
+    "provider": "VietCredit",
+    "raw_text": "Tổng dư nợ gốc hiện tại\n15.000.000 đ\nKhoản vay hiện tại\n1\nXem thêm\nTIN VAY\nby VietCredit"
+  }
+}

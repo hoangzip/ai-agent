@@ -1,0 +1,25 @@
+{
+  "id": "b3e49732-c1ff-40cc-a70a-e95f86b82974",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/766072431_3329362300568003_5183822629089548532_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2460&ctp=s1080x2460&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeECIdbWHsTb9iuKji47eJUldNpa6XSFlUN02lrpdIWVQ2es-CnGa1DrGIZrEvGMAZUz0QVm0VXVc80xWGkZGaD7&_nc_ohc=t38rrMZ7sUUQ7kNvwEEipib&_nc_oc=Adr--DpHS41URKZWCE7F5FxE4PumtMdXiBy86sBYbLVliHPQACoBoniGNQHnwkeQaRcoQXhJaENLe5IbMj0_2Hwx&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=CVEd1XU1EleXDZUbdRVWKw&_nc_ss=7b2a8&oh=00_AQIe3Psm4KFJKbRfOB4Jg_C9RiqpuSxIHHAsjWTo33dZkg&oe=6ABF66FB",
+  "owner_type": "post",
+  "owner_id": "7a00d6ab-4ea7-4cb9-8641-9e26d0ee1b0a",
+  "photo_fbid": "3329362297234670",
+  "position": 0,
+  "storage_uri": "media/assets/b1/b2/b1b23c737259fc3ed44677d13ac2096181de8bdfa3800323a8a488534f0cd46a.jpg",
+  "sha256": "b1b23c737259fc3ed44677d13ac2096181de8bdfa3800323a8a488534f0cd46a",
+  "mime_type": "image/jpeg",
+  "file_size": 197950,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "10:38\n18,3\nKB/ 011 S.78\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n538\nHạng 7 O\nNgày chấm: 22/07/2026\nCao hơn 15% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐầu tư thử, không lo rủi ro\nTrải nghiệm đầu tư chứng khoán cùng\n100 triệu vốn ảo trên MoMo\nX\nThử ngay\nThông tin dư\n>\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nĐể xem các thông tin bị khóa (ê), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 538,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "has_bad_debt": false,
+    "provider": "MoMo / CIC",
+    "raw_text": "10:38\n18,3\nKB/ 011 S.78\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n538\nHạng 7 O\nNgày chấm: 22/07/2026\nCao hơn 15% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nHôm nay có gì mới\nĐầu tư thử, không lo rủi ro\nTrải nghiệm đầu tư chứng khoán cùng\n100 triệu vốn ảo trên MoMo\nX\nThử ngay\nThông tin dư\n>\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 22/07/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nợ\nKhông có dư nợ tại CIC\nĐể xem các thông tin bị khóa (ê), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

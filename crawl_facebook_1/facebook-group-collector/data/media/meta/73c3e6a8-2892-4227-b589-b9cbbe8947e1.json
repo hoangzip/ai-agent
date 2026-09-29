@@ -1,0 +1,24 @@
+{
+  "id": "73c3e6a8-2892-4227-b589-b9cbbe8947e1",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/814575123_122135507319357679_2405577614562744836_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEv2aspGh4XJhEvBQZOGMdcOUTLsAYZqSQ5RMuwBhmpJHIadUoHWHjaSmJYdT4IoSzDn4Ah7rtcb2m9357LKpCx&_nc_ohc=SBQKGiTI37sQ7kNvwE-wB4G&_nc_oc=AdrpsfNli4k72Oxx63OriAStd8mGv4gzHNyp5B6WFHPhgjFFoikHtF3zz_XohP5agL8&_nc_zt=23&_nc_ht=scontent-hkg1-1.xx&_nc_gid=E8RpGbHzXWOKVtTxGqOqvQ&_nc_ss=7b2a8&oh=00_AQOfP2Y5kvF2VyEWEjG_lgI0MF167VA-uVQnwfjyG_SPlA&oe=6AC0F299",
+  "owner_type": "post",
+  "owner_id": "7b35c369-576f-418d-a31e-1e4a591cf950",
+  "photo_fbid": "122135507313357679",
+  "position": 0,
+  "storage_uri": "media/assets/c0/da/c0da121545c27a2a627980c5832d114fd92037ebe736f216c629228443d8fef2.jpg",
+  "sha256": "c0da121545c27a2a627980c5832d114fd92037ebe736f216c629228443d8fef2",
+  "mime_type": "image/jpeg",
+  "file_size": 149322,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "19:00\n) 32%\n< Kết quả điểm tín dụng từ ...\nbạn là\nRất Tốt\n624\nĐiểm của bạn cao hơn 82% tổng khách hàng cá nhân được\nchấm tại CIC\nĐiểm tín dụng được chấm vào ngày 23-04-2026 và hiển\nthị trên ShopeePay\nThông tin tín dụng\nQuan hệ tín dụng\nTổng dư nợ ®\nTổng dư nợ khoản vay\nTổng dư nợ thẻ\nTổng nợ cần chú ý\nTổng nợ xấu\nTổng số TCTD đang có quan\nhệ tín dụng\n•• •\n••••\n•••.\n•••.\n••..\n•••.",
+  "cic_data": {
+    "is_cic": true,
+    "score": 624,
+    "tier": 2,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "19:00\n) 32%\n< Kết quả điểm tín dụng từ ...\nbạn là\nRất Tốt\n624\nĐiểm của bạn cao hơn 82% tổng khách hàng cá nhân được\nchấm tại CIC\nĐiểm tín dụng được chấm vào ngày 23-04-2026 và hiển\nthị trên ShopeePay\nThông tin tín dụng\nQuan hệ tín dụng\nTổng dư nợ ®\nTổng dư nợ khoản vay\nTổng dư nợ thẻ\nTổng nợ cần chú ý\nTổng nợ xấu\nTổng số TCTD đang có quan\nhệ tín dụng\n•• •\n••••\n•••.\n•••.\n••..\n•••."
+  }
+}

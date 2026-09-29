@@ -1,0 +1,22 @@
+{
+  "id": "4330c29e-994a-490f-99b5-02bbb51dd3db",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/761641020_2508247719623821_4787630885272162256_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1242x1758&ctp=s1242x1758&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGwKBL0ZIO88uofj45pxSZ3AfU75KfLohoB9Tvkp8uiGklnpXS6TIWzWzYf8BFpHu9aQ2hMbvIAPqZK4tQfMOFw&_nc_ohc=BWh_7s26nHoQ7kNvwG9bYux&_nc_oc=AdponyNxJVBafdN2w7CrlMIKDYcxtjU7waRR4xyiHV1OIHquakyZrqOmmSoO2GbNn3Y&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=FeYDhG8kH0XWFWd_fpSJ4Q&_nc_ss=7b2a8&oh=00_AQMQ7g1U1vUBGOlfJWReNyX5MSO3ilvsS4tua5nbhPEJSw&oe=6AC169D5",
+  "owner_type": "post",
+  "owner_id": "0cce5a25-c21a-4531-96b7-6cac1f025e37",
+  "photo_fbid": "2508247716290488",
+  "position": 0,
+  "storage_uri": "media/assets/75/5b/755ba6bc6369e4ee6712a489c7545ae4706a2ef067d5bd310eb9f02c87a3282e.jpg",
+  "sha256": "755ba6bc6369e4ee6712a489c7545ae4706a2ef067d5bd310eb9f02c87a3282e",
+  "mime_type": "image/jpeg",
+  "file_size": 78453,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Bạn đã vay số tiền:\n1,036,000 đ\nđể đóng khoản vay hôm nay\nThanh toán\nTôi đã thanh toán\nNgày đáo hạn\n17.08.2026\n14\nngày\nThanh toán hôm nay\n1,036,000 đ\nSố hợp đồng\nNgười cho vay\n4187212\nANH TU\nhồ sơ vay tiền\nKhoản vay\nTài khoản\nTrung tâm hồ trợ",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "1,036,000 đ",
+    "provider": "CIC",
+    "raw_text": "Bạn đã vay số tiền:\n1,036,000 đ\nđể đóng khoản vay hôm nay\nThanh toán\nTôi đã thanh toán\nNgày đáo hạn\n17.08.2026\n14\nngày\nThanh toán hôm nay\n1,036,000 đ\nSố hợp đồng\nNgười cho vay\n4187212\nANH TU\nhồ sơ vay tiền\nKhoản vay\nTài khoản\nTrung tâm hồ trợ"
+  }
+}

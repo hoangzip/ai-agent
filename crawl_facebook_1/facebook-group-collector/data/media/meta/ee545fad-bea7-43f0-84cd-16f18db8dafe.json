@@ -1,0 +1,24 @@
+{
+  "id": "ee545fad-bea7-43f0-84cd-16f18db8dafe",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/752484821_1535619080755889_2532621828506426715_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1640&ctp=s720x1640&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHmpw4PqQEwwlvu6keL0jALIobuiYKoJjkihu6JgqgmOQzLnbBEh0D9mRMA3S2HTOHWasQ552jhX_J0573nYgR7&_nc_ohc=UZtyftDYjb8Q7kNvwFFJqk0&_nc_oc=Ado8zQvKg4qlOWeo_wBfPXfhVUCEVa7RS_BDto-JHc8lfj5pORWBk4Gcwk60a5fv83E&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=UKCrSCulTrgImF_pi4qPKA&_nc_ss=7b2a8&oh=00_AQMb4qjVkkcdstn2l0UJksBaMSuEQ2F39NHO0tNohH89MQ&oe=6AC17F8B",
+  "owner_type": "post",
+  "owner_id": "151ec4f4-e499-40ae-bb54-35214cc1e6f6",
+  "photo_fbid": "1535619070755890",
+  "position": 0,
+  "storage_uri": "media/assets/37/7d/377d3db6f883e683967a60d38b0ff815dfdc976e2baf72cd75e71005efe6ef9b.jpg",
+  "sha256": "377d3db6f883e683967a60d38b0ff815dfdc976e2baf72cd75e71005efe6ef9b",
+  "mime_type": "image/jpeg",
+  "file_size": 82894,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\n120\n0\n4/2026\nKỳ mới\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n31 Triệu VNĐ\n12 Triệu VNĐ\n19 Triệu VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trả Sau\nDùng mỗi tháng\nCập nhật Điểm tháng mới",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "23/04/2026",
+    "total_debt": "31 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\n120\n0\n4/2026\nKỳ mới\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nẨn thông tin\nTheo dữ liệu tính đến ngày chấm 23/04/2026,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp\ntục duy trì thói quen thanh toán đúng hạn này\nnhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\n31 Triệu VNĐ\n12 Triệu VNĐ\n19 Triệu VNĐ\nVị thế tài chính tháng này\nKhám phá toàn cảnh\nThêm bạn lựa chọn\nTài chính phù hợp\nMẹo cải thiện điểm\nHành vi tốt\nKhoản dự phòng\nSẵn sàng khi gấp\nVí Trả Sau\nDùng mỗi tháng\nCập nhật Điểm tháng mới"
+  }
+}

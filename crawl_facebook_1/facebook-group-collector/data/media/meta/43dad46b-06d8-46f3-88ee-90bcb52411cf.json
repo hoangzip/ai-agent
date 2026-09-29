@@ -1,0 +1,22 @@
+{
+  "id": "43dad46b-06d8-46f3-88ee-90bcb52411cf",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/825278997_1646350660433348_6858011480358929508_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFAlBIemWrwX_pEgr0Nh4CmuRYRZOJUzGK5FhFk4lTMYka72QqkA_YFct4-nECiNkrWATaEjPIh9qYMqNF0mzTv&_nc_ohc=kQ5x0n_-_ZwQ7kNvwE9dsXx&_nc_oc=AdoO09ldzGId__Kp53Aabt_js6sdWuxiOk3bALdnVtY-6PShaZMilHuYPiC0Gt-fdtZc_AEj5uFSHfh6jRG9x8Tv&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=ek9HhC1sGzNdbe09Nz1OtA&_nc_ss=7b2a8&oh=00_AQIsiERTUXUBOD_sfVY-0mPXRcKqBpzG3VsjdOtRk1de_Q&oe=6ABF308F",
+  "owner_type": "post",
+  "owner_id": "321690c6-d533-426b-be6e-332ffa856081",
+  "photo_fbid": "1646350657100015",
+  "position": 0,
+  "storage_uri": "media/assets/91/ae/91ae9a7bfce059a5266bdc9ed5df2ee350a76bc2f81e3b09bffb59ef7e37a62a.jpg",
+  "sha256": "91ae9a7bfce059a5266bdc9ed5df2ee350a76bc2f81e3b09bffb59ef7e37a62a",
+  "mime_type": "image/jpeg",
+  "file_size": 74901,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "19:20\n•!!! 4G 90\nSố tiền thanh toán\n1.063.000đ\n14/10/2026\nChi tiết\nSố hợp đồng\nGói vay\nSố tiền vay\n10.000.000đ\nKỳ thanh toán\n5/12\nDư nợ còn lại\n7.154.196đ\nSố tiền quá hạn\nOđ\nSố ngày quá hạn\n0 ngày\nThanh toán ngay",
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "19:20\n•!!! 4G 90\nSố tiền thanh toán\n1.063.000đ\n14/10/2026\nChi tiết\nSố hợp đồng\nGói vay\nSố tiền vay\n10.000.000đ\nKỳ thanh toán\n5/12\nDư nợ còn lại\n7.154.196đ\nSố tiền quá hạn\nOđ\nSố ngày quá hạn\n0 ngày\nThanh toán ngay"
+  }
+}

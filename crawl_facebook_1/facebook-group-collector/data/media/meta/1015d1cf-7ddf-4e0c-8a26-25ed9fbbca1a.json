@@ -1,0 +1,24 @@
+{
+  "id": "1015d1cf-7ddf-4e0c-8a26-25ed9fbbca1a",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/735157802_1585438183143039_1613709853105584473_n.jpg?stp=dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFvKcszOFndEUGI_OuWp1sVujlz8Tf0zXi6OXPxN_TNeP_LSksiQchC8hBu4mAyLAfbE4-x3pv26h0Zv_jfqzqf&_nc_ohc=Pmm7UCCyPmAQ7kNvwG5SR3x&_nc_oc=AdpiJztXZgzZfuAVVdFvDG5paAGpGl-m7AnJc1HqoQ4E1R6zYygryAUBvF9jBWXR4vkmkq-58rsxDQ94edqjnbYl&_nc_zt=23&_nc_ht=scontent.fsgn8-2.fna&_nc_gid=I0u0iGvNjXA-8M-wf0gIyA&_nc_ss=7b2a8&oh=00_AQMvbBaEDnDpMed_CjAu4vaaQg41JnwuD9Twa18fwwn-gA&oe=6AC1A3F2",
+  "owner_type": "post",
+  "owner_id": "d0267d85-6784-44e8-8d56-697451f475b3",
+  "photo_fbid": "1585438179809706",
+  "position": 0,
+  "storage_uri": "media/assets/90/e7/90e78f9889700f1be35649a538f709c130e052d6d1f221f7bce7552f50cc93f7.jpg",
+  "sha256": "90e78f9889700f1be35649a538f709c130e052d6d1f221f7bce7552f50cc93f7",
+  "mime_type": "image/jpeg",
+  "file_size": 106608,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "9:11\nP\nallails\nKiểm tra Điểm tín dụng CIC\nCLB\nCreditinFo\n540\nHạng 7 O\nNgày chấm: 23/06/2026\nCao hơn 15% khách hàng cá nhân khác\nChia sẻ G\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 540,
+    "tier": 7,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "9:11\nP\nallails\nKiểm tra Điểm tín dụng CIC\nCLB\nCreditinFo\n540\nHạng 7 O\nNgày chấm: 23/06/2026\nCao hơn 15% khách hàng cá nhân khác\nChia sẻ G\nXem biến động tài chính\n• Được chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

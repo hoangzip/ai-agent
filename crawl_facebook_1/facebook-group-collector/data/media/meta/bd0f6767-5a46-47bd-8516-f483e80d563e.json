@@ -1,0 +1,25 @@
+{
+  "id": "bd0f6767-5a46-47bd-8516-f483e80d563e",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/769294984_2471609836653364_4602312597748382522_n.png?stp=dst-png&cstp=mx1080x2400&ctp=s1080x2400&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=pyEPygf9BggQ7kNvwEFq9wn&_nc_oc=AdovqHDfM4HaLls-dx027Ht62uGatwWc3kkRuA4GqQy-83xDZPYZC2B71F_ePRkaWYQ&_nc_zt=23&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=fz-6w99pK1s3TFJ6kPdM9A&_nc_ss=7b289&oh=00_AQO7Lkn0dNFbHK_53NQ9mkOhFZwS_uyuOPxZfpR1DBVxyw&oe=6AC0BCBA",
+  "owner_type": "post",
+  "owner_id": "550b4888-eed0-482c-a703-fb14d7bfefd1",
+  "photo_fbid": "2471609833320031",
+  "position": 0,
+  "storage_uri": "media/assets/26/2c/262c91cf6395fb36c0100ef0a72bd30c280884c9638fc95326a4d85c3b809228.png",
+  "sha256": "262c91cf6395fb36c0100ef0a72bd30c280884c9638fc95326a4d85c3b809228",
+  "mime_type": "image/png",
+  "file_size": 943562,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "19:27 zao O\n108,6 4G\nKB/s\ntal 14\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n618\nHạng 3\nNgày chấm: 27/03/2026\nCao hơn 76% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC của bạn đang tốt\nBạn có thể tiếp cận khoản vay đến\n100 triệu trên MoMo đấy\nKiểm tra >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n618\n600\nĐể xem các thông tin bị khóa (9), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC",
+  "cic_data": {
+    "is_cic": true,
+    "score": 618,
+    "tier": 3,
+    "scoring_date": "27/03/2026",
+    "total_debt": "100 triệu",
+    "provider": "MoMo / CIC",
+    "raw_text": "19:27 zao O\n108,6 4G\nKB/s\ntal 14\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n618\nHạng 3\nNgày chấm: 27/03/2026\nCao hơn 76% khách hàng cá nhân khác\nChia sẻ •\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nA Hôm nay có gì mới\nĐiểm CIC của bạn đang tốt\nBạn có thể tiếp cận khoản vay đến\n100 triệu trên MoMo đấy\nKiểm tra >\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n618\n600\nĐể xem các thông tin bị khóa (9), bạn cần thực hiện đồng\nbộ dữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

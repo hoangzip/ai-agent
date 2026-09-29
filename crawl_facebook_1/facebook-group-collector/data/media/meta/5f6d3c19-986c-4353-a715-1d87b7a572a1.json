@@ -1,0 +1,24 @@
+{
+  "id": "5f6d3c19-986c-4353-a715-1d87b7a572a1",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/758964179_1553254902920971_2337690639894898734_n.jpg?stp=dst-jpg_tt6&cstp=mx1220x2712&ctp=s1220x2712&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHM5kBT_K1JaRpop_Mm47dL-hbY2HjvngP6FtjYeO-eAxPvcqle18FOZYlk3Qve3zcmddB4mbyy3qPDaNWZBhia&_nc_ohc=U7FmaF-WB1EQ7kNvwEOOr84&_nc_oc=Adp0TwmzkHQIHJXdvklAlLx9sxcJ7_egrlJp29-c2CccPJcRF10aSWikHrlPcJPOXPs&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=WNs68hj2CtWqDE5MhKsQwQ&_nc_ss=7b2a8&oh=00_AQOKJYE6Xcl0yo2Ay6dZCLbaxEmzIYpY7QwQm4R8_22LKw&oe=6AC16F7D",
+  "owner_type": "post",
+  "owner_id": "f34b817a-e094-43cc-aa9a-bce657f9e158",
+  "photo_fbid": "1553254899587638",
+  "position": 0,
+  "storage_uri": "media/assets/22/dc/22dc6172facb700d23f4a267ced2622da4368045dfce8c2aec8c41aa4785004f.jpg",
+  "sha256": "22dc6172facb700d23f4a267ced2622da4368045dfce8c2aec8c41aa4785004f",
+  "mime_type": "image/jpeg",
+  "file_size": 185403,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\nNgay cham\nSo sánh\n| |\n22/03/2026\nCao hơn 53% khách hàng cá\nnhân khác\nThông tin trên đây là bản tóm tắt sức khỏe\ntín dụng của bạn. Các dữ liệu chi tiết và đầy\nđủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn ^\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nọ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nTiện ích\n7 Triệu VNĐ\n6 Triệu VNĐ\n1 Triệu VNĐ\nQuản lý thông báo\nĐang bật\nThông báo biến động điểm hàng tháng\nCập nhật Điểm tháng mới",
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "31/12/2025",
+    "total_debt": "7 Triệu VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\nNgay cham\nSo sánh\n| |\n22/03/2026\nCao hơn 53% khách hàng cá\nnhân khác\nThông tin trên đây là bản tóm tắt sức khỏe\ntín dụng của bạn. Các dữ liệu chi tiết và đầy\nđủ được cung cấp tại ứng dụng CIC.\nĐến ứng dụng CIC >\nRút gọn ^\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nÂn thông tin\nTheo dữ liệu tính đến ngày chấm 31/12/2025,\nbạn không có nợ xấu hoặc nợ cần chú ý. Tiếp tục\nduy trì thói quen thanh toán đúng hạn này nhé!\nTổng dư nọ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nTiện ích\n7 Triệu VNĐ\n6 Triệu VNĐ\n1 Triệu VNĐ\nQuản lý thông báo\nĐang bật\nThông báo biến động điểm hàng tháng\nCập nhật Điểm tháng mới"
+  }
+}

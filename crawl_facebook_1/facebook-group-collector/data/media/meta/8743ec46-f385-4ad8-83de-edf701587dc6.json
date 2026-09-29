@@ -1,0 +1,23 @@
+{
+  "id": "8743ec46-f385-4ad8-83de-edf701587dc6",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/753396693_974711155617259_3613221260896333825_n.jpg?stp=dst-jpg_tt6&cstp=mx1562x1080&ctp=s1562x1080&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=IRIz1tSatX0Q7kNvwH36uME&_nc_oc=AdptLj6OXHgW1wu0i6Nv8JtD_B3h3esS_-8XH3lIlOm6ApS0qjlMjGIwt2A1YZeMYCOmDse36F3yn5P7Fr0lx3ul&_nc_zt=23&_nc_ht=scontent.fsgn8-2.fna&_nc_gid=Z1tyK2ihexLlAVphpRS35A&_nc_ss=7b289&oh=00_AQOfndMo3qvUjb056-my026hvvYCwLfCCSO-JJsFuKRyhQ&oe=6AC04FE8",
+  "owner_type": "post",
+  "owner_id": "9a66f01e-bf87-4eeb-98c0-c9afea9f6da6",
+  "photo_fbid": "974711152283926",
+  "position": 0,
+  "storage_uri": "media/assets/03/ee/03eeb0cce4800a43d52fbd40671c2df018a714a58b0703bb4bfc48cb4b0c2a7d.jpg",
+  "sha256": "03eeb0cce4800a43d52fbd40671c2df018a714a58b0703bb4bfc48cb4b0c2a7d",
+  "mime_type": "image/jpeg",
+  "file_size": 60910,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "11:00\n<170\n+84 34 2216192\nTin nhắn văn bản\n10:21, Hôm nay\nAn\nn Trung, thu nợ địa bàn huyện\nAnh đang có việc ở nhà văn\nhu\nchiều tầm 2h em có nhà không\nanh ghé thu tiền.",
+  "cic_data": {
+    "is_cic": true,
+    "phone_number": "0342216192",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "11:00\n<170\n+84 34 2216192\nTin nhắn văn bản\n10:21, Hôm nay\nAn\nn Trung, thu nợ địa bàn huyện\nAnh đang có việc ở nhà văn\nhu\nchiều tầm 2h em có nhà không\nanh ghé thu tiền."
+  }
+}

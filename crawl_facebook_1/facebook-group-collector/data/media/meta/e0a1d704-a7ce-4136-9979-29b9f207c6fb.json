@@ -1,0 +1,25 @@
+{
+  "id": "e0a1d704-a7ce-4136-9979-29b9f207c6fb",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/743497745_122140158819036018_5804441723514356287_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=CyNe936ATpcQ7kNvwGK0kjH&_nc_oc=AdrvAWi5_i2O0D8HTg-aEIohmANWDfRgkJ3MC9ypBaQE54RO-YZnJ4HozmZtHgwMcaaEXnNgbWrMYEBS5zMjZHGk&_nc_zt=23&_nc_ht=scontent.fsgn8-2.fna&_nc_gid=Q1m5ERs7WgfZoy4cRsDJLQ&_nc_ss=7b289&oh=00_AQOEIeH7N091uweqJWVpBuMtDcwQfF4QtEVEZ5PCGfFN2w&oe=6AC07940",
+  "owner_type": "post",
+  "owner_id": "60d53934-639e-4748-b058-ef27f54d9d1c",
+  "photo_fbid": "122140158813036018",
+  "position": 0,
+  "storage_uri": "media/assets/eb/2f/eb2f30e451a7aa6478dc81e08a776f47fd0c159025d5699de729dc3b52ed5d0d.jpg",
+  "sha256": "eb2f30e451a7aa6478dc81e08a776f47fd0c159025d5699de729dc3b52ed5d0d",
+  "mime_type": "image/jpeg",
+  "file_size": 134322,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Kiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n516\nHạng 7 O\nNgày chấm: 22/03/2026\nCao hơn 12% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh\ntại\n29/12/2025\nCông ty Tài chính tín dụng tiêu\ndùng TNHH MB Shinsei\nNợ xấu 0\nTổng nợ xấu\nO VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "score": 516,
+    "tier": 7,
+    "scoring_date": "22/03/2026",
+    "has_bad_debt": false,
+    "provider": "CreditInfo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n516\nHạng 7 O\nNgày chấm: 22/03/2026\nCao hơn 12% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nNợ cần chú ý gần nhất\nNgày phát sinh\nPhát sinh\ntại\n29/12/2025\nCông ty Tài chính tín dụng tiêu\ndùng TNHH MB Shinsei\nNợ xấu 0\nTổng nợ xấu\nO VNĐ"
+  }
+}

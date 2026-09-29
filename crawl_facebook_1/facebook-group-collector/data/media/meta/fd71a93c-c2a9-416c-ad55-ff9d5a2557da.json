@@ -1,0 +1,25 @@
+{
+  "id": "fd71a93c-c2a9-416c-ad55-ff9d5a2557da",
+  "media_type": "image",
+  "source_url": "https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/788106948_3308832339504306_1418783710349298756_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx946x2048&ctp=s946x2048&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGVtdeHmaIRRi9baWN-43XaX9aGixUHtelf1oaLFQe16aTIfu2Bc54KulSTQcXYl02JdSGRJcyTBHsIT8Zbw3M0&_nc_ohc=xqP9-TngCgsQ7kNvwHAxY4e&_nc_oc=Adqz43MUnzWA_LjQ8WjklxOZRNc8vzhr9fUCvEuvv1hOrobMBm-V5QBLCUud9sFt1_Y&_nc_zt=23&_nc_ht=scontent-hkg1-1.xx&_nc_gid=ITWuzRVJd0LmrrG_AmZThA&_nc_ss=7b2a8&oh=00_AQPhHrx-wN3q4BdAaX5cC4QF4sXj8fXqdCnHsg6rXuXAbA&oe=6AC11C44",
+  "owner_type": "post",
+  "owner_id": "98be5c42-1f6e-4ce2-83a6-06cff4e73899",
+  "photo_fbid": "3308832336170973",
+  "position": 0,
+  "storage_uri": "media/assets/b9/c3/b9c37ca4533e90186f8644445259a28a449add6e3e98ac6d8b31385003da41c0.jpg",
+  "sha256": "b9c37ca4533e90186f8644445259a28a449add6e3e98ac6d8b31385003da41c0",
+  "mime_type": "image/jpeg",
+  "file_size": 123762,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "09:20\nall\n85\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n540\nHạng 7 0\nNgày chấm: 22/07/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 15% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẤn thông tin\n0 VNĐ\n0 VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nCập nhật Điểm tháng mới\n& Miễn phí 1 lượt cập nhật mỗi năm",
+  "cic_data": {
+    "is_cic": true,
+    "score": 540,
+    "tier": 7,
+    "scoring_date": "22/07/2026",
+    "total_debt": "0 VNĐ",
+    "provider": "MoMo / CIC",
+    "raw_text": "09:20\nall\n85\nKiểm tra Điểm tín dụng CIC\nCLCB\nCreditinFo\n540\nHạng 7 0\nNgày chấm: 22/07/2026\nĐã tới kỳ chấm điểm mới. Cập nhật ngay!\nĐiểm cao hơn 15% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nẤn thông tin\n0 VNĐ\n0 VNĐ\n0 VNĐ\nVị thế tài chính tháng này\nCập nhật Điểm tháng mới\n& Miễn phí 1 lượt cập nhật mỗi năm"
+  }
+}

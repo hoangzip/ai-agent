@@ -1,0 +1,23 @@
+{
+  "id": "36944c45-a9f9-4fba-ab2d-131a2064ff0a",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/703720587_1509991727467096_8311671788063505119_n.jpg?stp=dst-jpg_tt6&cstp=mx540x1200&ctp=s540x1200&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGJ6lbvW2fFjX5JewPsqCneYpRWZpicQU9ilFZmmJxBT_f4rFpE3SslXjuEQtlTVFCf7z_CCeqVVIjH6pyiF8pu&_nc_ohc=qit6gTZTwoAQ7kNvwGannGk&_nc_oc=AdrJ5jwGhOIuc98Z1dcPgFoPCgbyfJ4U957OVvzSaNzWkWOkQ8_D60nuS82W4aEas99lYln0mTFAxrUkc71TVhcZ&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=AjGywsdaAaOeSu1jmlpcyA&_nc_ss=7b2a8&oh=00_AQN2iHO-zMBmWb4qNkrni67iAAaEy59c7O7NCLEqvtEaAg&oe=6ABF8F35",
+  "owner_type": "post",
+  "owner_id": "d36107ad-dcc1-44df-b360-2c3f67067342",
+  "photo_fbid": "1509991714133764",
+  "position": 0,
+  "storage_uri": "media/assets/ea/a9/eaa981a1a756d54eecb37d151b5daa02038fe198934a84e0da7be55acf110ea1.jpg",
+  "sha256": "eaa981a1a756d54eecb37d151b5daa02038fe198934a84e0da7be55acf110ea1",
+  "mime_type": "image/jpeg",
+  "file_size": 47498,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "< Kiểm tra Điểm tín dụng CIC\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n581\n480\n360\n240\n120\n10\n3\nThông tin ci tit V\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\n• Theo dữ liệu tính đến 22/03/2026, bạn không có\nnợ xấu. Hãy duy trì thói quen thanh toán đúng\nhạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n0 VNĐ\nO VNĐ",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "0 VNĐ",
+    "has_bad_debt": false,
+    "provider": "CIC",
+    "raw_text": "< Kiểm tra Điểm tín dụng CIC\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n581\n480\n360\n240\n120\n10\n3\nThông tin ci tit V\nThông tin dư nợ >\nMiễn phí 1 lần tra cứu mỗi năm\n• Ân thông tin\n• Theo dữ liệu tính đến 22/03/2026, bạn không có\nnợ xấu. Hãy duy trì thói quen thanh toán đúng\nhạn này nhé!\nTổng dư nợ\nDư nợ khoản vay\nDư nợ thẻ tín dụng\nKhông có dư nợ tại CIC\n0 VNĐ\nO VNĐ"
+  }
+}

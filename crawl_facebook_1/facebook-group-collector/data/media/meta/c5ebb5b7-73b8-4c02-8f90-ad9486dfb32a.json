@@ -1,0 +1,22 @@
+{
+  "id": "c5ebb5b7-73b8-4c02-8f90-ad9486dfb32a",
+  "media_type": "image",
+  "source_url": "https://scontent.fsgn8-1.fna.fbcdn.net/v/t39.30808-6/742903495_27702035362763520_6186632595128861461_n.jpg?stp=dst-jpg_tt6&cstp=mx720x908&ctp=s720x908&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=PSBiTWyAa9oQ7kNvwFwndYH&_nc_oc=Adq9zi9dduhSMDOfU3oGtwydyS0Fw_0ep1NbJn7EmSw7hty2iaIwSJ_H4Gj07YJ0pJ9s00XV-bp-4oJJRruiAy4p&_nc_zt=23&_nc_ht=scontent.fsgn8-1.fna&_nc_gid=9p5kCH3235l4UIwClkf5Vg&_nc_ss=7b289&oh=00_AQMnlSgaJzBsdfYNl8T-LFEysMDbNAkCy4PuEaU8DS20jA&oe=6AC08D8E",
+  "owner_type": "post",
+  "owner_id": "f35ced93-8620-4b7a-a4e6-45237ebc50b0",
+  "photo_fbid": "27702035346096855",
+  "position": 0,
+  "storage_uri": "media/assets/29/e8/29e8fc77273b8f24c5a411e09ba07d1be1694f0ba17874d1072b4d1b5011dc9c.jpg",
+  "sha256": "29e8fc77273b8f24c5a411e09ba07d1be1694f0ba17874d1072b4d1b5011dc9c",
+  "mime_type": "image/jpeg",
+  "file_size": 36531,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Chi tiết khoản vay\nGalaxy\npobrreding\nGalaxy DT\nSố tiền thanh\nTổng nợ đến hạn\n28.100.816đ\nThanh toán số tiền khác\nLịch sử thanh\nLịch sử thanh toán trong 90 ngày gần nhất",
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "28.100.816đ",
+    "provider": "CIC",
+    "raw_text": "Chi tiết khoản vay\nGalaxy\npobrreding\nGalaxy DT\nSố tiền thanh\nTổng nợ đến hạn\n28.100.816đ\nThanh toán số tiền khác\nLịch sử thanh\nLịch sử thanh toán trong 90 ngày gần nhất"
+  }
+}

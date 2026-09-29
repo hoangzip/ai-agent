@@ -1,0 +1,22 @@
+{
+  "id": "48d4d25e-4f75-4a8a-bc73-cb9e5f64e029",
+  "media_type": "image",
+  "source_url": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/778958211_1073162521902007_1535970299864161507_n.jpg?stp=dst-jpg_tt6&cstp=mx1432x1078&ctp=s1432x1078&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEKuAKQ339zeIg7LnUFwAFY3TObUSU2UozdM5tRJTZSjGqwQcw8m5uCkmTRnJDZenYIolf8r_KSv9ODTAO-kd7d&_nc_ohc=VlZaaRw-3_wQ7kNvwGx3OCs&_nc_oc=Adq6wp5jv1CrBsGua9RlJ9yVx-Ahb2EWZwlIUkQT-qOgYvhg_6ew9HAZXDt80hNp4khZPLrGjnDBIjCICA8_84FS&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=jrdHOF_Qyf4kJhT_W2FB6A&_nc_ss=7b2a8&oh=00_AQIfczSu8v8cy2rrp6kasuVSSUtjBnOvF-zuSdkPgFhHDw&oe=6ABF3726",
+  "owner_type": "post",
+  "owner_id": "dfd42a93-3d24-4c5a-816a-cd451748e88f",
+  "photo_fbid": "1073162518568674",
+  "position": 0,
+  "storage_uri": "media/assets/de/88/de8876d5d2e64500ea415ec1544e45bcf1b78841626089daf1384e4d3cdc6828.jpg",
+  "sha256": "de8876d5d2e64500ea415ec1544e45bcf1b78841626089daf1384e4d3cdc6828",
+  "mime_type": "image/jpeg",
+  "file_size": 81352,
+  "download_status": "downloaded",
+  "ocr_status": "complete",
+  "ocr_text": "Nợ trong kỳ\n8.715.000đ\nThanh toán số tiền khác\n• Dư nợ đang được cộng gộp, gồm gốc, lãi tới thời điểm\nhiện tại, phí thu hộ và lãi chậm trả (nếu có).\nBạn đang có số tiền quá hạn 4.369.000đ. Hãy ưu tiên\nthanh toán số tiền này để tránh phát sinh thêm phí\nphạt và ảnh hưởng đến lịch sử tín dụng bạn nhé.",
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Nợ trong kỳ\n8.715.000đ\nThanh toán số tiền khác\n• Dư nợ đang được cộng gộp, gồm gốc, lãi tới thời điểm\nhiện tại, phí thu hộ và lãi chậm trả (nếu có).\nBạn đang có số tiền quá hạn 4.369.000đ. Hãy ưu tiên\nthanh toán số tiền này để tránh phát sinh thêm phí\nphạt và ảnh hưởng đến lịch sử tín dụng bạn nhé."
+  }
+}
