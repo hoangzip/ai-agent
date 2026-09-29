@@ -83,6 +83,22 @@ def run_export():
                 except Exception:
                     pass
 
+        posts_dir = gdir / "posts"
+        post_cache = {}
+        if posts_dir.exists():
+            for pf in posts_dir.glob("*.json"):
+                try:
+                    pd = json.loads(pf.read_text(encoding="utf-8"))
+                    pid = pd.get("id")
+                    fb_pid = pd.get("facebook_post_id")
+                    ts = pd.get("posted_at") or ""
+                    if pid:
+                        post_cache[pid] = ts
+                    if fb_pid:
+                        post_cache[str(fb_pid)] = ts
+                except Exception:
+                    pass
+
         try:
             leads = json.loads(leads_file.read_text(encoding="utf-8"))
         except Exception as e:
@@ -141,6 +157,11 @@ def run_export():
             else:
                 bad_debt_str = "Chưa rõ"
 
+            post_id = l.get("post_id")
+            fb_pid = str(l.get("facebook_post_id") or "")
+            raw_posted = post_cache.get(post_id) or post_cache.get(fb_pid) or ""
+            posted_at_clean = raw_posted.replace("T", " ")[:19] if raw_posted else ""
+
             raw_records.append({
                 "group_slug": gdir.name,
                 "lead_source": source_label,
@@ -153,6 +174,7 @@ def run_export():
                 "has_bad_debt": bad_debt_str,
                 "total_debt": l.get("total_debt") or "",
                 "scoring_date": l.get("scoring_date") or "",
+                "posted_at": posted_at_clean,
                 "provider": l.get("provider") or "",
                 "customer_name": l.get("customer_name") or "",
                 "id_card_number": l.get("id_card_number") or "",
@@ -215,7 +237,7 @@ def run_export():
 
         # Merge non-empty fields from duplicate records so no data is lost
         for other in items_sorted[1:]:
-            for k in ["phone_number", "facebook_user_id", "score", "tier", "customer_name", "id_card_number", "total_debt", "provider", "profile_url"]:
+            for k in ["phone_number", "facebook_user_id", "score", "tier", "customer_name", "id_card_number", "total_debt", "provider", "profile_url", "posted_at"]:
                 if not best.get(k) and other.get(k):
                     best[k] = other[k]
 
@@ -258,6 +280,7 @@ def run_export():
         "Tình Trạng Nợ Xấu",
         "Tổng Dư Nợ",
         "Ngày Chấm Điểm",
+        "Ngày Đăng Bài",
         "Nguồn/Ngân Hàng",
         "Họ Tên Trên CIC",
         "Số CCCD/CMND",
@@ -287,6 +310,7 @@ def run_export():
                 r["has_bad_debt"],
                 r["total_debt"],
                 r["scoring_date"],
+                r.get("posted_at") or "",
                 r["provider"],
                 r["customer_name"],
                 r["id_card_number"],
