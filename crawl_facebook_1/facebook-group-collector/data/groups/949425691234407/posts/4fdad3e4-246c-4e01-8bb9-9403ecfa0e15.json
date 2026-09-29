@@ -1,0 +1,29 @@
+{
+  "id": "4fdad3e4-246c-4e01-8bb9-9403ecfa0e15",
+  "facebook_post_id": "1698723601201789",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "a2bc11db-81b3-4440-b2ea-805fb176cd19",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1698723601201789&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-09-29T00:00:00+00:00",
+  "created_at": "2026-09-29T02:30:56.152368+00:00",
+  "updated_at": "2026-09-29T02:30:56.152368+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "41e561b0-113e-4f99-af06-b080beb9b41a"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 588,
+    "tier": 4,
+    "scoring_date": "21/09/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "09:17\n5G\nKiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n588\nHạng 4 0\nNgày chấm: 21/09/2026\nĐiểm cao hơn 48% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\n) Được chấm bởi CIC và hiển thị trên MoMo"
+  }
+}

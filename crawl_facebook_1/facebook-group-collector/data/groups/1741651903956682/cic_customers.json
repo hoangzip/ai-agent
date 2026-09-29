@@ -1141,7 +1141,8 @@
     "total_debt": "150.000.000 VNĐ",
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1167,7 +1168,8 @@
     "total_debt": "150.000.000 VNĐ",
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1193,7 +1195,8 @@
     "total_debt": "280.000.000 VND",
     "has_bad_debt": null,
     "provider": "VPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1219,7 +1222,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "TNEX",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1245,7 +1249,8 @@
     "total_debt": "140000000 VND",
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1349,7 +1354,8 @@
     "total_debt": "140000000 VND",
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1375,7 +1381,8 @@
     "total_debt": "140000000 VND",
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1401,7 +1408,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1427,7 +1435,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1453,7 +1462,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1479,7 +1489,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1505,7 +1516,8 @@
     "total_debt": "200000000 VND",
     "has_bad_debt": null,
     "provider": "VPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1531,7 +1543,8 @@
     "total_debt": "84.800.000 đ",
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1557,7 +1570,8 @@
     "total_debt": "193,300,000 vnđ",
     "has_bad_debt": null,
     "provider": "VPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1583,7 +1597,8 @@
     "total_debt": "138tr",
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1609,7 +1624,8 @@
     "total_debt": "384,000,000đ",
     "has_bad_debt": null,
     "provider": "MB Shinsei",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1635,7 +1651,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "TPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -1687,7 +1704,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100041642448395"
   },
   {
     "lead_source": "post",
@@ -1843,7 +1861,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "TPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100076719723965"
   },
   {
     "lead_source": "post",
@@ -1999,7 +2018,8 @@
     "total_debt": "400.000.000 VND",
     "has_bad_debt": null,
     "provider": "VPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -2077,7 +2097,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "TPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -2155,7 +2176,8 @@
     "total_debt": "280.000.000 VND",
     "has_bad_debt": null,
     "provider": "VPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -2207,7 +2229,8 @@
     "total_debt": "400.000.000 VND",
     "has_bad_debt": null,
     "provider": "VPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",
@@ -2389,7 +2412,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "TNEX",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100008054864478"
   },
   {
     "lead_source": "post",

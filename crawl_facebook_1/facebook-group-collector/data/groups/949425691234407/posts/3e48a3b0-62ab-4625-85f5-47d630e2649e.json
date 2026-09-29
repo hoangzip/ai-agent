@@ -1,0 +1,27 @@
+{
+  "id": "3e48a3b0-62ab-4625-85f5-47d630e2649e",
+  "facebook_post_id": "1633579501512553",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "5fdb9e3c-8e8c-46a1-a0bb-7c47a2e5f703",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1633579501512553&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-09-08T00:00:00+00:00",
+  "created_at": "2026-09-29T03:35:53.780719+00:00",
+  "updated_at": "2026-09-29T03:35:53.780719+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "09c755f3-b95a-402c-85bf-4eebcf5a68df"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "0 đ",
+    "provider": "CIC",
+    "raw_text": "01:41 C,\n<\nAlll 049\nThông tin khoản vay\nSố tiền đến hạn thanh toán\n3 090 000 ₫\nHạn thanh toán\n0/6\nKhoản vay\n16 736 000 ₫\nĐã thanh toán\n0 đ\nDư nợ gốc còn lại\n0 đ\nSố Hợp Đồng\nXem Hợp Đồng Điện Tử\nThanh toán tự động\nKÍCH HOẠT\nLIÊN HỆ TẤT TOÁN KHOẢN VAY"
+  }
+}

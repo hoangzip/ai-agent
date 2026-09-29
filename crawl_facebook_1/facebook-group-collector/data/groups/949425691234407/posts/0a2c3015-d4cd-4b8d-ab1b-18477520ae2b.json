@@ -1,0 +1,28 @@
+{
+  "id": "0a2c3015-d4cd-4b8d-ab1b-18477520ae2b",
+  "facebook_post_id": "4523290304617902",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "badd6501-5f52-4812-afb9-360b9e40bd6c",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=4523290304617902&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-09-21T00:00:00+00:00",
+  "created_at": "2026-09-29T02:39:28.175368+00:00",
+  "updated_at": "2026-09-29T02:39:28.175368+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "c3804faf-d56e-46ec-8ae9-7e963b4947ed"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "05/09/2026",
+    "has_bad_debt": true,
+    "provider": "Mirae Asset",
+    "raw_text": "Tên tổ chức/chi nhánh TCTD\nLoại dư nợ\n1. Công ty Tài chính TNHH MTV Mirae Asset Việt Nam\nNgày báo cáo dư nợ vay gần nhất: 05/09/2026\nTông nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n2. Ngân hảng TNHH MTV Việt Nam Hiện đại\nNgày báo cáo dư nợ vay gần nhất: 09/09/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n3. Công ty Tài chính tổng hợp cổ phần Tín Việt\nNgày báo cáo dư nợ vay gần nhất: 02/09/2026\nTông nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n4. Ngân hàng TMCP Việt Nam Thịnh Vượng\nNgày báo cáo dư nợ vay gần nhất: 15/09/2026\nTổng ng\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\nTổng cộng\nNợ vay\nVND\nĐơn vị tính: triệu đồng, \"\nNợ t\nUSD\nVND\n1\n1\n1\n0\n0\n30\n30\n0\n7\n7\n0\n0\n54\n54\n0)\n92\n()\n()"
+  }
+}

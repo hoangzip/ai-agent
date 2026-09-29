@@ -1,0 +1,27 @@
+{
+  "id": "2de85149-99fb-4cd2-96fe-e30311fa0ca3",
+  "facebook_post_id": "2595342050940354",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "8dcbd922-8636-44d8-a470-565ed30df493",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2595342050940354&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-09-28T02:46:07.032441+00:00",
+  "created_at": "2026-09-28T22:46:07.032430+00:00",
+  "updated_at": "2026-09-28T22:46:07.032430+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "7e7aa105-18f4-40a3-a6a4-d95927f689b7"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "08:13, Hôm nay\nVAN PHONG LUAT SU CANH\nCAO\nXet thay hanh vi gian lan, lua\ndao trong van de giai quyet hop\ndong cua doi tuong \"\n: Chung toi da\nxin lenh tiep xuc tu CONG AN\nDIA PHUONG xuong địa chi cu\ntru tren CCCD ta\n, tien hanh cuong che\nden bu toan bo hop dong. Gui\ngiay khoi kien va doc lenh khoi\nto doi voi toan bo nguoi co ten\ntren giay bao no. Dong thoi\nhinh anh va thong tin no se bi\ndang tai len cac trang mang xa\nhoi."
+  }
+}

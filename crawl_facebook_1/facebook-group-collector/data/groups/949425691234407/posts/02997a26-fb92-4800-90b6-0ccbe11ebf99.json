@@ -1,0 +1,28 @@
+{
+  "id": "02997a26-fb92-4800-90b6-0ccbe11ebf99",
+  "facebook_post_id": "1867148454693676",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "3f4c0095-97f4-4967-9dee-6b892d93ac4b",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1867148454693676&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-09-05T00:00:00+00:00",
+  "created_at": "2026-09-29T03:43:34.089040+00:00",
+  "updated_at": "2026-09-29T03:43:34.089040+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "d75785b8-33e4-4fd4-8570-657bf84e9808"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "31/07/2026",
+    "has_bad_debt": true,
+    "provider": "MB Shinsei",
+    "raw_text": "ot tli marau tap tạn taor\nNợ vay\nTên tổ chức/chi nhánh TCTD\nLoại dư nợ\n1. Công ty Tài chính TNHH Ngân hàng Việt Nam Thịnh Vượng\nSMBC\nNgày bảo cáo dư nợ vay gần nhất: 31/07/2026\nTổng nợ\n- Nợ đủ tiêu chuân\n- Nợ cần chú ý\n- Nợ xấu\nVND\nĐơn vị tính: triệu đồng, USD\nNợ thẻ\nUSD\nVND\n27\n27\n27\nTổng cộng\n0\nLưu ý:\n- Tổng dư nợ bao gồm cà khoản nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChính phú/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đổi từ số ngày chậm thanh toán từ 10 -90\nngày đối với các khoản nợ không thuộc phạm vi quy định phân loại nợ của Chính phù/ Ngân hàng nhà\nnước Việt Nam).\n- Nợ xâu gôm các khoản nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan cua\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán trên 90 ngày\nđối với các khoản nợ không thuộc phạm vi quy định phân loại nợ xấu của Chính phủ/ Ngân hàng nhà\nnước Việt Nam)."
+  }
+}
