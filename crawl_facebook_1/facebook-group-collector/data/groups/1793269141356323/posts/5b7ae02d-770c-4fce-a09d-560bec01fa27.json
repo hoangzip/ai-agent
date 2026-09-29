@@ -1,0 +1,27 @@
+{
+  "id": "5b7ae02d-770c-4fce-a09d-560bec01fa27",
+  "facebook_post_id": "1585636109974875",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "2a7e252b-6fb1-42ba-b9de-2005afceceac",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1585636109974875&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T21:55:33.141829+00:00",
+  "updated_at": "2026-09-27T21:55:33.141829+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "14c28abf-efd2-42d1-9947-29a5f365a34e"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "2,000,000 VND",
+    "provider": "CIC",
+    "raw_text": "< Quản lý khoản vay\nLịch trả nợ\nThông báo (3)\nNgày 16/07/2026\nĐọc tất cả\n• Đăng ký khoản vay thành công\nnull\nSố tiền\n2,000,000 VND\nThời gian\n14:51\nNgày 05/03/2025"
+  }
+}

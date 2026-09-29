@@ -1,0 +1,27 @@
+{
+  "id": "fbb60285-9911-4063-b3ab-d7cf09a2fbee",
+  "facebook_post_id": "1751043516203385",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "06503e6b-6cd7-481d-9f7c-e33ce5ffb782",
+  "author_display_name": "Vanculaokeeee",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1751043516203385&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-28T04:56:54.118319+00:00",
+  "updated_at": "2026-09-28T04:56:54.118319+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "12283e1e-90e9-4f0f-86af-3286d1c0e454"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "04:08\n< Vay trả góp\nThông tin khoản tín dụng\nTổng số tiền\nDư nợ còn lại\nV\n45.365.000 VND\n33.050.409 VND\n=\nXem hợp đồng\nTải giấy XN tín dụng\nx\nĐóng\nhợp đồng\nKỳ thanh toán tiếp theo\nKỳ thanh toán\nSố tiền\nSố dư khả dụng\nTiền gốc trong hạn\nTiền lãi trong hạn\nPhí thu hộ\nTiền gốc quá hạn\nTiền lãi quá hạn\nPhí phạt trả chậm\nQuá hạn (137 ngày)\n06/10/2026\n26.742.513 VND\n0 VND\n3.361.553 VND\n716.048 VND\n12.000 VND\n14.900.572 VND\n5.474.638 VND\n2.277.702 VND\nLịch dự thu (05/15)\nĐã qua (10/15)\nKỳ 11/15 (06/10/2026)\n4.090.000 VND\nKỳ 12/15 (06/11/2026)\nV\nThanh toán"
+  }
+}

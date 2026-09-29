@@ -1,0 +1,27 @@
+{
+  "id": "b5554eb4-18be-481a-9bac-3ee67703a9c9",
+  "facebook_post_id": "890877217361139",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "8a9e3077-dd3e-4bd1-bc51-8a67cc1e60d3",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=890877217361139&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-06-12T00:00:00+00:00",
+  "created_at": "2026-09-28T19:40:26.915191+00:00",
+  "updated_at": "2026-09-28T19:40:26.915191+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "41e77f15-47d1-4276-8606-0bbe6d579f2f"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "Mcredit",
+    "raw_text": "[Phong Xu Ly No Tai Nha Mcredit\nkhu vuc\nI] Thong bao\nden ong/ba\nchung toi da hoan tat thu tuc,\ngiay to xuong nha tai dia chi:\nde giai\nquyet Tat Toan HD vay tre han:\ntien gop:\n. Nhan vien Thu Hoi\nNo Tai Nha se phoi hop cung\nCong An dia phuong xuong\nnha lam viec vao 10h ngay\n12/06/2026. De nghi ong/ba hop\ntac o nha giai quyet!"
+  }
+}

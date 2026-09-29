@@ -1,0 +1,29 @@
+{
+  "id": "f94e2d8e-31dc-45a7-950f-f0396e3c6a32",
+  "facebook_post_id": "985164610791822",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "fe3b2dc7-7fe8-4127-a15b-82b46f5d7a41",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=985164610791822&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-06-12T00:00:00+00:00",
+  "created_at": "2026-09-28T19:40:44.578031+00:00",
+  "updated_at": "2026-09-28T19:40:44.578031+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "4d3f8242-581e-4171-a0b6-d455041ba81b"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 560,
+    "tier": 6,
+    "scoring_date": "29/05/2026",
+    "provider": "CIC",
+    "raw_text": "2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nHiện tại khách hàng không còn dư nợ tại các TCTD\n2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\nTên tổ chức/ chi nhánh TCTD\nNgày phát sinh nọ\ncân chú ý gân nhất\n1\nNgân hàng TMCP Việt Nam Thịnh Vượng (Thẻ)\nNgày phát sinh nọ\nxấu gần nhất\n27/06/2025\nLưu ý: Thông tin lịch sử nợ cần chú ý và nợ xấu bao gồm thông tin nợ vay, cam kết ngoại bảng và các khoản\ncấp tín dụng khác. Lịch sử nợ cần chú ý trong 12 tháng gần nhất; lịch sử nợ xấu trong vòng 05 năm gần\nnhất.\n2.3. Thông tin về đảm bảo tiền vay\nSTT\nChi tiêu\nGiá trị\n1\nBảo đảm tiền vay bằng tài sản\nKhông có\nII. THÔNG TIN ĐIỂM TÍN DỤNG\nĐiểm tín dụng:\n560\nHạng:\n6\nNgày chấm điểm:\n29/05/2026\nXếp hạng của\nkhách hàng\nĐÁNH GIÁ ĐIỂM TÍN DỤNG\n100%\nĐiểm tín dụng của khách hàng cao\nhơn điêm tín dụng của 27% tông\n50% khách hàng cá nhân được chấm điểm\ntại kho dữ liệu CIC.\n27\n0%\nHạng\nXấu\n10\n09\nCHI TIẾT ĐIỂM VÀ HẠNG\nDưới trung bình\n07\nTrung bình\nTốt\n04\n03\nRất tốt\n02\n01\nĐiểm 403-434 435-454 455-479 480-544 545-566 567-587 588-608 609-622 623-644 645-706"
+  }
+}

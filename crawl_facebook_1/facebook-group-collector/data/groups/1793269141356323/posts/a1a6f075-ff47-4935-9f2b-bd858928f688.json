@@ -1,0 +1,27 @@
+{
+  "id": "a1a6f075-ff47-4935-9f2b-bd858928f688",
+  "facebook_post_id": "122215379702560918",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "cae9db12-2b4a-4be9-92b2-1d198a8f410f",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=122215379702560918&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-28T00:42:55.514105+00:00",
+  "updated_at": "2026-09-28T00:42:55.514105+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "afb4c180-6b08-4771-ab7a-57c2380e8a5d"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "mil Viettel\nsố thẻ\nSố tiền cần thanh toán\n23:24\n67%\n• vndawnh5.cashvn.cc\n963699271200931992\n1,300,000\nCập nhật tài khoản thanh toán trả nợ\nthông tin đặt hàng\nsố đơn đặt hàng\nNgày quá hạn\nNgày hết hạn\nSố tiền còn nợ\nGiá trị ưu đãi\nCuối cùng nên trả nợ\nThời gian vay\nGiá trị hợp đồng\nSố tiền đã thanh toán\nThời gian rút tiền\nTên doanh nghiệp\n447405\n-5\n2026-05-06\n1,300,000\n0\n1,300,000\n2026-05-01\n1,300,000\n2026-04-30 18:10\nHaDong"
+  }
+}

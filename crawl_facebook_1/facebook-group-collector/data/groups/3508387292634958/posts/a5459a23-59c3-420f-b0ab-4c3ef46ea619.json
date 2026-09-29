@@ -1,0 +1,29 @@
+{
+  "id": "a5459a23-59c3-420f-b0ab-4c3ef46ea619",
+  "facebook_post_id": "892263657284345",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "3244fc53-7ea9-41e4-b046-5b6392eb2d22",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=892263657284345&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-08-09T00:00:00+00:00",
+  "created_at": "2026-09-28T15:29:29.256025+00:00",
+  "updated_at": "2026-09-28T15:29:29.256025+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "2925eb7b-e100-459f-ad03-a457bbd70ed3"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 455,
+    "tier": 8,
+    "scoring_date": "28/02/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "Kiểm tra Điểm tín dụng CIC\nCCB\nCreditinFo\n455\nHạng 8 Đ\nNgày chấm: 28/02/2026\nA Đã tới kỳ chấm điểm mới. Cập nhật ngay!\nCao hơn 3% khách hàng cá nhân khác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo"
+  }
+}

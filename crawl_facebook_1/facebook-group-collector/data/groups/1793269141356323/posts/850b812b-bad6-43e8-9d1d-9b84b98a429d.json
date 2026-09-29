@@ -1,0 +1,22 @@
+{
+  "id": "850b812b-bad6-43e8-9d1d-9b84b98a429d",
+  "facebook_post_id": "1595049708918277",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "297e9b94-9d34-459d-adb5-ed7c9600f200",
+  "author_display_name": "BraveChipmunk4725",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1595049708918277&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T19:26:22.003726+00:00",
+  "updated_at": "2026-09-27T19:26:22.003726+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "e23aea98-be85-40f6-b2c6-438c95b8796b"
+  ],
+  "cic_data": null
+}

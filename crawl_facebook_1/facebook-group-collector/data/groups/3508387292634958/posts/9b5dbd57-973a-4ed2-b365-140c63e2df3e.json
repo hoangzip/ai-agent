@@ -1,0 +1,28 @@
+{
+  "id": "9b5dbd57-973a-4ed2-b365-140c63e2df3e",
+  "facebook_post_id": "3540961892735791",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "60d4822d-013d-4538-a042-10a1f3d1f472",
+  "author_display_name": "Văn Hà",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=3540961892735791&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-05-05T00:00:00+00:00",
+  "created_at": "2026-09-28T21:46:16.103439+00:00",
+  "updated_at": "2026-09-28T21:46:16.103439+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "43d2005b-c564-4a29-8ebc-0c4cbc1bc0c9"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "000 đ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "15:30\n120Hz\nN\nT VOLTEB\n…lll\n•1 (45\n<\nThông tin khoản vay\nSố tiền đến hạn thanh toán\n1886 000 ₫\nHạn thanh toán\n11/06/2021\n18/40\nKhoán vay\n36 925 000 đ\nĐã thanh toán\n31 365 887 ₫\nDư nợ gốc còn lại\n0 đ\nNợ Quả hạn\n35 746 123 đ\nSố Hợp Đồng\n20191030-0001126 G\nXem Hợp Đồng Điện Tử\nLIÊN HỆ TẤT TOÁN KHOẢN VAY"
+  }
+}

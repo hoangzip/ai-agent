@@ -1,0 +1,28 @@
+{
+  "id": "7d6db690-b16f-4174-a06c-cca6f9d25311",
+  "facebook_post_id": "1807912757300514",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "cadc9262-fe03-4d61-8743-98753f5dc9f7",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1807912757300514&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-28T05:11:40.199136+00:00",
+  "updated_at": "2026-09-28T05:11:40.199136+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "be5abf73-e095-4e6d-a48c-fae76cd63e0a"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "phone_number": "0813267570",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "<\n+84813267570\n17:15, 14 Th9\nVay Nhanh TINVAY: Phòng Pháp lý Thông Báo QK\n*3 cần thanh\ntoán khoản vay quá hạn ngay trước khi chúng tôi\nnộp Hồ sơ của Quý khách sang cấp Tòa xử lý, có\nthể bị khởi tố nếu Quý khách gian lận nhằm chiếm\ndụng vốn của Tinvay. Quý khách lưu ý chúng tôi\nđang chuẩn bị Thông báo nợ về địa phương nơi\nthường trú của QK. Trân trọng"
+  }
+}

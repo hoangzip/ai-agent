@@ -1,0 +1,27 @@
+{
+  "id": "09db51fa-03c1-4c2b-abdf-e687aeb80c06",
+  "facebook_post_id": "5487677074790242",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "51f2df5c-1270-4f84-9ee8-2b79eb77c53a",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=5487677074790242&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-08-06T00:00:00+00:00",
+  "created_at": "2026-09-28T15:37:58.444210+00:00",
+  "updated_at": "2026-09-28T15:37:58.444210+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "18d45a08-520e-4b10-ad2b-3b0fe79b572d"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "VPBank",
+    "raw_text": "Vì vậy, VPBank thông báo tới Quý Khách hàng về việc thu hồi nợ trước hạn và yêu cầu Quý\nKhách hàng phải thanh toán toàn bộ gốc lãi nêu trên trong vòng 05 ngày kê từ ngày VPBank phát\nhành thông bao này. Sau thời hạn 05 ngày này mà Quý Khach hàng van chưa tát toan khoan vay,\ntoàn bộ số dư nợ gốc còn lại của Khách hàng sẽ bị tính lãi suất quá hạn bằng 150% lãi suất trong\nhạn đã thỏa thuận tại (các) hợp đồng cấp tín dụng đã ký giữa Các Bên. Đồng thời, VPBank hoàn\nthiện hồ sơ khởi kiện Quý Khách hàng ra Tòa án nhân dân có thẩm quyền để xử lý theo quy định\ncủa pháp luật. Tiền án phí và các khoản chi phí liên quan phát sinh trong quá trình khởi kiện do\nQuý Khách hàng gánh chịu."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "18c74f29-c19a-433b-945c-6e1d7e932aa4",
+  "facebook_post_id": "2210087503142317",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "72a2f07a-97a7-4b53-a2e1-8259b7793035",
+  "author_display_name": "Be_đầu_bò",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2210087503142317&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T23:49:53.625188+00:00",
+  "updated_at": "2026-09-27T23:49:53.625188+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "092f6957-972a-4c63-8712-69045c28f3b1"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "1.703.616 VND",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Bạn cần thanh toán ngay!\n2 giờ trước\nKhoản vay trên App Kredivo đã quá hạn 28\nngày và sẽ chuyển đến bộ phận thu hồi nợ\ntrực tiếp. Thanh toán 1.703.616 VND trong\nhôm nay."
+  }
+}

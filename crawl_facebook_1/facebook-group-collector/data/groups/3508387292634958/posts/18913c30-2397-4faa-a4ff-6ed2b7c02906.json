@@ -1,0 +1,27 @@
+{
+  "id": "18913c30-2397-4faa-a4ff-6ed2b7c02906",
+  "facebook_post_id": "122114630949291720",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "5fb24306-8c5c-485e-b0ca-fe29ea828a41",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=122114630949291720&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-28T05:05:38.782934+00:00",
+  "updated_at": "2026-09-28T05:05:38.782934+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "b8e8b43a-ba71-46b5-aa56-ad33b3ea66f3"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "16,000,000 VND",
+    "provider": "CIC",
+    "raw_text": "106\n+84 37 2459362 >\nVIETCREDIT TIN VAY- VAY NHANH\nTB\nSHD:\nKhoan vay\n16,000,000 VND. Hien tai chung toi\nda gui CONG VAN THONG BAO NO\nve dia chi tren CCCD va noi hoc tap,\nlam viec cua O/B. Y/c thanh toan gap\ntrong ngay hom nay 18/09. Sau khi\nnhan duoc CV THONG BAO NO ma\nvan khong hop tac thanh toan,\nchung toi se chuyen THN THUC DIA\ntruy thu toan bo KHOAN VAY nhu da\nbao trong CV THONG BAO NO."
+  }
+}

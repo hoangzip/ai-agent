@@ -1,0 +1,27 @@
+{
+  "id": "4dc4ea32-aa69-4f3e-8436-1bd210621f20",
+  "facebook_post_id": "1633722144410824",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "432464a7-a73c-40b4-9f3f-b48982cd0958",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1633722144410824&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-06-05T00:00:00+00:00",
+  "created_at": "2026-09-28T19:59:02.297374+00:00",
+  "updated_at": "2026-09-28T19:59:02.297374+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "55aaf07d-271c-460d-bede-c231673dc3d2"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "<\n19:37 1\n180\n56\n+84 90 4629783\nTin nhắn văn bản • SMS\n19:36, Hôm nay\nJ. VI TRA SAU.\nDang xac minh thong tin gui\ngiay bao no ve nha, va bao\ncao sang thu hoi no dia\nphuong. Thanh toan trong\nhom nay gap nha.\n+\nTin nhắn văn bản • SMS"
+  }
+}

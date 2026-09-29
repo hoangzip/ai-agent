@@ -1,0 +1,22 @@
+{
+  "id": "d4a3e226-4f81-4fe5-8351-9299dd54b1d8",
+  "facebook_post_id": "1285283606808355",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "06e4159a-3137-44f0-91e1-3746ebee5470",
+  "author_display_name": "Hello-My_4432",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1285283606808355&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T22:11:52.211804+00:00",
+  "updated_at": "2026-09-27T22:11:52.211804+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "3c54758b-3e56-4531-8eb2-2a350e5e194f"
+  ],
+  "cic_data": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "50d0852b-c4ef-44a4-a087-a2ae7c56c429",
+  "facebook_post_id": "2899144990426866",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "20f58f6d-2d94-42c4-8efa-ac1cf779781d",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2899144990426866&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T23:22:25.903607+00:00",
+  "updated_at": "2026-09-27T23:22:25.903607+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "57ba793d-5d60-4a1e-b52d-3e631d9f0616"
+  ],
+  "cic_data": null
+}

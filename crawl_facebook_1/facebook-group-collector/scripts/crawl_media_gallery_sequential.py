@@ -232,8 +232,25 @@ async def inspect_photo_page(page, photo_url: str) -> dict:
     post_id = None
     timestamp_str = None
 
+    # Dismiss any notification or menu dialogs overlaying the page
+    await page.evaluate("""() => {
+        for (let d of document.querySelectorAll("div[role='dialog'], div[role='region']")) {
+            const aria = (d.getAttribute('aria-label') || '').toLowerCase();
+            const txt = (d.innerText || '').toLowerCase();
+            if (aria.includes('notification') || txt.includes('notification') || txt.includes('turn on') || txt.includes('daily limit') || txt.includes('báo cáo biệt danh') || txt.includes('report nickname') || txt.includes('facebook menu') || txt.includes('menu')) {
+                d.remove();
+            }
+        }
+    }""")
+
     # 1. Extract Author BEFORE hover (to prevent hover events from altering header DOM)
     author_info = await page.evaluate("""() => {
+        const isInvalid = (txt) => {
+            const low = txt.toLowerCase();
+            return !txt || low.includes('bình luận') || low.includes('comments') || low.includes('chia sẻ') ||
+                   low === 'new' || low === 'earlier' || low.includes('no comments') ||
+                   low.includes('facebook menu') || low.includes('menu') || low.includes('notifications') || low.includes('thông báo');
+        };
         // Strategy A: Find post author from ancestor of the post permalink / timestamp link
         const ts = document.querySelector("a[href*='/posts/'], a[href*='/permalink/']");
         if (ts) {
@@ -243,8 +260,8 @@ async def inspect_photo_page(page, photo_url: str) -> dict:
                 p = p.parentElement;
                 for (let h2 of p.querySelectorAll("h2")) {
                     const txt = h2.innerText.trim();
-                    if (txt && !txt.includes('Bình luận') && !txt.includes('Comments') && !txt.includes('Chia sẻ') && txt !== 'New' && !txt.includes('No comments yet')) {
-                        const a = h2.querySelector("a[href*='/user/'], a[href*='profile.php'], a[role='link']");
+                    if (!isInvalid(txt)) {
+                        const a = h2.querySelector("a");
                         return { name: txt, url: a ? a.href : null };
                     }
                 }
@@ -253,9 +270,12 @@ async def inspect_photo_page(page, photo_url: str) -> dict:
         // Strategy B: Search top h2 elements on page before comments
         for (let h2 of document.querySelectorAll("h2")) {
             const txt = h2.innerText.trim();
-            if (txt && !txt.includes('Bình luận') && !txt.includes('Comments') && !txt.includes('Chia sẻ') && txt !== 'New' && !txt.includes('No comments yet')) {
-                const a = h2.querySelector("a[href*='/user/'], a[href*='profile.php'], a[role='link']");
-                return { name: txt, url: a ? a.href : null };
+            if (!isInvalid(txt)) {
+                const a = h2.querySelector("a");
+                const isAnon = txt.toLowerCase().includes('anonymous') || txt.toLowerCase().includes('ẩn danh') || /^[A-Z][a-z]+(?:[A-Z][a-z]+)+\d+$/.test(txt);
+                if (a || isAnon) {
+                    return { name: txt, url: a ? a.href : null };
+                }
             }
         }
         return null;
@@ -264,6 +284,12 @@ async def inspect_photo_page(page, photo_url: str) -> dict:
     author_name = None
     author_profile_url = None
     is_anon = False
+
+    invalid_names = (
+        "kiểm tra nợ xấu", "hỗ trợ vay", "check cic", "notifications", "thông báo",
+        "facebook menu", "menu", "earlier", "new", "comments", "bình luận",
+        "chia sẻ", "share", "all notifications", "báo cáo biệt danh", "report nickname"
+    )
 
     if author_info:
         raw_name = (author_info.get("name") or "").strip()
@@ -278,7 +304,11 @@ async def inspect_photo_page(page, photo_url: str) -> dict:
             author_name = raw_name
             author_profile_url = clean_facebook_url(raw_url) if raw_url else None
             is_anon = True
-        elif raw_name and len(raw_name) > 1 and not any(k in raw_name.lower() for k in ("kiểm tra nợ xấu", "hỗ trợ vay", "check cic", "notifications", "thông báo")):
+        elif not raw_url and raw_name and len(raw_name) > 1 and not any(k in raw_name.lower() for k in invalid_names):
+            author_name = raw_name
+            author_profile_url = None
+            is_anon = True
+        elif raw_name and len(raw_name) > 1 and not any(k in raw_name.lower() for k in invalid_names):
             author_name = raw_name
             author_profile_url = clean_facebook_url(raw_url) if raw_url else None
             is_anon = False

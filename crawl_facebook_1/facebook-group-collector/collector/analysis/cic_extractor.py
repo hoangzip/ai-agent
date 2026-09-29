@@ -171,6 +171,11 @@ class CICExtractor:
             "giai quyet no",
             "nhac no",
             "thu hoi no",
+            "thu no",
+            "tra no",
+            "so no",
+            "no nhom",
+            "no can chu y",
             "khoan vay",
             "qua han",
             "du no",
@@ -189,6 +194,16 @@ class CICExtractor:
             info.provider = "MoMo / CIC"
         elif "creditinfo" in norm_text or "cicb" in norm_text:
             info.provider = "CreditInfo / CIC"
+        elif "cake" in norm_text:
+            info.provider = "Cake by VPBank"
+        elif "cimb" in norm_text:
+            info.provider = "CIMB Bank"
+        elif "vietcredit" in norm_text:
+            info.provider = "VietCredit"
+        elif "finhay" in norm_text:
+            info.provider = "Finhay"
+        elif "tnex" in norm_text:
+            info.provider = "TNEX"
         elif "mcredit" in norm_text:
             info.provider = "Mcredit"
         elif "fe credit" in norm_text or "fecredit" in norm_text:
@@ -292,7 +307,7 @@ class CICExtractor:
             info.has_bad_debt = True
         elif re.search(r"no\s*xau\s*[:\s]*[1-9]\d*", norm_text):
             info.has_bad_debt = True
-        elif any(w in norm_text for w in ("no qua han", "qua han nghiem trong", "dut no", "du no xau", "thu hoi no", "don to cao")):
+        elif re.search(r"(?:no\s*nhom\s*[2-5]|no\s*can\s*chu\s*y|qua\s*han\s*(?:\d+\s*ngay)?|thu\s*no\s*(?:tai\s*nha)?|thu\s*hoi\s*no|giay\s*bao\s*no|khoi\s*kien|don\s*(?:to\s*cao|khoi\s*kien)|khoan\s*vay\s*gap|giai\s*quyet\s*(?:toan\s*bo\s*)?(?:so\s*no|khoan\s*vay)|dut\s*no|du\s*no\s*xau|lich\s*su\s*tin\s*dung)", norm_text):
             info.has_bad_debt = True
 
         # 5. Total debt (Tổng dư nợ / Khoản nợ / Khoản vay) - Requires explicit currency unit or formatted amount
@@ -391,24 +406,30 @@ class CICExtractor:
 
         # Try global regex for Phone
         m_phone = re.search(
-            r"(?:điện\s*thoại|sđt|sdt|đt|dt|di\s*động|lh|liên\s*hệ|zalo|hotline|tel|call)\s*[:\s.-]+([0-9\s.+-]{9,15})",
+            r"(?:điện\s*thoại|sđt|sdt|đt|dt|di\s*động|lh|liên\s*hệ|zalo|hotline|tel|call)\s*[:\s.-]+([0-9\s.+-]{9,16})",
             full_text,
             re.IGNORECASE,
         )
         if m_phone:
             cleaned_phone = re.sub(r"[^\d+]", "", m_phone.group(1))
-            if 9 <= len(cleaned_phone) <= 12:
+            if cleaned_phone.startswith("+84"):
+                cleaned_phone = "0" + cleaned_phone[3:]
+            elif cleaned_phone.startswith("84") and len(cleaned_phone) == 11:
+                cleaned_phone = "0" + cleaned_phone[2:]
+            if len(cleaned_phone) == 10 and cleaned_phone.startswith("0"):
                 info.phone_number = cleaned_phone
 
-        # Fallback to standalone VN phone number pattern (03x, 05x, 07x, 08x, 09x)
+        # Fallback to standalone VN phone number pattern (03x, 05x, 07x, 08x, 09x or +84 3x..)
         if not info.phone_number:
             m_vn_phone = re.search(
-                r"\b(0(?:3[2-9]|5[6-9]|7[06-9]|8[1-9]|9[0-9])[.\s-]?\d{3}[.\s-]?\d{4})\b",
+                r"(?:\+84|84|0)\s*(?:3[2-9]|5[6-9]|7[06-9]|8[1-9]|9[0-9])(?:[.\s-]?\d{3})(?:[.\s-]?\d{3,4})\b",
                 full_text,
             )
             if m_vn_phone:
-                cand_phone = re.sub(r"[^\d]", "", m_vn_phone.group(1))
-                if len(cand_phone) == 10:
+                cand_phone = re.sub(r"[^\d]", "", m_vn_phone.group(0))
+                if cand_phone.startswith("84"):
+                    cand_phone = "0" + cand_phone[2:]
+                if len(cand_phone) == 10 and cand_phone.startswith("0"):
                     info.phone_number = cand_phone
 
         # Debt amount in notices

@@ -1,0 +1,27 @@
+{
+  "id": "023e2b64-6b6a-410b-9d1e-28803c41ebe7",
+  "facebook_post_id": "1712280003271184",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "692cd19e-4a48-4801-83b1-507e6832f3d9",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1712280003271184&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-04-11T00:00:00+00:00",
+  "created_at": "2026-09-28T22:15:30.559892+00:00",
+  "updated_at": "2026-09-28T22:15:30.559892+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "e94357a2-41cd-436b-812f-e013b184e89f"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "đóng tiền VÍ TRẢ SAU\nchưa, chụp biên lai qua gấp, Đang xác\nminh thông tin gửi giấy báo nợ về nhà,\nđể báo cáo sang bộ phận thu hồi nợ\ntrực tiếp tại địa phương, đóng gấp và\nchụp biên lai qua gấp trước 17h hôm\nnay\nĐặt nhắc hẹn"
+  }
+}

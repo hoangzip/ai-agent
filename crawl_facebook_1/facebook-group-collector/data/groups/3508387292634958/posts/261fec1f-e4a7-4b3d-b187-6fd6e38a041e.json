@@ -1,0 +1,27 @@
+{
+  "id": "261fec1f-e4a7-4b3d-b187-6fd6e38a041e",
+  "facebook_post_id": "1704880267431648",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "d845bf62-e127-4ef5-9476-69bef308a7b1",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1704880267431648&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-27T00:00:00+00:00",
+  "created_at": "2026-09-28T16:23:28.584575+00:00",
+  "updated_at": "2026-09-28T16:23:28.584575+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "ceaefed6-1d44-4fc7-a818-4ec0a1914866"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "Cake by VPBank",
+    "raw_text": "10:26 Hôm qua\nNgân hàng số\nCAKE\nby VPBank\nXin chào N\nHợp đồng số\ncủa quý khách có hạn\nthanh toán ngày 26/07/2026, Số tiền cần thanh\ntoán:4,627,253 VNĐ. Quý khách vui lòng thanh\ntoán đúng hạn để không ảnh hưởng đến lịch sử\ntín dụng và phát sinh lãi phạt (nếu có).\nXin bỏ qua thông báo nếu đã Thanh toán.\n10:59 Hôm nay\nNgân hàng số\nCAKE\nby VPBank\nXin chào\nHợp đồng số C\ncủa quý khách đã quá hạn 1 ngày, sắp chuyền nợ\nnhóm 2. Số tiền cần thanh toán: 1,019,794 VNĐ.\nThanh toán ngay trong hôm nay để tránh ảnh\nhưởng đến lịch sử tín dụng.\nBỏ qua thông báo nếu đã Thanh toán."
+  }
+}

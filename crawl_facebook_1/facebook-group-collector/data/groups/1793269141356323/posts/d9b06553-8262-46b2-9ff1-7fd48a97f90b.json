@@ -1,0 +1,27 @@
+{
+  "id": "d9b06553-8262-46b2-9ff1-7fd48a97f90b",
+  "facebook_post_id": "1596394842150756",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "54010d09-e8d7-4bdd-980a-7518cf922cf9",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1596394842150756&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T19:11:01.107657+00:00",
+  "updated_at": "2026-09-27T19:11:01.107657+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "5c78270c-240a-4fbb-96e9-df399e955126"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "770.000đ",
+    "provider": "MB Shinsei",
+    "raw_text": "Khoản vay của tôi\nLịch sử khoản vay\nLịch sử thanh toán\nĐang xét duyệt\nSố tiền nhận được\n770.000đ\nSố tiền còn phải trả\n1.201.680₫\nKỳ hạn vay\n7Ngày\nSố đặt hàng\nThời gian nộp đơn\nNgân hàng nhận tiền\nHiệp định vay vốn\n01/09/2026\nMB(2456 7890 0008 9)\n>"
+  }
+}

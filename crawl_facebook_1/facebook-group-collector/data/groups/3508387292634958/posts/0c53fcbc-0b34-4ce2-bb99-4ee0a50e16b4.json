@@ -1,0 +1,27 @@
+{
+  "id": "0c53fcbc-0b34-4ce2-bb99-4ee0a50e16b4",
+  "facebook_post_id": "122115818223363605",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "8d75fc6c-253a-4e32-ab64-bc0b0c47387e",
+  "author_display_name": "ChipperRambutan5779",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=122115818223363605&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-08-03T00:00:00+00:00",
+  "created_at": "2026-09-28T15:57:09.842505+00:00",
+  "updated_at": "2026-09-28T15:57:09.842505+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "ff372b6b-c972-47a3-ba52-e8bd57f86834"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Kỳ hạn\nKỳ 1\n15/07/2026\nKỳ 2\n15/08/2026\nSố tiền phải trả\n1.671.711đ (\n1.625.592c\nTrạng thái\nQuá hạn\nĐến hạn"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "5d3159e5-067b-4e28-874b-f45d46a4578f",
+  "facebook_post_id": "3644337595723907",
+  "group_id": "3508387292634958",
+  "group_slug": "3508387292634958",
+  "author_id": "130e9069-1573-454b-8f41-d27c0d17f2a7",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=3644337595723907&set=g.3508387292634958",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-28T05:05:24.198387+00:00",
+  "updated_at": "2026-09-28T05:05:24.198387+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "9ae88c3a-ee4c-46a7-a965-2d6c848cb3b1"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "phone_number": "0915106428",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "<\n12:42 j\n163\n:\n+84 91 5106428\nTin nhắn văn bản • SMS\n11:58, Hôm nay\nChao em, toi la Hoang, chuyen\nvien thu no ngoai cua NH truc\nthuoc tai dia phuong, em co nha\nkhong, sao khong dong tien no\nthe, goi khong nghe may? Lat\nnua toi ghe thu tien cung voi\ndai dien tai dia phuong.Em coi\nthu xep cong viec co mat giai\nquyet ho so,co gi bao toi, neu\nkhong ngay mai toi ghe lai.\n+\nTin nhắn văn bản • SMS"
+  }
+}

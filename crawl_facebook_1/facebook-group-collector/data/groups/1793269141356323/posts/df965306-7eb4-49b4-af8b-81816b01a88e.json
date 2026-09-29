@@ -1,0 +1,27 @@
+{
+  "id": "df965306-7eb4-49b4-af8b-81816b01a88e",
+  "facebook_post_id": "1012205931674426",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "0d3409a1-730a-4308-97f6-ddb2a61afacc",
+  "author_display_name": "UnforgettableOctopus5843",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1012205931674426&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T23:17:35.886118+00:00",
+  "updated_at": "2026-09-27T23:17:35.886118+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "77aa41bc-01d5-4fcd-8231-25f13d944d2f"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "675.000 đ",
+    "provider": "CIC",
+    "raw_text": "14:22\nvayvnd\n•il\n36\nKhoản vay\ncủa bạn\nSố tiền phải thanh toán\n675.000 đ\nCòn 7 ngày\n111000\nGia hạn khoản vay\nThanh toán"
+  }
+}

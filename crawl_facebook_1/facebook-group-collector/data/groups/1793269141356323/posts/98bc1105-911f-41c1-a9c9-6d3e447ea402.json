@@ -1,0 +1,27 @@
+{
+  "id": "98bc1105-911f-41c1-a9c9-6d3e447ea402",
+  "facebook_post_id": "1718256956131757",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "38905443-24e1-4e84-b46f-ff8f5859f554",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1718256956131757&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T21:32:09.548174+00:00",
+  "updated_at": "2026-09-27T21:32:09.548174+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "cc14d136-ec74-42c1-813a-c2ecbf30b632"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "22 Triệu VNĐ",
+    "provider": "CIC",
+    "raw_text": "04:40\n: 50 C\nThông tin dư nợ\nẨn thông tin\nThông tin dư nợ Q\nTổng dư nợ\n22 Triệu VNĐ\nDư nợ khoản vay\n17 Triệu VNĐ\nDư nợ thẻ tín dụng\n5 Triệu VNĐ\nQuan hệ tổ chức tín dụng\nSố lượng tổ chức tín dụng đang có quan hệ\nNợ cần chú ý O\nTổng nợ cần chú ý\n0 VNĐ\nNợ cần chú ý gần nhất\nNgày phát sinh\n--\nPhát sinh tại\n--\nNợ xấu Q\nTổng nợ xấu\nO VNĐ\nNợ xấu gần nhất\nNgày phát sinh\n--"
+  }
+}

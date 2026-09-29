@@ -1,0 +1,27 @@
+{
+  "id": "87d2575c-39bb-4bcd-9499-80d8016d5115",
+  "facebook_post_id": "989085077493239",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "14d5267e-95a0-4e51-a2e7-4358c2601aaa",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=989085077493239&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T20:59:43.075578+00:00",
+  "updated_at": "2026-09-27T20:59:43.075578+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "d430b092-63db-488b-8848-0a9b50a7e7bb"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "13.748.000đ",
+    "provider": "CIC",
+    "raw_text": "Tổng nợ tất toán\n13.748.000đ\nNợ trong kỳ\n3.665.000đ\nThanh toán số tiền khác\n• Dư nợ đang được cộng gộp, gồm gốc, lãi tới thời\nđiểm hiện tại, phí thu hộ và lãi chậm trả (nếu có).\nBạn đang có số tiền quá hạn 1.844.000đ. Hãy ưu tiên\nthanh toán số tiền này để tránh phát sinh thêm phí\nphạt và ảnh hưởng đến lịch sử tín dụng bạn nhé."
+  }
+}

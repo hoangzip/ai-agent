@@ -1,0 +1,27 @@
+{
+  "id": "a336fa54-3281-4f59-be74-fecf0a67b839",
+  "facebook_post_id": "122303424002180001",
+  "group_id": "1793269141356323",
+  "group_slug": "1793269141356323",
+  "author_id": "0685761a-5f2f-4224-befd-bbe034014d32",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=122303424002180001&set=g.1793269141356323",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-27T19:08:19.738769+00:00",
+  "updated_at": "2026-09-27T19:08:19.738769+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "dc2530d8-3617-4758-8d9c-17c51107ee22"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "1.000.000đ",
+    "provider": "CIC",
+    "raw_text": "<\n15:58\na1 5\n644\nGhi chép khoản vay\nNo.27006211454032\n02/09/2026\n1.000.000đ\nĐang xem xét"
+  }
+}
