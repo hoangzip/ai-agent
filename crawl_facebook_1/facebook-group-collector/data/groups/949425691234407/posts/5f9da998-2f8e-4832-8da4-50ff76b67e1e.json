@@ -1,0 +1,28 @@
+{
+  "id": "5f9da998-2f8e-4832-8da4-50ff76b67e1e",
+  "facebook_post_id": "1611517453731818",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "87c6e616-ee6f-4bc6-9c3d-f68d205a20cc",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1611517453731818&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-26T00:00:00+00:00",
+  "created_at": "2026-09-29T10:11:40.144137+00:00",
+  "updated_at": "2026-09-29T10:11:40.144137+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "8f812d4c-801f-446d-87c7-9f351d2f0819"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "address": "Do, ng Binh Ta Quý khách vui lòng thanh toán Số tiền thanh toán tối thiểu hoặc Dư nợ cuối kỳ trước Ngày đến hạn thanh toá",
+    "total_debt": "10,000,000 VND",
+    "provider": "CIC",
+    "raw_text": "Loại thẻ tín dụng [2]\nTổng hạn mức thẻ được cấp [3]\nI\nNgày đến hạn thanh toán [4]\nSố tiền thanh toán tối thiểu [5]\nDư nợ cuối kỳ [6]\nTổng dư nợ [7]\n(bao gồm Khoản trả góp chưa đến hạn)\nJCB STANDARD\n10,000,000 VND\n06/08/2026\n0 VND\n(2,106,485) VND\n(2,106,485) VND\nTên Khách\nĐịa chỉ: 445/\nDo, ng Binh Ta\nQuý khách vui lòng thanh toán Số tiền thanh toán tối thiểu hoặc Dư nợ cuối kỳ trước Ngày đến hạn thanh toá"
+  }
+}

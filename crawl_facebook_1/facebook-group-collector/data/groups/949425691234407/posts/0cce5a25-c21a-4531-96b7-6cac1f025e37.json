@@ -1,0 +1,27 @@
+{
+  "id": "0cce5a25-c21a-4531-96b7-6cac1f025e37",
+  "facebook_post_id": "2508247716290488",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "32fd2385-bb7b-405f-8f79-7fc0f8eac704",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2508247716290488&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-08-03T00:00:00+00:00",
+  "created_at": "2026-09-29T09:57:59.553494+00:00",
+  "updated_at": "2026-09-29T09:57:59.553494+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "4330c29e-994a-490f-99b5-02bbb51dd3db"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "1,036,000 đ",
+    "provider": "CIC",
+    "raw_text": "Bạn đã vay số tiền:\n1,036,000 đ\nđể đóng khoản vay hôm nay\nThanh toán\nTôi đã thanh toán\nNgày đáo hạn\n17.08.2026\n14\nngày\nThanh toán hôm nay\n1,036,000 đ\nSố hợp đồng\nNgười cho vay\n4187212\nANH TU\nhồ sơ vay tiền\nKhoản vay\nTài khoản\nTrung tâm hồ trợ"
+  }
+}

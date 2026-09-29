@@ -1,0 +1,28 @@
+{
+  "id": "a954502d-98e4-4938-9fbb-0c1b3b10b2a5",
+  "facebook_post_id": "1725292798668865",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "b0a2aaec-970d-4d11-833b-716f4256d465",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1725292798668865&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-06T00:00:00+00:00",
+  "created_at": "2026-09-29T11:01:57.310241+00:00",
+  "updated_at": "2026-09-29T11:01:57.310241+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "7ca21ed8-e4c7-4cb0-b0b7-7cd8f0c8c77c"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "tier": 6,
+    "scoring_date": "23/06/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "CCB\nCreditinFo\n563\nHạng 6\nNgày chấm: 23/06/2026\nCao hơn 29% khách hàng cá nhân\nkhác\nChia sẻ\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo"
+  }
+}

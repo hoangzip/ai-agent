@@ -1,0 +1,28 @@
+{
+  "id": "a440c8a7-5041-4363-8fc7-3d3db50eae27",
+  "facebook_post_id": "1068790669147286",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "59849059-4fc7-4a7c-a329-6f4a078332f5",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1068790669147286&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-29T11:08:23.805510+00:00",
+  "updated_at": "2026-09-29T11:08:23.805510+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "37c39a68-85c9-4774-94ec-a80c3fc12ab2"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "30/06/2026",
+    "has_bad_debt": true,
+    "provider": "HD Saison",
+    "raw_text": "2. Thông tin quan hệ tín dụng\n2.1. Thông tin dư nợ hiện thời\nNợ vay\nTên tố chức/chi nhánh TCTD\nLoại dư nợ\n1. Công ty Tài chính TNHH HD SAISON\nNgày báo cáo dư nợ vay gần nhất: 30/06/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xâu\n2. Ngân hàng Chính sách xã hội Việt Nam - Chi nhánh tinh Cà\nMau\nNgày báo cáo dư nợ vay gần nhất: 31/05/2026\nTổng ng\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\nVND\nĐơn vị tính: triệu đồng, USD\nNợ thẻ\nUSD\nVND\n0\n0\n11\n50\n50\n0\n0\nTổng cộng\n61\n0\n0\nLưu ý:\n- Tổng dư nợ bao gồm cả khoản nợ không phân loại nợ tại Ngân hàng Phát triển Việt Nam (nếu có).\n- Nợ cần chú ý gồm các khoản nợ được phân loại nhóm 2 theo các quy định phân loại nợ có liên quan của\nChinh phú/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ sô ngày chậm thanh toán từ 10 -90\nngày đôi với các khoản nợ không thuộc phạm vi quy định phân loại nợ cua Chính phu Ngân hang nha\nnước Việt Nam).\n- Nợ xâu gôm các khoan nợ được phân loại nhóm 3, 4, 5 theo các quy định phân loại nợ có liên quan cua\nChính phủ/ Ngân hàng Nhà nước Việt Nam (hoặc được quy đôi từ số ngày chậm thanh toán trên 90 ngày\nđối với các khoản nợ không thuộc phạm vi quy định phân loại nợ xâu của Chính phú Ngân hàng nhà\nnước Việt Nam)."
+  }
+}

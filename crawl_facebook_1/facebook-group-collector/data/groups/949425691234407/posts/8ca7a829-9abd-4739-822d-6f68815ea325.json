@@ -1,0 +1,27 @@
+{
+  "id": "8ca7a829-9abd-4739-822d-6f68815ea325",
+  "facebook_post_id": "1742208680261353",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "3191ac79-8ac0-4c20-a5b4-c5b81556c5fc",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1742208680261353&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-06-08T00:00:00+00:00",
+  "created_at": "2026-09-29T14:58:25.562806+00:00",
+  "updated_at": "2026-09-29T14:58:25.562806+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "0767a16a-c5fb-4938-842c-3329404a7389"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "10:14 1\n•il\nThông tin khoản vay\nLịch thanh toán\nKỳ hạn\nKỳ 1\n07/05/2026\nKỳ 2\n07/06/2026\nKỳ 3\n07/07/2026\nKỳ 4\n07/08/2026\nKỳ 5\n07/09/2026\nKỳ 6\n07/10/2026\nKỳ 7\n07/11/2026\nKỳ 8\n07/12/2026\nSố tiền phải trả\nTrạng thái\n0đ\nĐã thanh toán\n2.296.000đ 0\nQuá hạn\n2.293.000đ\nĐến hạn\n2.293.000đ\nChưa đến hạn\n2.293.000đ\nChưa đến hạn\n2.293.000đ\nChưa đến hạn\n2.293.000đ\nChưa đến hạn\n2.293.000đ\nChưa đến hạn\nTất toán\nThanh toán"
+  }
+}

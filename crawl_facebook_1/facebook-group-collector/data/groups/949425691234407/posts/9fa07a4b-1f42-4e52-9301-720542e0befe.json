@@ -1,0 +1,29 @@
+{
+  "id": "9fa07a4b-1f42-4e52-9301-720542e0befe",
+  "facebook_post_id": "1764615374558195",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "55294528-f1dd-4f4a-b29f-2664b7c6b147",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1764615374558195&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-24T00:00:00+00:00",
+  "created_at": "2026-09-29T10:15:20.010689+00:00",
+  "updated_at": "2026-09-29T10:15:20.010689+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "93b3c87e-72d8-4868-b1ac-ba5e357f2c10"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "phone_number": "0385680428",
+    "total_debt": "13.189.000vnđ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "12:06 €\n<\n466\nSMS\nYÊU CẦU Ô +84 38 5680428 )\nđúng 10H ngày 27/07/2026 có\nmặt tại Phòng tiếp dân UBND nơi\ncư trú để giải quyết khoản vay.\nKhi đi mang theo CCCD- số tiền\nthanh lý HĐ 13.189.000vnđ (bao\ngồm Gốc, Lãi, Phí Phạt ).Nếu cố\ntình trốn tránh chúng tôi sẽ xử lý\ntheo đúng cam kết vi phạm HĐ.\nTrân trọng!\n90"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "6608e072-50bf-4574-8362-44e92eeea19b",
+  "facebook_post_id": "991817650302220",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "edb1b16a-2359-4032-9677-f3c659fe9565",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=991817650302220&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-06-30T00:00:00+00:00",
+  "created_at": "2026-09-29T15:23:35.603066+00:00",
+  "updated_at": "2026-09-29T15:23:35.603066+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "579d4153-aa44-44c0-89ed-8faafd960956"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "score": 444,
+    "tier": 9,
+    "scoring_date": "29/05/2026",
+    "provider": "MoMo / CIC",
+    "raw_text": "15:04\n80\nKiểm tra Điểm tín dụng CIC\nCiCB\nCreditinFo\n444\nHạng 9 O\nNgày chấm: 29/05/2026\nCao hơn 1% khách hàng cá nhân khác\nChia sẻ →\nXem biến động tài chính\nĐược chấm bởi CIC và hiển thị trên MoMo\nBiến động Điểm CIC\n3 kỳ\n6 kỳ\n12 kỳ\n(Điểm)\n444\n800\n600\n400\n200\n0\n5/2026\nĐể xem các thông tin bị khóa (8), bạn cần thực hiện đồng bộ\ndữ liệu tín dụng từ CIC sang MoMo.\nĐồng bộ dữ liệu CIC"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cefe1ead-bc59-437a-98e0-bdeac7260745",
+  "facebook_post_id": "1077666051743703",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "82b42ff1-3d50-4769-bf79-32aa36fee3f0",
+  "author_display_name": "Vũ Carlos",
+  "author_profile_url": "https://www.facebook.com/groups/949425691234407/user/100068319168832",
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/groups/949425691234407/permalink/1077666051743703",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-29T09:58:14.963486+00:00",
+  "updated_at": "2026-09-29T09:58:32.154721+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "1d703af9-3b76-4c27-b81f-9e1618eed064",
+    "8ad72ff5-9bf4-41f2-99a5-d22040820813"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "40,000,000 VND",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "14:12\n< Đăng ký khoản vay\nThông tin vay\n1/3\nSố tiền đề nghị vay\n40,000,000 VND\n25tr\n30tr\n35tr\n40tr\nThời hạn vay\n21 tháng\n24 tháng\nSố tiền trả hàng tháng\n(tạm tính)\nNgày trả nợ gần nhất\n(dự kiến)\n2,837,000 VND\n03/09/2026\nTài khoản thụ hưởng\nNguồn thu nợ, phí\nChọn tối đa 3 tài khoản thanh toán\nTài khoản thanh toán (2)"
+  }
+}

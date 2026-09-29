@@ -1,0 +1,27 @@
+{
+  "id": "fcdaaba7-4797-48fc-88ab-4c63b8079c0a",
+  "facebook_post_id": "1579847443483379",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "73d52d44-f20b-4893-ad1e-ce71c060b36b",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1579847443483379&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-08T00:00:00+00:00",
+  "created_at": "2026-09-29T10:55:02.523861+00:00",
+  "updated_at": "2026-09-29T10:55:02.523861+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "20dbc3f9-01de-48d6-8699-0f52950ecca0"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "HD Saison",
+    "raw_text": "2.2. Thông tin lịch sử nợ cần chú ý và nợ xấu\nSTT\n2\n3\n4\n5\nTên tổ chức/ chi nhánh TCTD\nCông ty Tài chính TNHH Ngân hàng Việt Nam Thịnh\nVượng SMBC\nCông ty Tài chính TNHH MTV Mirae Asset Việt\nNam\nCông ty Tài chính TNHH HD SAISON\nCông ty Tài chính TNHH MTV Shinhan Việt Nam\nNgân hàng TMCP Quốc tế Việt Nam\nNgày phát sinh nợ\ncần chú ý gần nhất\n31/03/2025\nNgày phát sinh nọ\nxâu gân nhất\n27/01/2026\n31/01/2023\n31/01/2026\n31/01/2026\n28/03/2023"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e08d916b-cac8-40de-98fe-dfa92107ff85",
+  "facebook_post_id": "1982393322457011",
+  "group_id": "949425691234407",
+  "group_slug": "949425691234407",
+  "author_id": "6217631f-4b87-489c-ae30-e6f6c135e46c",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=1982393322457011&set=g.949425691234407",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-24T00:00:00+00:00",
+  "created_at": "2026-09-29T10:14:29.238865+00:00",
+  "updated_at": "2026-09-29T10:14:29.238865+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "593b4acf-5c40-4221-9eab-8df054336efa"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "2.700.000 đ",
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "Thông tin khoản vay\nSố tiền đã giải ngân\n2.700.000 đ\nThời hạn vay\n15 ngày\nNgày giải ngân\n23/07/2026\nNgày đến hạn thanh toán\n06/08/2026\nSố tiền cần thanh toán\n3.600.000 đ\nThanh toán ngay\nNhắc lịch thanh toán\nVui lòng thanh toán trước ngày đến hạn đề tránh phát sinh phí\ntrễ hạn và ảnh hưởng đến lịch sử tín dụng của bạn."
+  }
+}
