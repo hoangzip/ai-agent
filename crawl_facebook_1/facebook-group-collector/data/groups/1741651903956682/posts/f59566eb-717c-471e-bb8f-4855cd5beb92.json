@@ -1,0 +1,27 @@
+{
+  "id": "f59566eb-717c-471e-bb8f-4855cd5beb92",
+  "facebook_post_id": "1750331443088728",
+  "group_id": "1741651903956682",
+  "group_slug": "1741651903956682",
+  "author_id": "01882ded-f023-4d6e-9bec-d0d6c3db582c",
+  "author_display_name": "Anna Nguyen",
+  "author_profile_url": "https://www.facebook.com/groups/1741651903956682/user/100008054864478",
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/groups/1741651903956682/posts/1750331443088728",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-07-06T00:00:00+00:00",
+  "created_at": "2026-09-29T02:04:53.643366+00:00",
+  "updated_at": "2026-09-29T02:04:53.643366+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "806aaafb-9f7a-4180-af6b-63016449e308"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "280.000.000 VND",
+    "provider": "VPBank",
+    "raw_text": "<\nVPBank\nVPBank\nLựa chọn hợp đồng cần xác nhận\nXin lựa chọn loại hợp đồng cán xác nhận:\nHợp đồng Vay tin chấp\nLoại hợp đồng: Vay tín chấp\n1 Hạn mức: 280.000.000 VND\n- Thời hạn: 48 tháng\nCHON\nHợp đồng Vay tin chấp\nLoại hợp đồng: Vay tin chấp\nHạn mức: 220.000.000 VND\n- Thời hạn: 48 tháng\nCHỌN\nVPBank\nNgân hàng TMCP Việt Nam Thịnh Vượng\n89 Láng Hạ, Quận Đông Đa, TP Hà Nội\n© 2023 VPBank - Bản quyền được báo hộ. Chính sách bảo một"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d7fdc22c-6cf0-4bd5-a6c1-212fc66b8bc1",
+  "facebook_post_id": "1748831773238695",
+  "group_id": "1741651903956682",
+  "group_slug": "1741651903956682",
+  "author_id": "01882ded-f023-4d6e-9bec-d0d6c3db582c",
+  "author_display_name": "Anna Nguyen",
+  "author_profile_url": "https://www.facebook.com/groups/1741651903956682/user/100008054864478",
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/groups/1741651903956682/permalink/1748831773238695",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-29T02:05:20.186366+00:00",
+  "updated_at": "2026-09-29T02:05:20.186366+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "6ed0a778-32c4-4ac5-84f7-ff7f14026e89"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "400.000.000 VND",
+    "provider": "VPBank",
+    "raw_text": "VPBank\nLựa chọn hợp đồng cần xác nhận\nXin lựa chọn loại hợp đồng cần xác nhận:\nHợp đồng Vay tin chấp\nLoại hợp đồng: Vay tin chấp\nHạn mức: 400.000.000 VND\nThời hạn: 60 tháng\nCHỌN"
+  }
+}

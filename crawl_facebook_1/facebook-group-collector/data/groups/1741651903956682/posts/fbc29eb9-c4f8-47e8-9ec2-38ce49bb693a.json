@@ -1,0 +1,27 @@
+{
+  "id": "fbc29eb9-c4f8-47e8-9ec2-38ce49bb693a",
+  "facebook_post_id": "4623606524584464",
+  "group_id": "1741651903956682",
+  "group_slug": "1741651903956682",
+  "author_id": "eb2dba41-c8fe-4904-ac77-4862000a7e56",
+  "author_display_name": "Anna Nguyen",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=4623606524584464&set=g.1741651903956682",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-08-10T00:00:00+00:00",
+  "created_at": "2026-09-28T22:38:21.496165+00:00",
+  "updated_at": "2026-09-28T22:38:21.496165+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "f2339bf7-dd2b-4736-80da-a9169eae9573"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "has_bad_debt": true,
+    "provider": "CIC",
+    "raw_text": "I. THÔNG TIN CHUNG VẼ KHÁCH HÀNG\nTên khách hàng\nMã số CIC\nĐịa chỉ\nSỐ CCCD\nGiấy tờ cá nhân khác\nII. THÔNG TIN TỔNG HỢP DỰ MỢ HIỆN THỜI\nTổng dư nợ\n457\nDư nợ cân chú ý\nKhong\nDư nợ xâu\nKhông\nTrong đó: nợ nhóm 5, nợ tại\nVAMC, nợ xấu khác\nKhông\nsố lượng TCTD/CN TCTD\nđang quan hệ\nSố lượng TCTD/CN TCTD\nđang có nợ cần chú ý\nSố lượng TCTD/CN TCTD\nđang có nợ xấu\nĐơn vị tính: triệu đông\n10\n0\n0"
+  }
+}

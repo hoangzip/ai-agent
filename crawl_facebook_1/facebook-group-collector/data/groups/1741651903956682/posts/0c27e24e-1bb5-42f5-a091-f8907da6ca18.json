@@ -1,0 +1,27 @@
+{
+  "id": "0c27e24e-1bb5-42f5-a091-f8907da6ca18",
+  "facebook_post_id": "4650985381846578",
+  "group_id": "1741651903956682",
+  "group_slug": "1741651903956682",
+  "author_id": "4e42618c-811c-43fc-bdb5-df7bdf97167a",
+  "author_display_name": "Anna Nguyen",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=4650985381846578&set=g.1741651903956682",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-09-06T00:00:00+00:00",
+  "created_at": "2026-09-28T22:27:03.468713+00:00",
+  "updated_at": "2026-09-28T22:27:03.468713+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "9b945fa4-6ae8-44c3-963e-53e994967f86"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "40.000.000đ",
+    "provider": "CIC",
+    "raw_text": "4:23 4\nMil 5G\nQuản lý khoản vay\nĐang vay\nX\nLịch sử\nĐã phê duyệt\n40.000.000đ - 24 tháng\n15:50 - 30/07/2026\nQuản lý khoản vay\nThống báo\nTài khoản"
+  }
+}

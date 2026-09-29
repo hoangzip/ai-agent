@@ -1,0 +1,27 @@
+{
+  "id": "e8928d3b-a39a-44e5-8708-6124b0186cfa",
+  "facebook_post_id": "1774263614028844",
+  "group_id": "1741651903956682",
+  "group_slug": "1741651903956682",
+  "author_id": "01882ded-f023-4d6e-9bec-d0d6c3db582c",
+  "author_display_name": "Anna Nguyen",
+  "author_profile_url": "https://www.facebook.com/groups/1741651903956682/user/100008054864478",
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/groups/1741651903956682/permalink/1774263614028844",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-29T01:52:01.939164+00:00",
+  "updated_at": "2026-09-29T01:52:01.939164+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "ab89e876-036a-4dfe-959a-627c89675294"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "140000000 VND",
+    "provider": "CIC",
+    "raw_text": "Quy khach co so CMND XXXXX0269\nda duoc phe duyet khoan vay tri gia\n140000000 VND, thoi han vay 60\nthang. Vui long lich he Chi nhanh ky\nhop dong de hoan tat thu tuc. Cam on\nQuy Khach\n+\nTin nhắn văn bản - SMS"
+  }
+}

@@ -84,8 +84,11 @@ class BrowserFactory:
         context_kwargs = {
             "user_agent": DEFAULT_USER_AGENT,
             "viewport": DEFAULT_VIEWPORT,
-            "locale": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
+            "locale": "vi-VN",
             "timezone_id": "Asia/Ho_Chi_Minh",
+            "extra_http_headers": {
+                "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
+            },
         }
         if resolved_state:
             context_kwargs["storage_state"] = resolved_state

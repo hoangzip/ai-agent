@@ -1,0 +1,27 @@
+{
+  "id": "431f480d-550d-45d4-a84c-83855cd7cf7e",
+  "facebook_post_id": "1779404686848070",
+  "group_id": "1741651903956682",
+  "group_slug": "1741651903956682",
+  "author_id": "01882ded-f023-4d6e-9bec-d0d6c3db582c",
+  "author_display_name": "Anna Nguyen",
+  "author_profile_url": "https://www.facebook.com/groups/1741651903956682/user/100008054864478",
+  "author_is_anonymous": false,
+  "post_url": "https://www.facebook.com/groups/1741651903956682/permalink/1779404686848070",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-29T01:49:35.034633+00:00",
+  "updated_at": "2026-09-29T01:49:35.034633+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "31e4854d-1b33-4f70-b706-a689aade1507"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "150.000.000 VNĐ",
+    "provider": "CIC",
+    "raw_text": "Quản lý khoản vay thông minh\nChi tiết khoản vay\nChi tiết thanh toán\nSố tiền đến hạn thanh toán\nThanh toán ngay\nVay thêm\nSố hợp đồng\nKhoản vay\n150.000.000 VNĐ\nThời hạn vay\n48 tháng\nNgày thanh toán\nhàng tháng\n5\nLãi suất theo\nhợp đồng vay"
+  }
+}

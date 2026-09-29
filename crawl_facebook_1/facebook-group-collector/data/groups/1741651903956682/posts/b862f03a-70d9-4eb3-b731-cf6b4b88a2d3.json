@@ -1,0 +1,27 @@
+{
+  "id": "b862f03a-70d9-4eb3-b731-cf6b4b88a2d3",
+  "facebook_post_id": "4631258167152633",
+  "group_id": "1741651903956682",
+  "group_slug": "1741651903956682",
+  "author_id": "76ee058a-9478-44bf-9a5c-aed35c568616",
+  "author_display_name": "Anna Nguyen",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=4631258167152633&set=g.1741651903956682",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": "2026-08-17T00:00:00+00:00",
+  "created_at": "2026-09-28T22:32:11.102317+00:00",
+  "updated_at": "2026-09-28T22:32:11.102317+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "84be7be5-e480-4a7e-ad3e-6b758faed483"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "total_debt": "195.000.000 VNĐ",
+    "provider": "CIC",
+    "raw_text": "10:54\n< Chi tiết khoản vay\nQuản lý khoản vay thông minh\nChi tiết khoản vay\nChi tiết thanh toán\nSố tiền đến hạn thanh toán\nThanh toàn ngay\nVay thêm\nSố hợp đồng\nKhoản vay\n195.000.000 VNĐ\nThời hạn vay\n48 tháng\nNgày thanh toán\nhàng tháng\n16\nNgày giải ngân\n15/01/2026\nLãi suất theo\nhợp đồng vay\nNgày kết thúc\nhợp đồng\n16/01/2030"
+  }
+}

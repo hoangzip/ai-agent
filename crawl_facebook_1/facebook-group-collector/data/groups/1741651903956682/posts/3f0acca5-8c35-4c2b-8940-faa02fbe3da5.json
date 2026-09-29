@@ -1,0 +1,28 @@
+{
+  "id": "3f0acca5-8c35-4c2b-8940-faa02fbe3da5",
+  "facebook_post_id": "2102440453990044",
+  "group_id": "1741651903956682",
+  "group_slug": "1741651903956682",
+  "author_id": "ecfc71ef-3917-4862-a5e1-e8080e2b3537",
+  "author_display_name": "Anonymous participant",
+  "author_profile_url": null,
+  "author_is_anonymous": true,
+  "post_url": "https://www.facebook.com/photo/?fbid=2102440453990044&set=g.1741651903956682",
+  "title": "",
+  "title_source": "derived",
+  "content": "",
+  "posted_at": null,
+  "created_at": "2026-09-29T02:08:30.740941+00:00",
+  "updated_at": "2026-09-29T02:08:30.740941+00:00",
+  "crawl_status": "COMPLETED",
+  "media_ids": [
+    "902d8708-a34f-42af-88d0-bef25ed70c43"
+  ],
+  "cic_data": {
+    "is_cic": true,
+    "scoring_date": "11/06/2026",
+    "has_bad_debt": true,
+    "provider": "TNEX",
+    "raw_text": "Tên tổ chức/chi nhánh TCTD\nLoại dư nợ\n1. Công ty Tải chính TNHH Ngân hàng Việt Nam Thịnh Vượng\nSMBC\nNgày bảo cáo dư nợ thẻ gần nhất: 11/06/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n2. Công ty Tài chính TNHH MTV TNEX\nNgày bảo cáo dư nợ vay gần nhất: 17/06/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n3. Công ty Tài chính tổng hợp cổ phần Tín Việt\nNgày bảo cáo dư nợ vay gần nhất: 17/06/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cân chú ý\n- Nợ xấu\n4. Ngân hàng TMCP Tiên Phong\nNgày báo cáo dư nợ vay gần nhất: 31/05/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\n5. Ngân hàng TMCP Việt Nam Thịnh Vượng\nNgày báo cáo dư nợ thẻ gần nhất: 17/06/2026\nTổng nợ\n- Nợ đủ tiêu chuẩn\n- Nợ cần chú ý\n- Nợ xấu\nTổng cộng\nVND\nNợ vay\nĐơn vị tính: triệu đồng, USD\nNợ thẻ\nUSD\nVND\n24\n24\n15\n15\n0\n14\n14\n0\n36\n36\n-\n65\n25"
+  }
+}
