@@ -5,6 +5,7 @@ Export leads matching:
 1. Has CIC score (score is not None and not empty)
 2. Marked as Post or Comment (lead_source)
 3. User real OR has phone number
+4. Deduplicate customers (prioritize most recent scoring_date if duplicated, merge missing contact info)
 
 Exports:
 - data/exports/cic_leads_filtered.csv (UTF-8 with BOM for Excel)
@@ -13,6 +14,7 @@ Exports:
 from __future__ import annotations
 
 import csv
+from datetime import datetime
 import json
 import logging
 from pathlib import Path
@@ -34,7 +36,6 @@ def clean_phone(phone: str | None) -> str:
     p = str(phone).strip()
     if p.lower() in ("none", "null", "undefined", "n/a"):
         return ""
-    # Remove non-digit except leading +
     digits = re.sub(r"[^\d+]", "", p)
     if digits.startswith("+84"):
         digits = "0" + digits[3:]
@@ -43,9 +44,21 @@ def clean_phone(phone: str | None) -> str:
     return digits
 
 
+def parse_date(d_str: str | None) -> datetime:
+    if not d_str or not str(d_str).strip():
+        return datetime.min
+    s = str(d_str).strip()
+    for fmt in ("%d/%m/%Y", "%Y-%m-%d", "%d-%m-%Y", "%d/%m/%y", "%d.%m.%Y"):
+        try:
+            return datetime.strptime(s, fmt)
+        except ValueError:
+            pass
+    return datetime.min
+
+
 def run_export():
     data_dir = Path("data/groups")
-    records = []
+    raw_records = []
     seen_groups = set()
 
     for gdir in sorted(data_dir.iterdir()):
@@ -99,12 +112,10 @@ def run_export():
             purl = l.get("author_profile_url") or actor.get("profile_url") or ""
             name = l.get("author_display_name") or actor.get("display_name") or ""
 
-            # Check if pseudo-actor without UID or URL (FB anon pseudonym)
+            # Filter out anonymous pseudonyms without UID, URL, or phone
             if not is_anon and not uid and not purl and not has_phone:
-                # Pseudonym like 'Oggy4559' with no contact info at all
                 continue
 
-            # Determine classification
             if is_anon:
                 kh_type = "Ẩn danh (Có SĐT)"
             elif uid:
@@ -114,7 +125,6 @@ def run_export():
             else:
                 kh_type = "User thật"
 
-            # Rule 2: Post or Comment
             raw_source = (l.get("lead_source") or "post").lower()
             source_label = "Comment" if "comment" in raw_source else "Post"
 
@@ -126,7 +136,7 @@ def run_export():
             else:
                 bad_debt_str = "Chưa rõ"
 
-            rec = {
+            raw_records.append({
                 "group_slug": gdir.name,
                 "lead_source": source_label,
                 "customer_type": kh_type,
@@ -144,21 +154,85 @@ def run_export():
                 "profile_url": purl,
                 "post_url": l.get("post_url") or "",
                 "image_path": l.get("image_path") or "",
-            }
-            records.append(rec)
+            })
 
-    # Sort records: has phone first, then has UID, then score desc
-    records.sort(key=lambda r: (
+    logger.info("Total raw matching leads before dedup: %d", len(raw_records))
+
+    # --- Deduplication by Customer (UID / Phone / Profile URL) ---
+    parent = {}
+    def find(x):
+        if parent.setdefault(x, x) != x:
+            parent[x] = find(parent[x])
+        return parent[x]
+
+    def union(x, y):
+        px, py = find(x), find(y)
+        if px != py:
+            parent[px] = py
+
+    for idx, r in enumerate(raw_records):
+        item_id = f"item_{idx}"
+        if r["facebook_user_id"]:
+            union(item_id, f"uid_{r['facebook_user_id']}")
+        if r["phone_number"]:
+            union(item_id, f"phone_{r['phone_number']}")
+        if not r["facebook_user_id"] and not r["phone_number"] and r["profile_url"]:
+            union(item_id, f"url_{r['profile_url']}")
+
+    clusters = {}
+    for idx, r in enumerate(raw_records):
+        item_id = f"item_{idx}"
+        root = find(item_id)
+        clusters.setdefault(root, []).append(r)
+
+    deduped_records = []
+    for root, items in clusters.items():
+        if len(items) == 1:
+            deduped_records.append(items[0])
+            continue
+
+        # Sort criteria for selecting best record:
+        # 1. Most recent scoring_date
+        # 2. Has phone number
+        # 3. Has Facebook UID
+        # 4. Total filled fields completeness
+        def sort_key(x):
+            dt = parse_date(x.get("scoring_date"))
+            has_p = 1 if x.get("phone_number") else 0
+            has_u = 1 if x.get("facebook_user_id") else 0
+            completeness = sum(1 for v in x.values() if v)
+            return (dt, has_p, has_u, completeness)
+
+        items_sorted = sorted(items, key=sort_key, reverse=True)
+        best = dict(items_sorted[0])
+
+        # Merge non-empty fields from duplicate records so no data is lost
+        for other in items_sorted[1:]:
+            for k in ["phone_number", "facebook_user_id", "customer_name", "id_card_number", "total_debt", "provider", "profile_url"]:
+                if not best.get(k) and other.get(k):
+                    best[k] = other[k]
+
+        # Update customer_type if phone or UID was merged
+        if best.get("phone_number") and best["customer_type"] == "Ẩn danh (Chưa có SĐT)":
+            best["customer_type"] = "Ẩn danh (Có SĐT)"
+        elif best.get("facebook_user_id") and "UID" not in best["customer_type"]:
+            best["customer_type"] = "User thật (Có UID)"
+
+        deduped_records.append(best)
+
+    # Sort final export: Has Phone first, then Has UID, then score descending
+    deduped_records.sort(key=lambda r: (
         0 if r["phone_number"] else 1,
         0 if r["facebook_user_id"] else 1,
         -(r["score"] if isinstance(r["score"], (int, float)) else 0)
     ))
 
-    logger.info("Total qualified leads exported: %d", len(records))
+    logger.info("Total deduplicated leads: %d (Dropped %d duplicates)",
+                len(deduped_records), len(raw_records) - len(deduped_records))
 
     # Save to JSON
     with open(JSON_FILE, "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
+        json.dump(deduped_records, f, ensure_ascii=False, indent=2)
     logger.info("Saved JSON to %s", JSON_FILE)
 
     # Save to CSV (utf-8-sig for perfect Excel compatibility)
@@ -187,8 +261,7 @@ def run_export():
         writer = csv.writer(f)
         writer.writerow(fieldnames)
 
-        for idx, r in enumerate(records, 1):
-            # Prepend tab or single quote to numeric UID and phone so Excel treats as string
+        for idx, r in enumerate(deduped_records, 1):
             uid_str = f"'{r['facebook_user_id']}" if r["facebook_user_id"] else ""
             phone_str = f"'{r['phone_number']}" if r["phone_number"] else ""
 
@@ -214,7 +287,7 @@ def run_export():
             ])
 
     logger.info("Saved CSV to %s", CSV_FILE)
-    return records
+    return deduped_records
 
 
 if __name__ == "__main__":
