@@ -231,7 +231,8 @@
     "total_debt": "400,000,000 VND",
     "has_bad_debt": null,
     "provider": "VPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61593208342707"
   },
   {
     "lead_source": "post",
@@ -803,7 +804,8 @@
     "total_debt": "750 Triệu",
     "has_bad_debt": null,
     "provider": "VPBank",
-    "is_broker_advertisement": true
+    "is_broker_advertisement": true,
+    "facebook_user_id": "61551202613344"
   },
   {
     "lead_source": "post",
@@ -881,7 +883,8 @@
     "total_debt": "20 triệu",
     "has_bad_debt": null,
     "provider": "Shinhan Finance",
-    "is_broker_advertisement": true
+    "is_broker_advertisement": true,
+    "facebook_user_id": "100011236110819"
   },
   {
     "lead_source": "post",
@@ -907,7 +910,8 @@
     "total_debt": "20 triệu",
     "has_bad_debt": null,
     "provider": "Shinhan Finance",
-    "is_broker_advertisement": true
+    "is_broker_advertisement": true,
+    "facebook_user_id": "100011236110819"
   },
   {
     "lead_source": "post",
@@ -1063,7 +1067,8 @@
     "total_debt": "20 triệu",
     "has_bad_debt": null,
     "provider": "Shinhan Finance",
-    "is_broker_advertisement": true
+    "is_broker_advertisement": true,
+    "facebook_user_id": "100011236110819"
   },
   {
     "lead_source": "post",
@@ -1117,7 +1122,8 @@
     "total_debt": "9 TRIỆU",
     "has_bad_debt": null,
     "provider": "HD Saison",
-    "is_broker_advertisement": true
+    "is_broker_advertisement": true,
+    "facebook_user_id": "100049055652396"
   },
   {
     "lead_source": "post",

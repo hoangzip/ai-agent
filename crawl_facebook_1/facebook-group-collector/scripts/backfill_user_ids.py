@@ -203,7 +203,20 @@ async def main():
     parser.add_argument("--fast-only", action="store_true", help="Only run regex without opening browser")
     args = parser.parse_args()
 
-    groups = ["1793269141356323", "3508387292634958", "1741651903956682"] if args.all else [args.group]
+    all_known_groups = [
+        "kiemtranoxau",
+        "978769317924542",
+        "1178898519573483",
+        "1295572999197093",
+        "580277503401606",
+        "745513060834871",
+        "1793269141356323",
+        "3508387292634958",
+        "1741651903956682",
+        "949425691234407",
+        "4101971396761257",
+    ]
+    groups = all_known_groups if args.all else [args.group]
 
     if args.fast_only:
         for g in groups:

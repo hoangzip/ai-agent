@@ -3050,7 +3050,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61585126280662"
   },
   {
     "lead_source": "post",
@@ -3362,7 +3363,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100052910351300"
   },
   {
     "lead_source": "post",
@@ -3414,7 +3416,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MB Shinsei",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100070101472462"
   },
   {
     "lead_source": "post",
@@ -3544,7 +3547,8 @@
     "total_debt": null,
     "has_bad_debt": false,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100081887533607"
   },
   {
     "lead_source": "post",
@@ -3648,7 +3652,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "MB Shinsei",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100090055122696"
   },
   {
     "lead_source": "post",
@@ -3908,7 +3913,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100048511718410"
   },
   {
     "lead_source": "post",
@@ -4142,7 +4148,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "TPBank",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100090147091133"
   },
   {
     "lead_source": "post",
@@ -4689,7 +4696,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61578199499024"
   },
   {
     "lead_source": "post",
@@ -5391,7 +5399,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "MB Shinsei",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61576866530728"
   },
   {
     "lead_source": "post",
@@ -5417,7 +5426,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61576866530728"
   },
   {
     "lead_source": "post",
@@ -6223,7 +6233,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61590711172643"
   },
   {
     "lead_source": "post",
@@ -6873,7 +6884,8 @@
     "total_debt": "30.000.000 VND",
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100009396029251"
   },
   {
     "lead_source": "post",
@@ -6925,7 +6937,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61591272736850"
   },
   {
     "lead_source": "post",
@@ -7185,7 +7198,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "Mirae Asset",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100039272592800"
   },
   {
     "lead_source": "post",
@@ -7289,7 +7303,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MB Shinsei",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61559035016449"
   },
   {
     "lead_source": "post",
@@ -7367,7 +7382,8 @@
     "total_debt": "15.000.000đ",
     "has_bad_debt": null,
     "provider": "CreditInfo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100090147091133"
   },
   {
     "lead_source": "post",
@@ -7965,7 +7981,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CreditInfo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100080172560297"
   },
   {
     "lead_source": "post",
@@ -8069,7 +8086,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100037720719756"
   },
   {
     "lead_source": "post",
@@ -8381,7 +8399,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CreditInfo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61555719691965"
   },
   {
     "lead_source": "post",
@@ -8511,7 +8530,8 @@
     "total_debt": null,
     "has_bad_debt": false,
     "provider": "Home Credit",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61550755675496"
   },
   {
     "lead_source": "post",
@@ -8667,7 +8687,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100091704733037"
   },
   {
     "lead_source": "post",
@@ -8927,7 +8948,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "Home Credit",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100039608899977"
   },
   {
     "lead_source": "post",
@@ -9187,7 +9209,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100090147091133"
   },
   {
     "lead_source": "post",
@@ -9473,7 +9496,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61590539081365"
   },
   {
     "lead_source": "post",
@@ -10410,7 +10434,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MB Shinsei",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100059965224218"
   },
   {
     "lead_source": "post",
@@ -10488,7 +10513,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CreditInfo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100080188224003"
   },
   {
     "lead_source": "post",
@@ -10878,7 +10904,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MB Shinsei",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100059965224218"
   },
   {
     "lead_source": "post",
@@ -11138,7 +11165,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61590129602728"
   },
   {
     "lead_source": "post",
@@ -11633,7 +11661,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CreditInfo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100084173696135"
   },
   {
     "lead_source": "post",
@@ -12023,7 +12052,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MB Shinsei",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100028376942675"
   },
   {
     "lead_source": "post",
@@ -12283,7 +12313,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100079582904030"
   },
   {
     "lead_source": "post",
@@ -12309,7 +12340,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61568928486589"
   },
   {
     "lead_source": "post",
@@ -12387,7 +12419,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CreditInfo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100090196991279"
   },
   {
     "lead_source": "post",
@@ -13220,7 +13253,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61561946818018"
   },
   {
     "lead_source": "post",
@@ -13298,7 +13332,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61561946818018"
   },
   {
     "lead_source": "post",
@@ -13376,7 +13411,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "Mirae Asset",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100074671953188"
   },
   {
     "lead_source": "post",
@@ -13532,7 +13568,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61565107414209"
   },
   {
     "lead_source": "post",
@@ -13610,7 +13647,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "HD Saison",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100092688974245"
   },
   {
     "lead_source": "post",
@@ -14208,7 +14246,8 @@
     "total_debt": "1,000,000 vnd",
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61579870700535"
   },
   {
     "lead_source": "post",
@@ -14338,7 +14377,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100051903214554"
   },
   {
     "lead_source": "post",
@@ -14546,7 +14586,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61580418031589"
   },
   {
     "lead_source": "post",
@@ -14962,7 +15003,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "HD Saison",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100075018662203"
   },
   {
     "lead_source": "post",
@@ -15118,7 +15160,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100051785235080"
   },
   {
     "lead_source": "post",
@@ -15248,7 +15291,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100088821192972"
   },
   {
     "lead_source": "post",
@@ -15326,7 +15370,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "MoMo / CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100034717998382"
   },
   {
     "lead_source": "post",
@@ -15586,7 +15631,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "100007788424382"
   },
   {
     "lead_source": "post",
@@ -15820,7 +15866,8 @@
     "total_debt": null,
     "has_bad_debt": null,
     "provider": "Home Credit",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61561708744484"
   },
   {
     "lead_source": "post",
@@ -18787,7 +18834,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61554327511445"
   },
   {
     "lead_source": "post",
@@ -20504,7 +20552,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61574682006430"
   },
   {
     "lead_source": "post",
@@ -22197,7 +22246,8 @@
     "total_debt": null,
     "has_bad_debt": true,
     "provider": "CIC",
-    "is_broker_advertisement": false
+    "is_broker_advertisement": false,
+    "facebook_user_id": "61560969082226"
   },
   {
     "lead_source": "post",
