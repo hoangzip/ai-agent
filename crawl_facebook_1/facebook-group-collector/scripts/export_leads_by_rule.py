@@ -2,7 +2,7 @@
 scripts/export_leads_by_rule.py
 
 Export leads matching:
-1. Has CIC score (score is not None and not empty)
+1. Has CIC score OR has Tier (score is not None or tier is not None)
 2. Marked as Post or Comment (lead_source)
 3. User real OR has phone number
 4. Deduplicate customers (prioritize most recent scoring_date if duplicated, merge missing contact info)
@@ -91,8 +91,12 @@ def run_export():
 
         for l in leads:
             score = l.get("score")
-            # Rule 1: Must have CIC score
-            if score is None or str(score).strip() == "":
+            tier = l.get("tier")
+            has_score = bool(score is not None and str(score).strip() != "")
+            has_tier = bool(tier is not None and str(tier).strip() != "")
+
+            # Rule 1: Must have CIC score OR Tier
+            if not (has_score or has_tier):
                 continue
 
             raw_phone = l.get("phone_number")
@@ -125,6 +129,7 @@ def run_export():
             else:
                 kh_type = "User thật"
 
+            # Rule 2: Post or Comment
             raw_source = (l.get("lead_source") or "post").lower()
             source_label = "Comment" if "comment" in raw_source else "Post"
 
@@ -143,8 +148,8 @@ def run_export():
                 "facebook_user_id": uid,
                 "phone_number": phone,
                 "author_display_name": name,
-                "score": score,
-                "tier": l.get("tier") or "",
+                "score": score if has_score else "",
+                "tier": tier if has_tier else "",
                 "has_bad_debt": bad_debt_str,
                 "total_debt": l.get("total_debt") or "",
                 "scoring_date": l.get("scoring_date") or "",
@@ -156,7 +161,7 @@ def run_export():
                 "image_path": l.get("image_path") or "",
             })
 
-    logger.info("Total raw matching leads before dedup: %d", len(raw_records))
+    logger.info("Total raw matching leads (Score OR Tier) before dedup: %d", len(raw_records))
 
     # --- Deduplication by Customer (UID / Phone / Profile URL) ---
     parent = {}
@@ -195,24 +200,25 @@ def run_export():
         # 1. Most recent scoring_date
         # 2. Has phone number
         # 3. Has Facebook UID
-        # 4. Total filled fields completeness
+        # 4. Has score
+        # 5. Total filled fields completeness
         def sort_key(x):
             dt = parse_date(x.get("scoring_date"))
             has_p = 1 if x.get("phone_number") else 0
             has_u = 1 if x.get("facebook_user_id") else 0
+            has_s = 1 if x.get("score") != "" else 0
             completeness = sum(1 for v in x.values() if v)
-            return (dt, has_p, has_u, completeness)
+            return (dt, has_p, has_u, has_s, completeness)
 
         items_sorted = sorted(items, key=sort_key, reverse=True)
         best = dict(items_sorted[0])
 
         # Merge non-empty fields from duplicate records so no data is lost
         for other in items_sorted[1:]:
-            for k in ["phone_number", "facebook_user_id", "customer_name", "id_card_number", "total_debt", "provider", "profile_url"]:
+            for k in ["phone_number", "facebook_user_id", "score", "tier", "customer_name", "id_card_number", "total_debt", "provider", "profile_url"]:
                 if not best.get(k) and other.get(k):
                     best[k] = other[k]
 
-        # Update customer_type if phone or UID was merged
         if best.get("phone_number") and best["customer_type"] == "Ẩn danh (Chưa có SĐT)":
             best["customer_type"] = "Ẩn danh (Có SĐT)"
         elif best.get("facebook_user_id") and "UID" not in best["customer_type"]:
@@ -220,12 +226,16 @@ def run_export():
 
         deduped_records.append(best)
 
-    # Sort final export: Has Phone first, then Has UID, then score descending
-    deduped_records.sort(key=lambda r: (
-        0 if r["phone_number"] else 1,
-        0 if r["facebook_user_id"] else 1,
-        -(r["score"] if isinstance(r["score"], (int, float)) else 0)
-    ))
+    # Sort final export: Has Phone first, then Has UID, then score descending, then date descending
+    def final_sort_key(r):
+        has_phone_flag = 0 if r["phone_number"] else 1
+        has_uid_flag = 0 if r["facebook_user_id"] else 1
+        score_val = -(r["score"]) if isinstance(r["score"], (int, float)) else -0.1 if r["score"] else 0
+        date_val = parse_date(r["scoring_date"])
+        date_int = -(date_val.year * 10000 + date_val.month * 100 + date_val.day)
+        return (has_phone_flag, has_uid_flag, score_val, date_int)
+
+    deduped_records.sort(key=final_sort_key)
 
     logger.info("Total deduplicated leads: %d (Dropped %d duplicates)",
                 len(deduped_records), len(raw_records) - len(deduped_records))
