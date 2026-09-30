@@ -102,8 +102,8 @@ def is_anonymous_user(
     if any(kw in name_lower for kw in anon_keywords):
         return True
 
-    # 2. Check generated animal/adjective pattern like 'StunningDachshund8945', 'ArticulateFrog1260'
-    if name and re.match(r"^[A-Z][a-z]+[A-Z][a-z]+\d+$", name):
+    # 2. Check generated animal/adjective pattern like 'StunningDachshund8945', 'ArticulateFrog1260', 'EnergeticBlueJay123'
+    if name and re.match(r"^[A-Z][a-z]+(?:[A-Z][a-z]+)+\d+$", name):
         return True
 
     # 3. If explicit dummy anonymous profile placeholder
@@ -232,11 +232,19 @@ def parse_timestamp(utime_str: Optional[str], text_str: Optional[str] = None) ->
         return now - timedelta(days=1)
 
     # 5. Date with Vietnamese month or separator: "25 tháng 12, 2025", "25 thg 12 lúc 14:00", "25/12/2025"
-    m = re.search(r"(\d{1,2})\s*(?:tháng|thg|\/|-)\s*(\d{1,2})(?:[,\s]+(?:năm\s*)?(\d{4}))?", t)
+    m = re.search(r"(\d{1,2})\s*(?:tháng|thg|\/|-)\s*(\d{1,2})(?:[,\s]+(?:lúc\s+[\d:]+\s+)?(?:ngày\s+)?(?:năm\s*)?(\d{4}))?", t)
     if m:
         day = int(m.group(1))
         month = int(m.group(2))
-        year = int(m.group(3)) if m.group(3) else now.year
+        if m.group(3):
+            year = int(m.group(3))
+        else:
+            year = now.year
+            try:
+                if datetime(year, month, day, tzinfo=timezone.utc) > now:
+                    year -= 1
+            except ValueError:
+                pass
         try:
             return datetime(year, month, day, tzinfo=timezone.utc)
         except ValueError:
@@ -244,37 +252,47 @@ def parse_timestamp(utime_str: Optional[str], text_str: Optional[str] = None) ->
 
     # 6. Date with English month: "28 July", "28 July at 13:30", "July 28, 2024"
     en_months = {
-        "jan": 1, "january": 1,
-        "feb": 2, "february": 2,
-        "mar": 3, "march": 3,
-        "apr": 4, "april": 4,
-        "may": 5,
-        "jun": 6, "june": 6,
-        "jul": 7, "july": 7,
-        "aug": 8, "august": 8,
-        "sep": 9, "september": 9,
-        "oct": 10, "october": 10,
-        "nov": 11, "november": 11,
-        "dec": 12, "december": 12
+        "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
+        "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
+        "jan": 1, "feb": 2, "mar": 3, "apr": 4, "jun": 6, "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12
     }
-    month_names_re = "|".join(en_months.keys())
-    # Format: "28 July 2024" or "28 July at 13:30" or "28 July"
-    m_en = re.search(rf"(\d{{1,2}})\s+({month_names_re})(?:[,\s]+(\d{{4}}))?", t)
+    month_names_re = "|".join(sorted(en_months.keys(), key=len, reverse=True))
+
+    # Format: "28 July 2024" or "28 July at 13:30" or "Thursday 3 October 2024 at 14:30"
+    m_en = re.search(rf"\b(\d{{1,2}})\s+({month_names_re})\b(?:[,\s]+(?:at\s+[\d:]+\s+)?(?:on\s+)?(?:năm\s+)?(\d{{4}})|[,\s]+(\d{{4}}))?", t)
     if m_en:
         day = int(m_en.group(1))
         month = en_months[m_en.group(2)]
-        year = int(m_en.group(3)) if m_en.group(3) else now.year
+        year_str = m_en.group(3) or m_en.group(4)
+        if year_str:
+            year = int(year_str)
+        else:
+            year = now.year
+            try:
+                if datetime(year, month, day, tzinfo=timezone.utc) > now:
+                    year -= 1
+            except ValueError:
+                pass
         try:
             return datetime(year, month, day, tzinfo=timezone.utc)
         except ValueError:
             pass
 
     # Format: "July 28, 2024" or "July 28"
-    m_en2 = re.search(rf"({month_names_re})\s+(\d{{1,2}})(?:[,\s]+(\d{{4}}))?", t)
+    m_en2 = re.search(rf"\b({month_names_re})\s+(\d{{1,2}})\b(?:[,\s]+(?:at\s+[\d:]+\s+)?(?:on\s+)?(?:năm\s+)?(\d{{4}})|[,\s]+(\d{{4}}))?", t)
     if m_en2:
         month = en_months[m_en2.group(1)]
         day = int(m_en2.group(2))
-        year = int(m_en2.group(3)) if m_en2.group(3) else now.year
+        year_str = m_en2.group(3) or m_en2.group(4)
+        if year_str:
+            year = int(year_str)
+        else:
+            year = now.year
+            try:
+                if datetime(year, month, day, tzinfo=timezone.utc) > now:
+                    year -= 1
+            except ValueError:
+                pass
         try:
             return datetime(year, month, day, tzinfo=timezone.utc)
         except ValueError:
