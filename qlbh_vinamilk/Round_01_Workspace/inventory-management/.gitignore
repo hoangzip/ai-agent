@@ -1,0 +1,29 @@
+# Node & dependencies
+node_modules/
+.npm/
+
+# Build artifacts & output
+dist/
+build/
+.wrangler/
+
+# Environment files & secrets
+.env
+.env.local
+.env.*.local
+.dev.vars
+*.pem
+*.key
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info/
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

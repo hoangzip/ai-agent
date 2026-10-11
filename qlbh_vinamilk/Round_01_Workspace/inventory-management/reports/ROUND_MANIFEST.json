@@ -1,0 +1,40 @@
+{
+  "round": "07/10 - FIX 02 (GOOGLE DRIVE SYNC GATE)",
+  "name": "Google Drive Synchronization Engine (Fix 02)",
+  "version": "0.7.2",
+  "status": "PARTIAL_HOLD_GATE_STOPPED",
+  "acceptance_decision": "PARTIAL - HOLD (Dừng tại Round 07 Fix 02 chờ nghiệm thu, KHÔNG tự ý chuyển Round 08)",
+  "live_integration_status": "BLOCKED_FOR_LIVE (Chưa có Google Service Account credentials; Mock/Simulation hoàn thiện và kiểm thử 100%; Tuyệt đối không giả mạo kết nối LIVE)",
+  "timestamp": "2026-10-12T00:39:00+07:00",
+  "deliverable": {
+    "zip_filename": "Round_07_Google_Drive_Sync.zip",
+    "sha256_filename": "Round_07_Google_Drive_Sync.zip.sha256"
+  },
+  "metrics": {
+    "total_automated_tests": 199,
+    "passed_tests": 199,
+    "failed_tests": 0,
+    "node_tests": 129,
+    "pytest_tests": 70,
+    "typecheck_status": "PASS",
+    "build_status": "PASS",
+    "visual_smoke_test_status": "PASS (Dev server localhost:5173 verified via Chrome CDP & screenshot)"
+  },
+  "fix_02_implemented_items": {
+    "P1_01_fail_closed_webhook": "Fail-closed scheduled webhook: Bắt buộc biến môi trường SYNC_WEBHOOK_SECRET, loại bỏ hoàn toàn mọi fallback sang BOOTSTRAP_TOKEN hoặc secret mặc định hardcode ('vinamilk-cron-secret'). Thêm negative tests kiểm tra thiếu secret (401), sai secret (401), credential fallback bị chặn (401), và origin ngoài không tin cậy (403 FORBIDDEN_ORIGIN). Google Apps Script (Code.gs) đọc secret động từ PropertiesService.getScriptProperties().getProperty('SYNC_WEBHOOK_SECRET'), không lưu secret trong mã nguồn.",
+    "P1_02_atomic_concurrency_lock": "Atomic concurrency lock: Loại bỏ SELECT trước INSERT không ràng buộc. Thiết kế bảng khóa nguyên tử sync_locks với PRIMARY KEY (source_id) và conditional UPDATE để thu hồi stale lease an toàn tương thích Cloudflare D1/SQLite. Tạo file migration local/test 0002_sync_concurrency_lock.sql (chưa chạy trên production D1). Đã kiểm thử tự động 2 request chạy đồng thời thực sự (Promise.all - 1 PASS, 1 từ chối 409), stale lease recovery khi worker chết, và giải phóng lock an toàn trong khối finally khi worker crash.",
+    "P1_03_live_authentication_jwt": "Triển khai cơ chế xác thực Google Service Account hoàn chỉnh bằng Web Crypto native (crypto.subtle RS256 PKCS#8) ký JWT tự động cấp access token ngắn hạn từ Google OAuth2 và auto-refresh khi token còn hạn dưới 5 phút. Nếu chưa cấu hình GDRIVE_SERVICE_ACCOUNT_KEY / GDRIVE_ACCESS_TOKEN, hệ thống duy trì trạng thái BLOCKED_FOR_LIVE minh bạch, không giả mạo kết nối LIVE.",
+    "P2_01_partial_outcome_consistency": "Lưu trữ và thể hiện trạng thái PARTIAL nhất quán xuyên suốt DB, API và UI. Bổ sung trường outcome ('SUCCESS' | 'PARTIAL' | 'FAILED' | 'CONFLICT') trong bảng sync_runs. UI hiển thị rõ huy hiệu 'Một phần (PARTIAL)' khi có file thất bại kèm file thành công/bỏ qua.",
+    "P2_02_pagination_limit_safety": "LiveGoogleDriveDriver kiểm soát ngưỡng an toàn phân trang 20 trang / 2.000 file. Khi đạt trang thứ 20 mà vẫn còn nextPageToken, hệ thống ném ngoại lệ rõ ràng ('Vượt quá giới hạn phân trang an toàn...') thay vì âm thầm cắt bớt dữ liệu coi là đầy đủ.",
+    "P2_03_revision_conflict_injection": "Hỗ trợ Dependency Injection cho phép truyền mock driver vào triggerSync(). Đã bổ sung regression test tiêm driver mô phỏng file trên Google Drive bị sửa đổi revision/checksum, xác minh hệ thống phát hiện chính xác files_conflict = 1, outcome = 'CONFLICT', không âm thầm skip hay ghi đè snapshot lịch sử."
+  },
+  "database_migrations": {
+    "0001_initial_schema": "Bản schema ban đầu (đã áp dụng).",
+    "0002_sync_concurrency_lock": "Migration chuẩn bị cho Fix 02: Bổ sung bảng sync_locks và cột outcome trong sync_runs. CHỈ ÁP DỤNG MÔI TRƯỜNG LOCAL/TEST; KHÔNG CHẠY TRÊN CLOUDFLARE D1 PRODUCTION KHI CHƯA ĐƯỢC PHÊ DUYỆT."
+  },
+  "ground_truth_preservation": {
+    "pair_1_same_day": "339000 -> 339513: Matched 432, Increased 19, Decreased 58, Unchanged 355, New 0, Net Delta +129 SP, +1,736,526 VND",
+    "pair_2_inter_day": "339513 -> 339931: Matched 432, Increased 18, Decreased 42, Unchanged 372, New 2 (02AO18, 9NH277), Out-of-stock 2 (03CA24, 07VQ11), Net Delta +57 SP, +3,235,734 VND",
+    "pair_3_inter_day": "339931 -> 340231: Matched 434, Increased 0, Decreased 28, Unchanged 406, New 0, Out-of-stock 2 (04TT24, 07FC11), Net Delta -175 SP, -1,935,846 VND"
+  }
+}

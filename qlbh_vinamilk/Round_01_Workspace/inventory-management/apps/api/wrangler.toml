@@ -1,0 +1,28 @@
+name = "inventory-management-api"
+main = "src/index.ts"
+compatibility_date = "2024-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+# P1-01: Định kỳ tự động đồng bộ mỗi 60 phút qua Cloudflare Workers Cron Trigger
+[triggers]
+crons = ["0 * * * *"]
+
+[vars]
+# Mặc định production-safe: che giấu toàn bộ chi tiết lỗi nội bộ nếu deploy root
+ENVIRONMENT = "production"
+ROUND = "02"
+APP_TIMEZONE = "Asia/Ho_Chi_Minh"
+GDRIVE_FOLDER_ID = "1HOsA7gWKghPVUcq2JgUhS9xgiccjp4bk"
+
+[env.development.vars]
+ENVIRONMENT = "development"
+ROUND = "02"
+APP_TIMEZONE = "Asia/Ho_Chi_Minh"
+GDRIVE_FOLDER_ID = "1HOsA7gWKghPVUcq2JgUhS9xgiccjp4bk"
+
+# Cloudflare D1 Database binding
+[[d1_databases]]
+binding = "DB"
+database_name = "inventory_management_d1"
+database_id = "local-d1-binding-placeholder"
+migrations_dir = "../../database/migrations"

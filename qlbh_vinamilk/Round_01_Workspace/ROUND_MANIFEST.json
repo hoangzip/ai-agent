@@ -1,0 +1,161 @@
+{
+  "project": "Inventory Management (Vinamilk)",
+  "round": "01/10",
+  "title": "Phân tích Excel & Data Contract",
+  "status": "PASS_INHERITED_FROM_ROUND_04",
+  "gate_status": "PASSED_INHERITED",
+  "timestamp": "2026-10-11T19:48:41+07:00",
+  "acceptance_metadata": {
+    "type": "Retrospective Acceptance – Nghiệm thu kế thừa từ Round 04",
+    "decision": "APPROVED_BY_USER",
+    "approved_at": "2026-10-11T19:48:41+07:00",
+    "rationale": "Toàn bộ các quy cách và yêu cầu Data Contract đề ra tại Round 01 đã được hiện thực hóa đầy đủ trong mã nguồn TypeScript / D1 và được kiểm chứng tự động 100% qua 110 test cases tại Round 04. Người dùng chấp thuận nghiệm thu hồi tố chính thức để đóng Gate Round 01 mà không cần chạy lại hay tạo thêm vòng Fix.",
+    "evidence_distinction": "Nghiệm thu kế thừa dựa trên bằng chứng kiểm thử thực tế từ Round 04 (110/110 PASS trên 4 file Excel thật), phân biệt rõ ràng với biên bản QC độc lập cũ của Round 01; không tạo dữ liệu hoặc kết quả kiểm thử giả mạo."
+  },
+  "roles": {
+    "orchestrator": "AI Orchestrator",
+    "data_engineer": "AI Data Engineer (Realized in Round 04)",
+    "qc_reviewer": "AI QC Reviewer (Inherited pass confirmed)",
+    "qa_tester": "AI QA Tester (110 tests validated in Round 04)"
+  },
+  "data_contract_traceability_matrix": [
+    {
+      "requirement_id": "R01-REQ-01",
+      "requirement_name": "Hợp đồng dữ liệu 15 cột tiêu chuẩn & Cấu trúc sheet 'Kiem-ke'",
+      "round_01_specification": "Tất cả 15 cột từ STT đến ĐVT LẺ, xác thực tiêu đề dòng 1 và dòng 2",
+      "implementation_source": [
+        "packages/shared/src/index.ts (InventoryItemSchema)",
+        "apps/api/src/services/excelParser.ts (validateHeaders, parseInventoryExcel)"
+      ],
+      "verification_test_cases": [
+        "apps/api/tests/inventory.test.js ('PARSER: Đọc và xác thực cấu trúc file thật: ...')",
+        "tests/test_round_04.py ('test_parse_4_real_files')"
+      ],
+      "status": "VERIFIED_100_PERCENT"
+    },
+    {
+      "requirement_id": "R01-REQ-02",
+      "requirement_name": "Bảo toàn số 0 ở đầu mã SKU dạng chuỗi văn bản (Text preservation)",
+      "round_01_specification": "Giữ nguyên định dạng chuỗi text cho mã SKU (vd: '02AA15', '02AO18'), không ép sang Number",
+      "implementation_source": [
+        "apps/api/src/services/excelParser.ts (formatCellString - ép kiểu string thô)",
+        "database/migrations/0001_initial_schema.sql (product_code TEXT NOT NULL)"
+      ],
+      "verification_test_cases": [
+        "apps/api/tests/inventory.test.js ('GET SNAPSHOT DETAILS: Lấy chi tiết 15 cột bảo toàn số 0 đầu mã SKU')",
+        "tests/test_round_04.py ('test_preserve_leading_zero_sku')"
+      ],
+      "status": "VERIFIED_100_PERCENT"
+    },
+    {
+      "requirement_id": "R01-REQ-03",
+      "requirement_name": "Đối soát toán học Dòng 2 tổng hợp với Dòng 3..N",
+      "round_01_specification": "E2 = SUM(SL tồn kho) và H2 = SUM(Thành tiền), chênh lệch toán học phải bằng 0",
+      "implementation_source": [
+        "apps/api/src/services/excelParser.ts (diffQty === 0 && diffAmt === 0 check)"
+      ],
+      "verification_test_cases": [
+        "apps/api/tests/inventory.test.js ('DATA INTEGRITY: Nhập khẩu thành công, xác thực DB count và sums thật từ DB')",
+        "tests/test_round_04.py ('test_row_2_summary_math_diff')"
+      ],
+      "status": "VERIFIED_100_PERCENT"
+    },
+    {
+      "requirement_id": "R01-REQ-04",
+      "requirement_name": "Mô hình định danh Snapshot từ tên file",
+      "round_01_specification": "Trích xuất full_code, store_code, ticket_number, inventory_date từ tên file chuẩn",
+      "implementation_source": [
+        "packages/shared/src/index.ts (parseSnapshotFilename)",
+        "apps/api/src/services/inventoryService.ts (gán metadata snapshot)"
+      ],
+      "verification_test_cases": [
+        "apps/api/tests/inventory.test.js ('MULTI-SNAPSHOT: Nạp Snapshot 2 (339513) trong CÙNG NGÀY 2026-10-09')",
+        "tests/test_round_04.py ('test_snapshot_filename_parsing')"
+      ],
+      "status": "VERIFIED_100_PERCENT"
+    },
+    {
+      "requirement_id": "R01-REQ-05",
+      "requirement_name": "Đa snapshot cùng ngày không bị ghi đè hay cộng dồn",
+      "round_01_specification": "Hai file cùng ngày 09/10/2026 (339000 và 339513) lưu trữ độc lập theo full_code",
+      "implementation_source": [
+        "database/migrations/0001_initial_schema.sql (bảng inventory_files)",
+        "apps/api/src/services/inventoryService.ts (định danh nghiệp vụ theo full_code)"
+      ],
+      "verification_test_cases": [
+        "apps/api/tests/inventory.test.js ('BUSINESS LOGIC (FIX 02): Cùng nguyên buffer nhị phân nhưng khác mã kiểm kê -> Lưu thành 2 record độc lập')",
+        "tests/test_round_04.py ('test_same_day_distinct_snapshots')"
+      ],
+      "status": "VERIFIED_100_PERCENT"
+    },
+    {
+      "requirement_id": "R01-REQ-06",
+      "requirement_name": "Phân biệt SL TỒN KHO với CHÊNH LỆCH kiểm kê nội bộ",
+      "round_01_specification": "SL Tồn kho dùng để so sánh giữa 2 snapshot; Cột 12 CHÊNH LỆCH là nội bộ file",
+      "implementation_source": [
+        "database/migrations/0001_initial_schema.sql (quantity REAL vs discrepancy_formula TEXT)",
+        "apps/api/src/services/excelParser.ts"
+      ],
+      "verification_test_cases": [
+        "tests/test_round_04.py ('test_distinguish_stock_quantity_vs_internal_discrepancy')",
+        "tests/test_round_02.py"
+      ],
+      "status": "VERIFIED_100_PERCENT"
+    },
+    {
+      "requirement_id": "R01-REQ-07",
+      "requirement_name": "Ma trận Idempotency & Xử lý trùng lặp/xung đột",
+      "round_01_specification": "Chống trùng file nhị phân, chống trùng mã, xử lý xung đột nội dung và xóa mềm",
+      "implementation_source": [
+        "apps/api/src/services/inventoryService.ts (ALREADY_IMPORTED, CONFLICT, SNAPSHOT_SOFT_DELETED)"
+      ],
+      "verification_test_cases": [
+        "apps/api/tests/inventory.test.js ('DEDUPLICATION (FIX 02)', 'CONFLICT', 'SOFT DELETE (FIX 02)')"
+      ],
+      "status": "VERIFIED_100_PERCENT"
+    }
+  ],
+  "source_excel_files": [
+    {
+      "filename": "KiemKe_KK.CH41551.26.339000_20261009.xlsx",
+      "size_bytes": 43672,
+      "sha256": "e4c7da094f08ebcfe048d4779711c54cd185c9b5bc790b34c6fd012d3d65d99f",
+      "sku_count": 432,
+      "total_quantity": 16961.0,
+      "total_amount_vnd": 270739477.0
+    },
+    {
+      "filename": "KiemKe_KK.CH41551.26.339513_20261009.xlsx",
+      "size_bytes": 43663,
+      "sha256": "ecab3594af91af10f6a54122dfed58c2925473979232888d1ca91865d8e1bc51",
+      "sku_count": 432,
+      "total_quantity": 17090.0,
+      "total_amount_vnd": 272476003.0
+    },
+    {
+      "filename": "KiemKe_KK.CH41551.26.339931_20261010.xlsx",
+      "size_bytes": 43822,
+      "sha256": "a1f97fbadf0f121a5fa2b7ad399d50cb6cf9751caa7d4f7d3cbb690ae4f92259",
+      "sku_count": 434,
+      "total_quantity": 17147.0,
+      "total_amount_vnd": 275711737.0
+    },
+    {
+      "filename": "KiemKe_KK.CH41551.26.340231_20261011.xlsx",
+      "size_bytes": 43822,
+      "sha256": "1fdba7e9caacbded77ff196977f57251692fee8ec2ab5ff281a3e58dc8facd7d",
+      "sku_count": 434,
+      "total_quantity": 16972.0,
+      "total_amount_vnd": 273775891.0
+    }
+  ],
+  "overall_project_status": {
+    "round_01": "PASS (Inherited from Round 04)",
+    "round_02": "PASS",
+    "round_03": "PASS (MVP)",
+    "round_04": "PASS (MVP)",
+    "round_05": "PASS (MVP) – Gate Closed",
+    "round_06": "PASS (MVP) – Gate Closed",
+    "round_07": "KICKOFF (Google Drive Auto-Sync Engine)"
+  }
+}

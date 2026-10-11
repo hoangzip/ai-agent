@@ -1,0 +1,22 @@
+{
+  "name": "inventory-management",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "build:shared": "npm --workspace=@inventory/shared run build",
+    "build:api": "npm --workspace=@inventory/api run build",
+    "build:web": "npm --workspace=@inventory/web run build",
+    "build": "npm run build:shared && npm run build:api && npm run build:web",
+    "dev": "node scripts/start-dev.mjs",
+    "test:node": "node --test apps/api/tests/*.test.js",
+    "test:pytest": "python3 -m pytest tests/",
+    "test": "npm run test:node && npm run test:pytest"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
